@@ -1,0 +1,54 @@
+{
+  "beats": [
+    {
+      "name": "hook",
+      "word_idx": 0,
+      "start": 0.0,
+      "end": 9.8,
+      "duration": 9.8
+    },
+    {
+      "name": "history",
+      "word_idx": 24,
+      "start": 9.8,
+      "end": 22.12,
+      "duration": 12.32
+    },
+    {
+      "name": "accumulation",
+      "word_idx": 57,
+      "start": 22.12,
+      "end": 37.38,
+      "duration": 15.26
+    },
+    {
+      "name": "different",
+      "word_idx": 96,
+      "start": 37.38,
+      "end": 53.64,
+      "duration": 16.26
+    },
+    {
+      "name": "burden",
+      "word_idx": 141,
+      "start": 53.64,
+      "end": 73.1,
+      "duration": 19.46
+    },
+    {
+      "name": "alone",
+      "word_idx": 196,
+      "start": 73.1,
+      "end": 89.36,
+      "duration": 16.26
+    },
+    {
+      "name": "landing",
+      "word_idx": 242,
+      "start": 89.36,
+      "end": 108.9,
+      "duration": 19.54
+    }
+  ],
+  "total_duration": 108.9
+}

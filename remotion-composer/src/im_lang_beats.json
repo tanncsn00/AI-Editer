@@ -1,0 +1,54 @@
+{
+  "beats": [
+    {
+      "name": "hook",
+      "word_idx": 0,
+      "start": 0.0,
+      "end": 17.78,
+      "duration": 17.78
+    },
+    {
+      "name": "first_rule",
+      "word_idx": 51,
+      "start": 17.78,
+      "end": 37.16,
+      "duration": 19.38
+    },
+    {
+      "name": "ugliness",
+      "word_idx": 104,
+      "start": 37.16,
+      "end": 56.98,
+      "duration": 19.82
+    },
+    {
+      "name": "names",
+      "word_idx": 160,
+      "start": 56.98,
+      "end": 75.88,
+      "duration": 18.9
+    },
+    {
+      "name": "discipline",
+      "word_idx": 213,
+      "start": 75.88,
+      "end": 97.52,
+      "duration": 21.64
+    },
+    {
+      "name": "two_faces",
+      "word_idx": 268,
+      "start": 97.52,
+      "end": 117.24,
+      "duration": 19.72
+    },
+    {
+      "name": "landing",
+      "word_idx": 320,
+      "start": 117.24,
+      "end": 141.86,
+      "duration": 24.62
+    }
+  ],
+  "total_duration": 141.86
+}

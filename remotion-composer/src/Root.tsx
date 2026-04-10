@@ -6,6 +6,15 @@ import {
 } from "./CinematicRenderer";
 import { signalFromTomorrowWithMusicFixture } from "./cinematic/fixtures";
 import { TalkingHead, TalkingHeadProps } from "./TalkingHead";
+import { BayCuuHook } from "./BayCuuHook";
+import { BayCuuFull } from "./BayCuuFull";
+import { BayCuuThumbnail } from "./BayCuuThumbnail";
+import { DanOngFull } from "./DanOngFull";
+import { DanOngThumbnail } from "./DanOngThumbnail";
+import { GiaTocFull } from "./GiaTocFull";
+import { GiaTocThumbnail } from "./GiaTocThumbnail";
+import { ImLangFull } from "./ImLangFull";
+import { ImLangThumbnail } from "./ImLangThumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -76,6 +85,78 @@ export const Root: React.FC = () => {
           audio: {},
         }}
         calculateMetadata={calculateMetadata}
+      />
+      <Composition
+        id="ImLangFull"
+        component={ImLangFull}
+        durationInFrames={4410}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ImLangThumbnail"
+        component={ImLangThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GiaTocFull"
+        component={GiaTocFull}
+        durationInFrames={3420}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GiaTocThumbnail"
+        component={GiaTocThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DanOngFull"
+        component={DanOngFull}
+        durationInFrames={3510}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DanOngThumbnail"
+        component={DanOngThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BayCuuThumbnail"
+        component={BayCuuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BayCuuFull"
+        component={BayCuuFull}
+        durationInFrames={3210}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BayCuuHook"
+        component={BayCuuHook}
+        durationInFrames={240}
+        fps={30}
+        width={1080}
+        height={1920}
       />
       <Composition
         id="TalkingHead"

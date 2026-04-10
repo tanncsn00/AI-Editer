@@ -36,6 +36,7 @@ import { SectionTitle } from "./components/SectionTitle";
 import { StatReveal } from "./components/StatReveal";
 import { HeroTitle } from "./components/HeroTitle";
 import { AnimeScene } from "./components/AnimeScene";
+import { WordRevealCard } from "./components/WordRevealCard";
 import type { CameraMotion } from "./components/AnimeScene";
 import type { ParticleType } from "./components/ParticleOverlay";
 
@@ -467,6 +468,16 @@ const SceneRenderer: React.FC<{ cut: Cut }> = ({ cut }) => {
   if (cut.type === "typewriter" && cut.text) {
     return maybeWrapWithBgImage(
       <TypewriterCard
+        text={cut.text}
+        fontSize={cut.fontSize}
+        color={cut.color}
+        backgroundColor={cut.backgroundImage ? "transparent" : cut.backgroundColor}
+      />
+    );
+  }
+  if (cut.type === "word_reveal" && cut.text) {
+    return maybeWrapWithBgImage(
+      <WordRevealCard
         text={cut.text}
         fontSize={cut.fontSize}
         color={cut.color}

@@ -1,0 +1,61 @@
+{
+  "beats": [
+    {
+      "name": "hook",
+      "word_idx": 0,
+      "start": 0.0,
+      "end_word_idx": 26,
+      "end": 8.22,
+      "duration": 8.22
+    },
+    {
+      "name": "childhood",
+      "word_idx": 27,
+      "start": 8.22,
+      "end_word_idx": 71,
+      "end": 23.34,
+      "duration": 15.12
+    },
+    {
+      "name": "becoming",
+      "word_idx": 72,
+      "start": 23.34,
+      "end_word_idx": 119,
+      "end": 38.26,
+      "duration": 14.92
+    },
+    {
+      "name": "weights",
+      "word_idx": 120,
+      "start": 38.26,
+      "end_word_idx": 181,
+      "end": 58.56,
+      "duration": 20.3
+    },
+    {
+      "name": "hidden",
+      "word_idx": 182,
+      "start": 58.56,
+      "end_word_idx": 259,
+      "end": 82.34,
+      "duration": 23.78
+    },
+    {
+      "name": "recognition",
+      "word_idx": 260,
+      "start": 82.34,
+      "end_word_idx": 304,
+      "end": 96.54,
+      "duration": 14.2
+    },
+    {
+      "name": "landing",
+      "word_idx": 305,
+      "start": 96.54,
+      "end_word_idx": 358,
+      "end": 112.32,
+      "duration": 15.78
+    }
+  ],
+  "total_duration": 112.32
+}

@@ -1,0 +1,61 @@
+{
+  "beats": [
+    {
+      "name": "hook",
+      "word_idx": 0,
+      "start": 0.0,
+      "end": 6.06,
+      "duration": 6.06
+    },
+    {
+      "name": "morning",
+      "word_idx": 16,
+      "start": 6.06,
+      "end": 16.54,
+      "duration": 10.48
+    },
+    {
+      "name": "herd",
+      "word_idx": 45,
+      "start": 16.54,
+      "end": 30.24,
+      "duration": 13.7
+    },
+    {
+      "name": "mirror",
+      "word_idx": 85,
+      "start": 30.24,
+      "end": 42.08,
+      "duration": 11.84
+    },
+    {
+      "name": "trap",
+      "word_idx": 122,
+      "start": 42.08,
+      "end": 59.84,
+      "duration": 17.76
+    },
+    {
+      "name": "weight",
+      "word_idx": 176,
+      "start": 59.84,
+      "end": 76.92,
+      "duration": 17.08
+    },
+    {
+      "name": "turn",
+      "word_idx": 228,
+      "start": 76.92,
+      "end": 93.84,
+      "duration": 16.92
+    },
+    {
+      "name": "landing",
+      "word_idx": 280,
+      "start": 93.84,
+      "end": 102.78,
+      "duration": 8.94
+    }
+  ],
+  "total_duration": 102.78
+}
