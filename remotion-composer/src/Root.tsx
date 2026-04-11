@@ -15,6 +15,29 @@ import { GiaTocFull } from "./GiaTocFull";
 import { GiaTocThumbnail } from "./GiaTocThumbnail";
 import { ImLangFull } from "./ImLangFull";
 import { ImLangThumbnail } from "./ImLangThumbnail";
+import { AffProductTemplate, affProductDemoFixture } from "./AffProductTemplate";
+import { TuDuyMoTap01 } from "./TuDuyMoTap01";
+import { TuDuyMoStick } from "./TuDuyMoStick";
+import { TuDuyMoSigma } from "./TuDuyMoSigma";
+import { SigmaWalkDemo } from "./SigmaWalkDemo";
+import { HaiNhamPilot } from "./HaiNhamPilot";
+import { CoupleCharSheet } from "./CoupleChars";
+import { CauHoiTuThan } from "./CauHoiTuThan";
+import { StickThemeA, StickThemeB, StickThemeC } from "./StickThemes";
+import { FigStyleHooded, FigStyleNoodle, FigStyleReader, FigStyleHero, FigStyleHeroFace, FigStyleDerp, FigStyleDerpFace, FigStyleSigma, FigStyleSigmaFace } from "./FigureStyles";
+import { XhsFarmer } from "./XhsFarmer";
+import { ReupDemo } from "./ReupDemo";
+import { CoDocFull } from "./CoDocFull";
+import { ReupTT01 } from "./ReupTT01";
+import { ReupTT01Thumbnail } from "./ReupTT01Thumbnail";
+import { HonThuaTapTrung } from "./HonThuaTapTrung";
+import { GiaiThichLuoiCharSheet, GiaiThichLuoiPropCompare, GiaiThichLuoiEnsemble } from "./GiaiThichLuoiChars";
+import { GtlTap01 } from "./GtlTap01";
+import { GtlTap01Thumbnail } from "./GtlTap01Thumbnail";
+import { GtlTap02 } from "./GtlTap02";
+import { GtlTap02Thumbnail } from "./GtlTap02Thumbnail";
+import { BlueprintScenePrototype } from "./BlueprintScenePrototype";
+import { QuyTacFull } from "./QuyTacFull";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -87,6 +110,179 @@ export const Root: React.FC = () => {
         calculateMetadata={calculateMetadata}
       />
       <Composition
+        id="AffProductTemplate"
+        component={AffProductTemplate}
+        durationInFrames={30 * 30}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={affProductDemoFixture}
+      />
+      <Composition
+        id="TuDuyMoTap01"
+        component={TuDuyMoTap01}
+        durationInFrames={960}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TuDuyMoStick"
+        component={TuDuyMoStick}
+        durationInFrames={960}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TuDuyMoSigma"
+        component={TuDuyMoSigma}
+        durationInFrames={960}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SigmaWalkDemo"
+        component={SigmaWalkDemo}
+        durationInFrames={180}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HaiNhamPilot"
+        component={HaiNhamPilot}
+        durationInFrames={780}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CoupleCharSheet"
+        component={CoupleCharSheet}
+        durationInFrames={90}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CauHoiTuThan"
+        component={CauHoiTuThan}
+        durationInFrames={900}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition id="StickThemeA" component={StickThemeA} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="StickThemeB" component={StickThemeB} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="StickThemeC" component={StickThemeC} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleHooded" component={FigStyleHooded} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleNoodle" component={FigStyleNoodle} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleReader" component={FigStyleReader} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleHero" component={FigStyleHero} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleHeroFace" component={FigStyleHeroFace} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleDerp" component={FigStyleDerp} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleDerpFace" component={FigStyleDerpFace} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleSigma" component={FigStyleSigma} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="FigStyleSigmaFace" component={FigStyleSigmaFace} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition
+        id="CoDocFull"
+        component={CoDocFull}
+        durationInFrames={4380}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ReupTT01"
+        component={ReupTT01}
+        durationInFrames={1035}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ReupTT01Thumbnail"
+        component={ReupTT01Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HonThuaTapTrung"
+        component={HonThuaTapTrung}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GiaiThichLuoiCharSheet"
+        component={GiaiThichLuoiCharSheet}
+        durationInFrames={90}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GiaiThichLuoiPropCompare"
+        component={GiaiThichLuoiPropCompare}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GiaiThichLuoiEnsemble"
+        component={GiaiThichLuoiEnsemble}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GtlTap01"
+        component={GtlTap01}
+        durationInFrames={4050}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GtlTap01Thumbnail"
+        component={GtlTap01Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GtlTap02"
+        component={GtlTap02}
+        durationInFrames={1980}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GtlTap02Thumbnail"
+        component={GtlTap02Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BlueprintScenePrototype"
+        component={BlueprintScenePrototype}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
         id="ImLangFull"
         component={ImLangFull}
         durationInFrames={4410}
@@ -98,6 +294,14 @@ export const Root: React.FC = () => {
         id="ImLangThumbnail"
         component={ImLangThumbnail}
         durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="QuyTacFull"
+        component={QuyTacFull}
+        durationInFrames={4416}
         fps={30}
         width={1080}
         height={1920}
@@ -154,6 +358,22 @@ export const Root: React.FC = () => {
         id="BayCuuHook"
         component={BayCuuHook}
         durationInFrames={240}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="XhsFarmer"
+        component={XhsFarmer}
+        durationInFrames={307}
+        fps={30}
+        width={720}
+        height={1280}
+      />
+      <Composition
+        id="ReupDemo"
+        component={ReupDemo}
+        durationInFrames={316}
         fps={30}
         width={1080}
         height={1920}

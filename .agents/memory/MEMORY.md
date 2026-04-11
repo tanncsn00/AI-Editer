@@ -1,0 +1,16 @@
+- [Always get script approval](feedback_always_approve_script.md) — never skip brainstorming/script flow when making videos
+- [Verify whisper VN captions vs script](feedback_whisper_vn_caption_verify.md) — faster-whisper mis-transcribes Vietnamese; always diff against script and fix before rendering
+- [Tịnh Đạo video skill](reference_tinh_dao_skill.md) — preset workflow at .agents/skills/tinh-dao-video for VN philosophical TikTok videos
+- [Background continuity rule](feedback_bg_continuity.md) — all footage clips in a video must share same environment/mood, not random mix
+- [No "Tập X" label](feedback_no_tap_label.md) — never show episode index in thumbnails or big-word outro
+- [yt-dlp social download](reference_yt_dlp_social_download.md) — pip library for TikTok/FB/YT no-watermark download, no wrapper tool needed
+- [Comedy animation 8-step workflow](feedback_comedy_animation_workflow.md) — comedy videos follow same gated flow as Tịnh Đạo: character lock → brainstorm → beat sheet → script → voice → storyboard → TTS → render
+- [Comedy animation skill](reference_comedy_animation_skill.md) — preset at .agents/skills/comedy-animation, Em Mít Ướt × Anh Gạch + Sigma/Derp characters built-in
+- [Reup comedy dub skill](reference_reup_comedy_dub_skill.md) — preset at .agents/skills/reup-comedy-dub for Douyin/TikTok reup with VN voice + karaoke, 2 modes (faithful / commentary)
+- [TTS VN short syllables](feedback_tts_short_vn_syllables.md) — EverAI drops tone marks on isolated short VN syllables ("ý", "ờ"); rewrite to multi-syllable equivalents + verify via whisper post-TTS
+- [Reup cartoon dub skill](reference_reup_cartoon_dub_skill.md) — preset at .agents/skills/reup-cartoon-dub for reup with SVG cartoon visual replacement + designed thumbnail (not frame extract)
+- [Stick figure creative skill](reference_stick_figure_creative_skill.md) — catalog of 34 techniques + viral format ranking for cartoon/stick figure content
+- [Giải Thích Kiểu Lười series skill](reference_giai_thich_luoi_series_skill.md) — 4-character deadpan explainer cast (Thuốc Lá / Nón Cối / Cục Gạch / Bát Phở) with locked bible + topic matrix
+- [Stick figures must animate](feedback_stick_figures_must_animate.md) — cartoon characters MUST have mouth sync + eye blink + body bob when speaking, never static
+- [Video deliverables checklist](feedback_video_deliverables_checklist.md) — MANDATORY mp4 + designed thumbnail (NOT frame extract) + caption.md for every video task; verify before reporting done
+- [Mouth sync word timings](feedback_mouth_sync_word_timings.md) — mouth animation MUST use word_timings.json (parabolic per-word), never independent phase sine; chars need action per beat not just idle bob

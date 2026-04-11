@@ -1,0 +1,74 @@
+{
+  "beats": [
+    {
+      "name": "hook",
+      "word_idx": 0,
+      "start": 0.0,
+      "end": 11.56,
+      "duration": 11.56
+    },
+    {
+      "name": "rule_1_explain",
+      "word_idx": 32,
+      "start": 12.74,
+      "end": 27.76,
+      "duration": 15.02
+    },
+    {
+      "name": "rule_2_praise",
+      "word_idx": 73,
+      "start": 28.78,
+      "end": 41.3,
+      "duration": 12.52
+    },
+    {
+      "name": "rule_3_kindness",
+      "word_idx": 109,
+      "start": 42.36,
+      "end": 55.84,
+      "duration": 13.48
+    },
+    {
+      "name": "rule_4_real",
+      "word_idx": 146,
+      "start": 56.84,
+      "end": 69.04,
+      "duration": 12.2
+    },
+    {
+      "name": "rule_5_silence",
+      "word_idx": 180,
+      "start": 70.28,
+      "end": 85.22,
+      "duration": 14.94
+    },
+    {
+      "name": "rule_6_need",
+      "word_idx": 221,
+      "start": 86.42,
+      "end": 98.02,
+      "duration": 11.6
+    },
+    {
+      "name": "rule_7_plans",
+      "word_idx": 256,
+      "start": 99.18,
+      "end": 112.46,
+      "duration": 13.28
+    },
+    {
+      "name": "rule_8_owe",
+      "word_idx": 294,
+      "start": 113.42,
+      "end": 127.22,
+      "duration": 13.8
+    },
+    {
+      "name": "landing",
+      "word_idx": 335,
+      "start": 128.32,
+      "end": 141.46,
+      "duration": 13.14
+    }
+  ]
+}

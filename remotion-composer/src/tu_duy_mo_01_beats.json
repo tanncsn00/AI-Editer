@@ -1,0 +1,39 @@
+{
+  "beats": [
+    {
+      "name": "hook",
+      "word_idx": 0,
+      "start": 0.0,
+      "end": 4.8,
+      "duration": 4.8
+    },
+    {
+      "name": "observe_1",
+      "word_idx": 18,
+      "start": 5.72,
+      "end": 11.1,
+      "duration": 5.38
+    },
+    {
+      "name": "observe_2",
+      "word_idx": 39,
+      "start": 12.12,
+      "end": 18.16,
+      "duration": 6.04
+    },
+    {
+      "name": "refuse",
+      "word_idx": 63,
+      "start": 19.18,
+      "end": 24.0,
+      "duration": 4.82
+    },
+    {
+      "name": "resolution",
+      "word_idx": 82,
+      "start": 24.66,
+      "end": 29.78,
+      "duration": 5.12
+    }
+  ]
+}

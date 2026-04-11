@@ -251,6 +251,36 @@ Chọn 10-12 cho mỗi video, trộn core + audience + mood.
 
 ---
 
+## Optional effect patterns — apply khi user yêu cầu tên
+
+Các effect sau **không mặc định**. Chỉ add khi user gọi tên cụ thể.
+
+### 🌟 `bụi vàng` — Particle dust overlay
+
+Hạt vàng nhỏ bay trôi chậm qua khung hình, drift sin theo "gió", breathing opacity. Tăng vibe thời gian chảy / bụi ký ức. Match với palette warm (gold emphasis).
+
+**Khi user nói:** "thêm bụi vàng", "add dust", "particle drift"
+**Reference impl:** `remotion-composer/src/TuDuyMoTap01.tsx` — component `DustLayer` + helper `rnd()` + `PARTICLES` array
+**Đặc điểm:**
+- 85 particle deterministic (seed cố định → không flicker)
+- SVG circle, `mixBlendMode: screen`, `blur(0.6px)`
+- Per-particle: x/y/size/drift/speed/phase/op
+- Per-frame: `y = ((p.y*H - t*p.speed) % (H+40) + (H+40)) % (H+40) - 20` (wrap up), `x = p.x*W + sin(t/60 + phase)*drift`, `op = base * (0.55 + 0.45*sin(t/45 + phase*2))`
+- Render giữa 2 gradient overlay và `<Caption>`, trước `<BigWord>`
+
+**Tweak points:**
+- Số lượng: `length: 85` (50-120 là sweet spot)
+- Chiều bay: `- t*speed` (lên) ↔ `+ t*speed` (xuống)
+- Màu: `fill="#E5C68A"` → đổi match palette tập (steel `#C0CCD4`, gold `#D4A574`, white `#EEEEEA`)
+- Cường độ gió: `drift = 18 + rnd()*32` → tăng range = bão, giảm = tĩnh
+- Tốc độ: `speed = 0.12 + rnd()*0.35` → giảm = lơ lửng, tăng = rơi nhanh
+
+**Không dùng khi:** tập có register tàn nhẫn/đen tối thuần (IM, v.v.) — particle gold sẽ phá mood lạnh.
+
+### (chỗ cho các effect khác bạn đặt tên sau)
+
+---
+
 ## Anti-patterns (KHÔNG làm)
 
 - ❌ Gộp nhiều câu hỏi brainstorm
