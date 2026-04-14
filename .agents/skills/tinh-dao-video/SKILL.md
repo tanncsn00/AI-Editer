@@ -304,3 +304,56 @@ Xem `projects/bay_cuu/` làm ví dụ hoàn chỉnh:
 - Composition: `remotion-composer/src/BayCuuFull.tsx`
 - Thumbnail: `remotion-composer/src/BayCuuThumbnail.tsx`
 - Output: `remotion-composer/out/bay_cuu_full_v2.mp4`
+
+---
+
+## 🔒 Caption + BigWord Pattern LOCK (không re-invent)
+
+**Luật:** Mỗi tập mới copy nguyên Caption + BigWord component từ `ImLangFull.tsx`, chỉ đổi 2 constant màu. KHÔNG tự design style mới.
+
+### Caption (copy từ ImLangFull.tsx ~L106-147)
+- Container: `AbsoluteFill justifyContent/alignItems center` → inner `div` flex wrap, `gap: "0 18px"`, `maxWidth: 920`, `padding: "0 60px"`
+- Per-word `<span>`:
+  - `fontFamily: "'Be Vietnam Pro', 'Inter', system-ui, sans-serif"`
+  - `fontWeight: emph ? 800 : 600`
+  - `fontSize: emph ? 64 : 54`
+  - `letterSpacing: emph ? "0.4px" : "0"`
+  - `lineHeight: 1.3`
+  - `textShadow`: emph = `"0 0 26px rgba(<emph-rgb>,0.55), 0 4px 14px rgba(0,0,0,0.95)"`; normal = `"0 3px 12px rgba(0,0,0,0.95)"`
+  - Spring config: `damping: 14, stiffness: 230, mass: 0.4`
+  - On-appear: opacity 0→sp, `translateY(12→0)`, `filter: blur(4→0)px`
+  - `LEAD_OFFSET = 0.1-0.12s`
+
+### BigWord (copy từ ImLangFull.tsx ~L149-188)
+- Spring: `damping: 12, stiffness: 80, mass: 1.5`
+- Scale 1.8→1.0, blur 16→0
+- Big text:
+  - `fontFamily: "'EB Garamond', Georgia, serif"`
+  - `fontWeight: 500` ⚠️ KHÔNG 800 (Garamond weighted clunky)
+  - `fontSize: 260-440` (tùy độ dài từ)
+  - `letterSpacing: "18-22px"` (rộng)
+  - `textShadow`: 3 layer — `"0 0 60px rgba(<c>,0.3-0.45), 0 0 180px rgba(<c>,0.3-0.4), 0 10px 30px rgba(0,0,0,0.95)"`
+  - `lineHeight: 1`
+- Subtitle italic:
+  - `EB Garamond italic`, `fontWeight 500`, `fontSize 28-46`
+  - `letterSpacing 3-5px`, `marginTop 38-40`
+  - `color: body ivory, opacity 0.85-0.9`
+- Fade-out 20 frames cuối
+
+### Palette — chỉ đổi 2 constant theo mood episode
+
+| Mood | EMPHASIS | BODY | Ví dụ |
+|------|----------|------|-------|
+| Winter/cold | `#C0CCD4` steel | `#EEEEEA` ivory | IM LẶNG, BẦY CỪU |
+| Warm/family | `#F4B860` gold | `#F5F5F0` ivory | BÁO HIẾU, CÔ ĐỘC |
+
+Match textShadow glow RGB với EMPHASIS.
+
+### Audio + Footage locked
+- Voice volume: **0.75-0.80**
+- Music volume: **0.08-0.12** (sau khi xử lý `lowpass=3500 + bass=+4dB`)
+- Footage filter: **`brightness(0.4) saturate(0.65) contrast(1.08)`** — KHÔNG brighten
+
+### Reference impl
+- Cold palette: `BayCuuFull.tsx`, `ImLangFull.tsx`
+- Warm palette: `BaoHieuFull.tsx` (sau rewrite 2026-04-14)

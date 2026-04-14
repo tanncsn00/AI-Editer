@@ -129,7 +129,7 @@ remotion-composer/
 - ❌ Use plain `<text>` in speech bubbles (doesn't wrap) — always `<foreignObject>` + HTML
 - ❌ Voice talking all 30s — silence + reactions carry 70% of comedy
 - ❌ Change character design mid-production — lock means lock
-- ❌ Show "Tập X" in outro (memory rule `feedback_no_tap_label`)
+- ❌ Show "Tập X" in outro (memory rule `feedback_general_no_tap_label`)
 
 ## Reference Episode
 

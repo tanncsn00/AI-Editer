@@ -38,6 +38,10 @@ import { GtlTap02 } from "./GtlTap02";
 import { GtlTap02Thumbnail } from "./GtlTap02Thumbnail";
 import { BlueprintScenePrototype } from "./BlueprintScenePrototype";
 import { QuyTacFull } from "./QuyTacFull";
+import { VibeEditingLayout } from "./VibeEditingLayout";
+import { VibeEditingIntro } from "./VibeEditingIntro";
+import { BaoHieuFull } from "./BaoHieuFull";
+import { BaoHieuThumbnail } from "./BaoHieuThumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -374,6 +378,38 @@ export const Root: React.FC = () => {
         id="ReupDemo"
         component={ReupDemo}
         durationInFrames={316}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingLayout"
+        component={VibeEditingLayout}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingIntro"
+        component={VibeEditingIntro}
+        durationInFrames={1540}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BaoHieuFull"
+        component={BaoHieuFull}
+        durationInFrames={1860}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BaoHieuThumbnail"
+        component={BaoHieuThumbnail}
+        durationInFrames={1}
         fps={30}
         width={1080}
         height={1920}

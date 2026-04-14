@@ -50,8 +50,8 @@ const mouthOpen = mouthOpenAt(frame / FPS);
 
 ## Related rules
 
-- `feedback_stick_figures_must_animate.md` — characters must move (body bob, blink, head tilt) — THIS rule refines mouth specifically
-- `feedback_video_deliverables_checklist.md` — deliverables verify
+- `feedback_comedy_stick_animate.md` — characters must move (body bob, blink, head tilt) — THIS rule refines mouth specifically
+- `feedback_general_deliverables.md` — deliverables verify
 
 ## Reference implementation
 

@@ -26,6 +26,6 @@ Stick figure / cartoon characters in videos MUST animate when on screen — stat
 **Parent composition must pass `speaking={true}`** when the character is the active speaker in that beat. Non-speaking characters in ensemble = `speaking={false}` (breathe only).
 
 **Related rules:**
-- `feedback_tts_short_vn_syllables.md` — TTS pronunciation quality
-- `feedback_always_approve_script.md` — script gating before animation
+- `feedback_tts_vn_short_syllables.md` — TTS pronunciation quality
+- `feedback_general_approve_script.md` — script gating before animation
 - Skill: `stick-figure-creative` technique #1 (body bob) + this rule (mouth sync)
