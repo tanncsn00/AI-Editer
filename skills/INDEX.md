@@ -1,4 +1,4 @@
-﻿# OpenMontage â€" Skill Index
+﻿# Vibe Editing â€" Skill Index
 
 > For the full agent onboarding guide, see [`AGENT_GUIDE.md`](../AGENT_GUIDE.md) in the project root.
 
@@ -13,7 +13,7 @@ Layer 1: tools/tool_registry.py          "What tools exist and what they can do"
 
          â†" agent_skills[] points to â†"
 
-Layer 2: skills/                          "How OpenMontage uses these tools"
+Layer 2: skills/                          "How Vibe Editing uses these tools"
          Project-specific conventions:     Pipeline integration, artifact mappings,
          {core,creative,meta,pipelines}/   enhancement chain order, quality checklists
 
@@ -27,7 +27,7 @@ Layer 3: .agents/skills/                  "How the technology itself works"
 **How the agent uses this:**
 1. The orchestrator queries Layer 1 (`tool_registry.support_envelope()`) to see what's available
 2. Each tool's `agent_skills[]` field names the Layer 3 skills it relies on
-3. Layer 2 skills (this directory) teach the agent OpenMontage-specific conventions
+3. Layer 2 skills (this directory) teach the agent Vibe Editing-specific conventions
 4. Layer 3 skills (`.agents/skills/`) provide generic API knowledge, loaded on-demand
 
 ## Capability Families & Tool Discovery

@@ -69,7 +69,7 @@ Walter Murch's editing priorities (in order of importance):
 5. **2D plane** — screen geography (180-degree rule)
 6. **3D space** — spatial continuity
 
-For OpenMontage explainers using cinematic style: prioritize rhythm and story over spatial concerns (since we're often cutting between generated images, not continuous footage).
+For Vibe Editing explainers using cinematic style: prioritize rhythm and story over spatial concerns (since we're often cutting between generated images, not continuous footage).
 
 ## Audio Layering
 
@@ -114,7 +114,7 @@ Add a subtle ambient layer to fill silence and create depth:
 - Skin tones must stay on the vectorscope skin tone line
 - Consistency across all clips — one LUT/profile for the entire video
 
-## Applying to OpenMontage
+## Applying to Vibe Editing
 
 When building cinematic-style content:
 

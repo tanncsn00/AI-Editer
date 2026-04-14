@@ -1,6 +1,6 @@
-# OpenMontage - Agent Guide
+# Vibe Editing - Agent Guide
 
-Start here. This is the complete operating guide and agent contract for OpenMontage.
+Start here. This is the complete operating guide and agent contract for Vibe Editing.
 
 For architecture, key files, and conventions see [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
 
@@ -35,9 +35,9 @@ When the user asks to make, create, produce, or generate any video content — a
 
 The intelligence is in the skills, not in improvised code. An agent that reads the director skills and Layer 3 knowledge will produce significantly better output than one that calls tools directly with generic prompts.
 
-## What OpenMontage Is
+## What Vibe Editing Is
 
-OpenMontage is an instruction-driven video production system. The AI agent IS the intelligence — it reads instructions (pipeline manifests + stage director skills + meta skills) and drives the pipeline using tools.
+Vibe Editing is an instruction-driven video production system. The AI agent IS the intelligence — it reads instructions (pipeline manifests + stage director skills + meta skills) and drives the pipeline using tools.
 
 ```
 Agent reads pipeline manifest (YAML) -> reads stage director skill (MD)
@@ -333,7 +333,7 @@ The routing is automatic — the `render` operation in `video_compose` calls `_n
 
 ## Capability Discovery
 
-OpenMontage uses two layers for capability choice:
+Vibe Editing uses two layers for capability choice:
 
 - selector tools: capability-level routing such as `tts_selector` and `video_selector`
 - provider tools: concrete tools discovered via the registry that call a specific backend
@@ -536,12 +536,12 @@ Tool rules:
 
 ## Layer Map
 
-OpenMontage has three instruction layers:
+Vibe Editing has three instruction layers:
 
 1. `tools/`
    What exists, what is available, cost, runtime, fallback, related skills.
 2. `skills/`
-   How OpenMontage wants those tools used in pipelines.
+   How Vibe Editing wants those tools used in pipelines.
 3. `.agents/skills/`
    Raw vendor or technology knowledge.
 

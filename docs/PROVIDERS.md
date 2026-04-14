@@ -1,6 +1,6 @@
-# OpenMontage Provider Guide
+# Vibe Editing Provider Guide
 
-Everything you need to know about every provider in OpenMontage — setup instructions, pricing, free tiers, and what each unlocks.
+Everything you need to know about every provider in Vibe Editing — setup instructions, pricing, free tiers, and what each unlocks.
 
 ---
 

@@ -1,4 +1,4 @@
-# Portable Memory — OpenMontage
+# Portable Memory — Vibe Editing
 
 Backup of Claude Code persistent memory cho project này. Mọi rule, feedback, reference đã học được trong các session đều lưu ở đây và **đi cùng git repo**.
 

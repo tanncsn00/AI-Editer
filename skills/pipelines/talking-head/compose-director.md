@@ -43,7 +43,7 @@ Before rendering anything, validate the inputs and catch issues that are expensi
        "DMI": "EMI",
        "AMI": "EMI",
        # Common brand misspellings
-       "open montage": "OpenMontage",
+       "open montage": "Vibe Editing",
        "remotion": "Remotion",
        # Numbers that got split by ASR
        "4 -5": "4-5",
@@ -137,7 +137,7 @@ Build a corrections dict:
 corrections = {
     "cloud": "Claude",
     "co pilot": "Copilot",
-    "open montage": "OpenMontage",
+    "open montage": "Vibe Editing",
 }
 ```
 

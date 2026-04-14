@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" alt="OpenMontage" width="200">
+  <img src="assets/logo.png" alt="Vibe Editing" width="200">
 </p>
 
-<h1 align="center">OpenMontage</h1>
+<h1 align="center">Vibe Editing</h1>
 
 <p align="center"><strong>The first open-source, agentic video production system.</strong></p>
 
@@ -27,7 +27,7 @@ Turn your AI coding assistant into a full video production studio. Describe what
   <video src="https://github.com/user-attachments/assets/f77ce7a4-68b8-4f94-a287-e94bf50a32e1" width="100%" controls></video>
 </div>
 
-> **"SIGNAL FROM TOMORROW"** — a cinematic sci-fi trailer fully produced through OpenMontage: concept, script, scene plan, Veo-generated motion clips, soundtrack, and Remotion composition.
+> **"SIGNAL FROM TOMORROW"** — a cinematic sci-fi trailer fully produced through Vibe Editing: concept, script, scene plan, Veo-generated motion clips, soundtrack, and Remotion composition.
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/8a6d2cc3-7ad2-46f5-922f-a8e3e5848d9f" width="100%" controls></video>
@@ -203,11 +203,11 @@ Each stage has a dedicated **director skill** — a markdown instruction file th
 
 ---
 
-## Why OpenMontage?
+## Why Vibe Editing?
 
-Most AI video tools give you a single clip from a prompt. OpenMontage gives you an **end-to-end production pipeline** — the same structured process a real production team follows, automated by your AI agent.
+Most AI video tools give you a single clip from a prompt. Vibe Editing gives you an **end-to-end production pipeline** — the same structured process a real production team follows, automated by your AI agent.
 
-Edit your own talking-head footage. Generate a fully animated explainer from scratch. Cut a 2-hour podcast into a dozen social clips. Translate and dub your content into 10 languages. Build a cinematic brand teaser from stock footage and AI-generated scenes. **If a production team can make it, OpenMontage can orchestrate it.**
+Edit your own talking-head footage. Generate a fully animated explainer from scratch. Cut a 2-hour podcast into a dozen social clips. Translate and dub your content into 10 languages. Build a cinematic brand teaser from stock footage and AI-generated scenes. **If a production team can make it, Vibe Editing can orchestrate it.**
 
 - **11 production pipelines** — explainers, talking heads, screen demos, cinematic trailers, animations, podcasts, localization, and more
 - **49 production tools** — spanning video generation, image creation, text-to-speech, music, audio mixing, subtitles, enhancement, and analysis
@@ -221,7 +221,7 @@ Edit your own talking-head footage. Generate a fully animated explainer from scr
 
 ## How It Works
 
-OpenMontage uses an **agent-first architecture**. There is no code orchestrator. Your AI coding assistant IS the orchestrator.
+Vibe Editing uses an **agent-first architecture**. There is no code orchestrator. Your AI coding assistant IS the orchestrator.
 
 ```
 You: "Make an explainer video about how black holes form"
@@ -283,11 +283,11 @@ OpenMontage/
 
 ```
 Layer 1: tools/ + pipeline_defs/     "What exists" — executable capabilities + orchestration
-Layer 2: skills/                     "How to use it" — OpenMontage conventions and quality bars
+Layer 2: skills/                     "How to use it" — Vibe Editing conventions and quality bars
 Layer 3: .agents/skills/             "How it works" — 47 external technology knowledge packs
 ```
 
-Each tool declares which Layer 3 skills it relies on. The agent reads Layer 1 to know what's available, Layer 2 to know how OpenMontage wants it used, and Layer 3 for deep technical knowledge when needed.
+Each tool declares which Layer 3 skills it relies on. The agent reads Layer 1 to know what's available, Layer 2 to know how Vibe Editing wants it used, and Layer 3 for deep technical knowledge when needed.
 
 ---
 
@@ -449,7 +449,7 @@ No surprise bills. The agent tells you what it will cost before it spends.
 
 ## Agent Compatibility
 
-OpenMontage works with any AI coding assistant that can read files and execute Python. Dedicated instruction files are included for:
+Vibe Editing works with any AI coding assistant that can read files and execute Python. Dedicated instruction files are included for:
 
 | Platform | Config File |
 |----------|------------|
@@ -467,7 +467,7 @@ All platform files point to the shared `AGENT_GUIDE.md` (operating guide and age
 
 ## Contributing
 
-OpenMontage is built to be extended. The two most common contributions:
+Vibe Editing is built to be extended. The two most common contributions:
 
 ### Adding a New Tool
 
@@ -508,12 +508,14 @@ make test
 
 ---
 
-## License
+## License & Credits
 
 [GNU AGPLv3](LICENSE)
 
+Vibe Editing is a fork of [OpenMontage](https://github.com/calesthio/OpenMontage) by **calesthio**. All credit for the original architecture, pipeline design, and initial implementation goes to the upstream project. This fork adds project-specific pipelines, skills, and conventions on top of that foundation.
+
 ---
 
-**OpenMontage** — Production-grade video, orchestrated by your AI assistant.
+**Vibe Editing** — Production-grade video, orchestrated by your AI assistant.
 
 If this project looks useful to you, a star would really mean a lot — it helps others discover it too.

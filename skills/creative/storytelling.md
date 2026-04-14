@@ -135,7 +135,7 @@ These are the most relevant research-backed rules from cognitive science:
 4. **Coherence** — Remove interesting-but-irrelevant content. "Seductive details" reduce learning by 20-30% on transfer tests.
 5. **Modality** — Use narration (audio) + visuals (animation), NOT on-screen text + visuals. Spoken words + pictures outperform written words + pictures.
 
-## Applying to OpenMontage
+## Applying to Vibe Editing
 
 When writing a **script artifact** for the animated-explainer pipeline:
 

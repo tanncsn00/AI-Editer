@@ -1,10 +1,10 @@
-# OpenMontage - Shared Project Context
+# Vibe Editing - Shared Project Context
 
 This is the single source of truth for project architecture and conventions. All platform-specific agent files (CLAUDE.md, CODEX.md, CURSOR.md, COPILOT.md) should point here instead of duplicating this content.
 
 ## Identity
 
-OpenMontage is an open-source, AI-orchestrated video production platform.
+Vibe Editing is an open-source, AI-orchestrated video production platform.
 
 ## Architecture: Instruction-Driven (Agent-First)
 
@@ -34,7 +34,7 @@ Agent reads pipeline manifest (YAML) → reads stage director skill (MD)
 
 ```
 Layer 1: tools/tool_registry.py     → "What tools exist" (runtime capabilities, status, cost)
-Layer 2: skills/                    → "How OpenMontage uses them" (project conventions)
+Layer 2: skills/                    → "How Vibe Editing uses them" (project conventions)
 Layer 3: .agents/skills/            → "How the technology works" (generic API rules, skills.sh)
 ```
 

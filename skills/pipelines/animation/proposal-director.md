@@ -147,7 +147,7 @@ You need: A video generation API key.
 Estimated cost for 30s video: $3-15 depending on provider
 Estimated cost for 5min video: $30-150
 
-Note: This approach is not yet proven in the OpenMontage pipeline.
+Note: This approach is not yet proven in the Vibe Editing pipeline.
       Consistency across clips is the #1 challenge.
 ```
 

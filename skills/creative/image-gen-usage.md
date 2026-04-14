@@ -1,4 +1,4 @@
-# Image Generation Usage for OpenMontage
+# Image Generation Usage for Vibe Editing
 
 > Sources: OpenAI DALL-E 3 documentation, FLUX/BFL API documentation, existing Layer 3 skills
 > at `.agents/skills/flux-best-practices/` and `.agents/skills/bfl-api/`
@@ -96,7 +96,7 @@ Use the same `seed` parameter across generations with similar prompts. Produces 
 4. **Over-prompting** — Long, complex prompts produce unpredictable results. Keep to 2-3 sentences
 5. **Ignoring the playbook** — Every image must match the style playbook. The style prefix is not optional
 
-## Applying to OpenMontage
+## Applying to Vibe Editing
 
 When using the `image_selector` tool in the asset stage:
 

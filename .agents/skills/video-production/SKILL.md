@@ -12,7 +12,7 @@ metadata:
 
 # Video Production — Quy Trình Chuẩn
 
-Skill này là **entry point duy nhất** cho mọi yêu cầu sản xuất video trong OpenMontage. Mọi video PHẢI đi qua pipeline system — không ngoại lệ.
+Skill này là **entry point duy nhất** cho mọi yêu cầu sản xuất video trong Vibe Editing. Mọi video PHẢI đi qua pipeline system — không ngoại lệ.
 
 **Nguyên tắc cốt lõi:**
 - KHÔNG BAO GIỜ skip bước duyệt kịch bản

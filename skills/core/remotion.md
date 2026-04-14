@@ -10,7 +10,7 @@ data-driven batch rendering. For simple cuts, burns, and encodes, prefer FFmpeg 
 
 The **installed agent skills** (`.agents/skills/remotion-best-practices/`) teach correct
 Remotion API usage — imports, timing, animation constraints, code patterns.
-**This file** teaches how OpenMontage uses Remotion — which compositions map to pipeline
+**This file** teaches how Vibe Editing uses Remotion — which compositions map to pipeline
 stages, how artifacts flow in, and how renders are triggered.
 
 ## When to Use Remotion vs FFmpeg
@@ -154,7 +154,7 @@ remotion-composer/
 
 ### How Artifacts Map to Remotion Props
 
-| OpenMontage Artifact | Remotion Prop | Maps To |
+| Vibe Editing Artifact | Remotion Prop | Maps To |
 |---------------------|---------------|---------|
 | `scene_plan.json` → `scenes[]` | `scenes` prop | `<TransitionSeries>` children |
 | `scene.type` | Component selector | `talking_head` → `<Video>`, `diagram` → `<DiagramOverlay>`, etc. |
@@ -189,7 +189,7 @@ In Python, invoke via `subprocess` from `video_compose.py` when `backend="remoti
 
 ### Media Profile Mapping
 
-| OpenMontage Profile | Remotion Config |
+| Vibe Editing Profile | Remotion Config |
 |--------------------|-----------------|
 | `youtube_landscape` | `width: 1920, height: 1080, fps: 30` |
 | `youtube_shorts` | `width: 1080, height: 1920, fps: 30` |
