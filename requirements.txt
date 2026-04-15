@@ -1,5 +1,39 @@
-# Vibe Editing - Core Dependencies
+# Vibe Editing - Batteries-included dependencies
+# Clone + `pip install -r requirements.txt` = ready for the agent to work.
+
+# --- Core framework ---
 pyyaml>=6.0
 pydantic>=2.0
 jsonschema>=4.20
 python-dotenv>=1.0
+
+# --- Scientific / media IO ---
+numpy>=1.26
+scipy>=1.11
+Pillow>=10.0
+opencv-python>=4.10
+imageio-ffmpeg>=0.5      # bundled ffmpeg binary (fallback if system ffmpeg missing)
+
+# --- HTTP / API clients ---
+requests>=2.31
+
+# --- Social video download (no API keys) ---
+yt-dlp>=2024.1           # TikTok / YouTube / Facebook / Instagram / X
+you-get>=0.4             # Kuaishou / Xiaohongshu / Weibo / Bilibili
+
+# --- Speech-to-text (forced alignment for captions) ---
+faster-whisper>=1.0
+
+# --- Optional SDKs (comment out what you don't want) ---
+# anthropic>=0.40        # Claude Code uses CLI auth, but SDK is handy for direct calls
+# openai>=1.50           # OpenAI SDK for TTS fallback / DALL-E
+# elevenlabs>=1.0        # ElevenLabs SDK (raw HTTP also works)
+# fal-client>=0.4        # fal.ai SDK (raw HTTP also works)
+# huggingface-hub>=0.24  # For downloading models (some TTS / ASR flows)
+
+# --- Notes ---
+# System prerequisites (install separately, NOT pip-installable):
+#   - git       (clone repos)
+#   - node + npm  (Remotion renders live in remotion-composer/)
+#   - ffmpeg    (video encode/decode; imageio-ffmpeg above is a fallback, but native is faster)
+# GPU acceleration (optional): see requirements-gpu.txt

@@ -109,6 +109,7 @@ GOOGLE_API_KEY=your-key        # Google Imagen images, Google TTS (700+ voices)
 # More video providers:
 HEYGEN_API_KEY=your-key        # HeyGen — VEO, Sora, Runway, Kling via single gateway
 RUNWAY_API_KEY=your-key        # Runway Gen-4 direct
+EVERAI_API_KEY=your-key        # EverAI — TTS tiếng Việt
 ```
 
 <details>
