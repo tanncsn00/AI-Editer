@@ -1,0 +1,45 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "duration": 12.474
+    },
+    {
+      "index": 2,
+      "start": 12.824,
+      "duration": 20.686
+    },
+    {
+      "index": 3,
+      "start": 33.859,
+      "duration": 20.285
+    },
+    {
+      "index": 4,
+      "start": 54.494,
+      "duration": 31.199
+    },
+    {
+      "index": 5,
+      "start": 86.043,
+      "duration": 17.133
+    },
+    {
+      "index": 6,
+      "start": 103.527,
+      "duration": 22.442
+    },
+    {
+      "index": 7,
+      "start": 126.319,
+      "duration": 11.635
+    },
+    {
+      "index": 8,
+      "start": 138.304,
+      "duration": 35.819
+    }
+  ],
+  "total_duration": 174.123
+}

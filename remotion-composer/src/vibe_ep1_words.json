@@ -1,0 +1,3332 @@
+[
+  {
+    "word": "Các",
+    "start": 0.0,
+    "end": 0.23,
+    "beat": 1
+  },
+  {
+    "word": "vợ",
+    "start": 0.23,
+    "end": 0.383,
+    "beat": 1
+  },
+  {
+    "word": "ơi.",
+    "start": 0.383,
+    "end": 0.612,
+    "beat": 1
+  },
+  {
+    "word": "Ai",
+    "start": 0.612,
+    "end": 0.765,
+    "beat": 1
+  },
+  {
+    "word": "còn",
+    "start": 0.765,
+    "end": 0.995,
+    "beat": 1
+  },
+  {
+    "word": "ngồi",
+    "start": 0.995,
+    "end": 1.301,
+    "beat": 1
+  },
+  {
+    "word": "edit",
+    "start": 1.301,
+    "end": 1.607,
+    "beat": 1
+  },
+  {
+    "word": "ba",
+    "start": 1.607,
+    "end": 1.76,
+    "beat": 1
+  },
+  {
+    "word": "tiếng",
+    "start": 1.76,
+    "end": 2.143,
+    "beat": 1
+  },
+  {
+    "word": "cho",
+    "start": 2.143,
+    "end": 2.372,
+    "beat": 1
+  },
+  {
+    "word": "một",
+    "start": 2.372,
+    "end": 2.602,
+    "beat": 1
+  },
+  {
+    "word": "cái",
+    "start": 2.602,
+    "end": 2.831,
+    "beat": 1
+  },
+  {
+    "word": "video",
+    "start": 2.831,
+    "end": 3.214,
+    "beat": 1
+  },
+  {
+    "word": "ba",
+    "start": 3.214,
+    "end": 3.367,
+    "beat": 1
+  },
+  {
+    "word": "mươi",
+    "start": 3.367,
+    "end": 3.673,
+    "beat": 1
+  },
+  {
+    "word": "giây",
+    "start": 3.673,
+    "end": 3.979,
+    "beat": 1
+  },
+  {
+    "word": "thì",
+    "start": 3.979,
+    "end": 4.209,
+    "beat": 1
+  },
+  {
+    "word": "lại",
+    "start": 4.209,
+    "end": 4.438,
+    "beat": 1
+  },
+  {
+    "word": "đây",
+    "start": 4.438,
+    "end": 4.668,
+    "beat": 1
+  },
+  {
+    "word": "chồng",
+    "start": 4.668,
+    "end": 5.051,
+    "beat": 1
+  },
+  {
+    "word": "bày.",
+    "start": 5.051,
+    "end": 5.357,
+    "beat": 1
+  },
+  {
+    "word": "Chồng",
+    "start": 5.357,
+    "end": 5.739,
+    "beat": 1
+  },
+  {
+    "word": "làm",
+    "start": 5.739,
+    "end": 5.969,
+    "beat": 1
+  },
+  {
+    "word": "video",
+    "start": 5.969,
+    "end": 6.352,
+    "beat": 1
+  },
+  {
+    "word": "chỉ",
+    "start": 6.352,
+    "end": 6.581,
+    "beat": 1
+  },
+  {
+    "word": "bằng",
+    "start": 6.581,
+    "end": 6.887,
+    "beat": 1
+  },
+  {
+    "word": "miệng.",
+    "start": 6.887,
+    "end": 7.346,
+    "beat": 1
+  },
+  {
+    "word": "Không",
+    "start": 7.346,
+    "end": 7.729,
+    "beat": 1
+  },
+  {
+    "word": "Premiere,",
+    "start": 7.729,
+    "end": 8.418,
+    "beat": 1
+  },
+  {
+    "word": "không",
+    "start": 8.418,
+    "end": 8.8,
+    "beat": 1
+  },
+  {
+    "word": "After",
+    "start": 8.8,
+    "end": 9.183,
+    "beat": 1
+  },
+  {
+    "word": "Effects,",
+    "start": 9.183,
+    "end": 9.795,
+    "beat": 1
+  },
+  {
+    "word": "không",
+    "start": 9.795,
+    "end": 10.178,
+    "beat": 1
+  },
+  {
+    "word": "Canva.",
+    "start": 10.178,
+    "end": 10.637,
+    "beat": 1
+  },
+  {
+    "word": "Tập",
+    "start": 10.637,
+    "end": 10.867,
+    "beat": 1
+  },
+  {
+    "word": "một",
+    "start": 10.867,
+    "end": 11.096,
+    "beat": 1
+  },
+  {
+    "word": "bắt",
+    "start": 11.096,
+    "end": 11.326,
+    "beat": 1
+  },
+  {
+    "word": "đầu",
+    "start": 11.326,
+    "end": 11.555,
+    "beat": 1
+  },
+  {
+    "word": "rồi",
+    "start": 11.555,
+    "end": 11.785,
+    "beat": 1
+  },
+  {
+    "word": "nha",
+    "start": 11.785,
+    "end": 12.014,
+    "beat": 1
+  },
+  {
+    "word": "các",
+    "start": 12.014,
+    "end": 12.244,
+    "beat": 1
+  },
+  {
+    "word": "vợ.",
+    "start": 12.244,
+    "end": 12.474,
+    "beat": 1
+  },
+  {
+    "word": "Nhắc",
+    "start": 12.824,
+    "end": 13.153,
+    "beat": 2
+  },
+  {
+    "word": "lại",
+    "start": 13.153,
+    "end": 13.401,
+    "beat": 2
+  },
+  {
+    "word": "cho",
+    "start": 13.401,
+    "end": 13.648,
+    "beat": 2
+  },
+  {
+    "word": "vợ",
+    "start": 13.648,
+    "end": 13.813,
+    "beat": 2
+  },
+  {
+    "word": "nào",
+    "start": 13.813,
+    "end": 14.06,
+    "beat": 2
+  },
+  {
+    "word": "chưa",
+    "start": 14.06,
+    "end": 14.389,
+    "beat": 2
+  },
+  {
+    "word": "xem",
+    "start": 14.389,
+    "end": 14.637,
+    "beat": 2
+  },
+  {
+    "word": "intro.",
+    "start": 14.637,
+    "end": 15.131,
+    "beat": 2
+  },
+  {
+    "word": "Cái",
+    "start": 15.131,
+    "end": 15.378,
+    "beat": 2
+  },
+  {
+    "word": "này",
+    "start": 15.378,
+    "end": 15.626,
+    "beat": 2
+  },
+  {
+    "word": "gọi",
+    "start": 15.626,
+    "end": 15.873,
+    "beat": 2
+  },
+  {
+    "word": "là",
+    "start": 15.873,
+    "end": 16.038,
+    "beat": 2
+  },
+  {
+    "word": "vibe",
+    "start": 16.038,
+    "end": 16.458,
+    "beat": 2
+  },
+  {
+    "word": "editing.",
+    "start": 16.458,
+    "end": 17.192,
+    "beat": 2
+  },
+  {
+    "word": "Không",
+    "start": 17.192,
+    "end": 17.604,
+    "beat": 2
+  },
+  {
+    "word": "phải",
+    "start": 17.604,
+    "end": 17.933,
+    "beat": 2
+  },
+  {
+    "word": "phần",
+    "start": 17.933,
+    "end": 18.263,
+    "beat": 2
+  },
+  {
+    "word": "mềm,",
+    "start": 18.263,
+    "end": 18.593,
+    "beat": 2
+  },
+  {
+    "word": "mà",
+    "start": 18.593,
+    "end": 18.757,
+    "beat": 2
+  },
+  {
+    "word": "là",
+    "start": 18.757,
+    "end": 18.922,
+    "beat": 2
+  },
+  {
+    "word": "một",
+    "start": 18.922,
+    "end": 19.169,
+    "beat": 2
+  },
+  {
+    "word": "cái",
+    "start": 19.169,
+    "end": 19.417,
+    "beat": 2
+  },
+  {
+    "word": "repo",
+    "start": 19.417,
+    "end": 19.746,
+    "beat": 2
+  },
+  {
+    "word": "code.",
+    "start": 19.746,
+    "end": 20.158,
+    "beat": 2
+  },
+  {
+    "word": "AI",
+    "start": 20.158,
+    "end": 20.488,
+    "beat": 2
+  },
+  {
+    "word": "đọc",
+    "start": 20.488,
+    "end": 20.735,
+    "beat": 2
+  },
+  {
+    "word": "lệnh",
+    "start": 20.735,
+    "end": 21.065,
+    "beat": 2
+  },
+  {
+    "word": "tự",
+    "start": 21.065,
+    "end": 21.23,
+    "beat": 2
+  },
+  {
+    "word": "nhiên",
+    "start": 21.23,
+    "end": 21.642,
+    "beat": 2
+  },
+  {
+    "word": "của",
+    "start": 21.642,
+    "end": 21.889,
+    "beat": 2
+  },
+  {
+    "word": "vợ,",
+    "start": 21.889,
+    "end": 22.136,
+    "beat": 2
+  },
+  {
+    "word": "nó",
+    "start": 22.136,
+    "end": 22.301,
+    "beat": 2
+  },
+  {
+    "word": "tự",
+    "start": 22.301,
+    "end": 22.466,
+    "beat": 2
+  },
+  {
+    "word": "viết",
+    "start": 22.466,
+    "end": 22.796,
+    "beat": 2
+  },
+  {
+    "word": "code,",
+    "start": 22.796,
+    "end": 23.208,
+    "beat": 2
+  },
+  {
+    "word": "Remotion",
+    "start": 23.208,
+    "end": 23.867,
+    "beat": 2
+  },
+  {
+    "word": "render",
+    "start": 23.867,
+    "end": 24.361,
+    "beat": 2
+  },
+  {
+    "word": "ra",
+    "start": 24.361,
+    "end": 24.526,
+    "beat": 2
+  },
+  {
+    "word": "video.",
+    "start": 24.526,
+    "end": 25.021,
+    "beat": 2
+  },
+  {
+    "word": "Vợ",
+    "start": 25.021,
+    "end": 25.186,
+    "beat": 2
+  },
+  {
+    "word": "không",
+    "start": 25.186,
+    "end": 25.598,
+    "beat": 2
+  },
+  {
+    "word": "cần",
+    "start": 25.598,
+    "end": 25.845,
+    "beat": 2
+  },
+  {
+    "word": "biết",
+    "start": 25.845,
+    "end": 26.175,
+    "beat": 2
+  },
+  {
+    "word": "code,",
+    "start": 26.175,
+    "end": 26.587,
+    "beat": 2
+  },
+  {
+    "word": "chỉ",
+    "start": 26.587,
+    "end": 26.834,
+    "beat": 2
+  },
+  {
+    "word": "cần",
+    "start": 26.834,
+    "end": 27.081,
+    "beat": 2
+  },
+  {
+    "word": "biết",
+    "start": 27.081,
+    "end": 27.411,
+    "beat": 2
+  },
+  {
+    "word": "mô",
+    "start": 27.411,
+    "end": 27.576,
+    "beat": 2
+  },
+  {
+    "word": "tả",
+    "start": 27.576,
+    "end": 27.74,
+    "beat": 2
+  },
+  {
+    "word": "thôi",
+    "start": 27.74,
+    "end": 28.07,
+    "beat": 2
+  },
+  {
+    "word": "là",
+    "start": 28.07,
+    "end": 28.235,
+    "beat": 2
+  },
+  {
+    "word": "xong.",
+    "start": 28.235,
+    "end": 28.647,
+    "beat": 2
+  },
+  {
+    "word": "Toàn",
+    "start": 28.647,
+    "end": 28.977,
+    "beat": 2
+  },
+  {
+    "word": "đồ",
+    "start": 28.977,
+    "end": 29.141,
+    "beat": 2
+  },
+  {
+    "word": "open",
+    "start": 29.141,
+    "end": 29.471,
+    "beat": 2
+  },
+  {
+    "word": "source",
+    "start": 29.471,
+    "end": 29.966,
+    "beat": 2
+  },
+  {
+    "word": "và",
+    "start": 29.966,
+    "end": 30.13,
+    "beat": 2
+  },
+  {
+    "word": "API",
+    "start": 30.13,
+    "end": 30.542,
+    "beat": 2
+  },
+  {
+    "word": "có",
+    "start": 30.542,
+    "end": 30.707,
+    "beat": 2
+  },
+  {
+    "word": "sẵn,",
+    "start": 30.707,
+    "end": 31.037,
+    "beat": 2
+  },
+  {
+    "word": "chồng",
+    "start": 31.037,
+    "end": 31.449,
+    "beat": 2
+  },
+  {
+    "word": "chỉ",
+    "start": 31.449,
+    "end": 31.696,
+    "beat": 2
+  },
+  {
+    "word": "lắp",
+    "start": 31.696,
+    "end": 31.943,
+    "beat": 2
+  },
+  {
+    "word": "ráp",
+    "start": 31.943,
+    "end": 32.191,
+    "beat": 2
+  },
+  {
+    "word": "lại",
+    "start": 32.191,
+    "end": 32.438,
+    "beat": 2
+  },
+  {
+    "word": "cho",
+    "start": 32.438,
+    "end": 32.685,
+    "beat": 2
+  },
+  {
+    "word": "vợ",
+    "start": 32.685,
+    "end": 32.85,
+    "beat": 2
+  },
+  {
+    "word": "xài",
+    "start": 32.85,
+    "end": 33.097,
+    "beat": 2
+  },
+  {
+    "word": "thôi.",
+    "start": 33.097,
+    "end": 33.509,
+    "beat": 2
+  },
+  {
+    "word": "Giờ",
+    "start": 33.859,
+    "end": 34.1,
+    "beat": 3
+  },
+  {
+    "word": "vợ",
+    "start": 34.1,
+    "end": 34.26,
+    "beat": 3
+  },
+  {
+    "word": "chọn",
+    "start": 34.26,
+    "end": 34.581,
+    "beat": 3
+  },
+  {
+    "word": "AI",
+    "start": 34.581,
+    "end": 34.902,
+    "beat": 3
+  },
+  {
+    "word": "nào",
+    "start": 34.902,
+    "end": 35.142,
+    "beat": 3
+  },
+  {
+    "word": "làm",
+    "start": 35.142,
+    "end": 35.383,
+    "beat": 3
+  },
+  {
+    "word": "cho",
+    "start": 35.383,
+    "end": 35.623,
+    "beat": 3
+  },
+  {
+    "word": "mình.",
+    "start": 35.623,
+    "end": 36.024,
+    "beat": 3
+  },
+  {
+    "word": "Có",
+    "start": 36.024,
+    "end": 36.184,
+    "beat": 3
+  },
+  {
+    "word": "nhiều",
+    "start": 36.184,
+    "end": 36.585,
+    "beat": 3
+  },
+  {
+    "word": "thằng,",
+    "start": 36.585,
+    "end": 37.066,
+    "beat": 3
+  },
+  {
+    "word": "chồng",
+    "start": 37.066,
+    "end": 37.467,
+    "beat": 3
+  },
+  {
+    "word": "kể:",
+    "start": 37.467,
+    "end": 37.708,
+    "beat": 3
+  },
+  {
+    "word": "Claude",
+    "start": 37.708,
+    "end": 38.189,
+    "beat": 3
+  },
+  {
+    "word": "Code,",
+    "start": 38.189,
+    "end": 38.59,
+    "beat": 3
+  },
+  {
+    "word": "Codex,",
+    "start": 38.59,
+    "end": 39.071,
+    "beat": 3
+  },
+  {
+    "word": "Cursor,",
+    "start": 39.071,
+    "end": 39.632,
+    "beat": 3
+  },
+  {
+    "word": "Aider,",
+    "start": 39.632,
+    "end": 40.113,
+    "beat": 3
+  },
+  {
+    "word": "Continue,",
+    "start": 40.113,
+    "end": 40.835,
+    "beat": 3
+  },
+  {
+    "word": "Gemini",
+    "start": 40.835,
+    "end": 41.316,
+    "beat": 3
+  },
+  {
+    "word": "CLI.",
+    "start": 41.316,
+    "end": 41.637,
+    "beat": 3
+  },
+  {
+    "word": "Chồng",
+    "start": 41.637,
+    "end": 42.037,
+    "beat": 3
+  },
+  {
+    "word": "khuyên",
+    "start": 42.037,
+    "end": 42.519,
+    "beat": 3
+  },
+  {
+    "word": "hai",
+    "start": 42.519,
+    "end": 42.759,
+    "beat": 3
+  },
+  {
+    "word": "thằng",
+    "start": 42.759,
+    "end": 43.16,
+    "beat": 3
+  },
+  {
+    "word": "thôi,",
+    "start": 43.16,
+    "end": 43.561,
+    "beat": 3
+  },
+  {
+    "word": "Claude",
+    "start": 43.561,
+    "end": 44.042,
+    "beat": 3
+  },
+  {
+    "word": "Code",
+    "start": 44.042,
+    "end": 44.363,
+    "beat": 3
+  },
+  {
+    "word": "và",
+    "start": 44.363,
+    "end": 44.523,
+    "beat": 3
+  },
+  {
+    "word": "Codex.",
+    "start": 44.523,
+    "end": 45.004,
+    "beat": 3
+  },
+  {
+    "word": "Hai",
+    "start": 45.004,
+    "end": 45.245,
+    "beat": 3
+  },
+  {
+    "word": "thằng",
+    "start": 45.245,
+    "end": 45.646,
+    "beat": 3
+  },
+  {
+    "word": "này",
+    "start": 45.646,
+    "end": 45.886,
+    "beat": 3
+  },
+  {
+    "word": "hiểu",
+    "start": 45.886,
+    "end": 46.207,
+    "beat": 3
+  },
+  {
+    "word": "repo",
+    "start": 46.207,
+    "end": 46.527,
+    "beat": 3
+  },
+  {
+    "word": "lớn,",
+    "start": 46.527,
+    "end": 46.848,
+    "beat": 3
+  },
+  {
+    "word": "gọi",
+    "start": 46.848,
+    "end": 47.089,
+    "beat": 3
+  },
+  {
+    "word": "tool",
+    "start": 47.089,
+    "end": 47.409,
+    "beat": 3
+  },
+  {
+    "word": "ổn,",
+    "start": 47.409,
+    "end": 47.65,
+    "beat": 3
+  },
+  {
+    "word": "ít",
+    "start": 47.65,
+    "end": 47.81,
+    "beat": 3
+  },
+  {
+    "word": "ảo",
+    "start": 47.81,
+    "end": 47.971,
+    "beat": 3
+  },
+  {
+    "word": "tưởng.",
+    "start": 47.971,
+    "end": 48.452,
+    "beat": 3
+  },
+  {
+    "word": "Vợ",
+    "start": 48.452,
+    "end": 48.612,
+    "beat": 3
+  },
+  {
+    "word": "nào",
+    "start": 48.612,
+    "end": 48.853,
+    "beat": 3
+  },
+  {
+    "word": "mới",
+    "start": 48.853,
+    "end": 49.093,
+    "beat": 3
+  },
+  {
+    "word": "bắt",
+    "start": 49.093,
+    "end": 49.334,
+    "beat": 3
+  },
+  {
+    "word": "đầu",
+    "start": 49.334,
+    "end": 49.574,
+    "beat": 3
+  },
+  {
+    "word": "thì",
+    "start": 49.574,
+    "end": 49.815,
+    "beat": 3
+  },
+  {
+    "word": "chọn",
+    "start": 49.815,
+    "end": 50.135,
+    "beat": 3
+  },
+  {
+    "word": "một",
+    "start": 50.135,
+    "end": 50.376,
+    "beat": 3
+  },
+  {
+    "word": "trong",
+    "start": 50.376,
+    "end": 50.777,
+    "beat": 3
+  },
+  {
+    "word": "hai",
+    "start": 50.777,
+    "end": 51.017,
+    "beat": 3
+  },
+  {
+    "word": "đi",
+    "start": 51.017,
+    "end": 51.178,
+    "beat": 3
+  },
+  {
+    "word": "nha.",
+    "start": 51.178,
+    "end": 51.499,
+    "beat": 3
+  },
+  {
+    "word": "Tập",
+    "start": 51.499,
+    "end": 51.739,
+    "beat": 3
+  },
+  {
+    "word": "này",
+    "start": 51.739,
+    "end": 51.98,
+    "beat": 3
+  },
+  {
+    "word": "chồng",
+    "start": 51.98,
+    "end": 52.38,
+    "beat": 3
+  },
+  {
+    "word": "xài",
+    "start": 52.38,
+    "end": 52.621,
+    "beat": 3
+  },
+  {
+    "word": "Claude",
+    "start": 52.621,
+    "end": 53.102,
+    "beat": 3
+  },
+  {
+    "word": "Code",
+    "start": 53.102,
+    "end": 53.423,
+    "beat": 3
+  },
+  {
+    "word": "cho",
+    "start": 53.423,
+    "end": 53.663,
+    "beat": 3
+  },
+  {
+    "word": "vợ",
+    "start": 53.663,
+    "end": 53.824,
+    "beat": 3
+  },
+  {
+    "word": "xem.",
+    "start": 53.824,
+    "end": 54.144,
+    "beat": 3
+  },
+  {
+    "word": "Bước",
+    "start": 54.494,
+    "end": 54.811,
+    "beat": 4
+  },
+  {
+    "word": "một",
+    "start": 54.811,
+    "end": 55.049,
+    "beat": 4
+  },
+  {
+    "word": "cho",
+    "start": 55.049,
+    "end": 55.286,
+    "beat": 4
+  },
+  {
+    "word": "vợ:",
+    "start": 55.286,
+    "end": 55.524,
+    "beat": 4
+  },
+  {
+    "word": "trước",
+    "start": 55.524,
+    "end": 55.92,
+    "beat": 4
+  },
+  {
+    "word": "khi",
+    "start": 55.92,
+    "end": 56.157,
+    "beat": 4
+  },
+  {
+    "word": "clone,",
+    "start": 56.157,
+    "end": 56.632,
+    "beat": 4
+  },
+  {
+    "word": "máy",
+    "start": 56.632,
+    "end": 56.87,
+    "beat": 4
+  },
+  {
+    "word": "vợ",
+    "start": 56.87,
+    "end": 57.028,
+    "beat": 4
+  },
+  {
+    "word": "cần",
+    "start": 57.028,
+    "end": 57.266,
+    "beat": 4
+  },
+  {
+    "word": "có",
+    "start": 57.266,
+    "end": 57.424,
+    "beat": 4
+  },
+  {
+    "word": "sẵn",
+    "start": 57.424,
+    "end": 57.662,
+    "beat": 4
+  },
+  {
+    "word": "ba",
+    "start": 57.662,
+    "end": 57.82,
+    "beat": 4
+  },
+  {
+    "word": "thứ,",
+    "start": 57.82,
+    "end": 58.137,
+    "beat": 4
+  },
+  {
+    "word": "git,",
+    "start": 58.137,
+    "end": 58.454,
+    "beat": 4
+  },
+  {
+    "word": "Node.js,",
+    "start": 58.454,
+    "end": 59.166,
+    "beat": 4
+  },
+  {
+    "word": "và",
+    "start": 59.166,
+    "end": 59.325,
+    "beat": 4
+  },
+  {
+    "word": "FFmpeg.",
+    "start": 59.325,
+    "end": 60.117,
+    "beat": 4
+  },
+  {
+    "word": "Ba",
+    "start": 60.117,
+    "end": 60.275,
+    "beat": 4
+  },
+  {
+    "word": "cái",
+    "start": 60.275,
+    "end": 60.512,
+    "beat": 4
+  },
+  {
+    "word": "này",
+    "start": 60.512,
+    "end": 60.75,
+    "beat": 4
+  },
+  {
+    "word": "là",
+    "start": 60.75,
+    "end": 60.908,
+    "beat": 4
+  },
+  {
+    "word": "nền,",
+    "start": 60.908,
+    "end": 61.225,
+    "beat": 4
+  },
+  {
+    "word": "không",
+    "start": 61.225,
+    "end": 61.621,
+    "beat": 4
+  },
+  {
+    "word": "có",
+    "start": 61.621,
+    "end": 61.779,
+    "beat": 4
+  },
+  {
+    "word": "thì",
+    "start": 61.779,
+    "end": 62.017,
+    "beat": 4
+  },
+  {
+    "word": "đừng",
+    "start": 62.017,
+    "end": 62.334,
+    "beat": 4
+  },
+  {
+    "word": "nói",
+    "start": 62.334,
+    "end": 62.571,
+    "beat": 4
+  },
+  {
+    "word": "chuyện.",
+    "start": 62.571,
+    "end": 63.126,
+    "beat": 4
+  },
+  {
+    "word": "Có",
+    "start": 63.126,
+    "end": 63.284,
+    "beat": 4
+  },
+  {
+    "word": "rồi",
+    "start": 63.284,
+    "end": 63.522,
+    "beat": 4
+  },
+  {
+    "word": "thì",
+    "start": 63.522,
+    "end": 63.759,
+    "beat": 4
+  },
+  {
+    "word": "clone",
+    "start": 63.759,
+    "end": 64.155,
+    "beat": 4
+  },
+  {
+    "word": "repo",
+    "start": 64.155,
+    "end": 64.472,
+    "beat": 4
+  },
+  {
+    "word": "của",
+    "start": 64.472,
+    "end": 64.709,
+    "beat": 4
+  },
+  {
+    "word": "chồng",
+    "start": 64.709,
+    "end": 65.105,
+    "beat": 4
+  },
+  {
+    "word": "về.",
+    "start": 65.105,
+    "end": 65.343,
+    "beat": 4
+  },
+  {
+    "word": "Chồng",
+    "start": 65.343,
+    "end": 65.739,
+    "beat": 4
+  },
+  {
+    "word": "đã",
+    "start": 65.739,
+    "end": 65.897,
+    "beat": 4
+  },
+  {
+    "word": "fork",
+    "start": 65.897,
+    "end": 66.214,
+    "beat": 4
+  },
+  {
+    "word": "từ",
+    "start": 66.214,
+    "end": 66.372,
+    "beat": 4
+  },
+  {
+    "word": "bản",
+    "start": 66.372,
+    "end": 66.61,
+    "beat": 4
+  },
+  {
+    "word": "gốc,",
+    "start": 66.61,
+    "end": 66.926,
+    "beat": 4
+  },
+  {
+    "word": "thêm",
+    "start": 66.926,
+    "end": 67.243,
+    "beat": 4
+  },
+  {
+    "word": "vài",
+    "start": 67.243,
+    "end": 67.481,
+    "beat": 4
+  },
+  {
+    "word": "tool",
+    "start": 67.481,
+    "end": 67.798,
+    "beat": 4
+  },
+  {
+    "word": "cho",
+    "start": 67.798,
+    "end": 68.035,
+    "beat": 4
+  },
+  {
+    "word": "tiện",
+    "start": 68.035,
+    "end": 68.352,
+    "beat": 4
+  },
+  {
+    "word": "làm",
+    "start": 68.352,
+    "end": 68.589,
+    "beat": 4
+  },
+  {
+    "word": "tiếng",
+    "start": 68.589,
+    "end": 68.985,
+    "beat": 4
+  },
+  {
+    "word": "Việt.",
+    "start": 68.985,
+    "end": 69.381,
+    "beat": 4
+  },
+  {
+    "word": "Link",
+    "start": 69.381,
+    "end": 69.698,
+    "beat": 4
+  },
+  {
+    "word": "để",
+    "start": 69.698,
+    "end": 69.856,
+    "beat": 4
+  },
+  {
+    "word": "ở",
+    "start": 69.856,
+    "end": 69.936,
+    "beat": 4
+  },
+  {
+    "word": "mô",
+    "start": 69.936,
+    "end": 70.094,
+    "beat": 4
+  },
+  {
+    "word": "tả",
+    "start": 70.094,
+    "end": 70.252,
+    "beat": 4
+  },
+  {
+    "word": "video",
+    "start": 70.252,
+    "end": 70.648,
+    "beat": 4
+  },
+  {
+    "word": "nha",
+    "start": 70.648,
+    "end": 70.886,
+    "beat": 4
+  },
+  {
+    "word": "vợ.",
+    "start": 70.886,
+    "end": 71.123,
+    "beat": 4
+  },
+  {
+    "word": "Clone",
+    "start": 71.123,
+    "end": 71.519,
+    "beat": 4
+  },
+  {
+    "word": "xong",
+    "start": 71.519,
+    "end": 71.836,
+    "beat": 4
+  },
+  {
+    "word": "chạy",
+    "start": 71.836,
+    "end": 72.153,
+    "beat": 4
+  },
+  {
+    "word": "pip",
+    "start": 72.153,
+    "end": 72.414,
+    "beat": 4
+  },
+  {
+    "word": "install",
+    "start": 72.414,
+    "end": 73.024,
+    "beat": 4
+  },
+  {
+    "word": "-r",
+    "start": 73.024,
+    "end": 73.42,
+    "beat": 4
+  },
+  {
+    "word": "requirements",
+    "start": 73.42,
+    "end": 74.37,
+    "beat": 4
+  },
+  {
+    "word": ".txt.",
+    "start": 74.37,
+    "end": 75.003,
+    "beat": 4
+  },
+  {
+    "word": "Rồi",
+    "start": 75.003,
+    "end": 75.241,
+    "beat": 4
+  },
+  {
+    "word": "vào",
+    "start": 75.241,
+    "end": 75.478,
+    "beat": 4
+  },
+  {
+    "word": "thư",
+    "start": 75.478,
+    "end": 75.716,
+    "beat": 4
+  },
+  {
+    "word": "mục",
+    "start": 75.716,
+    "end": 75.954,
+    "beat": 4
+  },
+  {
+    "word": "remotion",
+    "start": 75.954,
+    "end": 76.587,
+    "beat": 4
+  },
+  {
+    "word": "composer",
+    "start": 76.587,
+    "end": 77.221,
+    "beat": 4
+  },
+  {
+    "word": "chạy",
+    "start": 77.221,
+    "end": 77.537,
+    "beat": 4
+  },
+  {
+    "word": "npm",
+    "start": 77.537,
+    "end": 77.87,
+    "beat": 4
+  },
+  {
+    "word": "install.",
+    "start": 77.87,
+    "end": 78.646,
+    "beat": 4
+  },
+  {
+    "word": "Xong.",
+    "start": 78.646,
+    "end": 79.042,
+    "beat": 4
+  },
+  {
+    "word": "Repo",
+    "start": 79.042,
+    "end": 79.359,
+    "beat": 4
+  },
+  {
+    "word": "của",
+    "start": 79.359,
+    "end": 79.596,
+    "beat": 4
+  },
+  {
+    "word": "chồng",
+    "start": 79.596,
+    "end": 79.992,
+    "beat": 4
+  },
+  {
+    "word": "là",
+    "start": 79.992,
+    "end": 80.15,
+    "beat": 4
+  },
+  {
+    "word": "ăn",
+    "start": 80.15,
+    "end": 80.309,
+    "beat": 4
+  },
+  {
+    "word": "sẵn,",
+    "start": 80.309,
+    "end": 80.625,
+    "beat": 4
+  },
+  {
+    "word": "requirements",
+    "start": 80.625,
+    "end": 81.576,
+    "beat": 4
+  },
+  {
+    "word": "đã",
+    "start": 81.576,
+    "end": 81.734,
+    "beat": 4
+  },
+  {
+    "word": "có",
+    "start": 81.734,
+    "end": 81.892,
+    "beat": 4
+  },
+  {
+    "word": "đủ",
+    "start": 81.892,
+    "end": 82.051,
+    "beat": 4
+  },
+  {
+    "word": "mọi",
+    "start": 82.051,
+    "end": 82.288,
+    "beat": 4
+  },
+  {
+    "word": "tool",
+    "start": 82.288,
+    "end": 82.605,
+    "beat": 4
+  },
+  {
+    "word": "Claude",
+    "start": 82.605,
+    "end": 83.08,
+    "beat": 4
+  },
+  {
+    "word": "cần",
+    "start": 83.08,
+    "end": 83.318,
+    "beat": 4
+  },
+  {
+    "word": "dùng,",
+    "start": 83.318,
+    "end": 83.714,
+    "beat": 4
+  },
+  {
+    "word": "vợ",
+    "start": 83.714,
+    "end": 83.872,
+    "beat": 4
+  },
+  {
+    "word": "không",
+    "start": 83.872,
+    "end": 84.268,
+    "beat": 4
+  },
+  {
+    "word": "phải",
+    "start": 84.268,
+    "end": 84.585,
+    "beat": 4
+  },
+  {
+    "word": "cài",
+    "start": 84.585,
+    "end": 84.822,
+    "beat": 4
+  },
+  {
+    "word": "tay",
+    "start": 84.822,
+    "end": 85.06,
+    "beat": 4
+  },
+  {
+    "word": "từng",
+    "start": 85.06,
+    "end": 85.377,
+    "beat": 4
+  },
+  {
+    "word": "cái.",
+    "start": 85.377,
+    "end": 85.693,
+    "beat": 4
+  },
+  {
+    "word": "Bước",
+    "start": 86.043,
+    "end": 86.381,
+    "beat": 5
+  },
+  {
+    "word": "hai:",
+    "start": 86.381,
+    "end": 86.719,
+    "beat": 5
+  },
+  {
+    "word": "mở",
+    "start": 86.719,
+    "end": 86.887,
+    "beat": 5
+  },
+  {
+    "word": "file",
+    "start": 86.887,
+    "end": 87.225,
+    "beat": 5
+  },
+  {
+    "word": ".env,",
+    "start": 87.225,
+    "end": 88.069,
+    "beat": 5
+  },
+  {
+    "word": "paste",
+    "start": 88.069,
+    "end": 88.491,
+    "beat": 5
+  },
+  {
+    "word": "API",
+    "start": 88.491,
+    "end": 88.828,
+    "beat": 5
+  },
+  {
+    "word": "key.",
+    "start": 88.828,
+    "end": 89.166,
+    "beat": 5
+  },
+  {
+    "word": "Chồng",
+    "start": 89.166,
+    "end": 89.588,
+    "beat": 5
+  },
+  {
+    "word": "cần",
+    "start": 89.588,
+    "end": 89.841,
+    "beat": 5
+  },
+  {
+    "word": "đúng",
+    "start": 89.841,
+    "end": 90.179,
+    "beat": 5
+  },
+  {
+    "word": "hai",
+    "start": 90.179,
+    "end": 90.432,
+    "beat": 5
+  },
+  {
+    "word": "cái",
+    "start": 90.432,
+    "end": 90.685,
+    "beat": 5
+  },
+  {
+    "word": "cho",
+    "start": 90.685,
+    "end": 90.939,
+    "beat": 5
+  },
+  {
+    "word": "vợ,",
+    "start": 90.939,
+    "end": 91.192,
+    "beat": 5
+  },
+  {
+    "word": "FAL",
+    "start": 91.192,
+    "end": 91.445,
+    "beat": 5
+  },
+  {
+    "word": "cho",
+    "start": 91.445,
+    "end": 91.698,
+    "beat": 5
+  },
+  {
+    "word": "ảnh",
+    "start": 91.698,
+    "end": 91.951,
+    "beat": 5
+  },
+  {
+    "word": "và",
+    "start": 91.951,
+    "end": 92.12,
+    "beat": 5
+  },
+  {
+    "word": "video",
+    "start": 92.12,
+    "end": 92.542,
+    "beat": 5
+  },
+  {
+    "word": "AI,",
+    "start": 92.542,
+    "end": 92.964,
+    "beat": 5
+  },
+  {
+    "word": "EverAI",
+    "start": 92.964,
+    "end": 93.471,
+    "beat": 5
+  },
+  {
+    "word": "cho",
+    "start": 93.471,
+    "end": 93.724,
+    "beat": 5
+  },
+  {
+    "word": "giọng",
+    "start": 93.724,
+    "end": 94.146,
+    "beat": 5
+  },
+  {
+    "word": "tiếng",
+    "start": 94.146,
+    "end": 94.568,
+    "beat": 5
+  },
+  {
+    "word": "Việt.",
+    "start": 94.568,
+    "end": 94.99,
+    "beat": 5
+  },
+  {
+    "word": "Thêm",
+    "start": 94.99,
+    "end": 95.327,
+    "beat": 5
+  },
+  {
+    "word": "một",
+    "start": 95.327,
+    "end": 95.581,
+    "beat": 5
+  },
+  {
+    "word": "cái",
+    "start": 95.581,
+    "end": 95.834,
+    "beat": 5
+  },
+  {
+    "word": "free",
+    "start": 95.834,
+    "end": 96.171,
+    "beat": 5
+  },
+  {
+    "word": "cho",
+    "start": 96.171,
+    "end": 96.425,
+    "beat": 5
+  },
+  {
+    "word": "footage,",
+    "start": 96.425,
+    "end": 97.1,
+    "beat": 5
+  },
+  {
+    "word": "Pexels",
+    "start": 97.1,
+    "end": 97.606,
+    "beat": 5
+  },
+  {
+    "word": "hoặc",
+    "start": 97.606,
+    "end": 97.944,
+    "beat": 5
+  },
+  {
+    "word": "Pixabay.",
+    "start": 97.944,
+    "end": 98.619,
+    "beat": 5
+  },
+  {
+    "word": "Mấy",
+    "start": 98.619,
+    "end": 98.872,
+    "beat": 5
+  },
+  {
+    "word": "cái",
+    "start": 98.872,
+    "end": 99.125,
+    "beat": 5
+  },
+  {
+    "word": "khác",
+    "start": 99.125,
+    "end": 99.463,
+    "beat": 5
+  },
+  {
+    "word": "có",
+    "start": 99.463,
+    "end": 99.632,
+    "beat": 5
+  },
+  {
+    "word": "thì",
+    "start": 99.632,
+    "end": 99.885,
+    "beat": 5
+  },
+  {
+    "word": "paste",
+    "start": 99.885,
+    "end": 100.307,
+    "beat": 5
+  },
+  {
+    "word": "vô,",
+    "start": 100.307,
+    "end": 100.56,
+    "beat": 5
+  },
+  {
+    "word": "không",
+    "start": 100.56,
+    "end": 100.982,
+    "beat": 5
+  },
+  {
+    "word": "có",
+    "start": 100.982,
+    "end": 101.151,
+    "beat": 5
+  },
+  {
+    "word": "cũng",
+    "start": 101.151,
+    "end": 101.489,
+    "beat": 5
+  },
+  {
+    "word": "chạy.",
+    "start": 101.489,
+    "end": 101.911,
+    "beat": 5
+  },
+  {
+    "word": "Đơn",
+    "start": 101.911,
+    "end": 102.164,
+    "beat": 5
+  },
+  {
+    "word": "giản",
+    "start": 102.164,
+    "end": 102.501,
+    "beat": 5
+  },
+  {
+    "word": "vậy",
+    "start": 102.501,
+    "end": 102.755,
+    "beat": 5
+  },
+  {
+    "word": "thôi.",
+    "start": 102.755,
+    "end": 103.177,
+    "beat": 5
+  },
+  {
+    "word": "Bước",
+    "start": 103.527,
+    "end": 103.846,
+    "beat": 6
+  },
+  {
+    "word": "ba,",
+    "start": 103.846,
+    "end": 104.086,
+    "beat": 6
+  },
+  {
+    "word": "phần",
+    "start": 104.086,
+    "end": 104.405,
+    "beat": 6
+  },
+  {
+    "word": "vui",
+    "start": 104.405,
+    "end": 104.645,
+    "beat": 6
+  },
+  {
+    "word": "nhất.",
+    "start": 104.645,
+    "end": 105.044,
+    "beat": 6
+  },
+  {
+    "word": "Vợ",
+    "start": 105.044,
+    "end": 105.204,
+    "beat": 6
+  },
+  {
+    "word": "mở",
+    "start": 105.204,
+    "end": 105.364,
+    "beat": 6
+  },
+  {
+    "word": "Claude",
+    "start": 105.364,
+    "end": 105.843,
+    "beat": 6
+  },
+  {
+    "word": "Code",
+    "start": 105.843,
+    "end": 106.162,
+    "beat": 6
+  },
+  {
+    "word": "lên,",
+    "start": 106.162,
+    "end": 106.482,
+    "beat": 6
+  },
+  {
+    "word": "gõ",
+    "start": 106.482,
+    "end": 106.641,
+    "beat": 6
+  },
+  {
+    "word": "câu",
+    "start": 106.641,
+    "end": 106.881,
+    "beat": 6
+  },
+  {
+    "word": "tự",
+    "start": 106.881,
+    "end": 107.041,
+    "beat": 6
+  },
+  {
+    "word": "nhiên",
+    "start": 107.041,
+    "end": 107.44,
+    "beat": 6
+  },
+  {
+    "word": "như",
+    "start": 107.44,
+    "end": 107.68,
+    "beat": 6
+  },
+  {
+    "word": "nói",
+    "start": 107.68,
+    "end": 107.919,
+    "beat": 6
+  },
+  {
+    "word": "chuyện",
+    "start": 107.919,
+    "end": 108.398,
+    "beat": 6
+  },
+  {
+    "word": "với",
+    "start": 108.398,
+    "end": 108.638,
+    "beat": 6
+  },
+  {
+    "word": "chồng.",
+    "start": 108.638,
+    "end": 109.117,
+    "beat": 6
+  },
+  {
+    "word": "Ví",
+    "start": 109.117,
+    "end": 109.277,
+    "beat": 6
+  },
+  {
+    "word": "dụ",
+    "start": 109.277,
+    "end": 109.437,
+    "beat": 6
+  },
+  {
+    "word": "chồng",
+    "start": 109.437,
+    "end": 109.836,
+    "beat": 6
+  },
+  {
+    "word": "nè:",
+    "start": 109.836,
+    "end": 110.076,
+    "beat": 6
+  },
+  {
+    "word": "làm",
+    "start": 110.076,
+    "end": 110.315,
+    "beat": 6
+  },
+  {
+    "word": "cho",
+    "start": 110.315,
+    "end": 110.555,
+    "beat": 6
+  },
+  {
+    "word": "anh",
+    "start": 110.555,
+    "end": 110.794,
+    "beat": 6
+  },
+  {
+    "word": "video",
+    "start": 110.794,
+    "end": 111.194,
+    "beat": 6
+  },
+  {
+    "word": "reup",
+    "start": 111.194,
+    "end": 111.513,
+    "beat": 6
+  },
+  {
+    "word": "từ",
+    "start": 111.513,
+    "end": 111.673,
+    "beat": 6
+  },
+  {
+    "word": "cái",
+    "start": 111.673,
+    "end": 111.912,
+    "beat": 6
+  },
+  {
+    "word": "link",
+    "start": 111.912,
+    "end": 112.232,
+    "beat": 6
+  },
+  {
+    "word": "TikTok",
+    "start": 112.232,
+    "end": 112.711,
+    "beat": 6
+  },
+  {
+    "word": "này",
+    "start": 112.711,
+    "end": 112.951,
+    "beat": 6
+  },
+  {
+    "word": "sang",
+    "start": 112.951,
+    "end": 113.27,
+    "beat": 6
+  },
+  {
+    "word": "tiếng",
+    "start": 113.27,
+    "end": 113.669,
+    "beat": 6
+  },
+  {
+    "word": "Việt,",
+    "start": 113.669,
+    "end": 114.069,
+    "beat": 6
+  },
+  {
+    "word": "cho",
+    "start": 114.069,
+    "end": 114.308,
+    "beat": 6
+  },
+  {
+    "word": "chồng",
+    "start": 114.308,
+    "end": 114.708,
+    "beat": 6
+  },
+  {
+    "word": "duyệt",
+    "start": 114.708,
+    "end": 115.107,
+    "beat": 6
+  },
+  {
+    "word": "kịch",
+    "start": 115.107,
+    "end": 115.426,
+    "beat": 6
+  },
+  {
+    "word": "bản",
+    "start": 115.426,
+    "end": 115.666,
+    "beat": 6
+  },
+  {
+    "word": "trước",
+    "start": 115.666,
+    "end": 116.065,
+    "beat": 6
+  },
+  {
+    "word": "khi",
+    "start": 116.065,
+    "end": 116.305,
+    "beat": 6
+  },
+  {
+    "word": "lồng",
+    "start": 116.305,
+    "end": 116.624,
+    "beat": 6
+  },
+  {
+    "word": "tiếng.",
+    "start": 116.624,
+    "end": 117.104,
+    "beat": 6
+  },
+  {
+    "word": "Xong.",
+    "start": 117.104,
+    "end": 117.503,
+    "beat": 6
+  },
+  {
+    "word": "Nó",
+    "start": 117.503,
+    "end": 117.663,
+    "beat": 6
+  },
+  {
+    "word": "tự",
+    "start": 117.663,
+    "end": 117.822,
+    "beat": 6
+  },
+  {
+    "word": "tải",
+    "start": 117.822,
+    "end": 118.062,
+    "beat": 6
+  },
+  {
+    "word": "video,",
+    "start": 118.062,
+    "end": 118.541,
+    "beat": 6
+  },
+  {
+    "word": "transcribe,",
+    "start": 118.541,
+    "end": 119.42,
+    "beat": 6
+  },
+  {
+    "word": "dịch,",
+    "start": 119.42,
+    "end": 119.819,
+    "beat": 6
+  },
+  {
+    "word": "gọi",
+    "start": 119.819,
+    "end": 120.059,
+    "beat": 6
+  },
+  {
+    "word": "EverAI",
+    "start": 120.059,
+    "end": 120.538,
+    "beat": 6
+  },
+  {
+    "word": "lồng",
+    "start": 120.538,
+    "end": 120.857,
+    "beat": 6
+  },
+  {
+    "word": "tiếng,",
+    "start": 120.857,
+    "end": 121.336,
+    "beat": 6
+  },
+  {
+    "word": "thêm",
+    "start": 121.336,
+    "end": 121.656,
+    "beat": 6
+  },
+  {
+    "word": "sub",
+    "start": 121.656,
+    "end": 121.896,
+    "beat": 6
+  },
+  {
+    "word": "Remotion,",
+    "start": 121.896,
+    "end": 122.614,
+    "beat": 6
+  },
+  {
+    "word": "render",
+    "start": 122.614,
+    "end": 123.093,
+    "beat": 6
+  },
+  {
+    "word": "ra",
+    "start": 123.093,
+    "end": 123.253,
+    "beat": 6
+  },
+  {
+    "word": "MP4.",
+    "start": 123.253,
+    "end": 123.892,
+    "beat": 6
+  },
+  {
+    "word": "Vợ",
+    "start": 123.892,
+    "end": 124.052,
+    "beat": 6
+  },
+  {
+    "word": "không",
+    "start": 124.052,
+    "end": 124.451,
+    "beat": 6
+  },
+  {
+    "word": "đụng",
+    "start": 124.451,
+    "end": 124.771,
+    "beat": 6
+  },
+  {
+    "word": "dòng",
+    "start": 124.771,
+    "end": 125.09,
+    "beat": 6
+  },
+  {
+    "word": "code",
+    "start": 125.09,
+    "end": 125.41,
+    "beat": 6
+  },
+  {
+    "word": "nào",
+    "start": 125.41,
+    "end": 125.649,
+    "beat": 6
+  },
+  {
+    "word": "hết.",
+    "start": 125.649,
+    "end": 125.969,
+    "beat": 6
+  },
+  {
+    "word": "Đây",
+    "start": 126.319,
+    "end": 126.566,
+    "beat": 7
+  },
+  {
+    "word": "các",
+    "start": 126.566,
+    "end": 126.814,
+    "beat": 7
+  },
+  {
+    "word": "vợ.",
+    "start": 126.814,
+    "end": 127.061,
+    "beat": 7
+  },
+  {
+    "word": "Bốn",
+    "start": 127.061,
+    "end": 127.309,
+    "beat": 7
+  },
+  {
+    "word": "phút",
+    "start": 127.309,
+    "end": 127.639,
+    "beat": 7
+  },
+  {
+    "word": "sau",
+    "start": 127.639,
+    "end": 127.886,
+    "beat": 7
+  },
+  {
+    "word": "ra",
+    "start": 127.886,
+    "end": 128.052,
+    "beat": 7
+  },
+  {
+    "word": "video.",
+    "start": 128.052,
+    "end": 128.547,
+    "beat": 7
+  },
+  {
+    "word": "Có",
+    "start": 128.547,
+    "end": 128.712,
+    "beat": 7
+  },
+  {
+    "word": "giọng",
+    "start": 128.712,
+    "end": 129.124,
+    "beat": 7
+  },
+  {
+    "word": "đọc",
+    "start": 129.124,
+    "end": 129.372,
+    "beat": 7
+  },
+  {
+    "word": "tiếng",
+    "start": 129.372,
+    "end": 129.784,
+    "beat": 7
+  },
+  {
+    "word": "Việt,",
+    "start": 129.784,
+    "end": 130.197,
+    "beat": 7
+  },
+  {
+    "word": "có",
+    "start": 130.197,
+    "end": 130.362,
+    "beat": 7
+  },
+  {
+    "word": "sub",
+    "start": 130.362,
+    "end": 130.61,
+    "beat": 7
+  },
+  {
+    "word": "chữ",
+    "start": 130.61,
+    "end": 130.857,
+    "beat": 7
+  },
+  {
+    "word": "nhảy",
+    "start": 130.857,
+    "end": 131.187,
+    "beat": 7
+  },
+  {
+    "word": "theo",
+    "start": 131.187,
+    "end": 131.517,
+    "beat": 7
+  },
+  {
+    "word": "lời,",
+    "start": 131.517,
+    "end": 131.847,
+    "beat": 7
+  },
+  {
+    "word": "có",
+    "start": 131.847,
+    "end": 132.012,
+    "beat": 7
+  },
+  {
+    "word": "nhạc",
+    "start": 132.012,
+    "end": 132.342,
+    "beat": 7
+  },
+  {
+    "word": "nền,",
+    "start": 132.342,
+    "end": 132.673,
+    "beat": 7
+  },
+  {
+    "word": "sạch",
+    "start": 132.673,
+    "end": 133.003,
+    "beat": 7
+  },
+  {
+    "word": "logo",
+    "start": 133.003,
+    "end": 133.333,
+    "beat": 7
+  },
+  {
+    "word": "watermark.",
+    "start": 133.333,
+    "end": 134.158,
+    "beat": 7
+  },
+  {
+    "word": "Từ",
+    "start": 134.158,
+    "end": 134.323,
+    "beat": 7
+  },
+  {
+    "word": "một",
+    "start": 134.323,
+    "end": 134.57,
+    "beat": 7
+  },
+  {
+    "word": "câu",
+    "start": 134.57,
+    "end": 134.818,
+    "beat": 7
+  },
+  {
+    "word": "lệnh",
+    "start": 134.818,
+    "end": 135.148,
+    "beat": 7
+  },
+  {
+    "word": "thôi",
+    "start": 135.148,
+    "end": 135.478,
+    "beat": 7
+  },
+  {
+    "word": "đấy.",
+    "start": 135.478,
+    "end": 135.808,
+    "beat": 7
+  },
+  {
+    "word": "Vợ",
+    "start": 135.808,
+    "end": 135.973,
+    "beat": 7
+  },
+  {
+    "word": "thấy",
+    "start": 135.973,
+    "end": 136.303,
+    "beat": 7
+  },
+  {
+    "word": "chồng",
+    "start": 136.303,
+    "end": 136.716,
+    "beat": 7
+  },
+  {
+    "word": "chiều",
+    "start": 136.716,
+    "end": 137.129,
+    "beat": 7
+  },
+  {
+    "word": "vợ",
+    "start": 137.129,
+    "end": 137.294,
+    "beat": 7
+  },
+  {
+    "word": "chưa",
+    "start": 137.294,
+    "end": 137.624,
+    "beat": 7
+  },
+  {
+    "word": "nào.",
+    "start": 137.624,
+    "end": 137.954,
+    "beat": 7
+  },
+  {
+    "word": "Tập",
+    "start": 138.304,
+    "end": 138.535,
+    "beat": 8
+  },
+  {
+    "word": "một",
+    "start": 138.535,
+    "end": 138.766,
+    "beat": 8
+  },
+  {
+    "word": "chồng",
+    "start": 138.766,
+    "end": 139.151,
+    "beat": 8
+  },
+  {
+    "word": "mới",
+    "start": 139.151,
+    "end": 139.382,
+    "beat": 8
+  },
+  {
+    "word": "show",
+    "start": 139.382,
+    "end": 139.69,
+    "beat": 8
+  },
+  {
+    "word": "cho",
+    "start": 139.69,
+    "end": 139.921,
+    "beat": 8
+  },
+  {
+    "word": "vợ",
+    "start": 139.921,
+    "end": 140.075,
+    "beat": 8
+  },
+  {
+    "word": "xem",
+    "start": 140.075,
+    "end": 140.307,
+    "beat": 8
+  },
+  {
+    "word": "một",
+    "start": 140.307,
+    "end": 140.538,
+    "beat": 8
+  },
+  {
+    "word": "mẩu",
+    "start": 140.538,
+    "end": 140.769,
+    "beat": 8
+  },
+  {
+    "word": "bé",
+    "start": 140.769,
+    "end": 140.923,
+    "beat": 8
+  },
+  {
+    "word": "tí",
+    "start": 140.923,
+    "end": 141.077,
+    "beat": 8
+  },
+  {
+    "word": "thôi.",
+    "start": 141.077,
+    "end": 141.462,
+    "beat": 8
+  },
+  {
+    "word": "Trong",
+    "start": 141.462,
+    "end": 141.847,
+    "beat": 8
+  },
+  {
+    "word": "repo",
+    "start": 141.847,
+    "end": 142.155,
+    "beat": 8
+  },
+  {
+    "word": "này",
+    "start": 142.155,
+    "end": 142.386,
+    "beat": 8
+  },
+  {
+    "word": "còn",
+    "start": 142.386,
+    "end": 142.617,
+    "beat": 8
+  },
+  {
+    "word": "nguyên",
+    "start": 142.617,
+    "end": 143.08,
+    "beat": 8
+  },
+  {
+    "word": "cả",
+    "start": 143.08,
+    "end": 143.234,
+    "beat": 8
+  },
+  {
+    "word": "kho",
+    "start": 143.234,
+    "end": 143.465,
+    "beat": 8
+  },
+  {
+    "word": "đồ",
+    "start": 143.465,
+    "end": 143.619,
+    "beat": 8
+  },
+  {
+    "word": "chơi",
+    "start": 143.619,
+    "end": 143.927,
+    "beat": 8
+  },
+  {
+    "word": "chồng",
+    "start": 143.927,
+    "end": 144.312,
+    "beat": 8
+  },
+  {
+    "word": "chưa",
+    "start": 144.312,
+    "end": 144.62,
+    "beat": 8
+  },
+  {
+    "word": "kịp",
+    "start": 144.62,
+    "end": 144.851,
+    "beat": 8
+  },
+  {
+    "word": "khoe:",
+    "start": 144.851,
+    "end": 145.236,
+    "beat": 8
+  },
+  {
+    "word": "Veo",
+    "start": 145.236,
+    "end": 145.526,
+    "beat": 8
+  },
+  {
+    "word": "3",
+    "start": 145.526,
+    "end": 145.622,
+    "beat": 8
+  },
+  {
+    "word": "của",
+    "start": 145.622,
+    "end": 145.853,
+    "beat": 8
+  },
+  {
+    "word": "Google",
+    "start": 145.853,
+    "end": 146.315,
+    "beat": 8
+  },
+  {
+    "word": "để",
+    "start": 146.315,
+    "end": 146.469,
+    "beat": 8
+  },
+  {
+    "word": "gen",
+    "start": 146.469,
+    "end": 146.7,
+    "beat": 8
+  },
+  {
+    "word": "video",
+    "start": 146.7,
+    "end": 147.085,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 147.085,
+    "end": 147.393,
+    "beat": 8
+  },
+  {
+    "word": "chuẩn",
+    "start": 147.393,
+    "end": 147.778,
+    "beat": 8
+  },
+  {
+    "word": "xi",
+    "start": 147.778,
+    "end": 147.933,
+    "beat": 8
+  },
+  {
+    "word": "nê",
+    "start": 147.933,
+    "end": 148.087,
+    "beat": 8
+  },
+  {
+    "word": "ma,",
+    "start": 148.087,
+    "end": 148.318,
+    "beat": 8
+  },
+  {
+    "word": "Kling",
+    "start": 148.318,
+    "end": 148.703,
+    "beat": 8
+  },
+  {
+    "word": "với",
+    "start": 148.703,
+    "end": 148.934,
+    "beat": 8
+  },
+  {
+    "word": "MiniMax",
+    "start": 148.934,
+    "end": 149.473,
+    "beat": 8
+  },
+  {
+    "word": "cho",
+    "start": 149.473,
+    "end": 149.704,
+    "beat": 8
+  },
+  {
+    "word": "video",
+    "start": 149.704,
+    "end": 150.089,
+    "beat": 8
+  },
+  {
+    "word": "động",
+    "start": 150.089,
+    "end": 150.398,
+    "beat": 8
+  },
+  {
+    "word": "nhiều",
+    "start": 150.398,
+    "end": 150.783,
+    "beat": 8
+  },
+  {
+    "word": "phong",
+    "start": 150.783,
+    "end": 151.168,
+    "beat": 8
+  },
+  {
+    "word": "cách,",
+    "start": 151.168,
+    "end": 151.553,
+    "beat": 8
+  },
+  {
+    "word": "Runway",
+    "start": 151.553,
+    "end": 152.107,
+    "beat": 8
+  },
+  {
+    "word": "Gen",
+    "start": 152.107,
+    "end": 152.385,
+    "beat": 8
+  },
+  {
+    "word": "4",
+    "start": 152.385,
+    "end": 152.477,
+    "beat": 8
+  },
+  {
+    "word": "cho",
+    "start": 152.477,
+    "end": 152.708,
+    "beat": 8
+  },
+  {
+    "word": "hiệu",
+    "start": 152.708,
+    "end": 153.017,
+    "beat": 8
+  },
+  {
+    "word": "ứng",
+    "start": 153.017,
+    "end": 153.248,
+    "beat": 8
+  },
+  {
+    "word": "cinematic,",
+    "start": 153.248,
+    "end": 154.018,
+    "beat": 8
+  },
+  {
+    "word": "HeyGen",
+    "start": 154.018,
+    "end": 154.48,
+    "beat": 8
+  },
+  {
+    "word": "với",
+    "start": 154.48,
+    "end": 154.711,
+    "beat": 8
+  },
+  {
+    "word": "Wav2Lip",
+    "start": 154.711,
+    "end": 155.25,
+    "beat": 8
+  },
+  {
+    "word": "cho",
+    "start": 155.25,
+    "end": 155.482,
+    "beat": 8
+  },
+  {
+    "word": "avatar",
+    "start": 155.482,
+    "end": 155.944,
+    "beat": 8
+  },
+  {
+    "word": "nói",
+    "start": 155.944,
+    "end": 156.175,
+    "beat": 8
+  },
+  {
+    "word": "chuyện",
+    "start": 156.175,
+    "end": 156.637,
+    "beat": 8
+  },
+  {
+    "word": "lip",
+    "start": 156.637,
+    "end": 156.868,
+    "beat": 8
+  },
+  {
+    "word": "sync,",
+    "start": 156.868,
+    "end": 157.253,
+    "beat": 8
+  },
+  {
+    "word": "FLUX",
+    "start": 157.253,
+    "end": 157.561,
+    "beat": 8
+  },
+  {
+    "word": "với",
+    "start": 157.561,
+    "end": 157.792,
+    "beat": 8
+  },
+  {
+    "word": "Imagen",
+    "start": 157.792,
+    "end": 158.255,
+    "beat": 8
+  },
+  {
+    "word": "gen",
+    "start": 158.255,
+    "end": 158.486,
+    "beat": 8
+  },
+  {
+    "word": "ảnh,",
+    "start": 158.486,
+    "end": 158.794,
+    "beat": 8
+  },
+  {
+    "word": "Suno",
+    "start": 158.794,
+    "end": 159.102,
+    "beat": 8
+  },
+  {
+    "word": "gen",
+    "start": 159.102,
+    "end": 159.333,
+    "beat": 8
+  },
+  {
+    "word": "nhạc",
+    "start": 159.333,
+    "end": 159.641,
+    "beat": 8
+  },
+  {
+    "word": "có",
+    "start": 159.641,
+    "end": 159.795,
+    "beat": 8
+  },
+  {
+    "word": "lời",
+    "start": 159.795,
+    "end": 160.026,
+    "beat": 8
+  },
+  {
+    "word": "ra",
+    "start": 160.026,
+    "end": 160.18,
+    "beat": 8
+  },
+  {
+    "word": "cả",
+    "start": 160.18,
+    "end": 160.334,
+    "beat": 8
+  },
+  {
+    "word": "bài",
+    "start": 160.334,
+    "end": 160.566,
+    "beat": 8
+  },
+  {
+    "word": "hát,",
+    "start": 160.566,
+    "end": 160.874,
+    "beat": 8
+  },
+  {
+    "word": "rồi",
+    "start": 160.874,
+    "end": 161.105,
+    "beat": 8
+  },
+  {
+    "word": "còn",
+    "start": 161.105,
+    "end": 161.336,
+    "beat": 8
+  },
+  {
+    "word": "green",
+    "start": 161.336,
+    "end": 161.721,
+    "beat": 8
+  },
+  {
+    "word": "screen",
+    "start": 161.721,
+    "end": 162.183,
+    "beat": 8
+  },
+  {
+    "word": "tự",
+    "start": 162.183,
+    "end": 162.337,
+    "beat": 8
+  },
+  {
+    "word": "động,",
+    "start": 162.337,
+    "end": 162.722,
+    "beat": 8
+  },
+  {
+    "word": "auto",
+    "start": 162.722,
+    "end": 163.031,
+    "beat": 8
+  },
+  {
+    "word": "reframe",
+    "start": 163.031,
+    "end": 163.57,
+    "beat": 8
+  },
+  {
+    "word": "ngang",
+    "start": 163.57,
+    "end": 163.955,
+    "beat": 8
+  },
+  {
+    "word": "dọc,",
+    "start": 163.955,
+    "end": 164.263,
+    "beat": 8
+  },
+  {
+    "word": "cắt",
+    "start": 164.263,
+    "end": 164.494,
+    "beat": 8
+  },
+  {
+    "word": "đoạn",
+    "start": 164.494,
+    "end": 164.802,
+    "beat": 8
+  },
+  {
+    "word": "im",
+    "start": 164.802,
+    "end": 164.956,
+    "beat": 8
+  },
+  {
+    "word": "lặng",
+    "start": 164.956,
+    "end": 165.264,
+    "beat": 8
+  },
+  {
+    "word": "tự",
+    "start": 165.264,
+    "end": 165.418,
+    "beat": 8
+  },
+  {
+    "word": "động.",
+    "start": 165.418,
+    "end": 165.804,
+    "beat": 8
+  },
+  {
+    "word": "Kể",
+    "start": 165.804,
+    "end": 165.958,
+    "beat": 8
+  },
+  {
+    "word": "không",
+    "start": 165.958,
+    "end": 166.343,
+    "beat": 8
+  },
+  {
+    "word": "xuể.",
+    "start": 166.343,
+    "end": 166.651,
+    "beat": 8
+  },
+  {
+    "word": "Tập",
+    "start": 166.651,
+    "end": 166.882,
+    "beat": 8
+  },
+  {
+    "word": "hai",
+    "start": 166.882,
+    "end": 167.113,
+    "beat": 8
+  },
+  {
+    "word": "tuần",
+    "start": 167.113,
+    "end": 167.421,
+    "beat": 8
+  },
+  {
+    "word": "sau",
+    "start": 167.421,
+    "end": 167.652,
+    "beat": 8
+  },
+  {
+    "word": "chồng",
+    "start": 167.652,
+    "end": 168.038,
+    "beat": 8
+  },
+  {
+    "word": "dạy",
+    "start": 168.038,
+    "end": 168.269,
+    "beat": 8
+  },
+  {
+    "word": "vợ",
+    "start": 168.269,
+    "end": 168.423,
+    "beat": 8
+  },
+  {
+    "word": "cách",
+    "start": 168.423,
+    "end": 168.731,
+    "beat": 8
+  },
+  {
+    "word": "ra",
+    "start": 168.731,
+    "end": 168.885,
+    "beat": 8
+  },
+  {
+    "word": "lệnh",
+    "start": 168.885,
+    "end": 169.193,
+    "beat": 8
+  },
+  {
+    "word": "cho",
+    "start": 169.193,
+    "end": 169.424,
+    "beat": 8
+  },
+  {
+    "word": "chuẩn",
+    "start": 169.424,
+    "end": 169.809,
+    "beat": 8
+  },
+  {
+    "word": "để",
+    "start": 169.809,
+    "end": 169.963,
+    "beat": 8
+  },
+  {
+    "word": "moi",
+    "start": 169.963,
+    "end": 170.194,
+    "beat": 8
+  },
+  {
+    "word": "hết",
+    "start": 170.194,
+    "end": 170.425,
+    "beat": 8
+  },
+  {
+    "word": "mấy",
+    "start": 170.425,
+    "end": 170.657,
+    "beat": 8
+  },
+  {
+    "word": "món",
+    "start": 170.657,
+    "end": 170.888,
+    "beat": 8
+  },
+  {
+    "word": "này",
+    "start": 170.888,
+    "end": 171.119,
+    "beat": 8
+  },
+  {
+    "word": "ra",
+    "start": 171.119,
+    "end": 171.273,
+    "beat": 8
+  },
+  {
+    "word": "xài.",
+    "start": 171.273,
+    "end": 171.581,
+    "beat": 8
+  },
+  {
+    "word": "Follow",
+    "start": 171.581,
+    "end": 172.043,
+    "beat": 8
+  },
+  {
+    "word": "chồng",
+    "start": 172.043,
+    "end": 172.428,
+    "beat": 8
+  },
+  {
+    "word": "đi",
+    "start": 172.428,
+    "end": 172.582,
+    "beat": 8
+  },
+  {
+    "word": "các",
+    "start": 172.582,
+    "end": 172.813,
+    "beat": 8
+  },
+  {
+    "word": "vợ.",
+    "start": 172.813,
+    "end": 173.044,
+    "beat": 8
+  },
+  {
+    "word": "Chồng",
+    "start": 173.044,
+    "end": 173.43,
+    "beat": 8
+  },
+  {
+    "word": "yêu",
+    "start": 173.43,
+    "end": 173.661,
+    "beat": 8
+  },
+  {
+    "word": "các",
+    "start": 173.661,
+    "end": 173.892,
+    "beat": 8
+  },
+  {
+    "word": "vợ.",
+    "start": 173.892,
+    "end": 174.123,
+    "beat": 8
+  }
+]

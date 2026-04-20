@@ -30,6 +30,8 @@ import { ReupDemo } from "./ReupDemo";
 import { CoDocFull } from "./CoDocFull";
 import { ReupTT01 } from "./ReupTT01";
 import { ReupTT01Thumbnail } from "./ReupTT01Thumbnail";
+import { ReupTTDiscipline01 } from "./ReupTTDiscipline01";
+import { ReupTTDiscipline01Thumbnail } from "./ReupTTDiscipline01Thumbnail";
 import { HonThuaTapTrung } from "./HonThuaTapTrung";
 import { GiaiThichLuoiCharSheet, GiaiThichLuoiPropCompare, GiaiThichLuoiEnsemble } from "./GiaiThichLuoiChars";
 import { GtlTap01 } from "./GtlTap01";
@@ -42,6 +44,8 @@ import { VibeEditingLayout } from "./VibeEditingLayout";
 import { VibeEditingIntro } from "./VibeEditingIntro";
 import { BaoHieuFull } from "./BaoHieuFull";
 import { BaoHieuThumbnail } from "./BaoHieuThumbnail";
+import { VibeEditingEp1 } from "./VibeEditingEp1";
+import { VibeEditingEp1Thumbnail } from "./VibeEditingEp1Thumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -209,6 +213,22 @@ export const Root: React.FC = () => {
       <Composition
         id="ReupTT01Thumbnail"
         component={ReupTT01Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ReupTTDiscipline01"
+        component={ReupTTDiscipline01}
+        durationInFrames={780}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ReupTTDiscipline01Thumbnail"
+        component={ReupTTDiscipline01Thumbnail}
         durationInFrames={1}
         fps={30}
         width={1080}
@@ -409,6 +429,22 @@ export const Root: React.FC = () => {
       <Composition
         id="BaoHieuThumbnail"
         component={BaoHieuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingEp1"
+        component={VibeEditingEp1}
+        durationInFrames={5253}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingEp1Thumbnail"
+        component={VibeEditingEp1Thumbnail}
         durationInFrames={1}
         fps={30}
         width={1080}
