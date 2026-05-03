@@ -30,6 +30,8 @@ import { ReupDemo } from "./ReupDemo";
 import { CoDocFull } from "./CoDocFull";
 import { ReupTT01 } from "./ReupTT01";
 import { ReupTT01Thumbnail } from "./ReupTT01Thumbnail";
+import { ReupNoFear01 } from "./ReupNoFear01";
+import { ReupNoFear01Thumbnail } from "./ReupNoFear01Thumbnail";
 import { ReupTTDiscipline01 } from "./ReupTTDiscipline01";
 import { ReupTTDiscipline01Thumbnail } from "./ReupTTDiscipline01Thumbnail";
 import { HonThuaTapTrung } from "./HonThuaTapTrung";
@@ -46,6 +48,42 @@ import { BaoHieuFull } from "./BaoHieuFull";
 import { BaoHieuThumbnail } from "./BaoHieuThumbnail";
 import { VibeEditingEp1 } from "./VibeEditingEp1";
 import { VibeEditingEp1Thumbnail } from "./VibeEditingEp1Thumbnail";
+import { TinhDaoFB01 } from "./TinhDaoFB01";
+import { TinhDaoFB01Thumbnail } from "./TinhDaoFB01Thumbnail";
+import { AlanVfxPoc } from "./AlanVfxPoc";
+import { HumanVfxPoc } from "./HumanVfxPoc";
+import { StickFighterPoc } from "./StickFighterPoc";
+import { StickFighterUltra } from "./StickFighterUltra";
+import { CartoonMemePoc } from "./CartoonMemePoc";
+import { CoachellaCrowdPoc } from "./CoachellaCrowdPoc";
+import { BieberCoachellaRemake } from "./BieberCoachellaRemake";
+import { DanceVfxPoc } from "./DanceVfxPoc";
+import { DanceVfxSideBySide } from "./DanceVfxSideBySide";
+import { IsseiDanceCartoon } from "./IsseiDanceCartoon";
+import { IsseiDanceSideBySide } from "./IsseiDanceSideBySide";
+import { IsseiDance3D } from "./IsseiDance3D";
+import { IsseiDance3DSmpl } from "./IsseiDance3DSmpl";
+import { IsseiDance3DAim } from "./IsseiDance3DAim";
+import { IsseiDance3DPolished } from "./IsseiDance3DPolished";
+import { IsseiDanceProcedural } from "./IsseiDanceProcedural";
+import { IsseiDanceProceduralV2 } from "./IsseiDanceProceduralV2";
+import { CamiksRedraw } from "./CamiksRedraw";
+import { GhibliDaoPilot } from "./GhibliDaoPilot";
+import { TrailerXeOm } from "./TrailerXeOm";
+import { MvMinhTao } from "./MvMinhTao";
+import { DocGheDo } from "./DocGheDo";
+import { TimelapseDoiNguoi } from "./TimelapseDoiNguoi";
+import { TimelapseBenThanh } from "./TimelapseBenThanh";
+import { TimelapseNghichThien } from "./TimelapseNghichThien";
+import { TimelapseNghichThienThumb } from "./TimelapseNghichThienThumb";
+import { MultiverseAoDai } from "./MultiverseAoDai";
+import { AffLedLamp } from "./AffLedLamp";
+import { AffLampImessage } from "./AffLampImessage";
+import { AffLampMessenger } from "./AffLampMessenger";
+import { PovBonCau } from "./PovBonCau";
+import { PovBonCauV2 } from "./PovBonCauV2";
+import { VibeEditingEp2Slides } from "./VibeEditingEp2Slides";
+import { VibeEditingEp2Recap } from "./VibeEditingEp2Recap";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -213,6 +251,22 @@ export const Root: React.FC = () => {
       <Composition
         id="ReupTT01Thumbnail"
         component={ReupTT01Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ReupNoFear01"
+        component={ReupNoFear01}
+        durationInFrames={1130}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ReupNoFear01Thumbnail"
+        component={ReupNoFear01Thumbnail}
         durationInFrames={1}
         fps={30}
         width={1080}
@@ -446,6 +500,294 @@ export const Root: React.FC = () => {
         id="VibeEditingEp1Thumbnail"
         component={VibeEditingEp1Thumbnail}
         durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TinhDaoFB01"
+        component={TinhDaoFB01}
+        durationInFrames={790}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TinhDaoFB01Thumbnail"
+        component={TinhDaoFB01Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AlanVfxPoc"
+        component={AlanVfxPoc}
+        durationInFrames={303}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HumanVfxPoc"
+        component={HumanVfxPoc}
+        durationInFrames={148}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="StickFighterPoc"
+        component={StickFighterPoc}
+        durationInFrames={148}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="StickFighterUltra"
+        component={StickFighterUltra}
+        durationInFrames={148}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CartoonMemePoc"
+        component={CartoonMemePoc}
+        durationInFrames={243}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CoachellaCrowdPoc"
+        component={CoachellaCrowdPoc}
+        durationInFrames={900}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BieberCoachellaRemake"
+        component={BieberCoachellaRemake}
+        durationInFrames={1884}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DanceVfxPoc"
+        component={DanceVfxPoc}
+        durationInFrames={261}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DanceVfxSideBySide"
+        component={DanceVfxSideBySide}
+        durationInFrames={261}
+        fps={25}
+        width={2160}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDanceCartoon"
+        component={IsseiDanceCartoon}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDanceSideBySide"
+        component={IsseiDanceSideBySide}
+        durationInFrames={427}
+        fps={30}
+        width={2160}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDance3D"
+        component={IsseiDance3D}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDance3DSmpl"
+        component={IsseiDance3DSmpl}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDance3DAim"
+        component={IsseiDance3DAim}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDance3DPolished"
+        component={IsseiDance3DPolished}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDanceProcedural"
+        component={IsseiDanceProcedural}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IsseiDanceProceduralV2"
+        component={IsseiDanceProceduralV2}
+        durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CamiksRedraw"
+        component={CamiksRedraw}
+        durationInFrames={180}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GhibliDaoPilot"
+        component={GhibliDaoPilot}
+        durationInFrames={630}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TrailerXeOm"
+        component={TrailerXeOm}
+        durationInFrames={900}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MvMinhTao"
+        component={MvMinhTao}
+        durationInFrames={900}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DocGheDo"
+        component={DocGheDo}
+        durationInFrames={1326}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TimelapseDoiNguoi"
+        component={TimelapseDoiNguoi}
+        durationInFrames={1860}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TimelapseBenThanh"
+        component={TimelapseBenThanh}
+        durationInFrames={1800}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TimelapseNghichThien"
+        component={TimelapseNghichThien}
+        durationInFrames={2490}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TimelapseNghichThienThumb"
+        component={TimelapseNghichThienThumb}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MultiverseAoDai"
+        component={MultiverseAoDai}
+        durationInFrames={900}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AffLedLamp"
+        component={AffLedLamp}
+        durationInFrames={1020}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AffLampImessage"
+        component={AffLampImessage}
+        durationInFrames={1170}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AffLampMessenger"
+        component={AffLampMessenger}
+        durationInFrames={1380}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovBonCau"
+        component={PovBonCau}
+        durationInFrames={1860}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovBonCauV2"
+        component={PovBonCauV2}
+        durationInFrames={2550}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingEp2Slides"
+        component={VibeEditingEp2Slides}
+        durationInFrames={13}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingEp2Recap"
+        component={VibeEditingEp2Recap}
+        durationInFrames={2580}
         fps={30}
         width={1080}
         height={1920}

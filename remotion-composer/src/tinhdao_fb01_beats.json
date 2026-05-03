@@ -1,0 +1,27 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "start": 0.0,
+      "duration": 4.347
+    },
+    {
+      "index": 2,
+      "start": 4.847,
+      "duration": 4.858
+    },
+    {
+      "index": 3,
+      "start": 10.205,
+      "duration": 4.492
+    },
+    {
+      "index": 4,
+      "start": 15.197,
+      "duration": 4.674
+    }
+  ],
+  "narration_end": 19.871,
+  "outro_start": 20.171,
+  "outro_end": 26.171
+}
