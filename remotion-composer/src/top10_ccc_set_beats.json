@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.115
+    },
+    {
+      "index": 2,
+      "name": "PRE_HOOK",
+      "start": 10.115,
+      "duration": 10.88
+    },
+    {
+      "index": 3,
+      "name": "STATUS_LINE",
+      "start": 20.995,
+      "duration": 11.056
+    },
+    {
+      "index": 4,
+      "name": "PERMISSIONS",
+      "start": 32.05,
+      "duration": 11.997
+    },
+    {
+      "index": 5,
+      "name": "ENV_MODEL",
+      "start": 44.047,
+      "duration": 13.467
+    },
+    {
+      "index": 6,
+      "name": "API_KEY",
+      "start": 57.514,
+      "duration": 12.115
+    },
+    {
+      "index": 7,
+      "name": "CO_AUTHOR",
+      "start": 69.629,
+      "duration": 12.467
+    },
+    {
+      "index": 8,
+      "name": "ADD_DIRS",
+      "start": 82.096,
+      "duration": 13.467
+    },
+    {
+      "index": 9,
+      "name": "OUTPUT_STYLE",
+      "start": 95.563,
+      "duration": 14.232
+    },
+    {
+      "index": 10,
+      "name": "POST_HOOK",
+      "start": 109.795,
+      "duration": 11.585
+    },
+    {
+      "index": 11,
+      "name": "MCP_AUTO",
+      "start": 121.38,
+      "duration": 14.643
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 136.023,
+      "duration": 12.997
+    }
+  ],
+  "total_duration": 149.02
+}

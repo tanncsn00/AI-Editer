@@ -1,0 +1,1082 @@
+[
+  {
+    "word": "10",
+    "start": 0.0,
+    "end": 0.565,
+    "beat": 1
+  },
+  {
+    "word": "LỆNH",
+    "start": 0.565,
+    "end": 1.129,
+    "beat": 1
+  },
+  {
+    "word": "CLAUDE",
+    "start": 1.129,
+    "end": 1.694,
+    "beat": 1
+  },
+  {
+    "word": "CODE",
+    "start": 1.694,
+    "end": 2.259,
+    "beat": 1
+  },
+  {
+    "word": "PHẢI",
+    "start": 2.259,
+    "end": 2.824,
+    "beat": 1
+  },
+  {
+    "word": "BIẾT",
+    "start": 2.824,
+    "end": 3.388,
+    "beat": 1
+  },
+  {
+    "word": "—",
+    "start": 3.388,
+    "end": 3.953,
+    "beat": 1
+  },
+  {
+    "word": "học",
+    "start": 3.953,
+    "end": 4.518,
+    "beat": 1
+  },
+  {
+    "word": "2",
+    "start": 4.518,
+    "end": 5.083,
+    "beat": 1
+  },
+  {
+    "word": "phút",
+    "start": 5.083,
+    "end": 5.647,
+    "beat": 1
+  },
+  {
+    "word": "xài",
+    "start": 5.647,
+    "end": 6.212,
+    "beat": 1
+  },
+  {
+    "word": "cả",
+    "start": 6.212,
+    "end": 6.777,
+    "beat": 1
+  },
+  {
+    "word": "đời",
+    "start": 6.777,
+    "end": 7.342,
+    "beat": 1
+  },
+  {
+    "word": "🗺️",
+    "start": 7.342,
+    "end": 8.105,
+    "beat": 2
+  },
+  {
+    "word": "#1",
+    "start": 8.105,
+    "end": 8.868,
+    "beat": 2
+  },
+  {
+    "word": "Shift+Tab",
+    "start": 8.868,
+    "end": 9.631,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 9.631,
+    "end": 10.394,
+    "beat": 2
+  },
+  {
+    "word": "Plan",
+    "start": 10.394,
+    "end": 11.157,
+    "beat": 2
+  },
+  {
+    "word": "Mode",
+    "start": 11.157,
+    "end": 11.92,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 11.92,
+    "end": 12.683,
+    "beat": 2
+  },
+  {
+    "word": "Claude",
+    "start": 12.683,
+    "end": 13.446,
+    "beat": 2
+  },
+  {
+    "word": "plan",
+    "start": 13.446,
+    "end": 14.209,
+    "beat": 2
+  },
+  {
+    "word": "trước,",
+    "start": 14.209,
+    "end": 14.972,
+    "beat": 2
+  },
+  {
+    "word": "vợ",
+    "start": 14.972,
+    "end": 15.735,
+    "beat": 2
+  },
+  {
+    "word": "duyệt",
+    "start": 15.735,
+    "end": 16.498,
+    "beat": 2
+  },
+  {
+    "word": "rồi",
+    "start": 16.498,
+    "end": 17.261,
+    "beat": 2
+  },
+  {
+    "word": "mới",
+    "start": 17.261,
+    "end": 18.024,
+    "beat": 2
+  },
+  {
+    "word": "code",
+    "start": 18.024,
+    "end": 18.787,
+    "beat": 2
+  },
+  {
+    "word": "📝",
+    "start": 18.787,
+    "end": 19.539,
+    "beat": 3
+  },
+  {
+    "word": "#2",
+    "start": 19.539,
+    "end": 20.29,
+    "beat": 3
+  },
+  {
+    "word": "Gõ",
+    "start": 20.29,
+    "end": 21.042,
+    "beat": 3
+  },
+  {
+    "word": "\"#\"",
+    "start": 21.042,
+    "end": 21.793,
+    "beat": 3
+  },
+  {
+    "word": "+",
+    "start": 21.793,
+    "end": 22.545,
+    "beat": 3
+  },
+  {
+    "word": "câu",
+    "start": 22.545,
+    "end": 23.296,
+    "beat": 3
+  },
+  {
+    "word": "=",
+    "start": 23.296,
+    "end": 24.048,
+    "beat": 3
+  },
+  {
+    "word": "Claude",
+    "start": 24.048,
+    "end": 24.799,
+    "beat": 3
+  },
+  {
+    "word": "lưu",
+    "start": 24.799,
+    "end": 25.551,
+    "beat": 3
+  },
+  {
+    "word": "vào",
+    "start": 25.551,
+    "end": 26.302,
+    "beat": 3
+  },
+  {
+    "word": "CLAUDE.md",
+    "start": 26.302,
+    "end": 27.054,
+    "beat": 3
+  },
+  {
+    "word": "nhớ",
+    "start": 27.054,
+    "end": 27.805,
+    "beat": 3
+  },
+  {
+    "word": "mãi",
+    "start": 27.805,
+    "end": 28.557,
+    "beat": 3
+  },
+  {
+    "word": "mãi",
+    "start": 28.557,
+    "end": 29.308,
+    "beat": 3
+  },
+  {
+    "word": "🧹",
+    "start": 29.308,
+    "end": 29.94,
+    "beat": 4
+  },
+  {
+    "word": "#3",
+    "start": 29.94,
+    "end": 30.572,
+    "beat": 4
+  },
+  {
+    "word": "/clear",
+    "start": 30.572,
+    "end": 31.205,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 31.205,
+    "end": 31.837,
+    "beat": 4
+  },
+  {
+    "word": "xóa",
+    "start": 31.837,
+    "end": 32.469,
+    "beat": 4
+  },
+  {
+    "word": "context",
+    "start": 32.469,
+    "end": 33.101,
+    "beat": 4
+  },
+  {
+    "word": "cũ",
+    "start": 33.101,
+    "end": 33.733,
+    "beat": 4
+  },
+  {
+    "word": "khi",
+    "start": 33.733,
+    "end": 34.365,
+    "beat": 4
+  },
+  {
+    "word": "đổi",
+    "start": 34.365,
+    "end": 34.997,
+    "beat": 4
+  },
+  {
+    "word": "task",
+    "start": 34.997,
+    "end": 35.629,
+    "beat": 4
+  },
+  {
+    "word": "mới",
+    "start": 35.629,
+    "end": 36.261,
+    "beat": 4
+  },
+  {
+    "word": "—",
+    "start": 36.261,
+    "end": 36.893,
+    "beat": 4
+  },
+  {
+    "word": "Claude",
+    "start": 36.893,
+    "end": 37.525,
+    "beat": 4
+  },
+  {
+    "word": "không",
+    "start": 37.525,
+    "end": 38.157,
+    "beat": 4
+  },
+  {
+    "word": "lú",
+    "start": 38.157,
+    "end": 38.789,
+    "beat": 4
+  },
+  {
+    "word": "🗜️",
+    "start": 38.789,
+    "end": 39.494,
+    "beat": 5
+  },
+  {
+    "word": "#4",
+    "start": 39.494,
+    "end": 40.199,
+    "beat": 5
+  },
+  {
+    "word": "/compact",
+    "start": 40.199,
+    "end": 40.905,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 40.905,
+    "end": 41.61,
+    "beat": 5
+  },
+  {
+    "word": "nén",
+    "start": 41.61,
+    "end": 42.315,
+    "beat": 5
+  },
+  {
+    "word": "context",
+    "start": 42.315,
+    "end": 43.02,
+    "beat": 5
+  },
+  {
+    "word": "dài",
+    "start": 43.02,
+    "end": 43.726,
+    "beat": 5
+  },
+  {
+    "word": "giữ",
+    "start": 43.726,
+    "end": 44.431,
+    "beat": 5
+  },
+  {
+    "word": "key",
+    "start": 44.431,
+    "end": 45.136,
+    "beat": 5
+  },
+  {
+    "word": "facts",
+    "start": 45.136,
+    "end": 45.841,
+    "beat": 5
+  },
+  {
+    "word": "—",
+    "start": 45.841,
+    "end": 46.547,
+    "beat": 5
+  },
+  {
+    "word": "save",
+    "start": 46.547,
+    "end": 47.252,
+    "beat": 5
+  },
+  {
+    "word": "token,",
+    "start": 47.252,
+    "end": 47.957,
+    "beat": 5
+  },
+  {
+    "word": "save",
+    "start": 47.957,
+    "end": 48.662,
+    "beat": 5
+  },
+  {
+    "word": "tiền",
+    "start": 48.662,
+    "end": 49.368,
+    "beat": 5
+  },
+  {
+    "word": "🖼️",
+    "start": 49.368,
+    "end": 50.2,
+    "beat": 6
+  },
+  {
+    "word": "#5",
+    "start": 50.2,
+    "end": 51.033,
+    "beat": 6
+  },
+  {
+    "word": "Drag",
+    "start": 51.033,
+    "end": 51.865,
+    "beat": 6
+  },
+  {
+    "word": "file",
+    "start": 51.865,
+    "end": 52.697,
+    "beat": 6
+  },
+  {
+    "word": "+",
+    "start": 52.697,
+    "end": 53.53,
+    "beat": 6
+  },
+  {
+    "word": "Ctrl+V",
+    "start": 53.53,
+    "end": 54.362,
+    "beat": 6
+  },
+  {
+    "word": "paste",
+    "start": 54.362,
+    "end": 55.195,
+    "beat": 6
+  },
+  {
+    "word": "ảnh",
+    "start": 55.195,
+    "end": 56.027,
+    "beat": 6
+  },
+  {
+    "word": "·",
+    "start": 56.027,
+    "end": 56.86,
+    "beat": 6
+  },
+  {
+    "word": "Claude",
+    "start": 56.86,
+    "end": 57.692,
+    "beat": 6
+  },
+  {
+    "word": "OCR,",
+    "start": 57.692,
+    "end": 58.524,
+    "beat": 6
+  },
+  {
+    "word": "debug",
+    "start": 58.524,
+    "end": 59.357,
+    "beat": 6
+  },
+  {
+    "word": "screenshot",
+    "start": 59.357,
+    "end": 60.189,
+    "beat": 6
+  },
+  {
+    "word": "tức",
+    "start": 60.189,
+    "end": 61.022,
+    "beat": 6
+  },
+  {
+    "word": "thì",
+    "start": 61.022,
+    "end": 61.854,
+    "beat": 6
+  },
+  {
+    "word": "🎯",
+    "start": 61.854,
+    "end": 62.421,
+    "beat": 7
+  },
+  {
+    "word": "#6",
+    "start": 62.421,
+    "end": 62.987,
+    "beat": 7
+  },
+  {
+    "word": "@file",
+    "start": 62.987,
+    "end": 63.554,
+    "beat": 7
+  },
+  {
+    "word": "mention",
+    "start": 63.554,
+    "end": 64.12,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 64.12,
+    "end": 64.687,
+    "beat": 7
+  },
+  {
+    "word": "pin",
+    "start": 64.687,
+    "end": 65.253,
+    "beat": 7
+  },
+  {
+    "word": "file",
+    "start": 65.253,
+    "end": 65.82,
+    "beat": 7
+  },
+  {
+    "word": "Claude",
+    "start": 65.82,
+    "end": 66.386,
+    "beat": 7
+  },
+  {
+    "word": "focus",
+    "start": 66.386,
+    "end": 66.953,
+    "beat": 7
+  },
+  {
+    "word": "đúng",
+    "start": 66.953,
+    "end": 67.519,
+    "beat": 7
+  },
+  {
+    "word": "vị",
+    "start": 67.519,
+    "end": 68.086,
+    "beat": 7
+  },
+  {
+    "word": "trí,",
+    "start": 68.086,
+    "end": 68.652,
+    "beat": 7
+  },
+  {
+    "word": "không",
+    "start": 68.652,
+    "end": 69.219,
+    "beat": 7
+  },
+  {
+    "word": "lan",
+    "start": 69.219,
+    "end": 69.785,
+    "beat": 7
+  },
+  {
+    "word": "man",
+    "start": 69.785,
+    "end": 70.352,
+    "beat": 7
+  },
+  {
+    "word": "⚡",
+    "start": 70.352,
+    "end": 71.161,
+    "beat": 8
+  },
+  {
+    "word": "#7",
+    "start": 71.161,
+    "end": 71.97,
+    "beat": 8
+  },
+  {
+    "word": "!command",
+    "start": 71.97,
+    "end": 72.78,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 72.78,
+    "end": 73.589,
+    "beat": 8
+  },
+  {
+    "word": "chạy",
+    "start": 73.589,
+    "end": 74.398,
+    "beat": 8
+  },
+  {
+    "word": "bash",
+    "start": 74.398,
+    "end": 75.208,
+    "beat": 8
+  },
+  {
+    "word": "inline",
+    "start": 75.208,
+    "end": 76.017,
+    "beat": 8
+  },
+  {
+    "word": "không",
+    "start": 76.017,
+    "end": 76.826,
+    "beat": 8
+  },
+  {
+    "word": "thoát",
+    "start": 76.826,
+    "end": 77.636,
+    "beat": 8
+  },
+  {
+    "word": "chat",
+    "start": 77.636,
+    "end": 78.445,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 78.445,
+    "end": 79.254,
+    "beat": 8
+  },
+  {
+    "word": "power-user",
+    "start": 79.254,
+    "end": 80.063,
+    "beat": 8
+  },
+  {
+    "word": "feel",
+    "start": 80.063,
+    "end": 80.873,
+    "beat": 8
+  },
+  {
+    "word": "↩️",
+    "start": 80.873,
+    "end": 81.366,
+    "beat": 9
+  },
+  {
+    "word": "#8",
+    "start": 81.366,
+    "end": 81.859,
+    "beat": 9
+  },
+  {
+    "word": "Esc",
+    "start": 81.859,
+    "end": 82.352,
+    "beat": 9
+  },
+  {
+    "word": "+",
+    "start": 82.352,
+    "end": 82.845,
+    "beat": 9
+  },
+  {
+    "word": "Esc",
+    "start": 82.845,
+    "end": 83.338,
+    "beat": 9
+  },
+  {
+    "word": "·",
+    "start": 83.338,
+    "end": 83.831,
+    "beat": 9
+  },
+  {
+    "word": "undo",
+    "start": 83.831,
+    "end": 84.324,
+    "beat": 9
+  },
+  {
+    "word": "về",
+    "start": 84.324,
+    "end": 84.817,
+    "beat": 9
+  },
+  {
+    "word": "bước",
+    "start": 84.817,
+    "end": 85.31,
+    "beat": 9
+  },
+  {
+    "word": "trước",
+    "start": 85.31,
+    "end": 85.803,
+    "beat": 9
+  },
+  {
+    "word": "·",
+    "start": 85.803,
+    "end": 86.296,
+    "beat": 9
+  },
+  {
+    "word": "cứu",
+    "start": 86.296,
+    "end": 86.79,
+    "beat": 9
+  },
+  {
+    "word": "vợ",
+    "start": 86.79,
+    "end": 87.283,
+    "beat": 9
+  },
+  {
+    "word": "khi",
+    "start": 87.283,
+    "end": 87.776,
+    "beat": 9
+  },
+  {
+    "word": "Claude",
+    "start": 87.776,
+    "end": 88.269,
+    "beat": 9
+  },
+  {
+    "word": "làm",
+    "start": 88.269,
+    "end": 88.762,
+    "beat": 9
+  },
+  {
+    "word": "sai",
+    "start": 88.762,
+    "end": 89.255,
+    "beat": 9
+  },
+  {
+    "word": "💰",
+    "start": 89.255,
+    "end": 90.037,
+    "beat": 10
+  },
+  {
+    "word": "#9",
+    "start": 90.037,
+    "end": 90.82,
+    "beat": 10
+  },
+  {
+    "word": "/cost",
+    "start": 90.82,
+    "end": 91.602,
+    "beat": 10
+  },
+  {
+    "word": "·",
+    "start": 91.602,
+    "end": 92.384,
+    "beat": 10
+  },
+  {
+    "word": "xem",
+    "start": 92.384,
+    "end": 93.167,
+    "beat": 10
+  },
+  {
+    "word": "session",
+    "start": 93.167,
+    "end": 93.949,
+    "beat": 10
+  },
+  {
+    "word": "này",
+    "start": 93.949,
+    "end": 94.731,
+    "beat": 10
+  },
+  {
+    "word": "đốt",
+    "start": 94.731,
+    "end": 95.514,
+    "beat": 10
+  },
+  {
+    "word": "bao",
+    "start": 95.514,
+    "end": 96.296,
+    "beat": 10
+  },
+  {
+    "word": "xu",
+    "start": 96.296,
+    "end": 97.078,
+    "beat": 10
+  },
+  {
+    "word": "API",
+    "start": 97.078,
+    "end": 97.861,
+    "beat": 10
+  },
+  {
+    "word": "—",
+    "start": 97.861,
+    "end": 98.643,
+    "beat": 10
+  },
+  {
+    "word": "kiểm",
+    "start": 98.643,
+    "end": 99.425,
+    "beat": 10
+  },
+  {
+    "word": "soát",
+    "start": 99.425,
+    "end": 100.207,
+    "beat": 10
+  },
+  {
+    "word": "ví",
+    "start": 100.207,
+    "end": 100.99,
+    "beat": 10
+  },
+  {
+    "word": "🧠",
+    "start": 100.99,
+    "end": 101.796,
+    "beat": 11
+  },
+  {
+    "word": "#10",
+    "start": 101.796,
+    "end": 102.601,
+    "beat": 11
+  },
+  {
+    "word": "/model",
+    "start": 102.601,
+    "end": 103.407,
+    "beat": 11
+  },
+  {
+    "word": "·",
+    "start": 103.407,
+    "end": 104.213,
+    "beat": 11
+  },
+  {
+    "word": "đổi",
+    "start": 104.213,
+    "end": 105.018,
+    "beat": 11
+  },
+  {
+    "word": "Opus",
+    "start": 105.018,
+    "end": 105.824,
+    "beat": 11
+  },
+  {
+    "word": "/",
+    "start": 105.824,
+    "end": 106.63,
+    "beat": 11
+  },
+  {
+    "word": "Sonnet",
+    "start": 106.63,
+    "end": 107.435,
+    "beat": 11
+  },
+  {
+    "word": "/",
+    "start": 107.435,
+    "end": 108.241,
+    "beat": 11
+  },
+  {
+    "word": "Haiku",
+    "start": 108.241,
+    "end": 109.047,
+    "beat": 11
+  },
+  {
+    "word": "·",
+    "start": 109.047,
+    "end": 109.852,
+    "beat": 11
+  },
+  {
+    "word": "task",
+    "start": 109.852,
+    "end": 110.658,
+    "beat": 11
+  },
+  {
+    "word": "khó",
+    "start": 110.658,
+    "end": 111.464,
+    "beat": 11
+  },
+  {
+    "word": "Opus,",
+    "start": 111.464,
+    "end": 112.27,
+    "beat": 11
+  },
+  {
+    "word": "dễ",
+    "start": 112.27,
+    "end": 113.075,
+    "beat": 11
+  },
+  {
+    "word": "Haiku",
+    "start": 113.075,
+    "end": 113.881,
+    "beat": 11
+  },
+  {
+    "word": "💾",
+    "start": 113.881,
+    "end": 114.585,
+    "beat": 12
+  },
+  {
+    "word": "Save",
+    "start": 114.585,
+    "end": 115.289,
+    "beat": 12
+  },
+  {
+    "word": "·",
+    "start": 115.289,
+    "end": 115.993,
+    "beat": 12
+  },
+  {
+    "word": "💬",
+    "start": 115.993,
+    "end": 116.696,
+    "beat": 12
+  },
+  {
+    "word": "Comment",
+    "start": 116.696,
+    "end": 117.4,
+    "beat": 12
+  },
+  {
+    "word": "lệnh",
+    "start": 117.4,
+    "end": 118.104,
+    "beat": 12
+  },
+  {
+    "word": "vợ",
+    "start": 118.104,
+    "end": 118.808,
+    "beat": 12
+  },
+  {
+    "word": "xài",
+    "start": 118.808,
+    "end": 119.512,
+    "beat": 12
+  },
+  {
+    "word": "nhiều",
+    "start": 119.512,
+    "end": 120.216,
+    "beat": 12
+  },
+  {
+    "word": "nhất",
+    "start": 120.216,
+    "end": 120.92,
+    "beat": 12
+  },
+  {
+    "word": "·",
+    "start": 120.92,
+    "end": 121.624,
+    "beat": 12
+  },
+  {
+    "word": "🔗",
+    "start": 121.624,
+    "end": 122.328,
+    "beat": 12
+  },
+  {
+    "word": "Follow",
+    "start": 122.328,
+    "end": 123.032,
+    "beat": 12
+  },
+  {
+    "word": "tip",
+    "start": 123.032,
+    "end": 123.735,
+    "beat": 12
+  },
+  {
+    "word": "Claude",
+    "start": 123.735,
+    "end": 124.439,
+    "beat": 12
+  },
+  {
+    "word": "Code",
+    "start": 124.439,
+    "end": 125.143,
+    "beat": 12
+  },
+  {
+    "word": "daily",
+    "start": 125.143,
+    "end": 125.847,
+    "beat": 12
+  }
+]

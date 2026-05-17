@@ -1,0 +1,860 @@
+[
+  {
+    "word": "Chào",
+    "start": 0.0,
+    "end": 0.506,
+    "beat": 1
+  },
+  {
+    "word": "các",
+    "start": 0.506,
+    "end": 1.012,
+    "beat": 1
+  },
+  {
+    "word": "con",
+    "start": 1.012,
+    "end": 1.519,
+    "beat": 1
+  },
+  {
+    "word": "vợ",
+    "start": 1.519,
+    "end": 2.025,
+    "beat": 1
+  },
+  {
+    "word": "iuuuu!",
+    "start": 2.025,
+    "end": 2.531,
+    "beat": 1
+  },
+  {
+    "word": "5",
+    "start": 2.531,
+    "end": 3.037,
+    "beat": 1
+  },
+  {
+    "word": "MCP",
+    "start": 3.037,
+    "end": 3.543,
+    "beat": 1
+  },
+  {
+    "word": "cần",
+    "start": 3.543,
+    "end": 4.05,
+    "beat": 1
+  },
+  {
+    "word": "phải",
+    "start": 4.05,
+    "end": 4.556,
+    "beat": 1
+  },
+  {
+    "word": "có",
+    "start": 4.556,
+    "end": 5.062,
+    "beat": 1
+  },
+  {
+    "word": "cho",
+    "start": 5.062,
+    "end": 5.568,
+    "beat": 1
+  },
+  {
+    "word": "Claude",
+    "start": 5.568,
+    "end": 6.075,
+    "beat": 1
+  },
+  {
+    "word": "Code",
+    "start": 6.075,
+    "end": 6.581,
+    "beat": 1
+  },
+  {
+    "word": "2026",
+    "start": 6.581,
+    "end": 7.087,
+    "beat": 1
+  },
+  {
+    "word": "—",
+    "start": 7.087,
+    "end": 7.593,
+    "beat": 1
+  },
+  {
+    "word": "bỏ",
+    "start": 7.593,
+    "end": 8.099,
+    "beat": 1
+  },
+  {
+    "word": "qua",
+    "start": 8.099,
+    "end": 8.606,
+    "beat": 1
+  },
+  {
+    "word": "=",
+    "start": 8.606,
+    "end": 9.112,
+    "beat": 1
+  },
+  {
+    "word": "mất",
+    "start": 9.112,
+    "end": 9.618,
+    "beat": 1
+  },
+  {
+    "word": "50%",
+    "start": 9.618,
+    "end": 10.124,
+    "beat": 1
+  },
+  {
+    "word": "sức",
+    "start": 10.124,
+    "end": 10.63,
+    "beat": 1
+  },
+  {
+    "word": "mạnh!",
+    "start": 10.63,
+    "end": 11.137,
+    "beat": 1
+  },
+  {
+    "word": "🐙",
+    "start": 11.137,
+    "end": 11.788,
+    "beat": 2
+  },
+  {
+    "word": "#1",
+    "start": 11.788,
+    "end": 12.44,
+    "beat": 2
+  },
+  {
+    "word": "GitHub",
+    "start": 12.44,
+    "end": 13.092,
+    "beat": 2
+  },
+  {
+    "word": "MCP",
+    "start": 13.092,
+    "end": 13.744,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 13.744,
+    "end": 14.396,
+    "beat": 2
+  },
+  {
+    "word": "29.8k",
+    "start": 14.396,
+    "end": 15.048,
+    "beat": 2
+  },
+  {
+    "word": "⭐",
+    "start": 15.048,
+    "end": 15.7,
+    "beat": 2
+  },
+  {
+    "word": "Official",
+    "start": 15.7,
+    "end": 16.351,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 16.351,
+    "end": 17.003,
+    "beat": 2
+  },
+  {
+    "word": "Manage",
+    "start": 17.003,
+    "end": 17.655,
+    "beat": 2
+  },
+  {
+    "word": "repos,",
+    "start": 17.655,
+    "end": 18.307,
+    "beat": 2
+  },
+  {
+    "word": "PRs,",
+    "start": 18.307,
+    "end": 18.959,
+    "beat": 2
+  },
+  {
+    "word": "issues",
+    "start": 18.959,
+    "end": 19.611,
+    "beat": 2
+  },
+  {
+    "word": "—",
+    "start": 19.611,
+    "end": 20.262,
+    "beat": 2
+  },
+  {
+    "word": "không",
+    "start": 20.262,
+    "end": 20.914,
+    "beat": 2
+  },
+  {
+    "word": "cần",
+    "start": 20.914,
+    "end": 21.566,
+    "beat": 2
+  },
+  {
+    "word": "rời",
+    "start": 21.566,
+    "end": 22.218,
+    "beat": 2
+  },
+  {
+    "word": "terminal.",
+    "start": 22.218,
+    "end": 22.87,
+    "beat": 2
+  },
+  {
+    "word": "📚",
+    "start": 22.87,
+    "end": 23.63,
+    "beat": 3
+  },
+  {
+    "word": "#2",
+    "start": 23.63,
+    "end": 24.39,
+    "beat": 3
+  },
+  {
+    "word": "Context7",
+    "start": 24.39,
+    "end": 25.15,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 25.15,
+    "end": 25.91,
+    "beat": 3
+  },
+  {
+    "word": "55.2k",
+    "start": 25.91,
+    "end": 26.67,
+    "beat": 3
+  },
+  {
+    "word": "⭐",
+    "start": 26.67,
+    "end": 27.43,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 27.43,
+    "end": 28.191,
+    "beat": 3
+  },
+  {
+    "word": "Real-time",
+    "start": 28.191,
+    "end": 28.951,
+    "beat": 3
+  },
+  {
+    "word": "docs",
+    "start": 28.951,
+    "end": 29.711,
+    "beat": 3
+  },
+  {
+    "word": "version-specific",
+    "start": 29.711,
+    "end": 30.471,
+    "beat": 3
+  },
+  {
+    "word": "—",
+    "start": 30.471,
+    "end": 31.231,
+    "beat": 3
+  },
+  {
+    "word": "hết",
+    "start": 31.231,
+    "end": 31.991,
+    "beat": 3
+  },
+  {
+    "word": "hallucinate",
+    "start": 31.991,
+    "end": 32.751,
+    "beat": 3
+  },
+  {
+    "word": "API",
+    "start": 32.751,
+    "end": 33.511,
+    "beat": 3
+  },
+  {
+    "word": "cũ.",
+    "start": 33.511,
+    "end": 34.272,
+    "beat": 3
+  },
+  {
+    "word": "🎭",
+    "start": 34.272,
+    "end": 34.886,
+    "beat": 4
+  },
+  {
+    "word": "#3",
+    "start": 34.886,
+    "end": 35.5,
+    "beat": 4
+  },
+  {
+    "word": "Playwright",
+    "start": 35.5,
+    "end": 36.114,
+    "beat": 4
+  },
+  {
+    "word": "MCP",
+    "start": 36.114,
+    "end": 36.729,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 36.729,
+    "end": 37.343,
+    "beat": 4
+  },
+  {
+    "word": "32.4k",
+    "start": 37.343,
+    "end": 37.957,
+    "beat": 4
+  },
+  {
+    "word": "⭐",
+    "start": 37.957,
+    "end": 38.572,
+    "beat": 4
+  },
+  {
+    "word": "Microsoft",
+    "start": 38.572,
+    "end": 39.186,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 39.186,
+    "end": 39.8,
+    "beat": 4
+  },
+  {
+    "word": "Browser",
+    "start": 39.8,
+    "end": 40.414,
+    "beat": 4
+  },
+  {
+    "word": "automation,",
+    "start": 40.414,
+    "end": 41.029,
+    "beat": 4
+  },
+  {
+    "word": "E2E",
+    "start": 41.029,
+    "end": 41.643,
+    "beat": 4
+  },
+  {
+    "word": "test,",
+    "start": 41.643,
+    "end": 42.257,
+    "beat": 4
+  },
+  {
+    "word": "scrape",
+    "start": 42.257,
+    "end": 42.871,
+    "beat": 4
+  },
+  {
+    "word": "JS-heavy.",
+    "start": 42.871,
+    "end": 43.486,
+    "beat": 4
+  },
+  {
+    "word": "📄",
+    "start": 43.486,
+    "end": 44.153,
+    "beat": 5
+  },
+  {
+    "word": "#4",
+    "start": 44.153,
+    "end": 44.82,
+    "beat": 5
+  },
+  {
+    "word": "MarkItDown",
+    "start": 44.82,
+    "end": 45.488,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 45.488,
+    "end": 46.155,
+    "beat": 5
+  },
+  {
+    "word": "120k",
+    "start": 46.155,
+    "end": 46.822,
+    "beat": 5
+  },
+  {
+    "word": "⭐",
+    "start": 46.822,
+    "end": 47.49,
+    "beat": 5
+  },
+  {
+    "word": "Microsoft",
+    "start": 47.49,
+    "end": 48.157,
+    "beat": 5
+  },
+  {
+    "word": "(KHỦNG",
+    "start": 48.157,
+    "end": 48.824,
+    "beat": 5
+  },
+  {
+    "word": "NHẤT)",
+    "start": 48.824,
+    "end": 49.492,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 49.492,
+    "end": 50.159,
+    "beat": 5
+  },
+  {
+    "word": "PDF/Word/Excel/PPT",
+    "start": 50.159,
+    "end": 50.826,
+    "beat": 5
+  },
+  {
+    "word": "→",
+    "start": 50.826,
+    "end": 51.493,
+    "beat": 5
+  },
+  {
+    "word": "Markdown",
+    "start": 51.493,
+    "end": 52.161,
+    "beat": 5
+  },
+  {
+    "word": "tự",
+    "start": 52.161,
+    "end": 52.828,
+    "beat": 5
+  },
+  {
+    "word": "động.",
+    "start": 52.828,
+    "end": 53.495,
+    "beat": 5
+  },
+  {
+    "word": "📁",
+    "start": 53.495,
+    "end": 54.286,
+    "beat": 6
+  },
+  {
+    "word": "#5",
+    "start": 54.286,
+    "end": 55.077,
+    "beat": 6
+  },
+  {
+    "word": "Filesystem",
+    "start": 55.077,
+    "end": 55.868,
+    "beat": 6
+  },
+  {
+    "word": "·",
+    "start": 55.868,
+    "end": 56.658,
+    "beat": 6
+  },
+  {
+    "word": "85.6k",
+    "start": 56.658,
+    "end": 57.449,
+    "beat": 6
+  },
+  {
+    "word": "⭐",
+    "start": 57.449,
+    "end": 58.24,
+    "beat": 6
+  },
+  {
+    "word": "Official",
+    "start": 58.24,
+    "end": 59.031,
+    "beat": 6
+  },
+  {
+    "word": "Anthropic",
+    "start": 59.031,
+    "end": 59.821,
+    "beat": 6
+  },
+  {
+    "word": "·",
+    "start": 59.821,
+    "end": 60.612,
+    "beat": 6
+  },
+  {
+    "word": "File",
+    "start": 60.612,
+    "end": 61.403,
+    "beat": 6
+  },
+  {
+    "word": "access",
+    "start": 61.403,
+    "end": 62.194,
+    "beat": 6
+  },
+  {
+    "word": "sandboxed,",
+    "start": 62.194,
+    "end": 62.984,
+    "beat": 6
+  },
+  {
+    "word": "multi-project",
+    "start": 62.984,
+    "end": 63.775,
+    "beat": 6
+  },
+  {
+    "word": "safe.",
+    "start": 63.775,
+    "end": 64.566,
+    "beat": 6
+  },
+  {
+    "word": "🚀",
+    "start": 64.566,
+    "end": 65.092,
+    "beat": 7
+  },
+  {
+    "word": "BONUS",
+    "start": 65.092,
+    "end": 65.618,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 65.618,
+    "end": 66.144,
+    "beat": 7
+  },
+  {
+    "word": "Supabase",
+    "start": 66.144,
+    "end": 66.67,
+    "beat": 7
+  },
+  {
+    "word": "MCP",
+    "start": 66.67,
+    "end": 67.197,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 67.197,
+    "end": 67.723,
+    "beat": 7
+  },
+  {
+    "word": "Run",
+    "start": 67.723,
+    "end": 68.249,
+    "beat": 7
+  },
+  {
+    "word": "SQL,",
+    "start": 68.249,
+    "end": 68.775,
+    "beat": 7
+  },
+  {
+    "word": "manage",
+    "start": 68.775,
+    "end": 69.301,
+    "beat": 7
+  },
+  {
+    "word": "DB,",
+    "start": 69.301,
+    "end": 69.827,
+    "beat": 7
+  },
+  {
+    "word": "deploy",
+    "start": 69.827,
+    "end": 70.354,
+    "beat": 7
+  },
+  {
+    "word": "edge",
+    "start": 70.354,
+    "end": 70.88,
+    "beat": 7
+  },
+  {
+    "word": "function",
+    "start": 70.88,
+    "end": 71.406,
+    "beat": 7
+  },
+  {
+    "word": "ngay",
+    "start": 71.406,
+    "end": 71.932,
+    "beat": 7
+  },
+  {
+    "word": "từ",
+    "start": 71.932,
+    "end": 72.458,
+    "beat": 7
+  },
+  {
+    "word": "Claude.",
+    "start": 72.458,
+    "end": 72.984,
+    "beat": 7
+  },
+  {
+    "word": "🧠",
+    "start": 72.984,
+    "end": 73.525,
+    "beat": 8
+  },
+  {
+    "word": "BONUS",
+    "start": 73.525,
+    "end": 74.066,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 74.066,
+    "end": 74.606,
+    "beat": 8
+  },
+  {
+    "word": "Sequential",
+    "start": 74.606,
+    "end": 75.147,
+    "beat": 8
+  },
+  {
+    "word": "Thinking",
+    "start": 75.147,
+    "end": 75.687,
+    "beat": 8
+  },
+  {
+    "word": "Official",
+    "start": 75.687,
+    "end": 76.228,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 76.228,
+    "end": 76.768,
+    "beat": 8
+  },
+  {
+    "word": "Boost",
+    "start": 76.768,
+    "end": 77.309,
+    "beat": 8
+  },
+  {
+    "word": "reasoning",
+    "start": 77.309,
+    "end": 77.849,
+    "beat": 8
+  },
+  {
+    "word": "cho",
+    "start": 77.849,
+    "end": 78.39,
+    "beat": 8
+  },
+  {
+    "word": "debug,",
+    "start": 78.39,
+    "end": 78.93,
+    "beat": 8
+  },
+  {
+    "word": "refactor,",
+    "start": 78.93,
+    "end": 79.471,
+    "beat": 8
+  },
+  {
+    "word": "architecture.",
+    "start": 79.471,
+    "end": 80.011,
+    "beat": 8
+  },
+  {
+    "word": "💾",
+    "start": 80.011,
+    "end": 80.74,
+    "beat": 9
+  },
+  {
+    "word": "Save",
+    "start": 80.74,
+    "end": 81.47,
+    "beat": 9
+  },
+  {
+    "word": "·",
+    "start": 81.47,
+    "end": 82.199,
+    "beat": 9
+  },
+  {
+    "word": "💬",
+    "start": 82.199,
+    "end": 82.928,
+    "beat": 9
+  },
+  {
+    "word": "Comment",
+    "start": 82.928,
+    "end": 83.657,
+    "beat": 9
+  },
+  {
+    "word": "MCP",
+    "start": 83.657,
+    "end": 84.386,
+    "beat": 9
+  },
+  {
+    "word": "bạn",
+    "start": 84.386,
+    "end": 85.115,
+    "beat": 9
+  },
+  {
+    "word": "xài",
+    "start": 85.115,
+    "end": 85.845,
+    "beat": 9
+  },
+  {
+    "word": "·",
+    "start": 85.845,
+    "end": 86.574,
+    "beat": 9
+  },
+  {
+    "word": "🔗",
+    "start": 86.574,
+    "end": 87.303,
+    "beat": 9
+  },
+  {
+    "word": "Follow",
+    "start": 87.303,
+    "end": 88.032,
+    "beat": 9
+  },
+  {
+    "word": "tip",
+    "start": 88.032,
+    "end": 88.761,
+    "beat": 9
+  },
+  {
+    "word": "Claude",
+    "start": 88.761,
+    "end": 89.491,
+    "beat": 9
+  },
+  {
+    "word": "Code",
+    "start": 89.491,
+    "end": 90.22,
+    "beat": 9
+  },
+  {
+    "word": "daily!",
+    "start": 90.22,
+    "end": 90.949,
+    "beat": 9
+  }
+]

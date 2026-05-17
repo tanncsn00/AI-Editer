@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.137
+    },
+    {
+      "index": 2,
+      "name": "GITHUB",
+      "start": 11.137,
+      "duration": 11.733
+    },
+    {
+      "index": 3,
+      "name": "CONTEXT7",
+      "start": 22.87,
+      "duration": 11.402
+    },
+    {
+      "index": 4,
+      "name": "PLAYWRIGHT",
+      "start": 34.272,
+      "duration": 9.214
+    },
+    {
+      "index": 5,
+      "name": "MARKITDOWN",
+      "start": 43.486,
+      "duration": 10.01
+    },
+    {
+      "index": 6,
+      "name": "FILESYSTEM",
+      "start": 53.495,
+      "duration": 11.07
+    },
+    {
+      "index": 7,
+      "name": "SUPABASE",
+      "start": 64.566,
+      "duration": 8.419
+    },
+    {
+      "index": 8,
+      "name": "SEQUENTIAL",
+      "start": 72.984,
+      "duration": 7.027
+    },
+    {
+      "index": 9,
+      "name": "CTA",
+      "start": 80.011,
+      "duration": 10.938
+    }
+  ],
+  "total_duration": 90.949
+}

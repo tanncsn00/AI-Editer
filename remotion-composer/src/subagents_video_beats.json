@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 9.12
+    },
+    {
+      "index": 2,
+      "name": "EXPLORE",
+      "start": 9.12,
+      "duration": 11.16
+    },
+    {
+      "index": 3,
+      "name": "GENERAL",
+      "start": 20.28,
+      "duration": 12.0
+    },
+    {
+      "index": 4,
+      "name": "PLAN",
+      "start": 32.279,
+      "duration": 10.26
+    },
+    {
+      "index": 5,
+      "name": "CODE_REVIEWER",
+      "start": 42.539,
+      "duration": 14.16
+    },
+    {
+      "index": 6,
+      "name": "DEBUGGER",
+      "start": 56.699,
+      "duration": 10.02
+    },
+    {
+      "index": 7,
+      "name": "BACKEND",
+      "start": 66.718,
+      "duration": 10.74
+    },
+    {
+      "index": 8,
+      "name": "FRONTEND",
+      "start": 77.458,
+      "duration": 10.62
+    },
+    {
+      "index": 9,
+      "name": "CTA",
+      "start": 88.078,
+      "duration": 10.26
+    }
+  ],
+  "total_duration": 98.338
+}

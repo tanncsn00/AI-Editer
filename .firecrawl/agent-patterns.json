@@ -1,0 +1,1515 @@
+Agentic AI Design Patterns(2026 Edition) | by Dewasheesh Rana
+  URL: https://medium.com/@dewasheesh.rana/agentic-ai-design-patterns-2026-ed-e3a5125162c5
+  1. Architect's Reality Check (Why This Matters) · 2. From LLM → Agent → System (Mental Model) · 3. Canonical Agentic Architecture (2026 Reference ...
+
+  --- Content ---
+  [Sitemap](https://medium.com/sitemap/sitemap.xml)
+  
+  [Open in app](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=post_page---top_nav_layout_nav-----------------------------------------)
+  
+  Sign up
+  
+  [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40dewasheesh.rana%2Fagentic-ai-design-patterns-2026-ed-e3a5125162c5&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+  
+  [Medium Logo](https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------)
+  
+  Get app
+  
+  [Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------)
+  
+  [Search](https://medium.com/search?source=post_page---top_nav_layout_nav-----------------------------------------)
+  
+  Sign up
+  
+  [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40dewasheesh.rana%2Fagentic-ai-design-patterns-2026-ed-e3a5125162c5&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+  
+  ![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+  
+  # Agentic AI Design Patterns(2026 Edition)
+  
+  [![Dewasheesh Rana](https://miro.medium.com/v2/resize:fill:32:32/1*8DuvXthlYxTVpA7VOFQdrA.png)](https://medium.com/@dewasheesh.rana?source=post_page---byline--e3a5125162c5---------------------------------------)
+  
+  [Dewasheesh Rana](https://medium.com/@dewasheesh.rana?source=post_page---byline--e3a5125162c5---------------------------------------)
+  
+  Follow
+  
+  4 min read
+  
+  ·
+  
+  Jan 13, 2026
+  
+  96
+  
+  2
+  
+  [Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3De3a5125162c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40dewasheesh.rana%2Fagentic-ai-design-patterns-2026-ed-e3a5125162c5&source=---header_actions--e3a5125162c5---------------------post_audio_button------------------)
+  
+  Share
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*ugGSjMz2ucJvfRaKR7wiWg.png)
+  
+  ## The Definitive Architect’s Guide (Jan 2026)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*Ng0o-V89iiqygTHH.png)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*KoHaD5543n8gZXsu.png)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*TYCX9GMEREPSuaMJ.png)
+  
+  ## 1\. Architect’s Reality Check (Why This Matters)
+  
+  > **_Agentic AI is not a feature — it is an architectural paradigm shift._**
+  
+  Most AI failures in production (2024–2026) **did not fail due to model quality**.
+  
+  They failed because of:
+  
+  - Unbounded autonomy
+  - No state control
+  - No failure recovery
+  - No observability
+  - No governance
+  
+  **Agentic patterns exist to solve architectural risks**, not just improve reasoning.
+  
+  ## 2\. From LLM → Agent → System (Mental Model)
+  
+  ## ❌ Old Mental Model
+  
+  ```
+  User → Prompt → LLM → Response
+  ```
+  
+  ## ✅ Architect-Grade Mental Model (2026)
+  
+  ```
+  User
+   ↓
+  Intent Router
+   ↓
+  Agent Orchestrator
+   ├─ Planner
+   ├─ Tool Executor
+   ├─ Reflector
+   ├─ Memory / State
+   ├─ Other Agents
+   ↓
+  Validated Output
+  ```
+  
+  > **_LLMs are CPUs._**
+  >
+  > **_Agents are processes._**
+  >
+  > **_Agentic frameworks are operating systems._**
+  
+  ## 3\. Canonical Agentic Architecture (2026 Reference Model)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*0fEYBLiyX2tYGII2)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*XamzHaZn8mUXnKWf)
+  
+  ## Layered View (Architect Standard)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*vMl0DG36rkI5HPJT5RQFow.png)
+  
+  ## 4\. The 4 Agentic Patterns — Architect Edition
+  
+  ## Pattern 1: Reflection
+  
+  ## (Quality Control Pattern)
+  
+  ![](https://miro.medium.com/v2/resize:fit:461/0*oCq337QQs0XFXhva.png)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*gtbDA97BLWtwrlfu.png)
+  
+  ## Architectural Purpose
+  
+  Reflection is **not for intelligence**.
+  
+  It is for **risk reduction**.
+  
+  ## Get Dewasheesh Rana’s stories in your inbox
+  
+  Join Medium for free to get updates from this writer.
+  
+  Subscribe
+  
+  Subscribe
+  
+  Remember me for faster sign in
+  
+  Without ReflectionWith ReflectionHallucinationsSelf-correctionSilent errorsExplicit critiqueNon-determinismConverging output
+  
+  ## When Architects MUST Use It
+  
+  - Code generation
+  - Legal / compliance text
+  - RAG answers
+  - Financial logic
+  
+  ## When NOT to Use It
+  
+  - Real-time latency paths
+  - Deterministic pipelines
+  
+  ## Enterprise Pattern
+  
+  > **_Reflection = Internal QA agent_**
+  
+  ## Framework Alignment
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*32onxw7_bJ9qxPR66w21cw.png)
+  
+  ## Pattern 2: Tool Use
+  
+  ## (Capability Expansion Pattern)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*uatf-YHyZxt40wsG.png)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*AiMqZ9JUIDjAgcJa.png)
+  
+  ## Architectural Purpose
+  
+  Tool use converts:
+  
+  > **_LLMs from advisors → operators_**
+  
+  ## Architect’s Rule (Critical)
+  
+  > **_If correctness matters, the LLM must NOT compute it._**
+  
+  Use tools for:
+  
+  - Math
+  - Search
+  - DB queries
+  - Infra actions
+  - File operations
+  
+  ## Production Risks (and Fixes)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*mv7Zwh0BE6uH6hW1wbTLGQ.png)
+  
+  ## Pattern 3: Planning
+  
+  ## (Cognitive Load Management Pattern)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*jP7I85l3zOy1HJ_R.png)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*Kecvt07B3_jA2Egi.png)
+  
+  ## Architectural Purpose
+  
+  Planning **reduces cognitive entropy**.
+  
+  ## Architect’s View
+  
+  Planning is equivalent to:
+  
+  - DAG creation
+  - Workflow definition
+  - State machine generation
+  
+  ## ReAct vs ReWOO
+  
+  ReActReWOOFocusActionKnowledgeBest ForExecutionResearchRiskThrashingOver-reasoning
+  
+  ## Architect’s Rule
+  
+  > **_No long-running agent without an explicit plan object._**
+  
+  ## Pattern 4: Multi-Agent
+  
+  ## (Organizational Scaling Pattern)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/0*lCQejHoJAS8Pckqe.png)
+  
+  ## Architectural Purpose
+  
+  Multi-agent systems exist to:
+  
+  - Reduce blast radius
+  - Parallelize thinking
+  - Isolate responsibility
+  
+  ## Gold-Standard Pattern (2026)
+  
+  ```
+  Supervisor Agent
+   ├─ Domain Agent (Finance)
+   ├─ Domain Agent (Legal)
+   ├─ Tool Agent
+   └─ Reflection Agent
+  ```
+  
+  ## Why This Wins
+  
+  - Easier debugging
+  - Easier governance
+  - Easier scaling
+  
+  ## 5\. Mapping Patterns → Frameworks (Reality-Based)
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*XbXNDO4NOL3hGxdD4TKsyw.png)
+  
+  ## 6\. What Changed in Jan 2026 (Critical Updates)
+  
+  ## 🚀 Models
+  
+  - GPT-5.2-class reasoning models
+  - Cheaper, longer context
+  - Tool-first design
+  
+  ## 🧠 Shift
+  
+  > **_Workflow quality > model quality_**
+  
+  ## 🏗️ New Best Practices
+  
+  - Explicit agent lifecycles
+  - Cost-aware planning
+  - Agent observability
+  - Replayable executions
+  - Policy-as-code for agents
+  
+  ## 7\. Architect’s Decision Matrix
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*d7YEoy8gshDxZ9o-nT88zQ.png)
+  
+  ## 8\. The Architect’s Golden Rules (Bookmark This)
+  
+  1. **Never trust a single-shot answer**
+  2. **State is more important than prompts**
+  3. **Tools beat tokens**
+  4. **Reflection reduces risk**
+  5. **Multi-agent beats monoliths**
+  6. **Observability is mandatory**
+  7. **Autonomy must be bounded**
+  
+  ## Final Verdict
+  
+  > **_Agentic AI is to GenAI what microservices were to monoliths._**
+  
+  The winners in 2026 will not be:
+  
+  - Those with the biggest models
+  - Those with the longest prompts
+  
+  They will be:
+  
+  - Those with the **best agent architectures**
+  
+  [Agentic Ai Architecture](https://medium.com/tag/agentic-ai-architecture?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Genai](https://medium.com/tag/genai?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [![Dewasheesh Rana](https://miro.medium.com/v2/resize:fill:48:48/1*8DuvXthlYxTVpA7VOFQdrA.png)](https://medium.com/@dewasheesh.rana?source=post_page---post_author_info--e3a5125162c5---------------------------------------)
+  
+  [![Dewasheesh Rana](https://miro.medium.com/v2/resize:fill:64:64/1*8DuvXthlYxTVpA7VOFQdrA.png)](https://medium.com/@dewasheesh.rana?source=post_page---post_author_info--e3a5125162c5---------------------------------------)
+  
+  Follow
+  
+  [**Written by Dewasheesh Rana**](https://medium.com/@dewasheesh.rana?source=post_page---post_author_info--e3a5125162c5---------------------------------------)
+  
+  [491 followers](https://medium.com/@dewasheesh.rana/followers?source=post_page---post_author_info--e3a5125162c5---------------------------------------)
+  
+  · [2 following](https://medium.com/@dewasheesh.rana/following?source=post_page---post_author_info--e3a5125162c5---------------------------------------)
+  
+  Dewasheesh Rana is an AI/ML Architect with 14+ yrs experience in Agentic AI, LLMs, RAG, MLOps, API's building scalable systems on Azure, AWS and PCF at scale.
+  
+  Follow
+  
+  [Help](https://help.medium.com/hc/en-us?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Status](https://status.medium.com/?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [About](https://medium.com/about?autoplay=1&source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Press](mailto:pressinquiries@medium.com)
+  
+  [Blog](https://blog.medium.com/?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Rules](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  [Text to speech](https://speechify.com/medium?source=post_page-----e3a5125162c5---------------------------------------)
+  
+  reCAPTCHA
+  
+  Recaptcha requires verification.
+  
+  protected by **reCAPTCHA**
+  --- End Content ---
+
+These new design patterns will lead AI Agents in 2026 - Reddit
+  URL: https://www.reddit.com/r/AI_Agents/comments/1qhu5r3/these_new_design_patterns_will_lead_ai_agents_in/
+  A lot of people still think AI agents are just better prompts, but what's actually changing is how agents are structured and coordinated.
+
+The Definitive Guide to Agentic Design Patterns in 2026 - SitePoint
+  URL: https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/
+  The six patterns covered here, Reflection, Tool Use, Planning, Multi-Agent Collaboration, Orchestrator-Worker, and Evaluator-Optimizer, form a ...
+
+  --- Content ---
+  [![clawpilot](https://www.sitepoint.com/images/ads/clawpilot/hellobar-desktop-variant.png)](https://clawpilot.ai/openclaw-on-slack?utm_source=sitepoint&utm_medium=hellobar)
+  
+  Table of Contents
+  
+  - [Table of Contents](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-table-of-contents)
+  - [Why 2026 Is the Year of the Agent](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-why-2026-is-the-year-of-the-agent)
+  - [From Prompt Engineering to Flow Engineering: What Actually Changed](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-from-prompt-engineering-to-flow-engineering-what-actually-changed)
+  - [The Core Agentic Design Patterns: A Taxonomy](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-the-core-agentic-design-patterns-a-taxonomy)
+  - [Prerequisites](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-prerequisites)
+  - [Pattern 1: Reflection (Self-Critique Loops)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-1-reflection-self-critique-loops)
+  - [Pattern 2: Tool Use (Grounding Agents in the Real World)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-2-tool-use-grounding-agents-in-the-real-world)
+  - [Pattern 3: Planning (Decompose, Then Execute)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-3-planning-decompose-then-execute)
+  - [Pattern 4: Multi-Agent Collaboration](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-4-multi-agent-collaboration)
+  - [Pattern 5: Orchestrator-Worker (Dynamic Task Decomposition)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-5-orchestrator-worker-dynamic-task-decomposition)
+  - [Pattern 6: Evaluator-Optimizer (Test-Driven Agent Development)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-6-evaluator-optimizer-test-driven-agent-development)
+  - [Interactive Decision Tree: Which Agent Pattern Do You Need?](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-interactive-decision-tree-which-agent-pattern-do-you-need)
+  - [Production Considerations for Agentic Systems](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-production-considerations-for-agentic-systems)
+  - [What's Coming Next: The 2026 to 2027 Horizon](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-what-s-coming-next-the-2026-to-2027-horizon)
+  - [Think in Flows, Not Prompts](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-think-in-flows-not-prompts)
+  
+  Table of Contents
+  
+  - [Table of Contents](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-table-of-contents)
+  - [Why 2026 Is the Year of the Agent](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-why-2026-is-the-year-of-the-agent)
+  - [From Prompt Engineering to Flow Engineering: What Actually Changed](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-from-prompt-engineering-to-flow-engineering-what-actually-changed)
+  - [The Core Agentic Design Patterns: A Taxonomy](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-the-core-agentic-design-patterns-a-taxonomy)
+  - [Prerequisites](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-prerequisites)
+  - [Pattern 1: Reflection (Self-Critique Loops)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-1-reflection-self-critique-loops)
+  - [Pattern 2: Tool Use (Grounding Agents in the Real World)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-2-tool-use-grounding-agents-in-the-real-world)
+  - [Pattern 3: Planning (Decompose, Then Execute)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-3-planning-decompose-then-execute)
+  - [Pattern 4: Multi-Agent Collaboration](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-4-multi-agent-collaboration)
+  - [Pattern 5: Orchestrator-Worker (Dynamic Task Decomposition)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-5-orchestrator-worker-dynamic-task-decomposition)
+  - [Pattern 6: Evaluator-Optimizer (Test-Driven Agent Development)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-pattern-6-evaluator-optimizer-test-driven-agent-development)
+  - [Interactive Decision Tree: Which Agent Pattern Do You Need?](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-interactive-decision-tree-which-agent-pattern-do-you-need)
+  - [Production Considerations for Agentic Systems](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-production-considerations-for-agentic-systems)
+  - [What's Coming Next: The 2026 to 2027 Horizon](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-what-s-coming-next-the-2026-to-2027-horizon)
+  - [Think in Flows, Not Prompts](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#h-think-in-flows-not-prompts)
+  
+  # The Definitive Guide to Agentic Design Patterns in 2026
+  
+  [![SitePoint Team](https://uploads.sitepoint.com/wp-content/uploads/2020/03/1584945800Group-5.png)](https://www.sitepoint.com/author/sitepointteam/)
+  
+  [SitePoint Team](https://www.sitepoint.com/author/sitepointteam/)
+  
+  Published in
+  
+  [AI](https://www.sitepoint.com/ai/)· [Programming](https://www.sitepoint.com/programming/)· [Design & UX](https://www.sitepoint.com/design-ux/)·
+  
+  March 2, 2026
+  
+  Share this article
+  
+  [Share SitePoint on facebook](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#)[Share SitePoint on reddit](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#)[Share SitePoint on twitter](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#)[Share SitePoint on linkedin](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#)[Share SitePoint on email](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#)
+  
+  ![The Definitive Guide to Agentic Design Patterns in 2026](https://uploads.sitepoint.com/wp-content/uploads/large_data_e0b2308184.png)
+  
+  SitePoint Premium
+  
+  **Stay Relevant and Grow Your Career in Tech**
+  
+  - Premium Results
+  - Publish articles on SitePoint
+  - Daily curated jobs
+  - Learning Paths
+  - Discounts to dev tools
+  
+  [Start Free Trial](https://www.sitepoint.com/premium/pricing/)
+  
+  7 Day Free Trial. Cancel Anytime.
+  
+  Agentic design patterns have moved from research curiosity to production necessity. This guide covers six core design patterns, provides working code for each, and offers a decision framework for choosing the right pattern for a given problem.
+  
+  ## Table of Contents
+  
+  - [Why 2026 Is the Year of the Agent](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-why-2026-is-the-year-of-the-agent)
+  - [From Prompt Engineering to Flow Engineering: What Actually Changed](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-from-prompt-engineering-to-flow-engineering-what-actually-changed)
+  - [The Core Agentic Design Patterns: A Taxonomy](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-the-core-agentic-design-patterns-a-taxonomy)
+  - [Prerequisites](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-prerequisites)
+  - [Pattern 1: Reflection (Self-Critique Loops)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-pattern-1-reflection-self-critique-loops)
+  - [Pattern 2: Tool Use (Grounding Agents in the Real World)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-pattern-2-tool-use-grounding-agents-in-the-real-world)
+  - [Pattern 3: Planning (Decompose, Then Execute)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-pattern-3-planning-decompose-then-execute)
+  - [Pattern 4: Multi-Agent Collaboration](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-pattern-4-multi-agent-collaboration)
+  - [Pattern 5: Orchestrator-Worker (Dynamic Task Decomposition)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-pattern-5-orchestrator-worker-dynamic-task-decomposition)
+  - [Pattern 6: Evaluator-Optimizer (Test-Driven Agent Development)](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-pattern-6-evaluator-optimizer-test-driven-agent-development)
+  - [Interactive Decision Tree: Which Agent Pattern Do You Need?](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-interactive-decision-tree-which-agent-pattern-do-you-need)
+  - [Production Considerations for Agentic Systems](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-production-considerations-for-agentic-systems)
+  - [What's Coming Next: The 2026 to 2027 Horizon](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-whats-coming-next-the-2026-to-2027-horizon)
+  - [Think in Flows, Not Prompts](https://www.sitepoint.com/the-definitive-guide-to-agentic-design-patterns-in-2026/#toc-think-in-flows-not-prompts)
+  
+  ## Why 2026 Is the Year of the Agent
+  
+  Agentic design patterns have moved from research curiosity to production necessity. Chain-of-thought prompting gave way to ReAct-style interleaved reasoning, which researchers and framework authors then extended toward fully autonomous agent loops capable of planning, executing, reflecting, and recovering without human intervention at every step. In 2026, the frameworks underpinning these systems, particularly current stable releases of LangGraph and LangGraph.js, have reached stable semver releases and handle production workloads across teams running dozens of concurrent agent instances.
+  
+  This guide is for experienced developers who are building or evaluating agentic systems. It covers six core design patterns, provides working code for each, and offers a decision framework for choosing the right pattern for a given problem. The central thesis is straightforward: mastering a handful of composable design patterns matters far more than mastering any single framework. Frameworks change. Patterns persist.
+  
+  > Mastering a handful of composable design patterns matters far more than mastering any single framework. Frameworks change. Patterns persist.
+  
+  ## From Prompt Engineering to Flow Engineering: What Actually Changed
+  
+  ### Why Prompt Engineering Hit Its Ceiling
+  
+  Single-turn prompt optimization is inherently fragile. A carefully crafted prompt can produce excellent results on one input distribution and fail catastrophically on another. Prompts lack state, offer no mechanism for error recovery, and cannot adapt their behavior based on intermediate results. Enterprise teams deploying AI between 2024 and 2025 saw the same outcome repeatedly: accuracy plateaued even as prompt length doubled, and teams spent weeks tuning instructions that remained brittle in production.
+  
+  The fundamental limitation is architectural. Optimizing the content of an LLM call is useful but insufficient when the real challenge is deciding what calls to make, in what order, with what data, and what to do when things go wrong.
+  
+  ### What Flow Engineering Actually Means
+  
+  Flow engineering is the discipline of designing the control flow, state transitions, and decision boundaries around LLM calls rather than optimizing the calls themselves. It treats agent construction as a software architecture problem. The questions shift from "How do I phrase this prompt?" to "What is the state machine governing this agent's behavior?" and "Where are the decision points, fallback paths, and termination conditions?"
+  
+  Frameworks like LangGraph encode flow engineering as first-class abstractions. Developers define agents as directed graphs with typed state, conditional edges, checkpointing for persistence and resumability, and explicit interrupt points for human oversight. This is not prompt craft. This is software engineering applied to stochastic computation.
+  
+  ### Implications for Teams and Roles
+  
+  The emergence of "agent architect" as a distinct role reflects this shift. The skill set required combines traditional software engineering fundamentals, including state management, error handling, concurrency control, and observability, with an understanding of LLM capabilities and limitations. Prompt tricks still matter, but flow design has overtaken them as the highest-leverage work.
+  
+  ## The Core Agentic Design Patterns: A Taxonomy
+  
+  This guide covers six canonical patterns. They are not mutually exclusive; production systems routinely compose two or three together. Each pattern addresses a different aspect of agent behavior, from self-correction to multi-agent coordination.
+  
+  | Pattern | Complexity | Primary Use Case | Key Risk |
+  | --- | --- | --- | --- |
+  | Reflection | Low | Self-correction | Infinite loops |
+  | Tool Use | Low to Medium | External integration | Tool misuse |
+  | Planning | Medium | Multi-step tasks | Plan drift |
+  | Multi-Agent | High | Complex workflows | Coordination overhead |
+  | Orchestrator-Worker | High | Dynamic subtasking | Bottleneck at orchestrator |
+  | Evaluator-Optimizer | Medium to High | Quality-critical output | Cost amplification |
+  
+  These patterns layer naturally. You can add reflection to any agent, and tool use appears in almost every production system. Planning and orchestration provide higher-level structure, while evaluation ensures output quality.
+  
+  ## Prerequisites
+  
+  All Python examples below assume the following:
+  
+  ```bash
+  pip install langgraph langchain-openai langchain-core
+  export OPENAI_API_KEY="sk-..."
+  ```
+  
+  For TypeScript examples:
+  
+  ```bash
+  npm install @langchain/langgraph @langchain/openai @langchain/core zod
+  ```
+  
+  Ensure `"type": "module"` is set in your `package.json` if using top-level `await` in TypeScript/Node.js, or wrap invocation code in an async IIFE.
+  
+  All examples use `gpt-4o` as the model; any sufficiently capable chat model may be substituted.
+  
+  The `ChatOpenAI` client is instantiated at module level in the examples below to benefit from connection pooling and avoid unnecessary overhead in loops. This is the recommended practice for production deployments.
+  
+  ## Pattern 1: Reflection (Self-Critique Loops)
+  
+  ### How It Works
+  
+  The reflection pattern is the simplest agentic loop: generate output, evaluate that output against criteria, and either accept or revise. The agent becomes its own reviewer. This pattern typically produces passing output within two to three iterations rather than requiring manual revision, making it well suited for code generation, long-form writing, and structured data extraction where quality can be assessed programmatically or by the LLM itself.
+  
+  ### Implementation with LangGraph (Python)
+  
+  The following LangGraph graph implements a reflection loop with a `generate` node, a `critique` node, and a conditional edge that either loops back for revision or exits based on a quality score.
+  
+  ```python
+  import os
+  import re
+  import logging
+  from typing import TypedDict
+  from langgraph.graph import StateGraph, END
+  from langchain_openai import ChatOpenAI
+  
+  if not os.environ.get("OPENAI_API_KEY"):
+      raise EnvironmentError("OPENAI_API_KEY must be set before importing this module.")
+  
+  _llm = ChatOpenAI(model="gpt-4o", timeout=30)
+  
+  def extract_score(text: str) -> int:
+      """
+      Match 'score: N', 'rating: N', or 'N/10' before
+      falling back to first standalone integer.
+      """
+      patterns = [\
+          r'(?:score|rating)[:\s]+([1-9]|10)\b',\
+          r'\b([1-9]|10)\s*/\s*10\b',\
+          r'\b([1-9]|10)\b',\
+      ]
+      for pattern in patterns:
+          match = re.search(pattern, text, re.IGNORECASE)
+          if match:
+              return int(match.group(1))
+      logging.warning("Score extraction failed; defaulting to 0. Response: %s", text[:100])
+      return 0
+  
+  class ReflectionState(TypedDict):
+      task: str
+      draft: str
+      critique: str
+      score: int
+      iteration: int
+  
+  def generate(state: ReflectionState) -> dict:
+      feedback = f"
+  Feedback: {state['critique']}" if state["critique"] else ""
+      msg = _llm.invoke(f"Write a response for: {state['task']}{feedback}")
+      return {"draft": msg.content, "iteration": state["iteration"] + 1}
+  
+  def critique(state: ReflectionState) -> dict:
+      msg = _llm.invoke(
+          f"Score this draft 1-10 and provide critique.
+  Draft: {state['draft']}"
+      )
+      score = extract_score(msg.content)
+      return {"critique": msg.content, "score": score}
+  
+  def should_continue(state: ReflectionState) -> str:
+      if state["score"] >= 8 or state["iteration"] >= 3:
+          return END
+      return "generate"
+  
+  graph = StateGraph(ReflectionState)
+  graph.add_node("generate", generate)
+  graph.add_node("critique", critique)
+  graph.set_entry_point("generate")
+  graph.add_edge("generate", "critique")
+  graph.add_conditional_edges("critique", should_continue, {END: END, "generate": "generate"})
+  
+  app = graph.compile()
+  result = app.invoke({
+      "task": "Write a summary of the benefits of containerization",
+      "draft": "",
+      "critique": "",
+      "score": 0,
+      "iteration": 0
+  })
+  ```
+  
+  This demonstrates typed state via `TypedDict`, conditional edges for loop control, and explicit termination criteria (score threshold and maximum iteration cap). The `extract_score` function uses a prioritized sequence of regex patterns to avoid false positives from ordinal numbers or other incidental digits in the LLM response.
+  
+  ### Pitfalls and Guardrails
+  
+  Without a maximum iteration cap, reflection loops can cycle indefinitely, burning tokens without improving output. In the author's experience, returns diminish after two to three iterations for code generation and summarization tasks, though analytical or research-heavy domains sometimes benefit from a fourth pass. Every loop iteration multiplies cost linearly. Teams should implement token budget tracking per reflection cycle and set hard caps on iteration count.
+  
+  ## Pattern 2: Tool Use (Grounding Agents in the Real World)
+  
+  ### Anatomy of a Tool-Using Agent
+  
+  Tool use follows a four-phase cycle: define available tools with structured schemas, let the LLM select and parameterize a tool call, invoke the tool, and integrate results back into the conversation. The 2026 state of the art includes structured tool calling with schema validation across OpenAI, Anthropic, and capable open-source models. This means the LLM returns structured JSON matching a defined schema rather than free-text instructions that must be parsed.
+  
+  ### Building a Tool-Augmented Agent in TypeScript
+  
+  The following TypeScript example uses LangGraph.js to define two tools, bind them to an LLM, and execute a tool-use loop with automatic retry on malformed calls.
+  
+  ```typescript
+  import { StateGraph, END, Annotation } from "@langchain/langgraph";
+  import { ChatOpenAI } from "@langchain/openai";
+  import { tool } from "@langchain/core/tools";
+  import { z } from "zod";
+  import { ToolNode } from "@langchain/langgraph/prebuilt";
+  import { BaseMessage } from "@langchain/core/messages";
+  
+  const webSearch = tool(async ({ query }: { query: string }) => {
+    return `Search results for: ${query} — [simulated results]`;
+  }, {
+    name: "web_search",
+    description: "Search the web",
+    schema: z.object({ query: z.string() })
+  });
+  
+  // ⚠️ SECURITY: This tool enforces a SELECT-only allowlist. Never pass LLM-generated SQL
+  // directly to a real database without parameterized queries, a read-only DB user, and
+  // an allowlist of permitted query patterns.
+  const ALLOWED_SQL_PATTERN = /^SELECT\s+[\w\s,.*()]+\s+FROM\s+\w+(\s+WHERE\s+[\w\s=<>!'"]+)?;?$/i;
+  
+  const dbQuery = tool(async ({ sql }: { sql: string }) => {
+    if (!ALLOWED_SQL_PATTERN.test(sql.trim())) {
+      return "Error: Only simple SELECT queries are permitted.";
+    }
+    // In production, pass sql to a parameterized query layer, not string interpolation.
+    // e.g., db.query("SELECT * FROM table WHERE id = $1", [sanitizedId])
+    return `DB result for: ${sql} — [simulated rows]`;
+  }, {
+    name: "db_query",
+    description: "Query the database (SELECT only)",
+    schema: z.object({ sql: z.string().max(500) })
+  });
+  
+  const tools = [webSearch, dbQuery];
+  const model = new ChatOpenAI({
+    model: "gpt-4o",
+    timeout: 30_000,
+  }).bindTools(tools);
+  const toolNode = new ToolNode(tools);
+  
+  const AgentAnnotation = Annotation.Root({
+    messages: Annotation<BaseMessage[]>({
+      reducer: (a, b) => a.concat(b),
+      default: () => [],
+    }),
+  });
+  
+  async function agent(state: typeof AgentAnnotation.State) {
+    const response = await model.invoke(state.messages);
+    return { messages: [response] };
+  }
+  
+  function shouldUseTool(state: typeof AgentAnnotation.State): string {
+    if (!state.messages || state.messages.length === 0) {
+      return END;
+    }
+    const last = state.messages[state.messages.length - 1];
+    return last?.tool_calls?.length > 0 ? "tools" : END;
+  }
+  
+  const graph = new StateGraph(AgentAnnotation)
+    .addNode("agent", agent)
+    .addNode("tools", toolNode)
+    .setEntryPoint("agent")
+    .addConditionalEdges("agent", shouldUseTool, { tools: "tools", [END]: END })
+    .addEdge("tools", "agent");
+  
+  const app = graph.compile();
+  
+  (async () => {
+    const result = await app.invoke({
+      messages: [{\
+        role: "user",\
+        content: "Find recent trends in AI agents and check our database for related projects"\
+      }]
+    });
+    console.log(result);
+  })();
+  ```
+  
+  This demonstrates tool schema definition using Zod, binding tools to the LLM via `bindTools`, and the standard agent-tool loop pattern with conditional routing. The `dbQuery` tool enforces a SELECT-only allowlist to prevent SQL injection from LLM-generated queries. The `shouldUseTool` function guards against empty message arrays to prevent runtime crashes.
+  
+  ### Tool Selection at Scale
+  
+  When an agent has access to 50 or more tools, passing all schemas in every request becomes impractical due to context window limits. Anecdotally, selection accuracy degrades noticeably past this threshold as the model struggles to distinguish between similar tool descriptions. You address this by embedding tool descriptions, retrieving the top-k relevant tools based on the current query, and presenting only those to the LLM. Dynamic tool loading, where tools register and deregister based on task context, further reduces noise and improves selection precision.
+  
+  ## Pattern 3: Planning (Decompose, Then Execute)
+  
+  ### Plan-and-Execute vs. ReAct
+  
+  ReAct interleaves reasoning and action at each step: think, act, observe, repeat. Plan-and-execute separates the phases: first generate a complete plan, then execute steps sequentially, with replanning triggered only on failure. ReAct excels at exploratory tasks where the next step depends on observations. Plan-and-execute is superior for well-defined multi-step tasks where upfront decomposition reduces wasted LLM calls.
+  
+  ### Implementing Plan-and-Execute with LangGraph
+  
+  ```python
+  import os
+  import re
+  from typing import TypedDict, List, Optional
+  from pydantic import BaseModel
+  from langgraph.graph import StateGraph, END
+  from langchain_openai import ChatOpenAI
+  
+  if not os.environ.get("OPENAI_API_KEY"):
+      raise EnvironmentError("OPENAI_API_KEY must be set before importing this module.")
+  
+  _llm = ChatOpenAI(model="gpt-4o", timeout=30)
+  
+  class Step(BaseModel):
+      description: str
+      status: str = "pending"
+      result: Optional[str] = None
+  
+  class PlanState(TypedDict):
+      objective: str
+      steps: List[dict]
+      current_index: int
+      final_result: str
+  
+  def planner(state: PlanState) -> dict:
+      msg = _llm.invoke(
+          f"Break this objective into 3-5 concrete steps. "
+          f"Return ONLY a numbered list, one step per line, no preamble.
+  "
+          f"Objective: {state['objective']}"
+      )
+      steps = [\
+          {\
+              "description": re.sub(r'^\d+[\.\)]\s*', '', line.strip()),\
+              "status": "pending",\
+              "result": None,\
+          }\
+          for line in msg.content.strip().split("\
+  ")\
+          if re.match(r'^\d+[\.\)]', line.strip())\
+      ]
+      if not steps:
+          raise ValueError(f"Planner returned no parseable steps: {msg.content[:200]}")
+      return {"steps": steps, "current_index": 0}
+  
+  def executor(state: PlanState) -> dict:
+      idx = state["current_index"]
+      step = state["steps"][idx]
+      context = "
+  ".join(s["result"] for s in state["steps"][:idx] if s["result"])
+      steps = list(state["steps"])
+      try:
+          msg = _llm.invoke(f"Execute this step: {step['description']}
+  Prior context: {context}")
+          steps[idx] = {**step, "status": "done", "result": msg.content}
+      except Exception as e:
+          steps[idx] = {**step, "status": "failed", "result": str(e)}
+      return {"steps": steps, "current_index": idx + 1}
+  
+  def replanner(state: PlanState) -> dict:
+      completed = [s for s in state["steps"] if s["status"] == "done"]
+      formatted = "
+  ".join(
+          f"- {s['description']}: {s['result'][:100]}" for s in completed
+      )
+      msg = _llm.invoke(
+          f"Revise remaining steps given progress:
+  {formatted}
+  "
+          f"Objective: {state['objective']}"
+      )
+      new_steps = [\
+          {\
+              "description": re.sub(r'^\d+[\.\)]\s*', '', l.strip()),\
+              "status": "pending",\
+              "result": None,\
+          }\
+          for l in msg.content.strip().split("\
+  ")\
+          if l.strip() and re.match(r'^\d+[\.\)]', l.strip())\
+      ]
+      all_steps = completed + new_steps
+      return {
+          "steps": all_steps,
+          "current_index": len(completed),
+      }
+  
+  def route_after_execute(state: PlanState) -> str:
+      idx = state["current_index"]
+      if idx >= len(state["steps"]):
+          return "aggregator"
+      if idx == 0:
+          return "executor"
+      last_step = state["steps"][idx - 1]
+      if last_step.get("status") == "failed":
+          return "replanner"
+      return "executor"
+  
+  def aggregator(state: PlanState) -> dict:
+      """Synthesizes all completed step results into final_result."""
+      context = "
+  ".join(
+          f"Step {i+1}: {s['result']}"
+          for i, s in enumerate(state["steps"])
+          if s["status"] == "done" and s["result"]
+      )
+      msg = _llm.invoke(
+          f"Synthesize these results for objective '{state['objective']}':
+  {context}"
+      )
+      return {"final_result": msg.content}
+  
+  graph = StateGraph(PlanState)
+  graph.add_node("planner", planner)
+  graph.add_node("executor", executor)
+  graph.add_node("replanner", replanner)
+  graph.add_node("aggregator", aggregator)
+  graph.set_entry_point("planner")
+  graph.add_edge("planner", "executor")
+  graph.add_conditional_edges("executor", route_after_execute,
+      {"aggregator": "aggregator", "replanner": "replanner", "executor": "executor"})
+  graph.add_edge("replanner", "executor")
+  graph.add_edge("aggregator", END)
+  app = graph.compile()
+  ```
+  
+  This demonstrates structured plan output with validation (only numbered lines are accepted as steps), sequential step execution with prior context accumulation, dynamic replanning on failure with correct index reset to the first new pending step, and a final aggregation node that populates `final_result`. The executor wraps the LLM call in a try/except block so that failures set the step status to `"failed"`, enabling the replanner branch to activate.
+  
+  ### Handling Plan Drift and Recovery
+  
+  Plans degrade as execution context diverges from initial assumptions. Effective strategies include replanning thresholds (trigger replanning after N consecutive step failures or when step output contradicts plan assumptions), human-in-the-loop checkpoints at critical plan stages using LangGraph's interrupt mechanism, and plan versioning to enable rollback to earlier plan states. What does "contradicts plan assumptions" look like in practice? Usually, the executor's output references entities or constraints the planner never accounted for, a signal you can detect by comparing step output against the original objective with a lightweight LLM check.
+  
+  ## Pattern 4: Multi-Agent Collaboration
+  
+  ### Topologies: Peer-to-Peer, Hierarchical, and Debate
+  
+  Three topologies dominate. Peer-to-peer agents share state and contribute to a common output, a natural fit for collaborative writing or pair programming scenarios. Unlike peer-to-peer, hierarchical delegation introduces a manager agent that assigns tasks to specialists, trading flexibility for tighter control over subtask allocation. Adversarial debate takes a different approach entirely: it pits agents against each other to stress-test reasoning, which tends to surface blind spots that collaborative topologies miss.
+  
+  ### Multi-Agent Chat with LangGraph
+  
+  ```python
+  import os
+  from typing import TypedDict, List, Annotated
+  from langgraph.graph import StateGraph, END
+  from langchain_openai import ChatOpenAI
+  import operator
+  
+  if not os.environ.get("OPENAI_API_KEY"):
+      raise EnvironmentError("OPENAI_API_KEY must be set before importing this module.")
+  
+  _llm = ChatOpenAI(model="gpt-4o", timeout=30)
+  
+  class MultiAgentState(TypedDict):
+      messages: Annotated[List[dict], operator.add]
+      turn_count: int
+      consensus: bool
+  
+  def researcher(state: MultiAgentState) -> dict:
+      history = "
+  ".join(f"{m['role']}: {m['content']}" for m in state["messages"])
+      msg = _llm.invoke(f"You are a Researcher. Provide analysis.
+  History:
+  {history}")
+      return {
+          "messages": [{"role": "researcher", "content": msg.content}],
+          "turn_count": state["turn_count"] + 1
+      }
+  
+  def critic(state: MultiAgentState) -> dict:
+      history = "
+  ".join(f"{m['role']}: {m['content']}" for m in state["messages"])
+      msg = _llm.invoke(f"You are a Critic. Challenge weaknesses and suggest improvements.
+  History:
+  {history}")
+      return {
+          "messages": [{"role": "critic", "content": msg.content}],
+          "turn_count": state["turn_count"] + 1
+      }
+  
+  def supervisor(state: MultiAgentState) -> dict:
+      history = "
+  ".join(f"{m['role']}: {m['content']}" for m in state["messages"][-4:])
+      msg = _llm.invoke(f"Have these agents reached consensus? Reply YES or NO.
+  {history}")
+      consensus = "YES" in msg.content.upper()
+      return {"consensus": consensus}
+  
+  def route_supervisor(state: MultiAgentState) -> str:
+      if state["consensus"] or state["turn_count"] >= 6:
+          return END
+      return "researcher"
+  
+  graph = StateGraph(MultiAgentState)
+  graph.add_node("researcher", researcher)
+  graph.add_node("critic", critic)
+  graph.add_node("supervisor", supervisor)
+  graph.set_entry_point("researcher")
+  graph.add_edge("researcher", "critic")
+  graph.add_edge("critic", "supervisor")
+  graph.add_conditional_edges("supervisor", route_supervisor, {END: END, "researcher": "researcher"})
+  app = graph.compile()
+  
+  result = app.invoke({
+      "messages": [{"role": "user", "content": "Analyze the trade-offs of microservices vs monoliths"}],
+      "turn_count": 0,
+      "consensus": False
+  })
+  ```
+  
+  This demonstrates multiple agent nodes with distinct roles, message passing via shared annotated state using `operator.add` for accumulation, role-attributed history so agents can distinguish their own prior output from other agents' output, and a supervisor-driven termination condition.
+  
+  ### Coordination Challenges
+  
+  State consistency is the primary challenge in multi-agent systems. Message ordering must be deterministic; without it, agents can diverge or deadlock. A single typed state object, as LangGraph implements, eliminates message-ordering races within a single process and gives you stronger consistency than message-passing architectures for most production use cases. Deadlock prevention requires explicit turn limits and timeout mechanisms. LangGraph's sequential node execution within a single graph guarantees ordering; true concurrency across separate processes would require additional synchronization.
+  
+  ## Pattern 5: Orchestrator-Worker (Dynamic Task Decomposition)
+  
+  ### How It Differs from Static Planning
+  
+  Where the planning pattern creates a fixed plan upfront, the orchestrator-worker pattern dynamically spawns and delegates subtasks based on evolving context. This addresses the same autonomy goals as early autonomous agent experiments, which teams now implement reliably using LangGraph's typed state and `Send` API for dynamic graph branching at runtime.
+  
+  ### Implementation Sketch
+  
+  ```python
+  import os
+  from typing import TypedDict, List, Annotated
+  from langgraph.graph import StateGraph, END
+  from langgraph.types import Send
+  from langchain_openai import ChatOpenAI
+  import operator
+  
+  if not os.environ.get("OPENAI_API_KEY"):
+      raise EnvironmentError("OPENAI_API_KEY must be set before importing this module.")
+  
+  _llm = ChatOpenAI(model="gpt-4o", timeout=30)
+  
+  class OrchestratorState(TypedDict):
+      request: str
+      subtasks: List[str]
+      results: Annotated[List[str], operator.add]
+  
+  class WorkerState(TypedDict):
+      subtask: str
+  
+  def orchestrator(state: OrchestratorState) -> dict:
+      msg = _llm.invoke(f"Decompose into parallel subtasks (one per line):
+  {state['request']}")
+      subtasks = [line.strip() for line in msg.content.strip().split("\
+  ") if line.strip()]
+      if not subtasks:
+          return {"subtasks": [], "results": ["No subtasks generated"]}
+      return {"subtasks": subtasks}
+  
+  def dispatch(state: OrchestratorState) -> list:
+      """Returns a list of Send objects for LangGraph's fan-out mechanism."""
+      if not state["subtasks"]:
+          return [Send("aggregator", state)]
+      return [Send("worker", {"subtask": task}) for task in state["subtasks"]]
+  
+  def worker(state: WorkerState) -> dict:
+      msg = _llm.invoke(f"Complete this subtask thoroughly:
+  {state['subtask']}")
+      return {"results": [msg.content]}
+  
+  def aggregator(state: OrchestratorState) -> dict:
+      combined = "
+  ---
+  ".join(state["results"])
+      msg = _llm.invoke(f"Synthesize these results into a coherent response:
+  {combined}")
+      return {"results": [msg.content]}
+  
+  graph = StateGraph(OrchestratorState)
+  graph.add_node("orchestrator", orchestrator)
+  graph.add_node("worker", worker)
+  graph.add_node("aggregator", aggregator)
+  graph.set_entry_point("orchestrator")
+  
+  # Send-based fan-out: dispatch returns Send objects that route to "worker" nodes.
+  # After all workers complete, execution continues to "aggregator".
+  graph.add_conditional_edges("orchestrator", dispatch, then="aggregator")
+  graph.add_edge("aggregator", END)
+  app = graph.compile()
+  ```
+  
+  This demonstrates dynamic graph branching with `Send`, parallel worker execution, and result aggregation. Note that the `dispatch` function returns a list of `Send` objects, and the `then` parameter specifies where execution continues after all spawned workers complete. The orchestrator guards against empty subtask lists to prevent undefined fan-out behavior.
+  
+  > Designing agent control flow is now the highest-leverage skill in AI engineering.
+  
+  ### When to Use (and When Not To)
+  
+  The orchestrator-worker pattern cuts wall-clock time by running N heterogeneous subtasks in parallel rather than sequentially. It is overkill for linear workflows where steps depend on prior outputs. Parallel LLM calls multiply cost; latency is bounded by the slowest parallel worker rather than summed across workers. Before adopting this pattern, ask: do the subtasks actually differ in nature, and does the latency reduction justify paying for concurrent calls?
+  
+  ## Pattern 6: Evaluator-Optimizer (Test-Driven Agent Development)
+  
+  ### The Pattern
+  
+  This pattern separates the "doer" agent from the "judge" agent. The evaluator uses rubrics, reference outputs, or an LLM-as-judge approach to score output. The optimizer adjusts strategy, prompt, or parameters based on evaluation feedback. It is the agentic equivalent of test-driven development.
+  
+  ### Practical Application
+  
+  ```python
+  import os
+  import re
+  import logging
+  from typing import TypedDict
+  from langgraph.graph import StateGraph, END
+  from langchain_openai import ChatOpenAI
+  
+  if not os.environ.get("OPENAI_API_KEY"):
+      raise EnvironmentError("OPENAI_API_KEY must be set before importing this module.")
+  
+  _llm = ChatOpenAI(model="gpt-4o", timeout=30)
+  
+  def extract_score(text: str) -> int:
+      """
+      Match 'score: N', 'rating: N', or 'N/10' before
+      falling back to first standalone integer.
+      """
+      patterns = [\
+          r'(?:score|rating)[:\s]+([1-9]|10)\b',\
+          r'\b([1-9]|10)\s*/\s*10\b',\
+          r'\b([1-9]|10)\b',\
+      ]
+      for pattern in patterns:
+          match = re.search(pattern, text, re.IGNORECASE)
+          if match:
+              return int(match.group(1))
+      logging.warning("Score extraction failed; defaulting to 0. Response: %s", text[:100])
+      return 0
+  
+  class EvalState(TypedDict):
+      task: str
+      output: str
+      score: int
+      feedback: str
+      iteration: int
+  
+  def generate(state: EvalState) -> dict:
+      context = f"
+  Feedback to address: {state['feedback']}" if state["feedback"] else ""
+      msg = _llm.invoke(f"{state['task']}{context}")
+      return {"output": msg.content, "iteration": state.get("iteration", 0) + 1}
+  
+  def evaluate(state: EvalState) -> dict:
+      msg = _llm.invoke(
+          f"Score 1-10 on accuracy, clarity, completeness. Give a single integer score and feedback.
+  "
+          f"Output: {state['output']}"
+      )
+      score = extract_score(msg.content)
+      return {"score": score, "feedback": msg.content}
+  
+  def route(state: EvalState) -> str:
+      return END if state["score"] >= 8 or state.get("iteration", 0) >= 3 else "generate"
+  
+  graph = StateGraph(EvalState)
+  graph.add_node("generate", generate)
+  graph.add_node("evaluate", evaluate)
+  graph.set_entry_point("generate")
+  graph.add_edge("generate", "evaluate")
+  graph.add_conditional_edges("evaluate", route, {END: END, "generate": "generate"})
+  app = graph.compile()
+  
+  result = app.invoke({
+      "task": "Explain the benefits of containerization",
+      "output": "",
+      "score": 0,
+      "feedback": "",
+      "iteration": 0
+  })
+  ```
+  
+  This demonstrates LLM-as-judge with structured scoring using the prioritized `extract_score` function, conditional routing based on a score threshold, and an iteration cap that prevents infinite loops if the evaluator consistently scores below the threshold.
+  
+  ## Interactive Decision Tree: Which Agent Pattern Do You Need?
+  
+  ### How to Use the Decision Tree
+  
+  The following decision logic guides pattern selection:
+  
+  1. Is the task single-step or multi-step? If single-step, consider **Tool Use** (when external data is required) or **Reflection** (when the task is self-contained and quality is the bottleneck).
+  2. Does the task require multiple perspectives or roles? If yes, use **Multi-Agent** collaboration or the debate topology.
+  3. For multi-step tasks, consider whether decomposition is known upfront. If it is, **Planning** gives you predictable execution. If subtasks emerge dynamically during execution, reach for **Orchestrator-Worker**.
+  4. Is output quality the primary constraint? If yes, layer in **Evaluator-Optimizer**.
+  
+  For non-interactive contexts, a static flowchart following this logic serves as a fallback. Each leaf node maps directly to the corresponding pattern section above.
+  
+  ### Combining Patterns
+  
+  Real-world systems rarely use a single pattern in isolation. A production research agent might combine Orchestrator-Worker for task decomposition, Reflection within each worker for self-correction, and Tool Use for grounding outputs in external data. Start with the simplest pattern that addresses the core problem, then layer additional patterns only when a specific failure mode demands it. Over-engineering agent architectures introduces coordination complexity that can outweigh the benefits.
+  
+  ## Production Considerations for Agentic Systems
+  
+  ### Observability and Debugging
+  
+  Traditional logging fails for non-deterministic, multi-step agent flows because the same input can produce different execution paths. LangSmith (a commercial SaaS product; free tier available) provides trace-level visibility into every LLM call, tool invocation, and state transition within a LangGraph execution. Enabling it transmits LLM inputs and outputs to LangChain servers; review data retention policies before use with sensitive data. Phoenix offers similar capabilities for open-source stacks. Custom tracing that captures full state snapshots at each node is essential for debugging production agent failures.
+  
+  ### Cost Control
+  
+  Every agent loop iteration incurs LLM costs. Token budgets per agent loop, circuit breakers that terminate execution after exceeding cost thresholds, and semantic caching of repeated tool calls or LLM responses are the primary levers. Without these, a reflection loop or multi-agent debate can silently exhaust budgets.
+  
+  ### Human-in-the-Loop Checkpoints
+  
+  LangGraph's interrupt and resume model enables approval gates at any node in the graph. This matters most for high-stakes workflows where you need to bound agent autonomy. Designing graceful degradation, where an agent can pause, present its current state to a human, and resume from that exact checkpoint, turns brittle autonomous systems into collaborative ones.
+  
+  ### Testing Agentic Workflows
+  
+  The shift from unit testing prompts to integration testing flows is fundamental. Test agent behavior end-to-end with benchmark datasets and regression suites rather than asserting on individual prompt outputs. This means checking final outcomes, execution paths, and resource consumption across representative inputs.
+  
+  ## What's Coming Next: The 2026 to 2027 Horizon
+  
+  Agent protocol standards are converging faster than expected. OpenAI's Agents SDK, Google's Agent2Agent (A2A) protocol, and Anthropic's Model Context Protocol (MCP) are moving toward interoperable standards. Memory-augmented agents with persistent, queryable long-term memory are moving from experimental to practical. Agent-to-agent marketplaces and composable agent APIs will enable assembling agent capabilities from third-party providers. Open-weight models continue to drive down per-call costs, with per-million-token pricing dropping by roughly an order of magnitude since early 2024, making agentic patterns viable for broader use cases.
+  
+  ## Think in Flows, Not Prompts
+  
+  The six patterns covered here, Reflection, Tool Use, Planning, Multi-Agent Collaboration, Orchestrator-Worker, and Evaluator-Optimizer, form a complete toolkit for building agentic systems. Each addresses a distinct class of problems, and they compose naturally for complex use cases. Designing agent control flow is now the highest-leverage skill in AI engineering. The decision tree above maps any task to the right starting pattern. Pick one, build a prototype, and iterate from there.
+  
+  > Start with the simplest pattern that addresses the core problem, then layer additional patterns only when a specific failure mode demands it.
+  
+  Close
+  
+  [![SitePoint Team](https://uploads.sitepoint.com/wp-content/uploads/2020/03/1584945800Group-5.png)SitePoint Team](https://www.sitepoint.com/author/sitepointteam/)
+  
+  Sharing our passion for building incredible internet things.
+  
+  [![ClawPilot - Turn Instructions Into Automation](https://www.sitepoint.com/_next/image/?url=%2Fimages%2Fads%2Fclawpilot%2Fsidead-variant.png&w=640&q=75)](https://clawpilot.ai/openclaw-on-slack?utm_source=sitepoint&utm_medium=sidead)
+  
+  Stuff we do
+  
+  [Premium](https://www.sitepoint.com/premium/library/) [Newsletters](https://www.sitepoint.com/newsletters/) [Learning paths](https://www.sitepoint.com/premium/library/paths/) [Library](https://www.sitepoint.com/premium/library/) [Forums](https://www.sitepoint.com/community/)
+  
+  Contact
+  
+  [Contact us](https://www.sitepoint.com/contact-us/) [FAQ](https://www.sitepoint.com/faq/) [Publish your book with us](mailto:support@sitepoint.com?subject=I%27d%20like%20to%20publish%20my%20book%20on%20SitePoint) [Write an article with us](https://www.sitepoint.com/write-for-us/) [Advertise](https://www.sitepoint.com/partnerships/)
+  
+  About
+  
+  [Our story](https://www.sitepoint.com/about-us/) [Corporate memberships](https://www.sitepoint.com/premium-for-teams/) [Start free trial](https://www.sitepoint.com/premium/pricing/?ref_source=sitepoint&unlock=true&ref_medium=hp-footer) [Login](https://www.sitepoint.com/premium/sign-in/)
+  
+  Connect
+  
+  [RSS](https://www.sitepoint.com/sitepoint.rss) [Facebook](https://www.facebook.com/sitepoint) [Instagram](https://www.instagram.com/sitepointdotcom/?hl=en) [Twitter (X)](https://twitter.com/sitepointdotcom)
+  
+  Subscribe to our newsletter
+  
+  Get the freshest news and resources for developers, designers and digital creators in your inbox each week
+  
+  Subscribe
+  
+  © 2000 – 2026 SitePoint Pty. Ltd.
+  
+  Back to top
+  
+  This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+  
+  [Privacy Policy](https://www.sitepoint.com/privacy-policy/) [Terms of Service](https://www.sitepoint.com/legals/)
+  --- End Content ---
+
+5 Agent Design Patterns Every Developer Needs to Know in 2026
+  URL: https://dev.to/ljhao/5-agent-design-patterns-every-developer-needs-to-know-in-2026-17d8
+  Master these five essential AI agent design patterns to build successful enterprise applications as 40% of companies adopt AI agents by 2026 ...
+
+  --- Content ---
+  ![Explore the top 5 AI agent design patterns every developer needs to know in 2026. From ReAct and Plan-and-Execute to Multi-Agent Collaboration, discover how to architect intelligent, self-improving, and scalable enterprise AI systems.](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxm5166yplgk1tdwe1wkk.webp)
+  
+  ## Key Takeaways
+  
+  Master these five essential AI agent design patterns to build successful enterprise applications as 40% of companies adopt AI agents by 2026.
+  
+  - **ReAct Pattern delivers transparency and adaptive tool use** – By alternating thought, action, and observation, agents ground decisions in real‑world feedback, making them auditable and reducing hallucinations. It remains one of the most widely deployed patterns for applications where interpretability matters.
+  - **Plan‑and‑Execute Pattern achieves 92% task completion with 3.6× speedup** – Separating high‑level planning from tactical execution handles complex, multi‑step workflows more efficiently than reactive approaches, while allowing smaller, cheaper models to do the execution work.
+  - **Multi‑Agent Collaboration reduces complexity through specialization** – Distributing work across agents with distinct roles (sequential, parallel, or loop patterns) simplifies prompts, enables scalability, and lets you mix different models—ideal for software development teams and complex business automation.
+  - **Reflection Pattern boosts accuracy by up to 20 percentage points** – Agents that critique and refine their own outputs catch systematic errors, reaching 91% accuracy on coding benchmarks (vs. 80% without reflection). When combined with external verification tools, gains of 10–30 percentage points are common.
+  - **Tool Use Pattern extends LLMs to the real world** – Through function calling, agents can query databases, run code, call APIs, and trigger business actions, turning the LLM into a reasoning engine that works with current information and accurate computations.
+  
+  The difference between successful and failed AI agent projects often comes down to selecting the right design pattern. Start with your biggest bottleneck—whether that’s reasoning transparency, multi‑step complexity, specialization, output quality, or real‑world integration—and implement the corresponding pattern before scaling to others.
+  
+  ## Introduction
+  
+  By 2026, 40% of enterprise applications will incorporate AI agents, compared with less than 5% in 2025. Understanding agent design patterns is no longer optional for developers building the next generation of software.
+  
+  The shift from traditional UI to AI-driven collaboration is reshaping how we architect intelligent systems. However, over 40% of agentic AI projects could get canceled by 2027 due to high costs and complex scaling. The difference between success and failure often comes down to choosing the right design pattern. In this article, we'll explore five essential ai agent design patterns, from autonomous ai agent design patterns like Reflection and Plan-Execute to multi-agent design patterns and llm agent design patterns with practical examples.
+  
+  ## Pattern 1: ReAct (The Reasoning-Action Loop AI Agent Design Pattern)
+  
+  ### What is the ReAct Pattern
+  
+  ReAct — short for **Reasoning** \+ **Acting** — enables AI agents to think step by step while wielding external tools, then incorporate the results back into their reasoning. Rather than generating a single answer in isolation, the agent alternates between internal reflection and external action, building solutions through an iterative loop of thought and execution.
+  
+  The pattern addresses a core limitation of standard LLM usage: a model can reason about a problem but cannot interact with the outside world. Conversely, a model can call tools but may do so without a coherent strategy. ReAct weaves these together, allowing the agent to decide _what_ to do, _do_ it, observe the result, and refine its plan accordingly.
+  
+  ### How ReAct Pattern Works
+  
+  ReAct organizes agent behavior into a continuous cycle of three distinct phases.
+  
+  **1\. Thought (Reasoning)**
+  
+  The agent articulates its current understanding of the task and decides what to do next. This step makes the agent’s internal reasoning visible and provides a natural place to inject constraints, goals, or reminders. The thought often follows patterns like “I need to look up X before I can answer Y” or “The user asked for Z, so I should first…”
+  
+  **2\. Action (Acting)**
+  
+  The agent selects a tool or operation and executes it. Actions are typically structured as calls to functions: search queries, code execution, API requests, database lookups, or even delegating subtasks to other agents. This phase grounds the agent’s reasoning in real-world data or computational results.
+  
+  **3\. Observation (Result)**
+  
+  The system feeds the outcome of the action back into the agent’s context. This could be search results, output from a calculator, or an error message. The observation informs the next Thought, closing the loop.
+  
+  The cycle repeats until the agent determines it has sufficient information to produce a final answer. The process is often visualized as:
+  
+  `Thought → Action → Observation → Thought → Action → Observation → … → Final Answer`
+  
+  For example, a ReAct agent asked “What’s the weather like in Tokyo right now, and should I pack an umbrella?” might think: “I need current weather data. I’ll use the weather API.” It then takes an action to call the API with Tokyo as the parameter. Observing “rain expected this afternoon,” it thinks: “Rain is forecast, so I should recommend an umbrella.” Finally, it delivers the answer combining both the fact and the recommendation.
+  
+  ### Key Benefits and Trade-offs
+  
+  ReAct delivers transparency that other patterns lack. Every decision is logged as a thought, making the agent’s behavior auditable and debuggable. This interpretability is crucial in regulated industries or when building trust with users. The pattern also enables adaptive tool use — the agent decides which tools to employ and in what order, rather than following a rigid script.
+  
+  The cycle naturally prevents certain classes of hallucinations because the agent grounds its claims in observations. When the observation contradicts initial assumptions, the agent can adjust before delivering a final answer.
+  
+  The trade-off is latency and token consumption. Each loop requires multiple LLM calls, and verbose thought chains increase input length. For simple tasks, this overhead is disproportionate. There is also the risk of _loop divergence_: poorly constrained agents may cycle indefinitely, rethinking the same problem without reaching closure. Practical implementations typically enforce maximum iteration limits or require explicit termination conditions.
+  
+  Another limitation: ReAct does not inherently include planning across long horizons. The agent thinks one step at a time, which works well for tasks requiring 3–5 actions but can become inefficient for complex workflows. For such cases, the Pattern 3 (Plan-and-Execute) often serves as a complementary architecture.
+  
+  ### Real-World Use Cases and Examples
+  
+  ReAct appears most frequently in applications where the agent must consult external data while maintaining coherent reasoning.
+  
+  **Code assistants** use ReAct to write, execute, and debug code iteratively. The agent writes a snippet, executes it, observes the output or error, and refines accordingly — all without human intervention.
+  
+  **Research and analysis tools** employ ReAct to search documentation, query databases, and synthesize findings. An agent tasked with summarizing recent product reviews might search for reviews, observe sentiment patterns, then search for technical specifications to provide context.
+  
+  **Customer support agents** use the pattern to verify information before responding. Rather than hallucinating a shipping policy, the agent queries the internal knowledge base, observes the policy text, and crafts an answer grounded in actual documentation.
+  
+  **Automated workflow systems** implement ReAct to handle conditional logic. For example, an agent processing expense reports might check receipt amounts against policy limits, flagging exceptions for human review only when observations fall outside thresholds.
+  
+  According to industry surveys, ReAct remains one of the most widely deployed agent patterns, particularly in applications where interpretability and adaptive tool use outweigh the cost of additional LLM calls.
+  
+  ## Pattern 2: Plan and Execute (The Strategic AI Agent Design Pattern)
+  
+  ### What is the Plan and Execute Pattern
+  
+  Plan-and-execute separates strategic reasoning from tactical execution. Instead of invoking the LLM at every step, a planner generates a full task breakdown upfront, an executor works through each subtask, and a re-planner adjusts when execution diverges from the plan.
+  
+  The architecture consists of two components. The **planner** prompts an LLM to generate a multi-step plan for completing large tasks. **Executors** accept the user query and a plan step, then invoke tools to complete that task.
+  
+  ### How Planning Patterns Work
+  
+  The planner analyzes problems and creates step-by-step strategies before action begins. LangChain's LLMCompiler implementation streams a directed acyclic graph of tasks with explicit dependency tracking, enabling parallel execution. This approach reports a [3.6x speedup](https://blogs.oracle.com/developers/what-is-the-ai-agent-loop-the-core-architecture-behind-autonomous-ai-systems) over sequential ReAct-style execution.
+  
+  Structured output like JSON simplifies processing for other agents, especially in multi-agent systems. Once execution completes, the agent receives a re-planning prompt, deciding whether to finish or generate a follow-up plan.
+  
+  ### Key Benefits and Trade-offs
+  
+  Planning patterns execute multi-step workflows faster since the larger agent doesn't need consultation after each action. They offer cost savings over ReAct agents because LLM calls can target smaller, domain-specific models. [Task completion accuracy reaches 92%](https://dev.to/jamesli/react-vs-plan-and-execute-a-practical-comparison-of-llm-agent-patterns-4gh9) compared to 85% with ReAct.
+  
+  However, average token usage increases to 3000-4500 versus 2000-3000, and API calls rise to 5-8 times versus 3-5 times. At production scale, where each LLM call carries direct cost, the architectural decision to plan upfront has measurable financial implications.
+  
+  ### Real-World Use Cases and Examples
+  
+  Plan-and-execute patterns suit complex multi-step tasks requiring task breakdown and step dependencies. Financial analysis, data processing workflows, and project planning benefit from this strategic ai agent design pattern approach.
+  
+  ## Pattern 3: Multi-Agent Collaboration (Sequential, Parallel, and Loop Patterns)
+  
+  ### Understanding Multi-Agent Design Patterns
+  
+  Complex problems often exceed single-agent capabilities. Multi-agent design patterns distribute work across specialized agents, each handling specific domains. This approach mirrors microservices architecture, where individual components focus on narrow tasks rather than one entity managing everything. The coordination happens through defined communication protocols, shared state, or sequential handoffs.
+  
+  Specialization reduces prompt complexity. Scalability allows adding agents without system redesigns. Maintainability simplifies debugging by isolating issues to specific agents. Optimization enables using different models and compute resources per agent based on task requirements.
+  
+  ### Sequential Multi-Agent Pattern
+  
+  Agents execute in predefined linear order, creating a processing pipeline. Each agent receives output from the previous stage, performs its specialized task, and passes results forward. This pattern suits multistage processes with clear dependencies where parallelization isn't possible. Data transformation workflows benefit from sequential processing when each stage adds specific value the next stage requires.
+  
+  ### Parallel Multi-Agent Pattern
+  
+  Multiple agents run simultaneously on independent subtasks, then merge results through a synthesizer step. This fan-out/fan-in approach reduces overall latency and provides diverse perspectives. Research across multiple sources, multi-variant ideation, and document extraction workflows gain speed through concurrent execution.
+  
+  ### Loop-Based Multi-Agent Pattern
+  
+  Agents execute sequentially in repeating cycles until meeting termination conditions. The pattern handles iterative refinement where output quality improves through successive passes. A generator produces drafts, critics review them, and refiners polish based on feedback until reaching quality thresholds or maximum iterations.
+  
+  ### When to Use Multi-Agent Collaboration
+  
+  Sequential patterns fit linear dependencies and progressive refinement needs. Parallel patterns suit time-sensitive scenarios requiring diverse insights or independent task execution. Loop patterns address tasks needing self-correction cycles. Organizations experimenting with multi-agent systems report improved outcomes when matching pattern to problem structure rather than forcing single-agent solutions.
+  
+  ## Pattern 4: Reflection (The Self-Improving AI Agent Design Pattern)
+  
+  ### What is the Reflection Pattern
+  
+  Reflection enables AI systems to review and correct their own outputs before proceeding. Think of it as adding a quality control step that happens automatically within your workflow. Instead of trusting the first response an LLM produces, the system pauses, evaluates what it generated, and improves it before delivering the final answer.
+  
+  The pattern addresses a fundamental limitation: LLMs generate responses token by token without reviewing their work. In agentic setups, we can create feedback loops where the model critiques its own output or incorporates external validation signals.
+  
+  ### How Reflection Pattern Works
+  
+  The process follows a three-phase cycle. First, the agent generates an initial output, which serves as a rough draft. Next comes the reflection stage where the model reviews this output against specific criteria, identifying gaps in reasoning, inconsistencies, or structural issues. Finally, the refinement phase produces an improved version based on the critique. This cycle can repeat for a fixed number of iterations or until a quality threshold is met.
+  
+  Research shows reflection delivers measurable gains. On the HumanEval coding benchmark, [reflection-augmented systems reached 91% accuracy](https://yoheinakajima.com/better-ways-to-build-self-improving-ai-agents/) compared to 80% without reflection. Self-refinement improved performance by approximately 20 percentage points across tasks ranging from dialog generation to mathematical reasoning. When combined with external tools for verification, accuracy improvements of 10-30 percentage points were observed.
+  
+  ### Key Benefits and Trade-offs
+  
+  Reflection catches systematic errors before they propagate through your system. It reduces hallucinations, improves logical consistency, and produces more polished outputs. The agent can validate plans, check instruction adherence, and verify correctness without human intervention.
+  
+  The cost comes in latency and compute. Each reflection cycle requires additional LLM calls, which increases response time and operational expenses. For low-latency applications, this trade-off may not be acceptable. Reflection optimizes for quality over speed.
+  
+  Another limitation: the agent still judges its own work. It cannot verify facts without external grounding and may confidently reinforce incorrect assumptions. Reflection improves outputs but doesn't guarantee truth or compliance with business rules.
+  
+  ### Real-World Use Cases and Examples
+  
+  Reflection proves valuable in code generation where agents review their output for bugs, security concerns, and adherence to coding standards. In content creation, agents draft reports or documentation, then critique them for clarity and completeness before delivery. Analysis workflows benefit when agents validate their logic and identify weak conclusions before presenting findings. Customer communication systems use reflection to ensure responses are accurate and aligned with brand voice.
+  
+  According to data, 62% of organizations are experimenting with AI agents, with reflection patterns appearing across enterprise workflows where quality matters more than speed.
+  
+  ## Pattern 5: Tool Use (Extending LLM Agent Capabilities)
+  
+  ### What is the Tool Use Pattern
+  
+  LLMs operate within the boundaries of their training data. Tool Use extends these boundaries by [connecting models to external functions](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-3-tool-use/), APIs, databases, and services. The pattern treats the LLM as a reasoning engine while external tools execute real-world actions. Instead of hallucinating calculations or outdated information, agents call specialized tools for verified results.
+  
+  ### How Tool Use Pattern Works
+  
+  Function calling drives the mechanism. You provide the LLM with schemas describing available tools, their purposes, and required parameters. When processing requests, the model selects appropriate tools, generates structured calls with arguments, executes functions, and incorporates results into responses. Tools fall into three categories: data access for retrieval, computation for transformation, and actions for state changes. Security concerns like SQL injection are mitigated through [read-only database permissions](https://microsoft.github.io/ai-agents-for-beginners/04-tool-use/).
+  
+  ### Key Benefits and Trade-offs
+  
+  Tool Use is nearly non-negotiable for production agents handling real-world tasks. Agents access current information beyond training cutoffs, perform accurate computations, and trigger business actions. However, tool reliability becomes system reliability. API failures, rate limits, and timeouts propagate to your agent, along with maintenance burden as APIs evolve.
+  
+  ### Real-World Use Cases and Examples
+  
+  Customer service agents query order databases and inventory systems. Data analysis agents run statistical computations on live datasets. Research assistants access current information, development assistants execute code, and automation agents trigger actions in business platforms.
+  
+  ## Comparison Table
+  
+  Below is the reordered table with the five agentic design patterns in the sequence you specified: **ReAct**, **Plan‑and‑Execute**, **Multi‑Agent Collaboration**, **Reflection**, and **Tool Use**. The content synthesizes information from the ReAct blog post and the earlier table, aligning columns and terminology for consistency.
+  
+  | Pattern | Primary Purpose | How It Works | Key Benefits | Trade-offs/Limitations | Best Use Cases | Performance Metrics |
+  | --- | --- | --- | --- | --- | --- | --- |
+  | **ReAct** | Enables agents to reason step‑by‑step and interact with external tools, grounding decisions in observations | Alternating loop of **Thought** (internal reasoning), **Action** (tool invocation), and **Observation** (result feedback). Repeats until the agent can produce a final answer | Transparent and auditable (every decision logged); adaptive tool use; reduces hallucinations by grounding in observations | Latency and token overhead from multiple LLM calls; risk of infinite loops without iteration limits; inefficient for long‑horizon tasks | Code assistants (write–execute–debug), research analysis, customer support (verification before response), conditional workflow automation | Not specified in source, but industry surveys show it is one of the most widely deployed patterns for interpretability and adaptive tool use |
+  | **Plan‑and‑Execute** | Separates high‑level strategic reasoning from tactical execution; planner decomposes tasks upfront, executor works through subtasks | **Planner** analyzes the problem and generates a step‑by‑step plan (often as a DAG). **Executor** (or multiple executors) runs subtasks, sometimes with a **re‑planner** that adjusts when execution diverges | 3.6× speedup over sequential ReAct; cost savings by using smaller, domain‑specific models for execution; 92% task completion accuracy in benchmarks | Higher token usage (3000‑4500 vs 2000‑3000 for simpler patterns); more API calls (5‑8 vs 3‑5); increased operational costs at scale | Complex multi‑step workflows: financial analysis, data processing pipelines, project planning, any task with clear dependency structure | 92% task completion accuracy (vs 85% with ReAct); 3.6× speedup over sequential ReAct execution |
+  | **Multi‑Agent Collaboration** | Distributes work across specialized agents, each handling a specific domain or role, to solve complex problems collectively | Agents coordinate via **sequential** (linear handoff), **parallel** (simultaneous work with merged results), or **loop** (iterative refinement) patterns; often orchestrated by a supervisor or shared message bus | Reduces prompt complexity through specialization; scalable; simplifies debugging (each agent has a narrow scope); allows mixing different models per agent | Requires careful coordination protocols and shared state management; increased orchestration complexity; potential for communication overhead or deadlocks | Sequential: tasks with linear dependencies; Parallel: time‑sensitive scenarios needing diverse perspectives; Loop: iterative improvement (e.g., writing + reviewing) | Not mentioned in source; widely adopted in software development teams (e.g., ChatDev, MetaGPT) and complex business automation |
+  | **Reflection** | Enables the agent to review and critique its own outputs, then refine them before final delivery | Three‑phase cycle: (1) **Generate** an initial output, (2) **Reflect** by evaluating against criteria (identifying gaps, errors, inconsistencies), (3) **Refine** based on the critique. Cycle repeats until a quality threshold is met | Catches systematic errors before propagation; reduces hallucinations; improves logical consistency and polish; works without human intervention | Increased latency and compute (additional LLM calls per cycle); agent still judges its own work and may reinforce incorrect assumptions without external grounding | Code generation (debugging, security checks), content creation (reports, documentation), analytical workflows (validating logic), customer communication where quality outweighs speed | 91% accuracy on HumanEval (vs 80% without reflection); 20 percentage point improvement in self‑refinement; 10‑30 percentage point gains when combined with external verification tools |
+  | **Tool Use** | Extends LLM capabilities by connecting to external functions, APIs, databases, and services; treats the LLM as a reasoning engine that selects and invokes tools | **Function calling**: provide tool schemas to the model; LLM selects appropriate tools and generates structured arguments; system executes the function and feeds results back into the context | Access to current information (beyond training data); accurate computations; ability to trigger real‑world actions; keeps the model lightweight by offloading execution | Tool reliability becomes system reliability (API failures, rate limits, timeouts propagate); maintenance burden as APIs evolve; security considerations for privileged actions | Customer service (query databases), data analysis (statistical computations), research assistants (real‑time information), development assistants (execute code), automation agents | Not mentioned in source; considered foundational for most agentic systems, with reliability often measured by successful tool invocation rates and handling of edge cases |
+  
+  ## Conclusion
+  
+  All things considered, mastering these agent design patterns will determine your success as AI agents reshape enterprise software. While implementing all five patterns might seem overwhelming at first, start with the one that addresses your biggest bottleneck. Reflection improves quality, multi-agent systems boost specialization, plan-execute optimizes complex workflows, and tool use extends capabilities beyond training data. Pick your starting point based on whether you need better accuracy, faster execution, or real-world integration. The key is matching pattern to problem rather than forcing one-size-fits-all solutions.
+  
+  ## For More Blog about AI Agent:
+  
+  [PrivOcto](https://privocto.com/) : Priv-Standard, Octo-Stability.
+  
+  ## FAQs
+  
+  **Q1. What is the Reflection pattern in AI agent design and how does it improve output quality?**
+  
+  The Reflection pattern enables AI systems to automatically review and correct their own outputs before delivering final results. It works through a three-phase cycle: generating an initial output, reflecting on it against specific criteria to identify gaps or inconsistencies, and then refining the output based on that critique. This pattern has been shown to improve accuracy significantly, with reflection-augmented systems reaching 91% accuracy on coding benchmarks compared to 80% without reflection, and delivering approximately 20 percentage point improvements across various tasks.
+  
+  **Q2. When should I use multi-agent collaboration patterns versus single-agent systems?**
+  
+  Multi-agent collaboration patterns work best when problems exceed single-agent capabilities or require specialized expertise across different domains. Use sequential patterns for tasks with linear dependencies and progressive refinement needs. Choose parallel patterns for time-sensitive scenarios requiring diverse insights or independent task execution. Implement loop-based patterns for tasks needing iterative self-correction cycles. The key is matching the pattern to your problem structure—62% of organizations are currently experimenting with AI agents, with better outcomes reported when using specialized agents rather than forcing single-agent solutions.
+  
+  **Q3. How does the Plan and Execute pattern differ from other agent design approaches?**
+  
+  The Plan and Execute pattern separates strategic reasoning from tactical execution by having a planner generate a complete task breakdown upfront before any action begins. This differs from approaches like ReAct where the LLM is consulted after each step. The pattern achieves 3.6x speedup over sequential execution and reaches 92% task completion accuracy compared to 85% with ReAct. However, it uses more tokens (3000-4500 versus 2000-3000) and requires more API calls (5-8 versus 3-5), making it ideal for complex multi-step tasks where the upfront planning cost is justified by improved accuracy and parallel execution capabilities.
+  
+  **Q4. Why is the Tool Use pattern considered essential for production AI agents?**
+  
+  Tool Use is nearly non-negotiable for production agents because it extends LLM capabilities beyond their training data limitations. By connecting models to external functions, APIs, databases, and services, agents can access current information, perform accurate computations, and trigger real-world business actions instead of hallucinating results. The pattern uses function calling where you provide the LLM with tool schemas, and the model selects appropriate tools, generates structured calls, executes functions, and incorporates verified results into responses—essential for customer service, data analysis, and automation workflows.
+  
+  **Q5. What are the main trade-offs to consider when implementing the Reflection pattern?**
+  
+  The primary trade-off with Reflection is increased latency and compute costs, as each reflection cycle requires additional LLM calls. This makes it less suitable for low-latency applications where speed is critical. Additionally, while Reflection improves output quality and catches systematic errors, the agent is still judging its own work and cannot verify facts without external grounding—it may confidently reinforce incorrect assumptions. The pattern optimizes for quality over speed, making it ideal for use cases like code generation, content creation, and analysis workflows where accuracy matters more than response time.
+  
+  ## Related Articles
+  
+  - [MCP vs Function Calling: AI Tool Integration Guide](https://localaiagent.tech/blog/mcp-fuction-call) — Tool integration patterns for AI systems
+  - [How to Build Local AI Agents: A Privacy-First Guide](https://localaiagent.tech/blog/build-local-ai-agents) — Deploy local inference with vLLM/SGLang
+  - [openclaw](https://localaiagent.tech/blog/openclaw) — How openclaw works
+  - [SGLang GitHub Repository](https://github.com/sgl-project/sglang) — Official SGLang implementation
+  - [PagedAttention Paper](https://arxiv.org/abs/2309.10380) — Technical foundation of vLLM
+  - [vLLM vs LM Deploy](https://www.benchmark.to/llm-inference) — Additional inference engine comparisons
+  \*\*
+  
+  [![profile](https://media2.dev.to/dynamic/image/width=64,height=64,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F6839%2F3d85988f-d18e-4522-b261-f86613cd9b50.png)\\
+  Sonar](https://dev.to/sonar) Promoted
+  
+  Dropdown menu
+  
+  - [What's a billboard?](https://dev.to/billboards)
+  - [Manage preferences](https://dev.to/settings/customization#sponsors)
+  
+  * * *
+  
+  - [Report billboard](https://dev.to/report-abuse?billboard=259979)
+  
+  [![State of Code Developer Survey report](https://media2.dev.to/dynamic/image/width=775%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fucarecdn.com%2F2f2ce9b0-68e0-48a1-bf3e-46c08831a9be%2F)](https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/?utm_medium=paid&utm_source=dev&utm_campaign=ss-state-of-code-developer-survey26&utm_content=report-devsurvey-banner-x-2&utm_term=ww-all-x&s_category=Paid&s_source=Paid+Social&s_origin=dev&bb=259979)
+  
+  ## [State of Code Developer Survey report](https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/?utm_medium=paid&utm_source=dev&utm_campaign=ss-state-of-code-developer-survey26&utm_content=report-devsurvey-banner-x-2&utm_term=ww-all-x&s_category=Paid&s_source=Paid+Social&s_origin=dev&bb=259979)
+  
+  Did you know 96% of developers don't fully trust that AI-generated code is functionally correct, yet only 48% always check it before committing? Check out Sonar's new report on the real-world impact of AI on development teams.
+  
+  [Read the results](https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/?utm_medium=paid&utm_source=dev&utm_campaign=ss-state-of-code-developer-survey26&utm_content=report-devsurvey-banner-x-2&utm_term=ww-all-x&s_category=Paid&s_source=Paid+Social&s_origin=dev&bb=259979)
+  
+  Read More
+  
+  
+  ![pic](https://media2.dev.to/dynamic/image/width=256,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
+  
+  [Create template](https://dev.to/settings/response-templates)
+  
+  Templates let you quickly answer FAQs or store snippets for re-use.
+  
+  SubmitPreview [Dismiss](https://dev.to/404.html)
+  
+  Are you sure you want to hide this comment? It will become hidden in your post, but will still be visible via the comment's [permalink](https://dev.to/ljhao/5-agent-design-patterns-every-developer-needs-to-know-in-2026-17d8#).
+  
+  
+  Hide child comments as well
+  
+  Confirm
+  
+  
+  For further actions, you may consider blocking this person and/or [reporting abuse](https://dev.to/report-abuse)
+  
+  [![profile](https://media2.dev.to/dynamic/image/width=64,height=64,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F6839%2F3d85988f-d18e-4522-b261-f86613cd9b50.png)\\
+  Sonar](https://dev.to/sonar) Promoted
+  
+  Dropdown menu
+  
+  - [What's a billboard?](https://dev.to/billboards)
+  - [Manage preferences](https://dev.to/settings/customization#sponsors)
+  
+  * * *
+  
+  - [Report billboard](https://dev.to/report-abuse?billboard=259978)
+  
+  [![State of Code Developer Survey report](https://media2.dev.to/dynamic/image/width=775%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fucarecdn.com%2F2f2ce9b0-68e0-48a1-bf3e-46c08831a9be%2F)](https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/?utm_medium=paid&utm_source=dev&utm_campaign=ss-state-of-code-developer-survey26&utm_content=report-devsurvey-banner-x-2&utm_term=ww-all-x&s_category=Paid&s_source=Paid+Social&s_origin=dev&bb=259978)
+  
+  ## [State of Code Developer Survey report](https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/?utm_medium=paid&utm_source=dev&utm_campaign=ss-state-of-code-developer-survey26&utm_content=report-devsurvey-banner-x-2&utm_term=ww-all-x&s_category=Paid&s_source=Paid+Social&s_origin=dev&bb=259978)
+  
+  Did you know 96% of developers don't fully trust that AI-generated code is functionally correct, yet only 48% always check it before committing? Check out Sonar's new report on the real-world impact of AI on development teams.
+  
+  [Read the results](https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/?utm_medium=paid&utm_source=dev&utm_campaign=ss-state-of-code-developer-survey26&utm_content=report-devsurvey-banner-x-2&utm_term=ww-all-x&s_category=Paid&s_source=Paid+Social&s_origin=dev&bb=259978)
+  
+  DEV Education Tracks
+  
+  Dropdown menu
+  
+  - [What's a billboard?](https://dev.to/billboards)
+  - [Manage preferences](https://dev.to/settings/customization#sponsors)
+  
+  * * *
+  
+  - [Report billboard](https://dev.to/report-abuse?billboard=238629)
+  
+  x
+  
+  ### Announcing the First DEV Education Track: "Build Apps with Google AI Studio"
+  
+  The moment is here! We recently announced DEV Education Tracks, our new initiative to bring you structured learning paths directly from industry experts.
+  
+  
+  [Dive in and Learn](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7?bb=238629)
+  
+  DEV is bringing Education Tracks to the community. Dismiss if you're not interested. ❤️
+  
+  
+  ![DEV Community](https://media2.dev.to/dynamic/image/width=190,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
+  
+  We're a place where coders share, stay up-to-date and grow their careers.
+  
+  
+  [Log in](https://dev.to/enter?signup_subforem=1) [Create account](https://dev.to/enter?signup_subforem=1&state=new-user)
+  
+  ![](https://assets.dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg)![](https://assets.dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg)![](https://assets.dev.to/assets/exploding-head-daceb38d627e6ae9b730f36a1e390fca556a4289d5a41abb2c35068ad3e2c4b5.svg)![](https://assets.dev.to/assets/raised-hands-74b2099fd66a39f2d7eed9305ee0f4553df0eb7b4f11b01b6b1b499973048fe5.svg)![](https://assets.dev.to/assets/fire-f60e7a582391810302117f987b22a8ef04a2fe0df7e3258a5f49332df1cec71e.svg)
+  --- End Content ---

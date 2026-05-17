@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 5.589
+    },
+    {
+      "index": 2,
+      "name": "NUMBERS",
+      "start": 5.589,
+      "duration": 7.987
+    },
+    {
+      "index": 3,
+      "name": "WHO",
+      "start": 13.575,
+      "duration": 7.436
+    },
+    {
+      "index": 4,
+      "name": "CEO_QUOTE",
+      "start": 21.012,
+      "duration": 8.746
+    },
+    {
+      "index": 5,
+      "name": "AI_NUMBERS",
+      "start": 29.758,
+      "duration": 10.289
+    },
+    {
+      "index": 6,
+      "name": "MARKET",
+      "start": 40.047,
+      "duration": 7.737
+    },
+    {
+      "index": 7,
+      "name": "INSIGHT",
+      "start": 47.784,
+      "duration": 9.231
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 57.015,
+      "duration": 6.074
+    }
+  ],
+  "total_duration": 63.089
+}

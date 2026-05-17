@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.835
+    },
+    {
+      "index": 2,
+      "name": "CLAUDECLAW",
+      "start": 11.835,
+      "duration": 13.252
+    },
+    {
+      "index": 3,
+      "name": "VSCODE",
+      "start": 25.087,
+      "duration": 14.3
+    },
+    {
+      "index": 4,
+      "name": "JETBRAINS",
+      "start": 39.387,
+      "duration": 10.54
+    },
+    {
+      "index": 5,
+      "name": "SUPERPOWERS",
+      "start": 49.927,
+      "duration": 13.56
+    },
+    {
+      "index": 6,
+      "name": "CCUSAGE",
+      "start": 63.488,
+      "duration": 12.081
+    },
+    {
+      "index": 7,
+      "name": "CC_STATUSLINE",
+      "start": 75.569,
+      "duration": 12.698
+    },
+    {
+      "index": 8,
+      "name": "UI_UX_PRO",
+      "start": 88.266,
+      "duration": 14.978
+    },
+    {
+      "index": 9,
+      "name": "FIRECRAWL",
+      "start": 103.244,
+      "duration": 12.821
+    },
+    {
+      "index": 10,
+      "name": "CLAUDIA",
+      "start": 116.065,
+      "duration": 11.588
+    },
+    {
+      "index": 11,
+      "name": "ROUTER",
+      "start": 127.653,
+      "duration": 11.835
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 139.488,
+      "duration": 12.328
+    }
+  ],
+  "total_duration": 151.815
+}

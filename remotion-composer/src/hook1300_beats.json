@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 5.079
+    },
+    {
+      "index": 2,
+      "name": "CONTEXT",
+      "start": 5.079,
+      "duration": 7.658
+    },
+    {
+      "index": 3,
+      "name": "PATTERN_1_INTERRUPT",
+      "start": 12.737,
+      "duration": 8.284
+    },
+    {
+      "index": 4,
+      "name": "PATTERN_2_CURIOSITY",
+      "start": 21.021,
+      "duration": 9.397
+    },
+    {
+      "index": 5,
+      "name": "PATTERN_3_OUTCOME",
+      "start": 30.418,
+      "duration": 9.63
+    },
+    {
+      "index": 6,
+      "name": "PATTERN_4_STORY",
+      "start": 40.048,
+      "duration": 8.578
+    },
+    {
+      "index": 7,
+      "name": "PATTERN_5_NEGATIVE",
+      "start": 48.626,
+      "duration": 7.652
+    },
+    {
+      "index": 8,
+      "name": "TAKEAWAY_CTA",
+      "start": 56.278,
+      "duration": 8.935
+    }
+  ],
+  "total_duration": 65.213
+}

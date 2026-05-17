@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 3.122
+    },
+    {
+      "index": 2,
+      "name": "TRUTH",
+      "start": 3.122,
+      "duration": 6.079
+    },
+    {
+      "index": 3,
+      "name": "T1_SCRIPT",
+      "start": 9.201,
+      "duration": 5.088
+    },
+    {
+      "index": 4,
+      "name": "T2_VOICE",
+      "start": 14.288,
+      "duration": 3.948
+    },
+    {
+      "index": 5,
+      "name": "T3_VIDEO",
+      "start": 18.236,
+      "duration": 4.315
+    },
+    {
+      "index": 6,
+      "name": "T4_EDIT",
+      "start": 22.551,
+      "duration": 4.426
+    },
+    {
+      "index": 7,
+      "name": "T5_CLONE",
+      "start": 26.977,
+      "duration": 4.791
+    },
+    {
+      "index": 8,
+      "name": "T6_AUTO",
+      "start": 31.768,
+      "duration": 5.087
+    },
+    {
+      "index": 9,
+      "name": "STACK",
+      "start": 36.856,
+      "duration": 5.39
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 42.245,
+      "duration": 3.866
+    }
+  ],
+  "total_duration": 46.111
+}

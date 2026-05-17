@@ -1,0 +1,986 @@
+[
+  {
+    "word": "Cloudflare",
+    "start": 0.0,
+    "end": 0.373,
+    "beat": 1
+  },
+  {
+    "word": "vừa",
+    "start": 0.373,
+    "end": 0.745,
+    "beat": 1
+  },
+  {
+    "word": "sa",
+    "start": 0.745,
+    "end": 1.118,
+    "beat": 1
+  },
+  {
+    "word": "thải",
+    "start": 1.118,
+    "end": 1.49,
+    "beat": 1
+  },
+  {
+    "word": "1.100",
+    "start": 1.49,
+    "end": 1.863,
+    "beat": 1
+  },
+  {
+    "word": "nhân",
+    "start": 1.863,
+    "end": 2.236,
+    "beat": 1
+  },
+  {
+    "word": "viên.",
+    "start": 2.236,
+    "end": 2.608,
+    "beat": 1
+  },
+  {
+    "word": "Cùng",
+    "start": 2.608,
+    "end": 2.981,
+    "beat": 1
+  },
+  {
+    "word": "ngày",
+    "start": 2.981,
+    "end": 3.353,
+    "beat": 1
+  },
+  {
+    "word": "—",
+    "start": 3.353,
+    "end": 3.726,
+    "beat": 1
+  },
+  {
+    "word": "doanh",
+    "start": 3.726,
+    "end": 4.098,
+    "beat": 1
+  },
+  {
+    "word": "thu",
+    "start": 4.098,
+    "end": 4.471,
+    "beat": 1
+  },
+  {
+    "word": "LẬP",
+    "start": 4.471,
+    "end": 4.844,
+    "beat": 1
+  },
+  {
+    "word": "KỶ",
+    "start": 4.844,
+    "end": 5.216,
+    "beat": 1
+  },
+  {
+    "word": "LỤC.",
+    "start": 5.216,
+    "end": 5.589,
+    "beat": 1
+  },
+  {
+    "word": "20%",
+    "start": 5.589,
+    "end": 6.088,
+    "beat": 2
+  },
+  {
+    "word": "nhân",
+    "start": 6.088,
+    "end": 6.587,
+    "beat": 2
+  },
+  {
+    "word": "sự",
+    "start": 6.587,
+    "end": 7.086,
+    "beat": 2
+  },
+  {
+    "word": "bốc",
+    "start": 7.086,
+    "end": 7.585,
+    "beat": 2
+  },
+  {
+    "word": "hơi",
+    "start": 7.585,
+    "end": 8.085,
+    "beat": 2
+  },
+  {
+    "word": "qua",
+    "start": 8.085,
+    "end": 8.584,
+    "beat": 2
+  },
+  {
+    "word": "1",
+    "start": 8.584,
+    "end": 9.083,
+    "beat": 2
+  },
+  {
+    "word": "email.",
+    "start": 9.083,
+    "end": 9.582,
+    "beat": 2
+  },
+  {
+    "word": "Doanh",
+    "start": 9.582,
+    "end": 10.081,
+    "beat": 2
+  },
+  {
+    "word": "thu",
+    "start": 10.081,
+    "end": 10.58,
+    "beat": 2
+  },
+  {
+    "word": "Q1:",
+    "start": 10.58,
+    "end": 11.08,
+    "beat": 2
+  },
+  {
+    "word": "$640M",
+    "start": 11.08,
+    "end": 11.579,
+    "beat": 2
+  },
+  {
+    "word": "—",
+    "start": 11.579,
+    "end": 12.078,
+    "beat": 2
+  },
+  {
+    "word": "tăng",
+    "start": 12.078,
+    "end": 12.577,
+    "beat": 2
+  },
+  {
+    "word": "34%",
+    "start": 12.577,
+    "end": 13.076,
+    "beat": 2
+  },
+  {
+    "word": "YoY.",
+    "start": 13.076,
+    "end": 13.575,
+    "beat": 2
+  },
+  {
+    "word": "Tất",
+    "start": 13.575,
+    "end": 13.967,
+    "beat": 3
+  },
+  {
+    "word": "cả",
+    "start": 13.967,
+    "end": 14.358,
+    "beat": 3
+  },
+  {
+    "word": "team",
+    "start": 14.358,
+    "end": 14.75,
+    "beat": 3
+  },
+  {
+    "word": "bị",
+    "start": 14.75,
+    "end": 15.141,
+    "beat": 3
+  },
+  {
+    "word": "cắt",
+    "start": 15.141,
+    "end": 15.532,
+    "beat": 3
+  },
+  {
+    "word": "—",
+    "start": 15.532,
+    "end": 15.924,
+    "beat": 3
+  },
+  {
+    "word": "engineering",
+    "start": 15.924,
+    "end": 16.315,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 16.315,
+    "end": 16.707,
+    "beat": 3
+  },
+  {
+    "word": "marketing",
+    "start": 16.707,
+    "end": 17.098,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 17.098,
+    "end": 17.489,
+    "beat": 3
+  },
+  {
+    "word": "support",
+    "start": 17.489,
+    "end": 17.881,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 17.881,
+    "end": 18.272,
+    "beat": 3
+  },
+  {
+    "word": "ops.",
+    "start": 18.272,
+    "end": 18.664,
+    "beat": 3
+  },
+  {
+    "word": "CHỈ",
+    "start": 18.664,
+    "end": 19.055,
+    "beat": 3
+  },
+  {
+    "word": "sales",
+    "start": 19.055,
+    "end": 19.446,
+    "beat": 3
+  },
+  {
+    "word": "có",
+    "start": 19.446,
+    "end": 19.838,
+    "beat": 3
+  },
+  {
+    "word": "quota",
+    "start": 19.838,
+    "end": 20.229,
+    "beat": 3
+  },
+  {
+    "word": "được",
+    "start": 20.229,
+    "end": 20.62,
+    "beat": 3
+  },
+  {
+    "word": "giữ.",
+    "start": 20.62,
+    "end": 21.012,
+    "beat": 3
+  },
+  {
+    "word": "CEO",
+    "start": 21.012,
+    "end": 21.392,
+    "beat": 4
+  },
+  {
+    "word": "Matthew",
+    "start": 21.392,
+    "end": 21.772,
+    "beat": 4
+  },
+  {
+    "word": "Prince:",
+    "start": 21.772,
+    "end": 22.153,
+    "beat": 4
+  },
+  {
+    "word": "\"Đây",
+    "start": 22.153,
+    "end": 22.533,
+    "beat": 4
+  },
+  {
+    "word": "KHÔNG",
+    "start": 22.533,
+    "end": 22.913,
+    "beat": 4
+  },
+  {
+    "word": "phải",
+    "start": 22.913,
+    "end": 23.294,
+    "beat": 4
+  },
+  {
+    "word": "cắt",
+    "start": 23.294,
+    "end": 23.674,
+    "beat": 4
+  },
+  {
+    "word": "giảm",
+    "start": 23.674,
+    "end": 24.054,
+    "beat": 4
+  },
+  {
+    "word": "chi",
+    "start": 24.054,
+    "end": 24.434,
+    "beat": 4
+  },
+  {
+    "word": "phí.",
+    "start": 24.434,
+    "end": 24.815,
+    "beat": 4
+  },
+  {
+    "word": "Đây",
+    "start": 24.815,
+    "end": 25.195,
+    "beat": 4
+  },
+  {
+    "word": "là",
+    "start": 25.195,
+    "end": 25.575,
+    "beat": 4
+  },
+  {
+    "word": "cách",
+    "start": 25.575,
+    "end": 25.955,
+    "beat": 4
+  },
+  {
+    "word": "công",
+    "start": 25.955,
+    "end": 26.336,
+    "beat": 4
+  },
+  {
+    "word": "ty",
+    "start": 26.336,
+    "end": 26.716,
+    "beat": 4
+  },
+  {
+    "word": "world-class",
+    "start": 26.716,
+    "end": 27.096,
+    "beat": 4
+  },
+  {
+    "word": "hoạt",
+    "start": 27.096,
+    "end": 27.477,
+    "beat": 4
+  },
+  {
+    "word": "động",
+    "start": 27.477,
+    "end": 27.857,
+    "beat": 4
+  },
+  {
+    "word": "trong",
+    "start": 27.857,
+    "end": 28.237,
+    "beat": 4
+  },
+  {
+    "word": "kỷ",
+    "start": 28.237,
+    "end": 28.617,
+    "beat": 4
+  },
+  {
+    "word": "nguyên",
+    "start": 28.617,
+    "end": 28.998,
+    "beat": 4
+  },
+  {
+    "word": "agentic",
+    "start": 28.998,
+    "end": 29.378,
+    "beat": 4
+  },
+  {
+    "word": "AI.\"",
+    "start": 29.378,
+    "end": 29.758,
+    "beat": 4
+  },
+  {
+    "word": "Lý",
+    "start": 29.758,
+    "end": 30.154,
+    "beat": 5
+  },
+  {
+    "word": "do",
+    "start": 30.154,
+    "end": 30.55,
+    "beat": 5
+  },
+  {
+    "word": "thật:",
+    "start": 30.55,
+    "end": 30.945,
+    "beat": 5
+  },
+  {
+    "word": "từ",
+    "start": 30.945,
+    "end": 31.341,
+    "beat": 5
+  },
+  {
+    "word": "T11/2025,",
+    "start": 31.341,
+    "end": 31.737,
+    "beat": 5
+  },
+  {
+    "word": "các",
+    "start": 31.737,
+    "end": 32.133,
+    "beat": 5
+  },
+  {
+    "word": "team",
+    "start": 32.133,
+    "end": 32.528,
+    "beat": 5
+  },
+  {
+    "word": "xài",
+    "start": 32.528,
+    "end": 32.924,
+    "beat": 5
+  },
+  {
+    "word": "AI",
+    "start": 32.924,
+    "end": 33.32,
+    "beat": 5
+  },
+  {
+    "word": "→",
+    "start": 33.32,
+    "end": 33.715,
+    "beat": 5
+  },
+  {
+    "word": "productivity",
+    "start": 33.715,
+    "end": 34.111,
+    "beat": 5
+  },
+  {
+    "word": "tăng",
+    "start": 34.111,
+    "end": 34.507,
+    "beat": 5
+  },
+  {
+    "word": "2×,",
+    "start": 34.507,
+    "end": 34.903,
+    "beat": 5
+  },
+  {
+    "word": "10×,",
+    "start": 34.903,
+    "end": 35.298,
+    "beat": 5
+  },
+  {
+    "word": "có",
+    "start": 35.298,
+    "end": 35.694,
+    "beat": 5
+  },
+  {
+    "word": "team",
+    "start": 35.694,
+    "end": 36.09,
+    "beat": 5
+  },
+  {
+    "word": "100×.",
+    "start": 36.09,
+    "end": 36.485,
+    "beat": 5
+  },
+  {
+    "word": "AI",
+    "start": 36.485,
+    "end": 36.881,
+    "beat": 5
+  },
+  {
+    "word": "usage",
+    "start": 36.881,
+    "end": 37.277,
+    "beat": 5
+  },
+  {
+    "word": "nội",
+    "start": 37.277,
+    "end": 37.673,
+    "beat": 5
+  },
+  {
+    "word": "bộ",
+    "start": 37.673,
+    "end": 38.068,
+    "beat": 5
+  },
+  {
+    "word": "tăng",
+    "start": 38.068,
+    "end": 38.464,
+    "beat": 5
+  },
+  {
+    "word": "600%",
+    "start": 38.464,
+    "end": 38.86,
+    "beat": 5
+  },
+  {
+    "word": "trong",
+    "start": 38.86,
+    "end": 39.255,
+    "beat": 5
+  },
+  {
+    "word": "3",
+    "start": 39.255,
+    "end": 39.651,
+    "beat": 5
+  },
+  {
+    "word": "tháng.",
+    "start": 39.651,
+    "end": 40.047,
+    "beat": 5
+  },
+  {
+    "word": "Phố",
+    "start": 40.047,
+    "end": 40.477,
+    "beat": 6
+  },
+  {
+    "word": "Wall",
+    "start": 40.477,
+    "end": 40.907,
+    "beat": 6
+  },
+  {
+    "word": "KHÔNG",
+    "start": 40.907,
+    "end": 41.336,
+    "beat": 6
+  },
+  {
+    "word": "mua.",
+    "start": 41.336,
+    "end": 41.766,
+    "beat": 6
+  },
+  {
+    "word": "Stock",
+    "start": 41.766,
+    "end": 42.196,
+    "beat": 6
+  },
+  {
+    "word": "Cloudflare",
+    "start": 42.196,
+    "end": 42.626,
+    "beat": 6
+  },
+  {
+    "word": "-18%.",
+    "start": 42.626,
+    "end": 43.056,
+    "beat": 6
+  },
+  {
+    "word": "Net",
+    "start": 43.056,
+    "end": 43.486,
+    "beat": 6
+  },
+  {
+    "word": "loss",
+    "start": 43.486,
+    "end": 43.915,
+    "beat": 6
+  },
+  {
+    "word": "Q1:",
+    "start": 43.915,
+    "end": 44.345,
+    "beat": 6
+  },
+  {
+    "word": "$62M",
+    "start": 44.345,
+    "end": 44.775,
+    "beat": 6
+  },
+  {
+    "word": "—",
+    "start": 44.775,
+    "end": 45.205,
+    "beat": 6
+  },
+  {
+    "word": "CAO",
+    "start": 45.205,
+    "end": 45.635,
+    "beat": 6
+  },
+  {
+    "word": "HƠN",
+    "start": 45.635,
+    "end": 46.065,
+    "beat": 6
+  },
+  {
+    "word": "cùng",
+    "start": 46.065,
+    "end": 46.494,
+    "beat": 6
+  },
+  {
+    "word": "kỳ",
+    "start": 46.494,
+    "end": 46.924,
+    "beat": 6
+  },
+  {
+    "word": "năm",
+    "start": 46.924,
+    "end": 47.354,
+    "beat": 6
+  },
+  {
+    "word": "ngoái.",
+    "start": 47.354,
+    "end": 47.784,
+    "beat": 6
+  },
+  {
+    "word": "Pattern",
+    "start": 47.784,
+    "end": 48.168,
+    "beat": 7
+  },
+  {
+    "word": "mới:",
+    "start": 48.168,
+    "end": 48.553,
+    "beat": 7
+  },
+  {
+    "word": "Meta",
+    "start": 48.553,
+    "end": 48.938,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 48.938,
+    "end": 49.322,
+    "beat": 7
+  },
+  {
+    "word": "Microsoft",
+    "start": 49.322,
+    "end": 49.707,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 49.707,
+    "end": 50.092,
+    "beat": 7
+  },
+  {
+    "word": "Cloudflare.",
+    "start": 50.092,
+    "end": 50.476,
+    "beat": 7
+  },
+  {
+    "word": "Doanh",
+    "start": 50.476,
+    "end": 50.861,
+    "beat": 7
+  },
+  {
+    "word": "thu",
+    "start": 50.861,
+    "end": 51.246,
+    "beat": 7
+  },
+  {
+    "word": "KỶ",
+    "start": 51.246,
+    "end": 51.63,
+    "beat": 7
+  },
+  {
+    "word": "LỤC.",
+    "start": 51.63,
+    "end": 52.015,
+    "beat": 7
+  },
+  {
+    "word": "Layoff",
+    "start": 52.015,
+    "end": 52.4,
+    "beat": 7
+  },
+  {
+    "word": "KỶ",
+    "start": 52.4,
+    "end": 52.784,
+    "beat": 7
+  },
+  {
+    "word": "LỤC.",
+    "start": 52.784,
+    "end": 53.169,
+    "beat": 7
+  },
+  {
+    "word": "AI",
+    "start": 53.169,
+    "end": 53.553,
+    "beat": 7
+  },
+  {
+    "word": "thay",
+    "start": 53.553,
+    "end": 53.938,
+    "beat": 7
+  },
+  {
+    "word": "engineer",
+    "start": 53.938,
+    "end": 54.323,
+    "beat": 7
+  },
+  {
+    "word": "—",
+    "start": 54.323,
+    "end": 54.707,
+    "beat": 7
+  },
+  {
+    "word": "chưa",
+    "start": 54.707,
+    "end": 55.092,
+    "beat": 7
+  },
+  {
+    "word": "thay",
+    "start": 55.092,
+    "end": 55.477,
+    "beat": 7
+  },
+  {
+    "word": "người",
+    "start": 55.477,
+    "end": 55.861,
+    "beat": 7
+  },
+  {
+    "word": "ký",
+    "start": 55.861,
+    "end": 56.246,
+    "beat": 7
+  },
+  {
+    "word": "HỢP",
+    "start": 56.246,
+    "end": 56.631,
+    "beat": 7
+  },
+  {
+    "word": "ĐỒNG.",
+    "start": 56.631,
+    "end": 57.015,
+    "beat": 7
+  },
+  {
+    "word": "Job",
+    "start": 57.015,
+    "end": 57.279,
+    "beat": 8
+  },
+  {
+    "word": "bạn",
+    "start": 57.279,
+    "end": 57.543,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 57.543,
+    "end": 57.808,
+    "beat": 8
+  },
+  {
+    "word": "có",
+    "start": 57.808,
+    "end": 58.072,
+    "beat": 8
+  },
+  {
+    "word": "an",
+    "start": 58.072,
+    "end": 58.336,
+    "beat": 8
+  },
+  {
+    "word": "toàn",
+    "start": 58.336,
+    "end": 58.6,
+    "beat": 8
+  },
+  {
+    "word": "không",
+    "start": 58.6,
+    "end": 58.864,
+    "beat": 8
+  },
+  {
+    "word": "nếu",
+    "start": 58.864,
+    "end": 59.128,
+    "beat": 8
+  },
+  {
+    "word": "bạn",
+    "start": 59.128,
+    "end": 59.392,
+    "beat": 8
+  },
+  {
+    "word": "là",
+    "start": 59.392,
+    "end": 59.656,
+    "beat": 8
+  },
+  {
+    "word": "lập",
+    "start": 59.656,
+    "end": 59.92,
+    "beat": 8
+  },
+  {
+    "word": "trình",
+    "start": 59.92,
+    "end": 60.184,
+    "beat": 8
+  },
+  {
+    "word": "viên?",
+    "start": 60.184,
+    "end": 60.448,
+    "beat": 8
+  },
+  {
+    "word": "👀",
+    "start": 60.448,
+    "end": 60.712,
+    "beat": 8
+  },
+  {
+    "word": "Theo",
+    "start": 60.712,
+    "end": 60.977,
+    "beat": 8
+  },
+  {
+    "word": "dõi",
+    "start": 60.977,
+    "end": 61.241,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 61.241,
+    "end": 61.505,
+    "beat": 8
+  },
+  {
+    "word": "tin",
+    "start": 61.505,
+    "end": 61.769,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 61.769,
+    "end": 62.033,
+    "beat": 8
+  },
+  {
+    "word": "nóng",
+    "start": 62.033,
+    "end": 62.297,
+    "beat": 8
+  },
+  {
+    "word": "nhất",
+    "start": 62.297,
+    "end": 62.561,
+    "beat": 8
+  },
+  {
+    "word": "mỗi",
+    "start": 62.561,
+    "end": 62.825,
+    "beat": 8
+  },
+  {
+    "word": "ngày.",
+    "start": 62.825,
+    "end": 63.089,
+    "beat": 8
+  }
+]

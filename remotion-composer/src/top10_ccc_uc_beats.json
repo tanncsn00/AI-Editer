@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 9.133
+    },
+    {
+      "index": 2,
+      "name": "PDF",
+      "start": 9.133,
+      "duration": 9.664
+    },
+    {
+      "index": 3,
+      "name": "EXCEL",
+      "start": 18.797,
+      "duration": 11.785
+    },
+    {
+      "index": 4,
+      "name": "EMAIL",
+      "start": 30.582,
+      "duration": 10.783
+    },
+    {
+      "index": 5,
+      "name": "BLOG",
+      "start": 41.365,
+      "duration": 11.962
+    },
+    {
+      "index": 6,
+      "name": "TRANSLATE",
+      "start": 53.327,
+      "duration": 13.022
+    },
+    {
+      "index": 7,
+      "name": "CV",
+      "start": 66.349,
+      "duration": 12.315
+    },
+    {
+      "index": 8,
+      "name": "OCR",
+      "start": 78.664,
+      "duration": 12.433
+    },
+    {
+      "index": 9,
+      "name": "BRAINSTORM",
+      "start": 91.097,
+      "duration": 13.258
+    },
+    {
+      "index": 10,
+      "name": "RENAME",
+      "start": 104.355,
+      "duration": 11.137
+    },
+    {
+      "index": 11,
+      "name": "PLAN",
+      "start": 115.492,
+      "duration": 13.317
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 128.809,
+      "duration": 12.256
+    }
+  ],
+  "total_duration": 141.065
+}

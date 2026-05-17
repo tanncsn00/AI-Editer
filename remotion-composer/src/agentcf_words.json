@@ -1,0 +1,1028 @@
+[
+  {
+    "word": "Nếu",
+    "start": 0.0,
+    "end": 0.265,
+    "beat": 1
+  },
+  {
+    "word": "mày",
+    "start": 0.265,
+    "end": 0.53,
+    "beat": 1
+  },
+  {
+    "word": "từng",
+    "start": 0.53,
+    "end": 0.795,
+    "beat": 1
+  },
+  {
+    "word": "viết",
+    "start": 0.795,
+    "end": 1.06,
+    "beat": 1
+  },
+  {
+    "word": "MANDATORY",
+    "start": 1.06,
+    "end": 1.325,
+    "beat": 1
+  },
+  {
+    "word": "hay",
+    "start": 1.325,
+    "end": 1.59,
+    "beat": 1
+  },
+  {
+    "word": "DO",
+    "start": 1.59,
+    "end": 1.855,
+    "beat": 1
+  },
+  {
+    "word": "NOT",
+    "start": 1.855,
+    "end": 2.12,
+    "beat": 1
+  },
+  {
+    "word": "SKIP",
+    "start": 2.12,
+    "end": 2.384,
+    "beat": 1
+  },
+  {
+    "word": "trong",
+    "start": 2.384,
+    "end": 2.649,
+    "beat": 1
+  },
+  {
+    "word": "prompt",
+    "start": 2.649,
+    "end": 2.914,
+    "beat": 1
+  },
+  {
+    "word": "—",
+    "start": 2.914,
+    "end": 3.179,
+    "beat": 1
+  },
+  {
+    "word": "mày",
+    "start": 3.179,
+    "end": 3.444,
+    "beat": 1
+  },
+  {
+    "word": "đã",
+    "start": 3.444,
+    "end": 3.709,
+    "beat": 1
+  },
+  {
+    "word": "đụng",
+    "start": 3.709,
+    "end": 3.974,
+    "beat": 1
+  },
+  {
+    "word": "trần",
+    "start": 3.974,
+    "end": 4.239,
+    "beat": 1
+  },
+  {
+    "word": "rồi.",
+    "start": 4.239,
+    "end": 4.504,
+    "beat": 1
+  },
+  {
+    "word": "Bài",
+    "start": 4.504,
+    "end": 4.964,
+    "beat": 2
+  },
+  {
+    "word": "viral",
+    "start": 4.964,
+    "end": 5.425,
+    "beat": 2
+  },
+  {
+    "word": "583",
+    "start": 5.425,
+    "end": 5.885,
+    "beat": 2
+  },
+  {
+    "word": "pts",
+    "start": 5.885,
+    "end": 6.346,
+    "beat": 2
+  },
+  {
+    "word": "trên",
+    "start": 6.346,
+    "end": 6.806,
+    "beat": 2
+  },
+  {
+    "word": "Hacker",
+    "start": 6.806,
+    "end": 7.266,
+    "beat": 2
+  },
+  {
+    "word": "News",
+    "start": 7.266,
+    "end": 7.727,
+    "beat": 2
+  },
+  {
+    "word": "hôm",
+    "start": 7.727,
+    "end": 8.187,
+    "beat": 2
+  },
+  {
+    "word": "qua.",
+    "start": 8.187,
+    "end": 8.648,
+    "beat": 2
+  },
+  {
+    "word": "99%",
+    "start": 8.648,
+    "end": 9.108,
+    "beat": 2
+  },
+  {
+    "word": "mọi",
+    "start": 9.108,
+    "end": 9.569,
+    "beat": 2
+  },
+  {
+    "word": "người",
+    "start": 9.569,
+    "end": 10.029,
+    "beat": 2
+  },
+  {
+    "word": "đang",
+    "start": 10.029,
+    "end": 10.489,
+    "beat": 2
+  },
+  {
+    "word": "làm",
+    "start": 10.489,
+    "end": 10.95,
+    "beat": 2
+  },
+  {
+    "word": "AI",
+    "start": 10.95,
+    "end": 11.41,
+    "beat": 2
+  },
+  {
+    "word": "agent",
+    "start": 11.41,
+    "end": 11.871,
+    "beat": 2
+  },
+  {
+    "word": "SAI.",
+    "start": 11.871,
+    "end": 12.331,
+    "beat": 2
+  },
+  {
+    "word": "Tưởng",
+    "start": 12.331,
+    "end": 12.676,
+    "beat": 3
+  },
+  {
+    "word": "tượng",
+    "start": 12.676,
+    "end": 13.02,
+    "beat": 3
+  },
+  {
+    "word": "một",
+    "start": 13.02,
+    "end": 13.365,
+    "beat": 3
+  },
+  {
+    "word": "ngôn",
+    "start": 13.365,
+    "end": 13.71,
+    "beat": 3
+  },
+  {
+    "word": "ngữ",
+    "start": 13.71,
+    "end": 14.055,
+    "beat": 3
+  },
+  {
+    "word": "lập",
+    "start": 14.055,
+    "end": 14.399,
+    "beat": 3
+  },
+  {
+    "word": "trình",
+    "start": 14.399,
+    "end": 14.744,
+    "beat": 3
+  },
+  {
+    "word": "mà",
+    "start": 14.744,
+    "end": 15.089,
+    "beat": 3
+  },
+  {
+    "word": "statement",
+    "start": 15.089,
+    "end": 15.433,
+    "beat": 3
+  },
+  {
+    "word": "chỉ",
+    "start": 15.433,
+    "end": 15.778,
+    "beat": 3
+  },
+  {
+    "word": "là",
+    "start": 15.778,
+    "end": 16.123,
+    "beat": 3
+  },
+  {
+    "word": "\"gợi",
+    "start": 16.123,
+    "end": 16.467,
+    "beat": 3
+  },
+  {
+    "word": "ý\".",
+    "start": 16.467,
+    "end": 16.812,
+    "beat": 3
+  },
+  {
+    "word": "Function",
+    "start": 16.812,
+    "end": 17.157,
+    "beat": 3
+  },
+  {
+    "word": "trả",
+    "start": 17.157,
+    "end": 17.501,
+    "beat": 3
+  },
+  {
+    "word": "\"Success\"",
+    "start": 17.501,
+    "end": 17.846,
+    "beat": 3
+  },
+  {
+    "word": "nhưng",
+    "start": 17.846,
+    "end": 18.191,
+    "beat": 3
+  },
+  {
+    "word": "đang",
+    "start": 18.191,
+    "end": 18.535,
+    "beat": 3
+  },
+  {
+    "word": "hallucinate.",
+    "start": 18.535,
+    "end": 18.88,
+    "beat": 3
+  },
+  {
+    "word": "Đó",
+    "start": 18.88,
+    "end": 19.242,
+    "beat": 4
+  },
+  {
+    "word": "chính",
+    "start": 19.242,
+    "end": 19.605,
+    "beat": 4
+  },
+  {
+    "word": "là",
+    "start": 19.605,
+    "end": 19.967,
+    "beat": 4
+  },
+  {
+    "word": "cách",
+    "start": 19.967,
+    "end": 20.329,
+    "beat": 4
+  },
+  {
+    "word": "hầu",
+    "start": 20.329,
+    "end": 20.692,
+    "beat": 4
+  },
+  {
+    "word": "hết",
+    "start": 20.692,
+    "end": 21.054,
+    "beat": 4
+  },
+  {
+    "word": "AI",
+    "start": 21.054,
+    "end": 21.416,
+    "beat": 4
+  },
+  {
+    "word": "agent",
+    "start": 21.416,
+    "end": 21.779,
+    "beat": 4
+  },
+  {
+    "word": "đang",
+    "start": 21.779,
+    "end": 22.141,
+    "beat": 4
+  },
+  {
+    "word": "chạy.",
+    "start": 22.141,
+    "end": 22.503,
+    "beat": 4
+  },
+  {
+    "word": "Prompt",
+    "start": 22.503,
+    "end": 22.865,
+    "beat": 4
+  },
+  {
+    "word": "dài",
+    "start": 22.865,
+    "end": 23.228,
+    "beat": 4
+  },
+  {
+    "word": "hơn",
+    "start": 23.228,
+    "end": 23.59,
+    "beat": 4
+  },
+  {
+    "word": "không",
+    "start": 23.59,
+    "end": 23.952,
+    "beat": 4
+  },
+  {
+    "word": "fix",
+    "start": 23.952,
+    "end": 24.315,
+    "beat": 4
+  },
+  {
+    "word": "được.",
+    "start": 24.315,
+    "end": 24.677,
+    "beat": 4
+  },
+  {
+    "word": "Reliability",
+    "start": 24.677,
+    "end": 25.039,
+    "beat": 4
+  },
+  {
+    "word": "collapse",
+    "start": 25.039,
+    "end": 25.402,
+    "beat": 4
+  },
+  {
+    "word": "khi",
+    "start": 25.402,
+    "end": 25.764,
+    "beat": 4
+  },
+  {
+    "word": "task",
+    "start": 25.764,
+    "end": 26.126,
+    "beat": 4
+  },
+  {
+    "word": "phức",
+    "start": 26.126,
+    "end": 26.488,
+    "beat": 4
+  },
+  {
+    "word": "tạp.",
+    "start": 26.488,
+    "end": 26.851,
+    "beat": 4
+  },
+  {
+    "word": "Move",
+    "start": 26.851,
+    "end": 27.323,
+    "beat": 5
+  },
+  {
+    "word": "logic",
+    "start": 27.323,
+    "end": 27.795,
+    "beat": 5
+  },
+  {
+    "word": "OUT",
+    "start": 27.795,
+    "end": 28.268,
+    "beat": 5
+  },
+  {
+    "word": "of",
+    "start": 28.268,
+    "end": 28.74,
+    "beat": 5
+  },
+  {
+    "word": "prose",
+    "start": 28.74,
+    "end": 29.212,
+    "beat": 5
+  },
+  {
+    "word": "vào",
+    "start": 29.212,
+    "end": 29.685,
+    "beat": 5
+  },
+  {
+    "word": "RUNTIME.",
+    "start": 29.685,
+    "end": 30.157,
+    "beat": 5
+  },
+  {
+    "word": "State",
+    "start": 30.157,
+    "end": 30.63,
+    "beat": 5
+  },
+  {
+    "word": "machine.",
+    "start": 30.63,
+    "end": 31.102,
+    "beat": 5
+  },
+  {
+    "word": "Validation",
+    "start": 31.102,
+    "end": 31.574,
+    "beat": 5
+  },
+  {
+    "word": "checkpoint.",
+    "start": 31.574,
+    "end": 32.047,
+    "beat": 5
+  },
+  {
+    "word": "Code",
+    "start": 32.047,
+    "end": 32.519,
+    "beat": 5
+  },
+  {
+    "word": "thuần",
+    "start": 32.519,
+    "end": 32.991,
+    "beat": 5
+  },
+  {
+    "word": "—",
+    "start": 32.991,
+    "end": 33.464,
+    "beat": 5
+  },
+  {
+    "word": "không",
+    "start": 33.464,
+    "end": 33.936,
+    "beat": 5
+  },
+  {
+    "word": "phải",
+    "start": 33.936,
+    "end": 34.408,
+    "beat": 5
+  },
+  {
+    "word": "prompt.",
+    "start": 34.408,
+    "end": 34.881,
+    "beat": 5
+  },
+  {
+    "word": "Mindset",
+    "start": 34.881,
+    "end": 35.308,
+    "beat": 6
+  },
+  {
+    "word": "shift:",
+    "start": 35.308,
+    "end": 35.735,
+    "beat": 6
+  },
+  {
+    "word": "LLM",
+    "start": 35.735,
+    "end": 36.162,
+    "beat": 6
+  },
+  {
+    "word": "là",
+    "start": 36.162,
+    "end": 36.589,
+    "beat": 6
+  },
+  {
+    "word": "COMPONENT,",
+    "start": 36.589,
+    "end": 37.016,
+    "beat": 6
+  },
+  {
+    "word": "không",
+    "start": 37.016,
+    "end": 37.444,
+    "beat": 6
+  },
+  {
+    "word": "phải",
+    "start": 37.444,
+    "end": 37.871,
+    "beat": 6
+  },
+  {
+    "word": "SYSTEM.",
+    "start": 37.871,
+    "end": 38.298,
+    "beat": 6
+  },
+  {
+    "word": "Code",
+    "start": 38.298,
+    "end": 38.725,
+    "beat": 6
+  },
+  {
+    "word": "điều",
+    "start": 38.725,
+    "end": 39.152,
+    "beat": 6
+  },
+  {
+    "word": "khiển",
+    "start": 39.152,
+    "end": 39.579,
+    "beat": 6
+  },
+  {
+    "word": "flow",
+    "start": 39.579,
+    "end": 40.006,
+    "beat": 6
+  },
+  {
+    "word": "—",
+    "start": 40.006,
+    "end": 40.434,
+    "beat": 6
+  },
+  {
+    "word": "LLM",
+    "start": 40.434,
+    "end": 40.861,
+    "beat": 6
+  },
+  {
+    "word": "chỉ",
+    "start": 40.861,
+    "end": 41.288,
+    "beat": 6
+  },
+  {
+    "word": "làm",
+    "start": 41.288,
+    "end": 41.715,
+    "beat": 6
+  },
+  {
+    "word": "1",
+    "start": 41.715,
+    "end": 42.142,
+    "beat": 6
+  },
+  {
+    "word": "task.",
+    "start": 42.142,
+    "end": 42.569,
+    "beat": 6
+  },
+  {
+    "word": "Nếu",
+    "start": 42.569,
+    "end": 42.961,
+    "beat": 7
+  },
+  {
+    "word": "không",
+    "start": 42.961,
+    "end": 43.353,
+    "beat": 7
+  },
+  {
+    "word": "có",
+    "start": 43.353,
+    "end": 43.744,
+    "beat": 7
+  },
+  {
+    "word": "programmatic",
+    "start": 43.744,
+    "end": 44.136,
+    "beat": 7
+  },
+  {
+    "word": "verification,",
+    "start": 44.136,
+    "end": 44.528,
+    "beat": 7
+  },
+  {
+    "word": "mày",
+    "start": 44.528,
+    "end": 44.919,
+    "beat": 7
+  },
+  {
+    "word": "có",
+    "start": 44.919,
+    "end": 45.311,
+    "beat": 7
+  },
+  {
+    "word": "3",
+    "start": 45.311,
+    "end": 45.703,
+    "beat": 7
+  },
+  {
+    "word": "lựa",
+    "start": 45.703,
+    "end": 46.094,
+    "beat": 7
+  },
+  {
+    "word": "chọn:",
+    "start": 46.094,
+    "end": 46.486,
+    "beat": 7
+  },
+  {
+    "word": "1️⃣",
+    "start": 46.486,
+    "end": 46.995,
+    "beat": 8
+  },
+  {
+    "word": "Babysitter",
+    "start": 46.995,
+    "end": 47.505,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 47.505,
+    "end": 48.014,
+    "beat": 8
+  },
+  {
+    "word": "canh",
+    "start": 48.014,
+    "end": 48.523,
+    "beat": 8
+  },
+  {
+    "word": "từng",
+    "start": 48.523,
+    "end": 49.033,
+    "beat": 8
+  },
+  {
+    "word": "bước",
+    "start": 49.033,
+    "end": 49.542,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 49.542,
+    "end": 50.051,
+    "beat": 8
+  },
+  {
+    "word": "2️⃣",
+    "start": 50.051,
+    "end": 50.561,
+    "beat": 8
+  },
+  {
+    "word": "Auditor",
+    "start": 50.561,
+    "end": 51.07,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 51.07,
+    "end": 51.579,
+    "beat": 8
+  },
+  {
+    "word": "audit",
+    "start": 51.579,
+    "end": 52.089,
+    "beat": 8
+  },
+  {
+    "word": "cuối",
+    "start": 52.089,
+    "end": 52.598,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 52.598,
+    "end": 53.108,
+    "beat": 8
+  },
+  {
+    "word": "3️⃣",
+    "start": 53.108,
+    "end": 53.617,
+    "beat": 8
+  },
+  {
+    "word": "Prayer",
+    "start": 53.617,
+    "end": 54.126,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 54.126,
+    "end": 54.636,
+    "beat": 8
+  },
+  {
+    "word": "cầu",
+    "start": 54.636,
+    "end": 55.145,
+    "beat": 8
+  },
+  {
+    "word": "nguyện",
+    "start": 55.145,
+    "end": 55.654,
+    "beat": 8
+  },
+  {
+    "word": "🙏",
+    "start": 55.654,
+    "end": 56.164,
+    "beat": 8
+  },
+  {
+    "word": "Vibe-coding",
+    "start": 56.164,
+    "end": 56.654,
+    "beat": 9
+  },
+  {
+    "word": "hết",
+    "start": 56.654,
+    "end": 57.145,
+    "beat": 9
+  },
+  {
+    "word": "thời.",
+    "start": 57.145,
+    "end": 57.635,
+    "beat": 9
+  },
+  {
+    "word": "Engineer-coding",
+    "start": 57.635,
+    "end": 58.126,
+    "beat": 9
+  },
+  {
+    "word": "lên",
+    "start": 58.126,
+    "end": 58.616,
+    "beat": 9
+  },
+  {
+    "word": "ngôi.",
+    "start": 58.616,
+    "end": 59.107,
+    "beat": 9
+  },
+  {
+    "word": "Build",
+    "start": 59.107,
+    "end": 59.597,
+    "beat": 9
+  },
+  {
+    "word": "agent",
+    "start": 59.597,
+    "end": 60.088,
+    "beat": 9
+  },
+  {
+    "word": "reliable",
+    "start": 60.088,
+    "end": 60.578,
+    "beat": 9
+  },
+  {
+    "word": "2026",
+    "start": 60.578,
+    "end": 61.069,
+    "beat": 9
+  },
+  {
+    "word": "=",
+    "start": 61.069,
+    "end": 61.559,
+    "beat": 9
+  },
+  {
+    "word": "viết",
+    "start": 61.559,
+    "end": 62.05,
+    "beat": 9
+  },
+  {
+    "word": "CODE,",
+    "start": 62.05,
+    "end": 62.54,
+    "beat": 9
+  },
+  {
+    "word": "không",
+    "start": 62.54,
+    "end": 63.031,
+    "beat": 9
+  },
+  {
+    "word": "phải",
+    "start": 63.031,
+    "end": 63.521,
+    "beat": 9
+  },
+  {
+    "word": "viết",
+    "start": 63.521,
+    "end": 64.012,
+    "beat": 9
+  },
+  {
+    "word": "PROMPT.",
+    "start": 64.012,
+    "end": 64.503,
+    "beat": 9
+  },
+  {
+    "word": "Mày",
+    "start": 64.503,
+    "end": 64.887,
+    "beat": 10
+  },
+  {
+    "word": "đang",
+    "start": 64.887,
+    "end": 65.271,
+    "beat": 10
+  },
+  {
+    "word": "là",
+    "start": 65.271,
+    "end": 65.655,
+    "beat": 10
+  },
+  {
+    "word": "Babysitter",
+    "start": 65.655,
+    "end": 66.039,
+    "beat": 10
+  },
+  {
+    "word": "/",
+    "start": 66.039,
+    "end": 66.423,
+    "beat": 10
+  },
+  {
+    "word": "Auditor",
+    "start": 66.423,
+    "end": 66.807,
+    "beat": 10
+  },
+  {
+    "word": "/",
+    "start": 66.807,
+    "end": 67.191,
+    "beat": 10
+  },
+  {
+    "word": "Prayer?",
+    "start": 67.191,
+    "end": 67.576,
+    "beat": 10
+  },
+  {
+    "word": "Comment",
+    "start": 67.576,
+    "end": 67.96,
+    "beat": 10
+  },
+  {
+    "word": "👇",
+    "start": 67.96,
+    "end": 68.344,
+    "beat": 10
+  },
+  {
+    "word": "·",
+    "start": 68.344,
+    "end": 68.728,
+    "beat": 10
+  },
+  {
+    "word": "Save",
+    "start": 68.728,
+    "end": 69.112,
+    "beat": 10
+  },
+  {
+    "word": "để",
+    "start": 69.112,
+    "end": 69.496,
+    "beat": 10
+  },
+  {
+    "word": "build",
+    "start": 69.496,
+    "end": 69.88,
+    "beat": 10
+  },
+  {
+    "word": "đúng.",
+    "start": 69.88,
+    "end": 70.264,
+    "beat": 10
+  }
+]

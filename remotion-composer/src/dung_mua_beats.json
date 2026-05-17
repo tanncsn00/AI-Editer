@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HOOK",
+    "start_word_idx": 0,
+    "start": 0.0,
+    "end": 11.62
+  },
+  {
+    "name": "PUSHBACK",
+    "start_word_idx": 29,
+    "start": 11.62,
+    "end": 29.5
+  },
+  {
+    "name": "STORY",
+    "start_word_idx": 74,
+    "start": 29.5,
+    "end": 74.08
+  },
+  {
+    "name": "MIRROR",
+    "start_word_idx": 204,
+    "start": 74.08,
+    "end": 88.9
+  },
+  {
+    "name": "TURN",
+    "start_word_idx": 246,
+    "start": 88.9,
+    "end": 101.4
+  },
+  {
+    "name": "LANDING",
+    "start_word_idx": 280,
+    "start": 101.4,
+    "end": 113.26
+  }
+]

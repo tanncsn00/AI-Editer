@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 8.034
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 8.034,
+      "duration": 6.429
+    },
+    {
+      "index": 3,
+      "name": "TWIST",
+      "start": 14.463,
+      "duration": 6.401
+    },
+    {
+      "index": 4,
+      "name": "ESCALATION",
+      "start": 20.864,
+      "duration": 9.292
+    },
+    {
+      "index": 5,
+      "name": "MACRO_FEAR",
+      "start": 30.156,
+      "duration": 9.362
+    },
+    {
+      "index": 6,
+      "name": "PEAK",
+      "start": 39.518,
+      "duration": 6.997
+    },
+    {
+      "index": 7,
+      "name": "CLOSING_TWIST",
+      "start": 46.516,
+      "duration": 8.909
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 55.424,
+      "duration": 6.899
+    }
+  ],
+  "total_duration": 62.323
+}

@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 7.316
+    },
+    {
+      "index": 2,
+      "name": "WHAT",
+      "start": 7.316,
+      "duration": 9.33
+    },
+    {
+      "index": 3,
+      "name": "WHERE",
+      "start": 16.646,
+      "duration": 10.126
+    },
+    {
+      "index": 4,
+      "name": "OUSTED",
+      "start": 26.773,
+      "duration": 6.434
+    },
+    {
+      "index": 5,
+      "name": "GEMINI_DEAL",
+      "start": 33.206,
+      "duration": 7.51
+    },
+    {
+      "index": 6,
+      "name": "OTHERS",
+      "start": 40.716,
+      "duration": 7.418
+    },
+    {
+      "index": 7,
+      "name": "WHEN",
+      "start": 48.135,
+      "duration": 7.422
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 55.557,
+      "duration": 6.098
+    }
+  ],
+  "total_duration": 61.655
+}

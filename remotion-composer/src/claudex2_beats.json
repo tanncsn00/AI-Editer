@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 4.521
+    },
+    {
+      "index": 2,
+      "name": "ANNOUNCE",
+      "start": 4.521,
+      "duration": 5.666
+    },
+    {
+      "index": 3,
+      "name": "MEAN",
+      "start": 10.188,
+      "duration": 5.71
+    },
+    {
+      "index": 4,
+      "name": "SETUP_TWIST",
+      "start": 15.898,
+      "duration": 1.756
+    },
+    {
+      "index": 5,
+      "name": "TWIST",
+      "start": 17.654,
+      "duration": 6.079
+    },
+    {
+      "index": 6,
+      "name": "BIG_220K",
+      "start": 23.733,
+      "duration": 2.456
+    },
+    {
+      "index": 7,
+      "name": "STEROID",
+      "start": 26.189,
+      "duration": 3.45
+    },
+    {
+      "index": 8,
+      "name": "SCARY_Q",
+      "start": 29.639,
+      "duration": 2.882
+    },
+    {
+      "index": 9,
+      "name": "AI_WAR",
+      "start": 32.52,
+      "duration": 6.867
+    },
+    {
+      "index": 10,
+      "name": "CLOSING",
+      "start": 39.387,
+      "duration": 4.795
+    }
+  ],
+  "total_duration": 44.182
+}

@@ -1,0 +1,1112 @@
+[
+  {
+    "word": "TIN",
+    "start": 0.0,
+    "end": 0.31,
+    "beat": 1
+  },
+  {
+    "word": "NÓNG",
+    "start": 0.31,
+    "end": 0.62,
+    "beat": 1
+  },
+  {
+    "word": "·",
+    "start": 0.62,
+    "end": 0.93,
+    "beat": 1
+  },
+  {
+    "word": "Google",
+    "start": 0.93,
+    "end": 1.24,
+    "beat": 1
+  },
+  {
+    "word": "vừa",
+    "start": 1.24,
+    "end": 1.55,
+    "beat": 1
+  },
+  {
+    "word": "công",
+    "start": 1.55,
+    "end": 1.86,
+    "beat": 1
+  },
+  {
+    "word": "bố",
+    "start": 1.86,
+    "end": 2.17,
+    "beat": 1
+  },
+  {
+    "word": "đặt",
+    "start": 2.17,
+    "end": 2.48,
+    "beat": 1
+  },
+  {
+    "word": "phòng",
+    "start": 2.48,
+    "end": 2.79,
+    "beat": 1
+  },
+  {
+    "word": "NGHIÊN",
+    "start": 2.79,
+    "end": 3.1,
+    "beat": 1
+  },
+  {
+    "word": "CỨU",
+    "start": 3.1,
+    "end": 3.41,
+    "beat": 1
+  },
+  {
+    "word": "AI",
+    "start": 3.41,
+    "end": 3.72,
+    "beat": 1
+  },
+  {
+    "word": "tại",
+    "start": 3.72,
+    "end": 4.029,
+    "beat": 1
+  },
+  {
+    "word": "Việt",
+    "start": 4.029,
+    "end": 4.339,
+    "beat": 1
+  },
+  {
+    "word": "Nam,",
+    "start": 4.339,
+    "end": 4.649,
+    "beat": 1
+  },
+  {
+    "word": "bước",
+    "start": 4.649,
+    "end": 4.959,
+    "beat": 1
+  },
+  {
+    "word": "đi",
+    "start": 4.959,
+    "end": 5.269,
+    "beat": 1
+  },
+  {
+    "word": "lớn",
+    "start": 5.269,
+    "end": 5.579,
+    "beat": 1
+  },
+  {
+    "word": "trong",
+    "start": 5.579,
+    "end": 5.889,
+    "beat": 1
+  },
+  {
+    "word": "chiến",
+    "start": 5.889,
+    "end": 6.199,
+    "beat": 1
+  },
+  {
+    "word": "lược",
+    "start": 6.199,
+    "end": 6.509,
+    "beat": 1
+  },
+  {
+    "word": "châu",
+    "start": 6.509,
+    "end": 6.819,
+    "beat": 1
+  },
+  {
+    "word": "Á.",
+    "start": 6.819,
+    "end": 7.129,
+    "beat": 1
+  },
+  {
+    "word": "05/2026",
+    "start": 7.129,
+    "end": 7.597,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 7.597,
+    "end": 8.066,
+    "beat": 2
+  },
+  {
+    "word": "Google",
+    "start": 8.066,
+    "end": 8.534,
+    "beat": 2
+  },
+  {
+    "word": "Labs",
+    "start": 8.534,
+    "end": 9.002,
+    "beat": 2
+  },
+  {
+    "word": "ký",
+    "start": 9.002,
+    "end": 9.471,
+    "beat": 2
+  },
+  {
+    "word": "kết",
+    "start": 9.471,
+    "end": 9.939,
+    "beat": 2
+  },
+  {
+    "word": "với",
+    "start": 9.939,
+    "end": 10.407,
+    "beat": 2
+  },
+  {
+    "word": "VNG",
+    "start": 10.407,
+    "end": 10.876,
+    "beat": 2
+  },
+  {
+    "word": "cùng",
+    "start": 10.876,
+    "end": 11.344,
+    "beat": 2
+  },
+  {
+    "word": "ĐHQG-HCM",
+    "start": 11.344,
+    "end": 11.812,
+    "beat": 2
+  },
+  {
+    "word": "thành",
+    "start": 11.812,
+    "end": 12.281,
+    "beat": 2
+  },
+  {
+    "word": "lập",
+    "start": 12.281,
+    "end": 12.749,
+    "beat": 2
+  },
+  {
+    "word": "Applied",
+    "start": 12.749,
+    "end": 13.217,
+    "beat": 2
+  },
+  {
+    "word": "AI",
+    "start": 13.217,
+    "end": 13.686,
+    "beat": 2
+  },
+  {
+    "word": "Lab.",
+    "start": 13.686,
+    "end": 14.154,
+    "beat": 2
+  },
+  {
+    "word": "LẦN",
+    "start": 14.154,
+    "end": 14.622,
+    "beat": 2
+  },
+  {
+    "word": "ĐẦU",
+    "start": 14.622,
+    "end": 15.091,
+    "beat": 2
+  },
+  {
+    "word": "Google",
+    "start": 15.091,
+    "end": 15.559,
+    "beat": 2
+  },
+  {
+    "word": "đặt",
+    "start": 15.559,
+    "end": 16.027,
+    "beat": 2
+  },
+  {
+    "word": "R&D",
+    "start": 16.027,
+    "end": 16.496,
+    "beat": 2
+  },
+  {
+    "word": "AI",
+    "start": 16.496,
+    "end": 16.964,
+    "beat": 2
+  },
+  {
+    "word": "sâu",
+    "start": 16.964,
+    "end": 17.432,
+    "beat": 2
+  },
+  {
+    "word": "tại",
+    "start": 17.432,
+    "end": 17.901,
+    "beat": 2
+  },
+  {
+    "word": "VN.",
+    "start": 17.901,
+    "end": 18.369,
+    "beat": 2
+  },
+  {
+    "word": "Lab",
+    "start": 18.369,
+    "end": 18.743,
+    "beat": 3
+  },
+  {
+    "word": "tập",
+    "start": 18.743,
+    "end": 19.116,
+    "beat": 3
+  },
+  {
+    "word": "trung:",
+    "start": 19.116,
+    "end": 19.49,
+    "beat": 3
+  },
+  {
+    "word": "tối",
+    "start": 19.49,
+    "end": 19.863,
+    "beat": 3
+  },
+  {
+    "word": "ưu",
+    "start": 19.863,
+    "end": 20.237,
+    "beat": 3
+  },
+  {
+    "word": "Gemini",
+    "start": 20.237,
+    "end": 20.61,
+    "beat": 3
+  },
+  {
+    "word": "cho",
+    "start": 20.61,
+    "end": 20.984,
+    "beat": 3
+  },
+  {
+    "word": "VN",
+    "start": 20.984,
+    "end": 21.357,
+    "beat": 3
+  },
+  {
+    "word": "+",
+    "start": 21.357,
+    "end": 21.731,
+    "beat": 3
+  },
+  {
+    "word": "SEA,",
+    "start": 21.731,
+    "end": 22.105,
+    "beat": 3
+  },
+  {
+    "word": "xử",
+    "start": 22.105,
+    "end": 22.478,
+    "beat": 3
+  },
+  {
+    "word": "lý",
+    "start": 22.478,
+    "end": 22.852,
+    "beat": 3
+  },
+  {
+    "word": "tiếng",
+    "start": 22.852,
+    "end": 23.225,
+    "beat": 3
+  },
+  {
+    "word": "Việt",
+    "start": 23.225,
+    "end": 23.599,
+    "beat": 3
+  },
+  {
+    "word": "+",
+    "start": 23.599,
+    "end": 23.972,
+    "beat": 3
+  },
+  {
+    "word": "ngôn",
+    "start": 23.972,
+    "end": 24.346,
+    "beat": 3
+  },
+  {
+    "word": "ngữ",
+    "start": 24.346,
+    "end": 24.719,
+    "beat": 3
+  },
+  {
+    "word": "khu",
+    "start": 24.719,
+    "end": 25.093,
+    "beat": 3
+  },
+  {
+    "word": "vực,",
+    "start": 25.093,
+    "end": 25.467,
+    "beat": 3
+  },
+  {
+    "word": "giảm",
+    "start": 25.467,
+    "end": 25.84,
+    "beat": 3
+  },
+  {
+    "word": "chi",
+    "start": 25.84,
+    "end": 26.214,
+    "beat": 3
+  },
+  {
+    "word": "phí",
+    "start": 26.214,
+    "end": 26.587,
+    "beat": 3
+  },
+  {
+    "word": "triển",
+    "start": 26.587,
+    "end": 26.961,
+    "beat": 3
+  },
+  {
+    "word": "khai",
+    "start": 26.961,
+    "end": 27.334,
+    "beat": 3
+  },
+  {
+    "word": "cho",
+    "start": 27.334,
+    "end": 27.708,
+    "beat": 3
+  },
+  {
+    "word": "DN",
+    "start": 27.708,
+    "end": 28.081,
+    "beat": 3
+  },
+  {
+    "word": "địa",
+    "start": 28.081,
+    "end": 28.455,
+    "beat": 3
+  },
+  {
+    "word": "phương.",
+    "start": 28.455,
+    "end": 28.828,
+    "beat": 3
+  },
+  {
+    "word": "📊",
+    "start": 28.828,
+    "end": 29.343,
+    "beat": 4
+  },
+  {
+    "word": "Researcher",
+    "start": 29.343,
+    "end": 29.858,
+    "beat": 4
+  },
+  {
+    "word": "AI",
+    "start": 29.858,
+    "end": 30.372,
+    "beat": 4
+  },
+  {
+    "word": "tier-1",
+    "start": 30.372,
+    "end": 30.887,
+    "beat": 4
+  },
+  {
+    "word": "quốc",
+    "start": 30.887,
+    "end": 31.401,
+    "beat": 4
+  },
+  {
+    "word": "tế",
+    "start": 31.401,
+    "end": 31.916,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 31.916,
+    "end": 32.431,
+    "beat": 4
+  },
+  {
+    "word": "🇻🇳",
+    "start": 32.431,
+    "end": 32.945,
+    "beat": 4
+  },
+  {
+    "word": "VN:",
+    "start": 32.945,
+    "end": 33.46,
+    "beat": 4
+  },
+  {
+    "word": "~5-10",
+    "start": 33.46,
+    "end": 33.974,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 33.974,
+    "end": 34.489,
+    "beat": 4
+  },
+  {
+    "word": "🇸🇬",
+    "start": 34.489,
+    "end": 35.004,
+    "beat": 4
+  },
+  {
+    "word": "SG:",
+    "start": 35.004,
+    "end": 35.518,
+    "beat": 4
+  },
+  {
+    "word": "~50",
+    "start": 35.518,
+    "end": 36.033,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 36.033,
+    "end": 36.547,
+    "beat": 4
+  },
+  {
+    "word": "🇨🇳",
+    "start": 36.547,
+    "end": 37.062,
+    "beat": 4
+  },
+  {
+    "word": "TQ:",
+    "start": 37.062,
+    "end": 37.576,
+    "beat": 4
+  },
+  {
+    "word": "1000+",
+    "start": 37.576,
+    "end": 38.091,
+    "beat": 4
+  },
+  {
+    "word": "Vì",
+    "start": 38.091,
+    "end": 38.577,
+    "beat": 5
+  },
+  {
+    "word": "sao",
+    "start": 38.577,
+    "end": 39.062,
+    "beat": 5
+  },
+  {
+    "word": "Google",
+    "start": 39.062,
+    "end": 39.548,
+    "beat": 5
+  },
+  {
+    "word": "chọn",
+    "start": 39.548,
+    "end": 40.034,
+    "beat": 5
+  },
+  {
+    "word": "VN?",
+    "start": 40.034,
+    "end": 40.519,
+    "beat": 5
+  },
+  {
+    "word": "3",
+    "start": 40.519,
+    "end": 41.005,
+    "beat": 5
+  },
+  {
+    "word": "yếu",
+    "start": 41.005,
+    "end": 41.491,
+    "beat": 5
+  },
+  {
+    "word": "tố",
+    "start": 41.491,
+    "end": 41.977,
+    "beat": 5
+  },
+  {
+    "word": "chính:",
+    "start": 41.977,
+    "end": 42.462,
+    "beat": 5
+  },
+  {
+    "word": "💰",
+    "start": 42.462,
+    "end": 42.948,
+    "beat": 5
+  },
+  {
+    "word": "COST",
+    "start": 42.948,
+    "end": 43.434,
+    "beat": 5
+  },
+  {
+    "word": "=",
+    "start": 43.434,
+    "end": 43.919,
+    "beat": 5
+  },
+  {
+    "word": "1/3",
+    "start": 43.919,
+    "end": 44.405,
+    "beat": 5
+  },
+  {
+    "word": "SG",
+    "start": 44.405,
+    "end": 44.891,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 44.891,
+    "end": 45.376,
+    "beat": 5
+  },
+  {
+    "word": "🌐",
+    "start": 45.376,
+    "end": 45.862,
+    "beat": 5
+  },
+  {
+    "word": "ENGLISH",
+    "start": 45.862,
+    "end": 46.348,
+    "beat": 5
+  },
+  {
+    "word": "proficiency",
+    "start": 46.348,
+    "end": 46.833,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 46.833,
+    "end": 47.319,
+    "beat": 5
+  },
+  {
+    "word": "⚖️",
+    "start": 47.319,
+    "end": 47.805,
+    "beat": 5
+  },
+  {
+    "word": "GEOPOLITICAL",
+    "start": 47.805,
+    "end": 48.29,
+    "beat": 5
+  },
+  {
+    "word": "trung",
+    "start": 48.29,
+    "end": 48.776,
+    "beat": 5
+  },
+  {
+    "word": "lập",
+    "start": 48.776,
+    "end": 49.262,
+    "beat": 5
+  },
+  {
+    "word": "US-CN.",
+    "start": 49.262,
+    "end": 49.747,
+    "beat": 5
+  },
+  {
+    "word": "🇸🇬",
+    "start": 49.747,
+    "end": 50.127,
+    "beat": 6
+  },
+  {
+    "word": "Google",
+    "start": 50.127,
+    "end": 50.506,
+    "beat": 6
+  },
+  {
+    "word": "Research",
+    "start": 50.506,
+    "end": 50.886,
+    "beat": 6
+  },
+  {
+    "word": "SG",
+    "start": 50.886,
+    "end": 51.265,
+    "beat": 6
+  },
+  {
+    "word": "=",
+    "start": 51.265,
+    "end": 51.645,
+    "beat": 6
+  },
+  {
+    "word": "trung",
+    "start": 51.645,
+    "end": 52.024,
+    "beat": 6
+  },
+  {
+    "word": "tâm",
+    "start": 52.024,
+    "end": 52.403,
+    "beat": 6
+  },
+  {
+    "word": "CORE",
+    "start": 52.403,
+    "end": 52.783,
+    "beat": 6
+  },
+  {
+    "word": "research",
+    "start": 52.783,
+    "end": 53.162,
+    "beat": 6
+  },
+  {
+    "word": "khu",
+    "start": 53.162,
+    "end": 53.542,
+    "beat": 6
+  },
+  {
+    "word": "vực.",
+    "start": 53.542,
+    "end": 53.921,
+    "beat": 6
+  },
+  {
+    "word": "🇻🇳",
+    "start": 53.921,
+    "end": 54.301,
+    "beat": 6
+  },
+  {
+    "word": "VN",
+    "start": 54.301,
+    "end": 54.68,
+    "beat": 6
+  },
+  {
+    "word": "Applied",
+    "start": 54.68,
+    "end": 55.059,
+    "beat": 6
+  },
+  {
+    "word": "Lab",
+    "start": 55.059,
+    "end": 55.439,
+    "beat": 6
+  },
+  {
+    "word": "=",
+    "start": 55.439,
+    "end": 55.818,
+    "beat": 6
+  },
+  {
+    "word": "CẦU",
+    "start": 55.818,
+    "end": 56.198,
+    "beat": 6
+  },
+  {
+    "word": "NỐI",
+    "start": 56.198,
+    "end": 56.577,
+    "beat": 6
+  },
+  {
+    "word": "research",
+    "start": 56.577,
+    "end": 56.957,
+    "beat": 6
+  },
+  {
+    "word": "↔",
+    "start": 56.957,
+    "end": 57.336,
+    "beat": 6
+  },
+  {
+    "word": "ứng",
+    "start": 57.336,
+    "end": 57.716,
+    "beat": 6
+  },
+  {
+    "word": "dụng",
+    "start": 57.716,
+    "end": 58.095,
+    "beat": 6
+  },
+  {
+    "word": "thực",
+    "start": 58.095,
+    "end": 58.474,
+    "beat": 6
+  },
+  {
+    "word": "tế.",
+    "start": 58.474,
+    "end": 58.854,
+    "beat": 6
+  },
+  {
+    "word": "Cơ",
+    "start": 58.854,
+    "end": 59.312,
+    "beat": 7
+  },
+  {
+    "word": "hội",
+    "start": 59.312,
+    "end": 59.77,
+    "beat": 7
+  },
+  {
+    "word": "cho",
+    "start": 59.77,
+    "end": 60.229,
+    "beat": 7
+  },
+  {
+    "word": "dev",
+    "start": 60.229,
+    "end": 60.687,
+    "beat": 7
+  },
+  {
+    "word": "AI",
+    "start": 60.687,
+    "end": 61.145,
+    "beat": 7
+  },
+  {
+    "word": "VN:",
+    "start": 61.145,
+    "end": 61.604,
+    "beat": 7
+  },
+  {
+    "word": "ĐÁNG",
+    "start": 61.604,
+    "end": 62.062,
+    "beat": 7
+  },
+  {
+    "word": "KỂ.",
+    "start": 62.062,
+    "end": 62.52,
+    "beat": 7
+  },
+  {
+    "word": "Nhưng",
+    "start": 62.52,
+    "end": 62.979,
+    "beat": 7
+  },
+  {
+    "word": "—",
+    "start": 62.979,
+    "end": 63.437,
+    "beat": 7
+  },
+  {
+    "word": "vẫn",
+    "start": 63.437,
+    "end": 63.895,
+    "beat": 7
+  },
+  {
+    "word": "còn",
+    "start": 63.895,
+    "end": 64.354,
+    "beat": 7
+  },
+  {
+    "word": "KHOẢNG",
+    "start": 64.354,
+    "end": 64.812,
+    "beat": 7
+  },
+  {
+    "word": "CÁCH",
+    "start": 64.812,
+    "end": 65.27,
+    "beat": 7
+  },
+  {
+    "word": "LỚN",
+    "start": 65.27,
+    "end": 65.729,
+    "beat": 7
+  },
+  {
+    "word": "với",
+    "start": 65.729,
+    "end": 66.187,
+    "beat": 7
+  },
+  {
+    "word": "Mỹ-TQ",
+    "start": 66.187,
+    "end": 66.645,
+    "beat": 7
+  },
+  {
+    "word": "trong",
+    "start": 66.645,
+    "end": 67.104,
+    "beat": 7
+  },
+  {
+    "word": "AI",
+    "start": 67.104,
+    "end": 67.562,
+    "beat": 7
+  },
+  {
+    "word": "core.",
+    "start": 67.562,
+    "end": 68.02,
+    "beat": 7
+  },
+  {
+    "word": "Còn",
+    "start": 68.02,
+    "end": 68.479,
+    "beat": 7
+  },
+  {
+    "word": "rất",
+    "start": 68.479,
+    "end": 68.937,
+    "beat": 7
+  },
+  {
+    "word": "nhiều",
+    "start": 68.937,
+    "end": 69.395,
+    "beat": 7
+  },
+  {
+    "word": "việc",
+    "start": 69.395,
+    "end": 69.854,
+    "beat": 7
+  },
+  {
+    "word": "phải",
+    "start": 69.854,
+    "end": 70.312,
+    "beat": 7
+  },
+  {
+    "word": "làm.",
+    "start": 70.312,
+    "end": 70.77,
+    "beat": 7
+  },
+  {
+    "word": "📡",
+    "start": 70.77,
+    "end": 71.059,
+    "beat": 8
+  },
+  {
+    "word": "Theo",
+    "start": 71.059,
+    "end": 71.348,
+    "beat": 8
+  },
+  {
+    "word": "dõi",
+    "start": 71.348,
+    "end": 71.638,
+    "beat": 8
+  },
+  {
+    "word": "kênh",
+    "start": 71.638,
+    "end": 71.927,
+    "beat": 8
+  },
+  {
+    "word": "để",
+    "start": 71.927,
+    "end": 72.216,
+    "beat": 8
+  },
+  {
+    "word": "cập",
+    "start": 72.216,
+    "end": 72.505,
+    "beat": 8
+  },
+  {
+    "word": "nhật",
+    "start": 72.505,
+    "end": 72.794,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 72.794,
+    "end": 73.083,
+    "beat": 8
+  },
+  {
+    "word": "Lab",
+    "start": 73.083,
+    "end": 73.372,
+    "beat": 8
+  },
+  {
+    "word": "VN",
+    "start": 73.372,
+    "end": 73.661,
+    "beat": 8
+  },
+  {
+    "word": "+",
+    "start": 73.661,
+    "end": 73.95,
+    "beat": 8
+  },
+  {
+    "word": "tin",
+    "start": 73.95,
+    "end": 74.239,
+    "beat": 8
+  },
+  {
+    "word": "công",
+    "start": 74.239,
+    "end": 74.529,
+    "beat": 8
+  },
+  {
+    "word": "nghệ",
+    "start": 74.529,
+    "end": 74.818,
+    "beat": 8
+  },
+  {
+    "word": "mới",
+    "start": 74.818,
+    "end": 75.107,
+    "beat": 8
+  },
+  {
+    "word": "nhất",
+    "start": 75.107,
+    "end": 75.396,
+    "beat": 8
+  },
+  {
+    "word": "hằng",
+    "start": 75.396,
+    "end": 75.685,
+    "beat": 8
+  },
+  {
+    "word": "ngày.",
+    "start": 75.685,
+    "end": 75.974,
+    "beat": 8
+  }
+]

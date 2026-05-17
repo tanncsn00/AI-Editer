@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 5.428
+    },
+    {
+      "index": 2,
+      "name": "CONTEXT",
+      "start": 5.428,
+      "duration": 7.251
+    },
+    {
+      "index": 3,
+      "name": "NGHE_1_2",
+      "start": 12.679,
+      "duration": 12.401
+    },
+    {
+      "index": 4,
+      "name": "NGHE_3_4",
+      "start": 25.08,
+      "duration": 14.138
+    },
+    {
+      "index": 5,
+      "name": "NGHE_5",
+      "start": 39.218,
+      "duration": 9.522
+    },
+    {
+      "index": 6,
+      "name": "TWIST_HARD_TRUTH",
+      "start": 48.74,
+      "duration": 9.142
+    },
+    {
+      "index": 7,
+      "name": "TAKEAWAY",
+      "start": 57.882,
+      "duration": 7.276
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 65.158,
+      "duration": 6.674
+    }
+  ],
+  "total_duration": 71.832
+}

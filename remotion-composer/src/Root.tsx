@@ -84,6 +84,57 @@ import { PovBonCau } from "./PovBonCau";
 import { PovBonCauV2 } from "./PovBonCauV2";
 import { VibeEditingEp2Slides } from "./VibeEditingEp2Slides";
 import { VibeEditingEp2Recap } from "./VibeEditingEp2Recap";
+import { VibeEditingEp2 } from "./VibeEditingEp2";
+import { AgiConspiracy } from "./AgiConspiracy";
+import { AgiConspiracyThumbnail } from "./AgiConspiracyThumbnail";
+import { NgheBiAIThayThe } from "./NgheBiAIThayThe";
+import { NgheBiAIThayTheThumbnail } from "./NgheBiAIThayTheThumbnail";
+import { Hook1300 } from "./Hook1300";
+import { Hook1300Thumbnail } from "./Hook1300Thumbnail";
+import { OpenCutReview } from "./OpenCutReview";
+import { OpenCutReviewThumbnail } from "./OpenCutReviewThumbnail";
+import { KhungHoangViecLam } from "./KhungHoangViecLam";
+import { Skill5AI } from "./Skill5AI";
+import { Skill5AIThumbnail } from "./Skill5AIThumbnail";
+import { RanhGioiHuyetThongFull } from "./RanhGioiHuyetThongFull";
+import { RanhGioiHuyetThongThumbnail } from "./RanhGioiHuyetThongThumbnail";
+import { DoiDungMuaFull } from "./DoiDungMuaFull";
+import { DoiDungMuaThumbnail } from "./DoiDungMuaThumbnail";
+import { ClaudeX2Limit } from "./ClaudeX2Limit";
+import { ClaudeX2LimitThumbnail } from "./ClaudeX2LimitThumbnail";
+import { ComboFreeStack } from "./ComboFreeStack";
+import { ComboFreeStackThumbnail } from "./ComboFreeStackThumbnail";
+import { BanTinAI } from "./BanTinAI";
+import { BanTinAIThumbnail } from "./BanTinAIThumbnail";
+import { AgentControlFlow } from "./AgentControlFlow";
+import { AgentControlFlowThumbnail } from "./AgentControlFlowThumbnail";
+import { PenpotMcpDesign } from "./PenpotMcpDesign";
+import { PenpotMcpDesignThumbnail } from "./PenpotMcpDesignThumbnail";
+import { CloudflareLayoff } from "./CloudflareLayoff";
+import { CloudflareLayoffThumbnail } from "./CloudflareLayoffThumbnail";
+import { AppleIos27Swap } from "./AppleIos27Swap";
+import { AppleIos27SwapThumbnail } from "./AppleIos27SwapThumbnail";
+import { GoogleAiHackerOpenclaw } from "./GoogleAiHackerOpenclaw";
+import { GoogleAiLabVnNews } from "./GoogleAiLabVnNews";
+import { GoogleAiLabVnNewsThumbnail } from "./GoogleAiLabVnNewsThumbnail";
+import { SlideCarouselMcp } from "./SlideCarouselMcp";
+import { Top5McpVideo } from "./Top5McpVideo";
+import { Top5McpVideoThumbnail } from "./Top5McpVideoThumbnail";
+import { SlideCarouselSubagents } from "./SlideCarouselSubagents";
+import { Top5SubagentsVideo } from "./Top5SubagentsVideo";
+import { Top5SubagentsVideoThumbnail } from "./Top5SubagentsVideoThumbnail";
+import { SlideCarouselTop10 } from "./SlideCarouselTop10";
+import { Top10ClaudeCodeCommands } from "./Top10ClaudeCodeCommands";
+import { Top10ClaudeCodeCommandsThumbnail } from "./Top10ClaudeCodeCommandsThumbnail";
+import { SlideCarouselTop10UseCases } from "./SlideCarouselTop10UseCases";
+import { Top10ClaudeCodeUseCases } from "./Top10ClaudeCodeUseCases";
+import { Top10ClaudeCodeUseCasesThumbnail } from "./Top10ClaudeCodeUseCasesThumbnail";
+import { SlideCarouselTop10Settings } from "./SlideCarouselTop10Settings";
+import { Top10ClaudeCodeSettings } from "./Top10ClaudeCodeSettings";
+import { Top10ClaudeCodeSettingsThumbnail } from "./Top10ClaudeCodeSettingsThumbnail";
+import { SlideCarouselTop10Plugins } from "./SlideCarouselTop10Plugins";
+import { Top10ClaudeCodePlugins } from "./Top10ClaudeCodePlugins";
+import { Top10ClaudeCodePluginsThumbnail } from "./Top10ClaudeCodePluginsThumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -505,6 +556,390 @@ export const Root: React.FC = () => {
         height={1920}
       />
       <Composition
+        id="NgheBiAIThayThe"
+        component={NgheBiAIThayThe}
+        durationInFrames={2155}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NgheBiAIThayTheThumbnail"
+        component={NgheBiAIThayTheThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Hook1300"
+        component={Hook1300}
+        durationInFrames={1957}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Hook1300Thumbnail"
+        component={Hook1300Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="OpenCutReview"
+        component={OpenCutReview}
+        durationInFrames={3136}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="OpenCutReviewThumbnail"
+        component={OpenCutReviewThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="KhungHoangViecLam"
+        component={KhungHoangViecLam}
+        durationInFrames={1870}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Skill5AI"
+        component={Skill5AI}
+        durationInFrames={2049}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Skill5AIThumbnail"
+        component={Skill5AIThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RanhGioiHuyetThongFull"
+        component={RanhGioiHuyetThongFull}
+        durationInFrames={5910}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RanhGioiHuyetThongThumbnail"
+        component={RanhGioiHuyetThongThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DoiDungMuaFull"
+        component={DoiDungMuaFull}
+        durationInFrames={3540}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DoiDungMuaThumbnail"
+        component={DoiDungMuaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ClaudeX2Limit"
+        component={ClaudeX2Limit}
+        durationInFrames={1380}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ClaudeX2LimitThumbnail"
+        component={ClaudeX2LimitThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ComboFreeStack"
+        component={ComboFreeStack}
+        durationInFrames={1410}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ComboFreeStackThumbnail"
+        component={ComboFreeStackThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BanTinAI"
+        component={BanTinAI}
+        durationInFrames={2490}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BanTinAIThumbnail"
+        component={BanTinAIThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AgentControlFlow"
+        component={AgentControlFlow}
+        durationInFrames={2160}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AgentControlFlowThumbnail"
+        component={AgentControlFlowThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PenpotMcpDesign"
+        component={PenpotMcpDesign}
+        durationInFrames={1880}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PenpotMcpDesignThumbnail"
+        component={PenpotMcpDesignThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CloudflareLayoff"
+        component={CloudflareLayoff}
+        durationInFrames={1910}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AppleIos27Swap"
+        component={AppleIos27Swap}
+        durationInFrames={1880}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CloudflareLayoffThumbnail"
+        component={CloudflareLayoffThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AppleIos27SwapThumbnail"
+        component={AppleIos27SwapThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GoogleAiHackerOpenclaw"
+        component={GoogleAiHackerOpenclaw}
+        durationInFrames={2700}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GoogleAiLabVnNews"
+        component={GoogleAiLabVnNews}
+        durationInFrames={2520}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GoogleAiLabVnNewsThumbnail"
+        component={GoogleAiLabVnNewsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselMcp"
+        component={SlideCarouselMcp}
+        durationInFrames={9}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top5McpVideo"
+        component={Top5McpVideo}
+        durationInFrames={2730}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top5McpVideoThumbnail"
+        component={Top5McpVideoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselSubagents"
+        component={SlideCarouselSubagents}
+        durationInFrames={9}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top5SubagentsVideo"
+        component={Top5SubagentsVideo}
+        durationInFrames={2960}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top5SubagentsVideoThumbnail"
+        component={Top5SubagentsVideoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10"
+        component={SlideCarouselTop10}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodeCommands"
+        component={Top10ClaudeCodeCommands}
+        durationInFrames={3810}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodeCommandsThumbnail"
+        component={Top10ClaudeCodeCommandsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10UseCases"
+        component={SlideCarouselTop10UseCases}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodeUseCases"
+        component={Top10ClaudeCodeUseCases}
+        durationInFrames={4233}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodeUseCasesThumbnail"
+        component={Top10ClaudeCodeUseCasesThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10Settings"
+        component={SlideCarouselTop10Settings}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodeSettings"
+        component={Top10ClaudeCodeSettings}
+        durationInFrames={4471}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodeSettingsThumbnail"
+        component={Top10ClaudeCodeSettingsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10Plugins"
+        component={SlideCarouselTop10Plugins}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodePlugins"
+        component={Top10ClaudeCodePlugins}
+        durationInFrames={4555}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCodePluginsThumbnail"
+        component={Top10ClaudeCodePluginsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
         id="TinhDaoFB01"
         component={TinhDaoFB01}
         durationInFrames={790}
@@ -788,6 +1223,30 @@ export const Root: React.FC = () => {
         id="VibeEditingEp2Recap"
         component={VibeEditingEp2Recap}
         durationInFrames={2580}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VibeEditingEp2"
+        component={VibeEditingEp2}
+        durationInFrames={7890}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AgiConspiracy"
+        component={AgiConspiracy}
+        durationInFrames={3000}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AgiConspiracyThumbnail"
+        component={AgiConspiracyThumbnail}
+        durationInFrames={1}
         fps={30}
         width={1080}
         height={1920}

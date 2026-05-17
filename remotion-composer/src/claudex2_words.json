@@ -1,0 +1,740 @@
+[
+  {
+    "word": "Claude",
+    "start": 0.0,
+    "end": 0.283,
+    "beat": 1
+  },
+  {
+    "word": "Code",
+    "start": 0.283,
+    "end": 0.565,
+    "beat": 1
+  },
+  {
+    "word": "vừa",
+    "start": 0.565,
+    "end": 0.848,
+    "beat": 1
+  },
+  {
+    "word": "buff",
+    "start": 0.848,
+    "end": 1.13,
+    "beat": 1
+  },
+  {
+    "word": "mạnh",
+    "start": 1.13,
+    "end": 1.413,
+    "beat": 1
+  },
+  {
+    "word": "tới",
+    "start": 1.413,
+    "end": 1.696,
+    "beat": 1
+  },
+  {
+    "word": "mức…",
+    "start": 1.696,
+    "end": 1.978,
+    "beat": 1
+  },
+  {
+    "word": "gói",
+    "start": 1.978,
+    "end": 2.261,
+    "beat": 1
+  },
+  {
+    "word": "Pro",
+    "start": 2.261,
+    "end": 2.543,
+    "beat": 1
+  },
+  {
+    "word": "giờ",
+    "start": 2.543,
+    "end": 2.826,
+    "beat": 1
+  },
+  {
+    "word": "gần",
+    "start": 2.826,
+    "end": 3.109,
+    "beat": 1
+  },
+  {
+    "word": "bằng",
+    "start": 3.109,
+    "end": 3.391,
+    "beat": 1
+  },
+  {
+    "word": "Max",
+    "start": 3.391,
+    "end": 3.674,
+    "beat": 1
+  },
+  {
+    "word": "cũ",
+    "start": 3.674,
+    "end": 3.956,
+    "beat": 1
+  },
+  {
+    "word": "luôn",
+    "start": 3.956,
+    "end": 4.239,
+    "beat": 1
+  },
+  {
+    "word": "rồi.",
+    "start": 4.239,
+    "end": 4.521,
+    "beat": 1
+  },
+  {
+    "word": "Anthropic",
+    "start": 4.521,
+    "end": 4.994,
+    "beat": 2
+  },
+  {
+    "word": "vừa:",
+    "start": 4.994,
+    "end": 5.466,
+    "beat": 2
+  },
+  {
+    "word": "x2",
+    "start": 5.466,
+    "end": 5.938,
+    "beat": 2
+  },
+  {
+    "word": "limit,",
+    "start": 5.938,
+    "end": 6.41,
+    "beat": 2
+  },
+  {
+    "word": "gỡ",
+    "start": 6.41,
+    "end": 6.882,
+    "beat": 2
+  },
+  {
+    "word": "peak",
+    "start": 6.882,
+    "end": 7.355,
+    "beat": 2
+  },
+  {
+    "word": "throttle,",
+    "start": 7.355,
+    "end": 7.827,
+    "beat": 2
+  },
+  {
+    "word": "và",
+    "start": 7.827,
+    "end": 8.299,
+    "beat": 2
+  },
+  {
+    "word": "tăng",
+    "start": 8.299,
+    "end": 8.771,
+    "beat": 2
+  },
+  {
+    "word": "mạnh",
+    "start": 8.771,
+    "end": 9.243,
+    "beat": 2
+  },
+  {
+    "word": "Opus",
+    "start": 9.243,
+    "end": 9.716,
+    "beat": 2
+  },
+  {
+    "word": "API.",
+    "start": 9.716,
+    "end": 10.188,
+    "beat": 2
+  },
+  {
+    "word": "Tức",
+    "start": 10.188,
+    "end": 10.473,
+    "beat": 3
+  },
+  {
+    "word": "là",
+    "start": 10.473,
+    "end": 10.759,
+    "beat": 3
+  },
+  {
+    "word": "từ",
+    "start": 10.759,
+    "end": 11.044,
+    "beat": 3
+  },
+  {
+    "word": "giờ",
+    "start": 11.044,
+    "end": 11.33,
+    "beat": 3
+  },
+  {
+    "word": "—",
+    "start": 11.33,
+    "end": 11.615,
+    "beat": 3
+  },
+  {
+    "word": "không",
+    "start": 11.615,
+    "end": 11.901,
+    "beat": 3
+  },
+  {
+    "word": "còn",
+    "start": 11.901,
+    "end": 12.186,
+    "beat": 3
+  },
+  {
+    "word": "cảnh",
+    "start": 12.186,
+    "end": 12.472,
+    "beat": 3
+  },
+  {
+    "word": "9",
+    "start": 12.472,
+    "end": 12.757,
+    "beat": 3
+  },
+  {
+    "word": "giờ",
+    "start": 12.757,
+    "end": 13.043,
+    "beat": 3
+  },
+  {
+    "word": "sáng",
+    "start": 13.043,
+    "end": 13.328,
+    "beat": 3
+  },
+  {
+    "word": "mở",
+    "start": 13.328,
+    "end": 13.614,
+    "beat": 3
+  },
+  {
+    "word": "Claude",
+    "start": 13.614,
+    "end": 13.899,
+    "beat": 3
+  },
+  {
+    "word": "lên…",
+    "start": 13.899,
+    "end": 14.185,
+    "beat": 3
+  },
+  {
+    "word": "xong",
+    "start": 14.185,
+    "end": 14.47,
+    "beat": 3
+  },
+  {
+    "word": "thấy",
+    "start": 14.47,
+    "end": 14.756,
+    "beat": 3
+  },
+  {
+    "word": "nó",
+    "start": 14.756,
+    "end": 15.041,
+    "beat": 3
+  },
+  {
+    "word": "đần",
+    "start": 15.041,
+    "end": 15.327,
+    "beat": 3
+  },
+  {
+    "word": "đi",
+    "start": 15.327,
+    "end": 15.612,
+    "beat": 3
+  },
+  {
+    "word": "nữa.",
+    "start": 15.612,
+    "end": 15.898,
+    "beat": 3
+  },
+  {
+    "word": "Đây",
+    "start": 15.898,
+    "end": 16.19,
+    "beat": 4
+  },
+  {
+    "word": "mới",
+    "start": 16.19,
+    "end": 16.483,
+    "beat": 4
+  },
+  {
+    "word": "là",
+    "start": 16.483,
+    "end": 16.776,
+    "beat": 4
+  },
+  {
+    "word": "phần",
+    "start": 16.776,
+    "end": 17.068,
+    "beat": 4
+  },
+  {
+    "word": "điên",
+    "start": 17.068,
+    "end": 17.361,
+    "beat": 4
+  },
+  {
+    "word": "nhất:",
+    "start": 17.361,
+    "end": 17.654,
+    "beat": 4
+  },
+  {
+    "word": "Cùng",
+    "start": 17.654,
+    "end": 18.16,
+    "beat": 5
+  },
+  {
+    "word": "ngày,",
+    "start": 18.16,
+    "end": 18.667,
+    "beat": 5
+  },
+  {
+    "word": "Anthropic",
+    "start": 18.667,
+    "end": 19.173,
+    "beat": 5
+  },
+  {
+    "word": "kéo",
+    "start": 19.173,
+    "end": 19.68,
+    "beat": 5
+  },
+  {
+    "word": "thêm",
+    "start": 19.68,
+    "end": 20.187,
+    "beat": 5
+  },
+  {
+    "word": "220",
+    "start": 20.187,
+    "end": 20.693,
+    "beat": 5
+  },
+  {
+    "word": "nghìn",
+    "start": 20.693,
+    "end": 21.2,
+    "beat": 5
+  },
+  {
+    "word": "GPU",
+    "start": 21.2,
+    "end": 21.706,
+    "beat": 5
+  },
+  {
+    "word": "NVIDIA",
+    "start": 21.706,
+    "end": 22.213,
+    "beat": 5
+  },
+  {
+    "word": "từ",
+    "start": 22.213,
+    "end": 22.72,
+    "beat": 5
+  },
+  {
+    "word": "SpaceX",
+    "start": 22.72,
+    "end": 23.226,
+    "beat": 5
+  },
+  {
+    "word": "Colossus.",
+    "start": 23.226,
+    "end": 23.733,
+    "beat": 5
+  },
+  {
+    "word": "Hai",
+    "start": 23.733,
+    "end": 24.142,
+    "beat": 6
+  },
+  {
+    "word": "trăm",
+    "start": 24.142,
+    "end": 24.552,
+    "beat": 6
+  },
+  {
+    "word": "hai",
+    "start": 24.552,
+    "end": 24.961,
+    "beat": 6
+  },
+  {
+    "word": "mươi",
+    "start": 24.961,
+    "end": 25.37,
+    "beat": 6
+  },
+  {
+    "word": "nghìn",
+    "start": 25.37,
+    "end": 25.779,
+    "beat": 6
+  },
+  {
+    "word": "GPU.",
+    "start": 25.779,
+    "end": 26.189,
+    "beat": 6
+  },
+  {
+    "word": "Bảo",
+    "start": 26.189,
+    "end": 26.572,
+    "beat": 7
+  },
+  {
+    "word": "sao",
+    "start": 26.572,
+    "end": 26.955,
+    "beat": 7
+  },
+  {
+    "word": "tự",
+    "start": 26.955,
+    "end": 27.339,
+    "beat": 7
+  },
+  {
+    "word": "nhiên",
+    "start": 27.339,
+    "end": 27.722,
+    "beat": 7
+  },
+  {
+    "word": "Claude",
+    "start": 27.722,
+    "end": 28.105,
+    "beat": 7
+  },
+  {
+    "word": "khoẻ",
+    "start": 28.105,
+    "end": 28.489,
+    "beat": 7
+  },
+  {
+    "word": "ngang",
+    "start": 28.489,
+    "end": 28.872,
+    "beat": 7
+  },
+  {
+    "word": "uống",
+    "start": 28.872,
+    "end": 29.255,
+    "beat": 7
+  },
+  {
+    "word": "steroid.",
+    "start": 29.255,
+    "end": 29.639,
+    "beat": 7
+  },
+  {
+    "word": "Và",
+    "start": 29.639,
+    "end": 29.9,
+    "beat": 8
+  },
+  {
+    "word": "anh",
+    "start": 29.9,
+    "end": 30.162,
+    "beat": 8
+  },
+  {
+    "word": "em",
+    "start": 30.162,
+    "end": 30.424,
+    "beat": 8
+  },
+  {
+    "word": "biết",
+    "start": 30.424,
+    "end": 30.686,
+    "beat": 8
+  },
+  {
+    "word": "điều",
+    "start": 30.686,
+    "end": 30.948,
+    "beat": 8
+  },
+  {
+    "word": "đáng",
+    "start": 30.948,
+    "end": 31.21,
+    "beat": 8
+  },
+  {
+    "word": "sợ",
+    "start": 31.21,
+    "end": 31.472,
+    "beat": 8
+  },
+  {
+    "word": "nhất",
+    "start": 31.472,
+    "end": 31.734,
+    "beat": 8
+  },
+  {
+    "word": "là",
+    "start": 31.734,
+    "end": 31.996,
+    "beat": 8
+  },
+  {
+    "word": "gì",
+    "start": 31.996,
+    "end": 32.258,
+    "beat": 8
+  },
+  {
+    "word": "không?",
+    "start": 32.258,
+    "end": 32.52,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 32.52,
+    "end": 32.864,
+    "beat": 9
+  },
+  {
+    "word": "war",
+    "start": 32.864,
+    "end": 33.207,
+    "beat": 9
+  },
+  {
+    "word": "bây",
+    "start": 33.207,
+    "end": 33.55,
+    "beat": 9
+  },
+  {
+    "word": "giờ",
+    "start": 33.55,
+    "end": 33.894,
+    "beat": 9
+  },
+  {
+    "word": "không",
+    "start": 33.894,
+    "end": 34.237,
+    "beat": 9
+  },
+  {
+    "word": "còn",
+    "start": 34.237,
+    "end": 34.58,
+    "beat": 9
+  },
+  {
+    "word": "là:",
+    "start": 34.58,
+    "end": 34.924,
+    "beat": 9
+  },
+  {
+    "word": "\"model",
+    "start": 34.924,
+    "end": 35.267,
+    "beat": 9
+  },
+  {
+    "word": "nào",
+    "start": 35.267,
+    "end": 35.61,
+    "beat": 9
+  },
+  {
+    "word": "thông",
+    "start": 35.61,
+    "end": 35.954,
+    "beat": 9
+  },
+  {
+    "word": "minh",
+    "start": 35.954,
+    "end": 36.297,
+    "beat": 9
+  },
+  {
+    "word": "hơn.\"",
+    "start": 36.297,
+    "end": 36.64,
+    "beat": 9
+  },
+  {
+    "word": "Mà",
+    "start": 36.64,
+    "end": 36.984,
+    "beat": 9
+  },
+  {
+    "word": "là:",
+    "start": 36.984,
+    "end": 37.327,
+    "beat": 9
+  },
+  {
+    "word": "\"thằng",
+    "start": 37.327,
+    "end": 37.67,
+    "beat": 9
+  },
+  {
+    "word": "nào",
+    "start": 37.67,
+    "end": 38.014,
+    "beat": 9
+  },
+  {
+    "word": "có",
+    "start": 38.014,
+    "end": 38.357,
+    "beat": 9
+  },
+  {
+    "word": "nhiều",
+    "start": 38.357,
+    "end": 38.7,
+    "beat": 9
+  },
+  {
+    "word": "GPU",
+    "start": 38.7,
+    "end": 39.044,
+    "beat": 9
+  },
+  {
+    "word": "hơn.\"",
+    "start": 39.044,
+    "end": 39.387,
+    "beat": 9
+  },
+  {
+    "word": "2026",
+    "start": 39.387,
+    "end": 39.823,
+    "beat": 10
+  },
+  {
+    "word": "đúng",
+    "start": 39.823,
+    "end": 40.259,
+    "beat": 10
+  },
+  {
+    "word": "là",
+    "start": 40.259,
+    "end": 40.695,
+    "beat": 10
+  },
+  {
+    "word": "năm",
+    "start": 40.695,
+    "end": 41.131,
+    "beat": 10
+  },
+  {
+    "word": "AI",
+    "start": 41.131,
+    "end": 41.567,
+    "beat": 10
+  },
+  {
+    "word": "bắt",
+    "start": 41.567,
+    "end": 42.003,
+    "beat": 10
+  },
+  {
+    "word": "đầu",
+    "start": 42.003,
+    "end": 42.439,
+    "beat": 10
+  },
+  {
+    "word": "vô",
+    "start": 42.439,
+    "end": 42.875,
+    "beat": 10
+  },
+  {
+    "word": "lý",
+    "start": 42.875,
+    "end": 43.311,
+    "beat": 10
+  },
+  {
+    "word": "thật",
+    "start": 43.311,
+    "end": 43.747,
+    "beat": 10
+  },
+  {
+    "word": "rồi.",
+    "start": 43.747,
+    "end": 44.182,
+    "beat": 10
+  }
+]

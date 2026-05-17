@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "LEAD",
+      "start": 0.0,
+      "duration": 7.129
+    },
+    {
+      "index": 2,
+      "name": "CONTEXT",
+      "start": 7.129,
+      "duration": 11.24
+    },
+    {
+      "index": 3,
+      "name": "ROLE",
+      "start": 18.369,
+      "duration": 10.459
+    },
+    {
+      "index": 4,
+      "name": "DATA",
+      "start": 28.828,
+      "duration": 9.263
+    },
+    {
+      "index": 5,
+      "name": "ANALYSIS",
+      "start": 38.091,
+      "duration": 11.656
+    },
+    {
+      "index": 6,
+      "name": "COMPARE",
+      "start": 49.747,
+      "duration": 9.106
+    },
+    {
+      "index": 7,
+      "name": "OUTLOOK",
+      "start": 58.854,
+      "duration": 11.916
+    },
+    {
+      "index": 8,
+      "name": "SIGN_OFF",
+      "start": 70.77,
+      "duration": 5.204
+    }
+  ],
+  "total_duration": 75.974
+}

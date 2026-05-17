@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 7.701
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 7.701,
+      "duration": 6.725
+    },
+    {
+      "index": 3,
+      "name": "SKILL_1_PROBLEM_SOLVING",
+      "start": 14.425,
+      "duration": 6.183
+    },
+    {
+      "index": 4,
+      "name": "SKILL_2_COMMUNICATION",
+      "start": 20.609,
+      "duration": 6.515
+    },
+    {
+      "index": 5,
+      "name": "SKILL_3_CREATIVITY",
+      "start": 27.124,
+      "duration": 8.004
+    },
+    {
+      "index": 6,
+      "name": "SKILL_4_STRATEGIC",
+      "start": 35.128,
+      "duration": 7.001
+    },
+    {
+      "index": 7,
+      "name": "SKILL_5_AI_LEVERAGE",
+      "start": 42.129,
+      "duration": 5.814
+    },
+    {
+      "index": 8,
+      "name": "TWIST",
+      "start": 47.943,
+      "duration": 9.113
+    },
+    {
+      "index": 9,
+      "name": "CLOSING",
+      "start": 57.056,
+      "duration": 5.078
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 62.134,
+      "duration": 6.15
+    }
+  ],
+  "total_duration": 68.284
+}

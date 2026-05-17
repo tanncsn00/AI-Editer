@@ -1,0 +1,914 @@
+[
+  {
+    "word": "Apple",
+    "start": 0.0,
+    "end": 0.348,
+    "beat": 1
+  },
+  {
+    "word": "kết",
+    "start": 0.348,
+    "end": 0.697,
+    "beat": 1
+  },
+  {
+    "word": "thúc",
+    "start": 0.697,
+    "end": 1.045,
+    "beat": 1
+  },
+  {
+    "word": "ĐỘC",
+    "start": 1.045,
+    "end": 1.394,
+    "beat": 1
+  },
+  {
+    "word": "QUYỀN",
+    "start": 1.394,
+    "end": 1.742,
+    "beat": 1
+  },
+  {
+    "word": "ChatGPT",
+    "start": 1.742,
+    "end": 2.09,
+    "beat": 1
+  },
+  {
+    "word": "trên",
+    "start": 2.09,
+    "end": 2.439,
+    "beat": 1
+  },
+  {
+    "word": "iPhone.",
+    "start": 2.439,
+    "end": 2.787,
+    "beat": 1
+  },
+  {
+    "word": "Bạn",
+    "start": 2.787,
+    "end": 3.136,
+    "beat": 1
+  },
+  {
+    "word": "sắp",
+    "start": 3.136,
+    "end": 3.484,
+    "beat": 1
+  },
+  {
+    "word": "tự",
+    "start": 3.484,
+    "end": 3.832,
+    "beat": 1
+  },
+  {
+    "word": "pick",
+    "start": 3.832,
+    "end": 4.181,
+    "beat": 1
+  },
+  {
+    "word": "AI",
+    "start": 4.181,
+    "end": 4.529,
+    "beat": 1
+  },
+  {
+    "word": "—",
+    "start": 4.529,
+    "end": 4.878,
+    "beat": 1
+  },
+  {
+    "word": "Claude",
+    "start": 4.878,
+    "end": 5.226,
+    "beat": 1
+  },
+  {
+    "word": "·",
+    "start": 5.226,
+    "end": 5.574,
+    "beat": 1
+  },
+  {
+    "word": "Gemini",
+    "start": 5.574,
+    "end": 5.923,
+    "beat": 1
+  },
+  {
+    "word": "·",
+    "start": 5.923,
+    "end": 6.271,
+    "beat": 1
+  },
+  {
+    "word": "ChatGPT",
+    "start": 6.271,
+    "end": 6.62,
+    "beat": 1
+  },
+  {
+    "word": "·",
+    "start": 6.62,
+    "end": 6.968,
+    "beat": 1
+  },
+  {
+    "word": "Grok.",
+    "start": 6.968,
+    "end": 7.316,
+    "beat": 1
+  },
+  {
+    "word": "iOS",
+    "start": 7.316,
+    "end": 7.741,
+    "beat": 2
+  },
+  {
+    "word": "27",
+    "start": 7.741,
+    "end": 8.165,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 8.165,
+    "end": 8.589,
+    "beat": 2
+  },
+  {
+    "word": "iPadOS",
+    "start": 8.589,
+    "end": 9.013,
+    "beat": 2
+  },
+  {
+    "word": "27",
+    "start": 9.013,
+    "end": 9.437,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 9.437,
+    "end": 9.861,
+    "beat": 2
+  },
+  {
+    "word": "macOS",
+    "start": 9.861,
+    "end": 10.285,
+    "beat": 2
+  },
+  {
+    "word": "27.",
+    "start": 10.285,
+    "end": 10.709,
+    "beat": 2
+  },
+  {
+    "word": "Tính",
+    "start": 10.709,
+    "end": 11.133,
+    "beat": 2
+  },
+  {
+    "word": "năng",
+    "start": 11.133,
+    "end": 11.557,
+    "beat": 2
+  },
+  {
+    "word": "EXTENSIONS",
+    "start": 11.557,
+    "end": 11.981,
+    "beat": 2
+  },
+  {
+    "word": "—",
+    "start": 11.981,
+    "end": 12.405,
+    "beat": 2
+  },
+  {
+    "word": "cho",
+    "start": 12.405,
+    "end": 12.83,
+    "beat": 2
+  },
+  {
+    "word": "cài",
+    "start": 12.83,
+    "end": 13.254,
+    "beat": 2
+  },
+  {
+    "word": "AI",
+    "start": 13.254,
+    "end": 13.678,
+    "beat": 2
+  },
+  {
+    "word": "agent",
+    "start": 13.678,
+    "end": 14.102,
+    "beat": 2
+  },
+  {
+    "word": "bên",
+    "start": 14.102,
+    "end": 14.526,
+    "beat": 2
+  },
+  {
+    "word": "thứ",
+    "start": 14.526,
+    "end": 14.95,
+    "beat": 2
+  },
+  {
+    "word": "3",
+    "start": 14.95,
+    "end": 15.374,
+    "beat": 2
+  },
+  {
+    "word": "thay",
+    "start": 15.374,
+    "end": 15.798,
+    "beat": 2
+  },
+  {
+    "word": "ChatGPT",
+    "start": 15.798,
+    "end": 16.222,
+    "beat": 2
+  },
+  {
+    "word": "default.",
+    "start": 16.222,
+    "end": 16.646,
+    "beat": 2
+  },
+  {
+    "word": "Settings",
+    "start": 16.646,
+    "end": 17.086,
+    "beat": 3
+  },
+  {
+    "word": "→",
+    "start": 17.086,
+    "end": 17.527,
+    "beat": 3
+  },
+  {
+    "word": "Apple",
+    "start": 17.527,
+    "end": 17.967,
+    "beat": 3
+  },
+  {
+    "word": "Intelligence",
+    "start": 17.967,
+    "end": 18.407,
+    "beat": 3
+  },
+  {
+    "word": "&",
+    "start": 18.407,
+    "end": 18.848,
+    "beat": 3
+  },
+  {
+    "word": "Siri",
+    "start": 18.848,
+    "end": 19.288,
+    "beat": 3
+  },
+  {
+    "word": "→",
+    "start": 19.288,
+    "end": 19.728,
+    "beat": 3
+  },
+  {
+    "word": "pick",
+    "start": 19.728,
+    "end": 20.168,
+    "beat": 3
+  },
+  {
+    "word": "1",
+    "start": 20.168,
+    "end": 20.609,
+    "beat": 3
+  },
+  {
+    "word": "AI.",
+    "start": 20.609,
+    "end": 21.049,
+    "beat": 3
+  },
+  {
+    "word": "Toàn",
+    "start": 21.049,
+    "end": 21.489,
+    "beat": 3
+  },
+  {
+    "word": "bộ",
+    "start": 21.489,
+    "end": 21.93,
+    "beat": 3
+  },
+  {
+    "word": "OS",
+    "start": 21.93,
+    "end": 22.37,
+    "beat": 3
+  },
+  {
+    "word": "dùng",
+    "start": 22.37,
+    "end": 22.81,
+    "beat": 3
+  },
+  {
+    "word": "AI",
+    "start": 22.81,
+    "end": 23.25,
+    "beat": 3
+  },
+  {
+    "word": "đó.",
+    "start": 23.25,
+    "end": 23.691,
+    "beat": 3
+  },
+  {
+    "word": "Siri",
+    "start": 23.691,
+    "end": 24.131,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 24.131,
+    "end": 24.571,
+    "beat": 3
+  },
+  {
+    "word": "Writing",
+    "start": 24.571,
+    "end": 25.011,
+    "beat": 3
+  },
+  {
+    "word": "Tools",
+    "start": 25.011,
+    "end": 25.452,
+    "beat": 3
+  },
+  {
+    "word": "·",
+    "start": 25.452,
+    "end": 25.892,
+    "beat": 3
+  },
+  {
+    "word": "Image",
+    "start": 25.892,
+    "end": 26.332,
+    "beat": 3
+  },
+  {
+    "word": "Playground.",
+    "start": 26.332,
+    "end": 26.773,
+    "beat": 3
+  },
+  {
+    "word": "ChatGPT",
+    "start": 26.773,
+    "end": 27.201,
+    "beat": 4
+  },
+  {
+    "word": "độc",
+    "start": 27.201,
+    "end": 27.63,
+    "beat": 4
+  },
+  {
+    "word": "quyền",
+    "start": 27.63,
+    "end": 28.059,
+    "beat": 4
+  },
+  {
+    "word": "từ",
+    "start": 28.059,
+    "end": 28.488,
+    "beat": 4
+  },
+  {
+    "word": "iOS",
+    "start": 28.488,
+    "end": 28.917,
+    "beat": 4
+  },
+  {
+    "word": "18.2",
+    "start": 28.917,
+    "end": 29.346,
+    "beat": 4
+  },
+  {
+    "word": "—",
+    "start": 29.346,
+    "end": 29.775,
+    "beat": 4
+  },
+  {
+    "word": "tháng",
+    "start": 29.775,
+    "end": 30.204,
+    "beat": 4
+  },
+  {
+    "word": "12/2024.",
+    "start": 30.204,
+    "end": 30.633,
+    "beat": 4
+  },
+  {
+    "word": "1.5",
+    "start": 30.633,
+    "end": 31.062,
+    "beat": 4
+  },
+  {
+    "word": "năm",
+    "start": 31.062,
+    "end": 31.491,
+    "beat": 4
+  },
+  {
+    "word": "sau",
+    "start": 31.491,
+    "end": 31.92,
+    "beat": 4
+  },
+  {
+    "word": "—",
+    "start": 31.92,
+    "end": 32.349,
+    "beat": 4
+  },
+  {
+    "word": "game",
+    "start": 32.349,
+    "end": 32.778,
+    "beat": 4
+  },
+  {
+    "word": "over.",
+    "start": 32.778,
+    "end": 33.206,
+    "beat": 4
+  },
+  {
+    "word": "Người",
+    "start": 33.206,
+    "end": 33.602,
+    "beat": 5
+  },
+  {
+    "word": "thắng",
+    "start": 33.602,
+    "end": 33.997,
+    "beat": 5
+  },
+  {
+    "word": "thật",
+    "start": 33.997,
+    "end": 34.392,
+    "beat": 5
+  },
+  {
+    "word": "sự:",
+    "start": 34.392,
+    "end": 34.788,
+    "beat": 5
+  },
+  {
+    "word": "GOOGLE.",
+    "start": 34.788,
+    "end": 35.183,
+    "beat": 5
+  },
+  {
+    "word": "Apple",
+    "start": 35.183,
+    "end": 35.578,
+    "beat": 5
+  },
+  {
+    "word": "ký",
+    "start": 35.578,
+    "end": 35.973,
+    "beat": 5
+  },
+  {
+    "word": "$1",
+    "start": 35.973,
+    "end": 36.369,
+    "beat": 5
+  },
+  {
+    "word": "TỶ",
+    "start": 36.369,
+    "end": 36.764,
+    "beat": 5
+  },
+  {
+    "word": "ĐÔ/NĂM",
+    "start": 36.764,
+    "end": 37.159,
+    "beat": 5
+  },
+  {
+    "word": "→",
+    "start": 37.159,
+    "end": 37.554,
+    "beat": 5
+  },
+  {
+    "word": "Gemini",
+    "start": 37.554,
+    "end": 37.95,
+    "beat": 5
+  },
+  {
+    "word": "thành",
+    "start": 37.95,
+    "end": 38.345,
+    "beat": 5
+  },
+  {
+    "word": "foundation",
+    "start": 38.345,
+    "end": 38.74,
+    "beat": 5
+  },
+  {
+    "word": "model",
+    "start": 38.74,
+    "end": 39.135,
+    "beat": 5
+  },
+  {
+    "word": "NATIVE",
+    "start": 39.135,
+    "end": 39.531,
+    "beat": 5
+  },
+  {
+    "word": "trong",
+    "start": 39.531,
+    "end": 39.926,
+    "beat": 5
+  },
+  {
+    "word": "iOS",
+    "start": 39.926,
+    "end": 40.321,
+    "beat": 5
+  },
+  {
+    "word": "27.",
+    "start": 40.321,
+    "end": 40.716,
+    "beat": 5
+  },
+  {
+    "word": "Claude",
+    "start": 40.716,
+    "end": 41.07,
+    "beat": 6
+  },
+  {
+    "word": "vào.",
+    "start": 41.07,
+    "end": 41.423,
+    "beat": 6
+  },
+  {
+    "word": "Grok",
+    "start": 41.423,
+    "end": 41.776,
+    "beat": 6
+  },
+  {
+    "word": "vào.",
+    "start": 41.776,
+    "end": 42.129,
+    "beat": 6
+  },
+  {
+    "word": "Bất",
+    "start": 42.129,
+    "end": 42.483,
+    "beat": 6
+  },
+  {
+    "word": "cứ",
+    "start": 42.483,
+    "end": 42.836,
+    "beat": 6
+  },
+  {
+    "word": "AI",
+    "start": 42.836,
+    "end": 43.189,
+    "beat": 6
+  },
+  {
+    "word": "nào",
+    "start": 43.189,
+    "end": 43.542,
+    "beat": 6
+  },
+  {
+    "word": "support",
+    "start": 43.542,
+    "end": 43.896,
+    "beat": 6
+  },
+  {
+    "word": "Extensions",
+    "start": 43.896,
+    "end": 44.249,
+    "beat": 6
+  },
+  {
+    "word": "API",
+    "start": 44.249,
+    "end": 44.602,
+    "beat": 6
+  },
+  {
+    "word": "đều",
+    "start": 44.602,
+    "end": 44.955,
+    "beat": 6
+  },
+  {
+    "word": "cắm.",
+    "start": 44.955,
+    "end": 45.309,
+    "beat": 6
+  },
+  {
+    "word": "Cuộc",
+    "start": 45.309,
+    "end": 45.662,
+    "beat": 6
+  },
+  {
+    "word": "đua",
+    "start": 45.662,
+    "end": 46.015,
+    "beat": 6
+  },
+  {
+    "word": "AI",
+    "start": 46.015,
+    "end": 46.368,
+    "beat": 6
+  },
+  {
+    "word": "trên",
+    "start": 46.368,
+    "end": 46.722,
+    "beat": 6
+  },
+  {
+    "word": "iPhone",
+    "start": 46.722,
+    "end": 47.075,
+    "beat": 6
+  },
+  {
+    "word": "—",
+    "start": 47.075,
+    "end": 47.428,
+    "beat": 6
+  },
+  {
+    "word": "MỞ",
+    "start": 47.428,
+    "end": 47.781,
+    "beat": 6
+  },
+  {
+    "word": "CỬA.",
+    "start": 47.781,
+    "end": 48.135,
+    "beat": 6
+  },
+  {
+    "word": "Công",
+    "start": 48.135,
+    "end": 48.706,
+    "beat": 7
+  },
+  {
+    "word": "bố",
+    "start": 48.706,
+    "end": 49.277,
+    "beat": 7
+  },
+  {
+    "word": "WWDC",
+    "start": 49.277,
+    "end": 49.847,
+    "beat": 7
+  },
+  {
+    "word": "08/06/2026.",
+    "start": 49.847,
+    "end": 50.418,
+    "beat": 7
+  },
+  {
+    "word": "Release",
+    "start": 50.418,
+    "end": 50.989,
+    "beat": 7
+  },
+  {
+    "word": "người",
+    "start": 50.989,
+    "end": 51.56,
+    "beat": 7
+  },
+  {
+    "word": "dùng:",
+    "start": 51.56,
+    "end": 52.131,
+    "beat": 7
+  },
+  {
+    "word": "MÙA",
+    "start": 52.131,
+    "end": 52.702,
+    "beat": 7
+  },
+  {
+    "word": "THU",
+    "start": 52.702,
+    "end": 53.273,
+    "beat": 7
+  },
+  {
+    "word": "2026.",
+    "start": 53.273,
+    "end": 53.844,
+    "beat": 7
+  },
+  {
+    "word": "Cùng",
+    "start": 53.844,
+    "end": 54.415,
+    "beat": 7
+  },
+  {
+    "word": "iPhone",
+    "start": 54.415,
+    "end": 54.986,
+    "beat": 7
+  },
+  {
+    "word": "mới.",
+    "start": 54.986,
+    "end": 55.557,
+    "beat": 7
+  },
+  {
+    "word": "Bạn",
+    "start": 55.557,
+    "end": 55.895,
+    "beat": 8
+  },
+  {
+    "word": "pick",
+    "start": 55.895,
+    "end": 56.234,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 56.234,
+    "end": 56.573,
+    "beat": 8
+  },
+  {
+    "word": "nào?",
+    "start": 56.573,
+    "end": 56.912,
+    "beat": 8
+  },
+  {
+    "word": "👇",
+    "start": 56.912,
+    "end": 57.25,
+    "beat": 8
+  },
+  {
+    "word": "Comment",
+    "start": 57.25,
+    "end": 57.589,
+    "beat": 8
+  },
+  {
+    "word": "ChatGPT",
+    "start": 57.589,
+    "end": 57.928,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 57.928,
+    "end": 58.267,
+    "beat": 8
+  },
+  {
+    "word": "Claude",
+    "start": 58.267,
+    "end": 58.606,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 58.606,
+    "end": 58.944,
+    "beat": 8
+  },
+  {
+    "word": "Gemini.",
+    "start": 58.944,
+    "end": 59.283,
+    "beat": 8
+  },
+  {
+    "word": "Theo",
+    "start": 59.283,
+    "end": 59.622,
+    "beat": 8
+  },
+  {
+    "word": "dõi",
+    "start": 59.622,
+    "end": 59.961,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 59.961,
+    "end": 60.299,
+    "beat": 8
+  },
+  {
+    "word": "tin",
+    "start": 60.299,
+    "end": 60.638,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 60.638,
+    "end": 60.977,
+    "beat": 8
+  },
+  {
+    "word": "nóng",
+    "start": 60.977,
+    "end": 61.316,
+    "beat": 8
+  },
+  {
+    "word": "nhất.",
+    "start": 61.316,
+    "end": 61.655,
+    "beat": 8
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "beats": [
+    {
+      "index": 0,
+      "start": 0,
+      "duration": 20.0
+    },
+    {
+      "index": 1,
+      "start": 20.0,
+      "duration": 14.575
+    },
+    {
+      "index": 2,
+      "start": 35.575,
+      "duration": 33.413
+    },
+    {
+      "index": 3,
+      "start": 69.988,
+      "duration": 30.75
+    },
+    {
+      "index": 4,
+      "start": 101.738,
+      "duration": 75.558
+    },
+    {
+      "index": 5,
+      "start": 178.296,
+      "duration": 83.278
+    }
+  ],
+  "total_duration": 262.575
+}

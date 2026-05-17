@@ -1,0 +1,902 @@
+[
+  {
+    "word": "AI",
+    "start": 0.0,
+    "end": 0.378,
+    "beat": 1
+  },
+  {
+    "word": "lần",
+    "start": 0.378,
+    "end": 0.756,
+    "beat": 1
+  },
+  {
+    "word": "đầu",
+    "start": 0.756,
+    "end": 1.135,
+    "beat": 1
+  },
+  {
+    "word": "tự",
+    "start": 1.135,
+    "end": 1.513,
+    "beat": 1
+  },
+  {
+    "word": "tìm",
+    "start": 1.513,
+    "end": 1.891,
+    "beat": 1
+  },
+  {
+    "word": "ZERO-DAY.",
+    "start": 1.891,
+    "end": 2.269,
+    "beat": 1
+  },
+  {
+    "word": "Hacker",
+    "start": 2.269,
+    "end": 2.648,
+    "beat": 1
+  },
+  {
+    "word": "xài",
+    "start": 2.648,
+    "end": 3.026,
+    "beat": 1
+  },
+  {
+    "word": "để",
+    "start": 3.026,
+    "end": 3.404,
+    "beat": 1
+  },
+  {
+    "word": "tấn",
+    "start": 3.404,
+    "end": 3.782,
+    "beat": 1
+  },
+  {
+    "word": "công",
+    "start": 3.782,
+    "end": 4.161,
+    "beat": 1
+  },
+  {
+    "word": "HÀNG",
+    "start": 4.161,
+    "end": 4.539,
+    "beat": 1
+  },
+  {
+    "word": "LOẠT.",
+    "start": 4.539,
+    "end": 4.917,
+    "beat": 1
+  },
+  {
+    "word": "11/05/2026",
+    "start": 4.917,
+    "end": 5.253,
+    "beat": 2
+  },
+  {
+    "word": "·",
+    "start": 5.253,
+    "end": 5.589,
+    "beat": 2
+  },
+  {
+    "word": "Google",
+    "start": 5.589,
+    "end": 5.926,
+    "beat": 2
+  },
+  {
+    "word": "Threat",
+    "start": 5.926,
+    "end": 6.262,
+    "beat": 2
+  },
+  {
+    "word": "Intelligence",
+    "start": 6.262,
+    "end": 6.598,
+    "beat": 2
+  },
+  {
+    "word": "Group",
+    "start": 6.598,
+    "end": 6.934,
+    "beat": 2
+  },
+  {
+    "word": "(GTIG)",
+    "start": 6.934,
+    "end": 7.271,
+    "beat": 2
+  },
+  {
+    "word": "công",
+    "start": 7.271,
+    "end": 7.607,
+    "beat": 2
+  },
+  {
+    "word": "bố",
+    "start": 7.607,
+    "end": 7.943,
+    "beat": 2
+  },
+  {
+    "word": "CHẶN",
+    "start": 7.943,
+    "end": 8.279,
+    "beat": 2
+  },
+  {
+    "word": "chiến",
+    "start": 8.279,
+    "end": 8.616,
+    "beat": 2
+  },
+  {
+    "word": "dịch",
+    "start": 8.616,
+    "end": 8.952,
+    "beat": 2
+  },
+  {
+    "word": "khai",
+    "start": 8.952,
+    "end": 9.288,
+    "beat": 2
+  },
+  {
+    "word": "thác",
+    "start": 9.288,
+    "end": 9.624,
+    "beat": 2
+  },
+  {
+    "word": "lỗ",
+    "start": 9.624,
+    "end": 9.961,
+    "beat": 2
+  },
+  {
+    "word": "hổng",
+    "start": 9.961,
+    "end": 10.297,
+    "beat": 2
+  },
+  {
+    "word": "QUY",
+    "start": 10.297,
+    "end": 10.633,
+    "beat": 2
+  },
+  {
+    "word": "MÔ",
+    "start": 10.633,
+    "end": 10.969,
+    "beat": 2
+  },
+  {
+    "word": "LỚN",
+    "start": 10.969,
+    "end": 11.306,
+    "beat": 2
+  },
+  {
+    "word": "bằng",
+    "start": 11.306,
+    "end": 11.642,
+    "beat": 2
+  },
+  {
+    "word": "AI.",
+    "start": 11.642,
+    "end": 11.978,
+    "beat": 2
+  },
+  {
+    "word": "Hacker",
+    "start": 11.978,
+    "end": 12.319,
+    "beat": 3
+  },
+  {
+    "word": "xài",
+    "start": 12.319,
+    "end": 12.661,
+    "beat": 3
+  },
+  {
+    "word": "AI",
+    "start": 12.661,
+    "end": 13.002,
+    "beat": 3
+  },
+  {
+    "word": "model",
+    "start": 13.002,
+    "end": 13.343,
+    "beat": 3
+  },
+  {
+    "word": "tên",
+    "start": 13.343,
+    "end": 13.685,
+    "beat": 3
+  },
+  {
+    "word": "OPENCLAW",
+    "start": 13.685,
+    "end": 14.026,
+    "beat": 3
+  },
+  {
+    "word": "→",
+    "start": 14.026,
+    "end": 14.367,
+    "beat": 3
+  },
+  {
+    "word": "tự",
+    "start": 14.367,
+    "end": 14.709,
+    "beat": 3
+  },
+  {
+    "word": "động",
+    "start": 14.709,
+    "end": 15.05,
+    "beat": 3
+  },
+  {
+    "word": "tìm",
+    "start": 15.05,
+    "end": 15.391,
+    "beat": 3
+  },
+  {
+    "word": "+",
+    "start": 15.391,
+    "end": 15.732,
+    "beat": 3
+  },
+  {
+    "word": "viết",
+    "start": 15.732,
+    "end": 16.074,
+    "beat": 3
+  },
+  {
+    "word": "exploit.",
+    "start": 16.074,
+    "end": 16.415,
+    "beat": 3
+  },
+  {
+    "word": "LẦN",
+    "start": 16.415,
+    "end": 16.756,
+    "beat": 3
+  },
+  {
+    "word": "ĐẦU",
+    "start": 16.756,
+    "end": 17.098,
+    "beat": 3
+  },
+  {
+    "word": "TIÊN",
+    "start": 17.098,
+    "end": 17.439,
+    "beat": 3
+  },
+  {
+    "word": "AI",
+    "start": 17.439,
+    "end": 17.78,
+    "beat": 3
+  },
+  {
+    "word": "tự",
+    "start": 17.78,
+    "end": 18.122,
+    "beat": 3
+  },
+  {
+    "word": "tìm",
+    "start": 18.122,
+    "end": 18.463,
+    "beat": 3
+  },
+  {
+    "word": "zero-day",
+    "start": 18.463,
+    "end": 18.804,
+    "beat": 3
+  },
+  {
+    "word": "cho",
+    "start": 18.804,
+    "end": 19.146,
+    "beat": 3
+  },
+  {
+    "word": "criminal.",
+    "start": 19.146,
+    "end": 19.487,
+    "beat": 3
+  },
+  {
+    "word": "Lỗi:",
+    "start": 19.487,
+    "end": 19.802,
+    "beat": 4
+  },
+  {
+    "word": "admin",
+    "start": 19.802,
+    "end": 20.117,
+    "beat": 4
+  },
+  {
+    "word": "tool",
+    "start": 20.117,
+    "end": 20.432,
+    "beat": 4
+  },
+  {
+    "word": "open-source",
+    "start": 20.432,
+    "end": 20.748,
+    "beat": 4
+  },
+  {
+    "word": "phổ",
+    "start": 20.748,
+    "end": 21.063,
+    "beat": 4
+  },
+  {
+    "word": "biến",
+    "start": 21.063,
+    "end": 21.378,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 21.378,
+    "end": 21.693,
+    "beat": 4
+  },
+  {
+    "word": "Exploit:",
+    "start": 21.693,
+    "end": 22.008,
+    "beat": 4
+  },
+  {
+    "word": "Python",
+    "start": 22.008,
+    "end": 22.323,
+    "beat": 4
+  },
+  {
+    "word": "script",
+    "start": 22.323,
+    "end": 22.638,
+    "beat": 4
+  },
+  {
+    "word": "bypass",
+    "start": 22.638,
+    "end": 22.954,
+    "beat": 4
+  },
+  {
+    "word": "2FA",
+    "start": 22.954,
+    "end": 23.269,
+    "beat": 4
+  },
+  {
+    "word": "·",
+    "start": 23.269,
+    "end": 23.584,
+    "beat": 4
+  },
+  {
+    "word": "TẤT",
+    "start": 23.584,
+    "end": 23.899,
+    "beat": 4
+  },
+  {
+    "word": "CẢ",
+    "start": 23.899,
+    "end": 24.214,
+    "beat": 4
+  },
+  {
+    "word": "công",
+    "start": 24.214,
+    "end": 24.529,
+    "beat": 4
+  },
+  {
+    "word": "ty",
+    "start": 24.529,
+    "end": 24.844,
+    "beat": 4
+  },
+  {
+    "word": "xài",
+    "start": 24.844,
+    "end": 25.159,
+    "beat": 4
+  },
+  {
+    "word": "đều",
+    "start": 25.159,
+    "end": 25.475,
+    "beat": 4
+  },
+  {
+    "word": "thành",
+    "start": 25.475,
+    "end": 25.79,
+    "beat": 4
+  },
+  {
+    "word": "nạn",
+    "start": 25.79,
+    "end": 26.105,
+    "beat": 4
+  },
+  {
+    "word": "nhân.",
+    "start": 26.105,
+    "end": 26.42,
+    "beat": 4
+  },
+  {
+    "word": "Mục",
+    "start": 26.42,
+    "end": 26.757,
+    "beat": 5
+  },
+  {
+    "word": "tiêu:",
+    "start": 26.757,
+    "end": 27.094,
+    "beat": 5
+  },
+  {
+    "word": "MASS",
+    "start": 27.094,
+    "end": 27.432,
+    "beat": 5
+  },
+  {
+    "word": "EXPLOITATION",
+    "start": 27.432,
+    "end": 27.769,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 27.769,
+    "end": 28.106,
+    "beat": 5
+  },
+  {
+    "word": "quét",
+    "start": 28.106,
+    "end": 28.443,
+    "beat": 5
+  },
+  {
+    "word": "toàn",
+    "start": 28.443,
+    "end": 28.78,
+    "beat": 5
+  },
+  {
+    "word": "internet",
+    "start": 28.78,
+    "end": 29.117,
+    "beat": 5
+  },
+  {
+    "word": "·",
+    "start": 29.117,
+    "end": 29.455,
+    "beat": 5
+  },
+  {
+    "word": "tấn",
+    "start": 29.455,
+    "end": 29.792,
+    "beat": 5
+  },
+  {
+    "word": "công",
+    "start": 29.792,
+    "end": 30.129,
+    "beat": 5
+  },
+  {
+    "word": "đồng",
+    "start": 30.129,
+    "end": 30.466,
+    "beat": 5
+  },
+  {
+    "word": "loạt.",
+    "start": 30.466,
+    "end": 30.803,
+    "beat": 5
+  },
+  {
+    "word": "Google",
+    "start": 30.803,
+    "end": 31.14,
+    "beat": 5
+  },
+  {
+    "word": "CHẶN",
+    "start": 31.14,
+    "end": 31.478,
+    "beat": 5
+  },
+  {
+    "word": "trước",
+    "start": 31.478,
+    "end": 31.815,
+    "beat": 5
+  },
+  {
+    "word": "khi",
+    "start": 31.815,
+    "end": 32.152,
+    "beat": 5
+  },
+  {
+    "word": "nổ.",
+    "start": 32.152,
+    "end": 32.489,
+    "beat": 5
+  },
+  {
+    "word": "Google",
+    "start": 32.489,
+    "end": 32.825,
+    "beat": 6
+  },
+  {
+    "word": "xác",
+    "start": 32.825,
+    "end": 33.161,
+    "beat": 6
+  },
+  {
+    "word": "nhận:",
+    "start": 33.161,
+    "end": 33.496,
+    "beat": 6
+  },
+  {
+    "word": "nhóm",
+    "start": 33.496,
+    "end": 33.832,
+    "beat": 6
+  },
+  {
+    "word": "🇨🇳",
+    "start": 33.832,
+    "end": 34.168,
+    "beat": 6
+  },
+  {
+    "word": "Trung",
+    "start": 34.168,
+    "end": 34.504,
+    "beat": 6
+  },
+  {
+    "word": "Quốc",
+    "start": 34.504,
+    "end": 34.839,
+    "beat": 6
+  },
+  {
+    "word": "·",
+    "start": 34.839,
+    "end": 35.175,
+    "beat": 6
+  },
+  {
+    "word": "🇰🇵",
+    "start": 35.175,
+    "end": 35.511,
+    "beat": 6
+  },
+  {
+    "word": "Triều",
+    "start": 35.511,
+    "end": 35.847,
+    "beat": 6
+  },
+  {
+    "word": "Tiên",
+    "start": 35.847,
+    "end": 36.183,
+    "beat": 6
+  },
+  {
+    "word": "đầu",
+    "start": 36.183,
+    "end": 36.518,
+    "beat": 6
+  },
+  {
+    "word": "tư",
+    "start": 36.518,
+    "end": 36.854,
+    "beat": 6
+  },
+  {
+    "word": "AI",
+    "start": 36.854,
+    "end": 37.19,
+    "beat": 6
+  },
+  {
+    "word": "săn",
+    "start": 37.19,
+    "end": 37.526,
+    "beat": 6
+  },
+  {
+    "word": "zero-day.",
+    "start": 37.526,
+    "end": 37.862,
+    "beat": 6
+  },
+  {
+    "word": "Chiến",
+    "start": 37.862,
+    "end": 38.197,
+    "beat": 6
+  },
+  {
+    "word": "trường",
+    "start": 38.197,
+    "end": 38.533,
+    "beat": 6
+  },
+  {
+    "word": "mạng",
+    "start": 38.533,
+    "end": 38.869,
+    "beat": 6
+  },
+  {
+    "word": "=",
+    "start": 38.869,
+    "end": 39.205,
+    "beat": 6
+  },
+  {
+    "word": "AI",
+    "start": 39.205,
+    "end": 39.54,
+    "beat": 6
+  },
+  {
+    "word": "vs",
+    "start": 39.54,
+    "end": 39.876,
+    "beat": 6
+  },
+  {
+    "word": "AI.",
+    "start": 39.876,
+    "end": 40.212,
+    "beat": 6
+  },
+  {
+    "word": "Quy",
+    "start": 40.212,
+    "end": 40.532,
+    "beat": 7
+  },
+  {
+    "word": "tắc",
+    "start": 40.532,
+    "end": 40.852,
+    "beat": 7
+  },
+  {
+    "word": "CŨ",
+    "start": 40.852,
+    "end": 41.172,
+    "beat": 7
+  },
+  {
+    "word": "chết:",
+    "start": 41.172,
+    "end": 41.492,
+    "beat": 7
+  },
+  {
+    "word": "security",
+    "start": 41.492,
+    "end": 41.812,
+    "beat": 7
+  },
+  {
+    "word": "team",
+    "start": 41.812,
+    "end": 42.132,
+    "beat": 7
+  },
+  {
+    "word": "giỏi",
+    "start": 42.132,
+    "end": 42.452,
+    "beat": 7
+  },
+  {
+    "word": "=",
+    "start": 42.452,
+    "end": 42.772,
+    "beat": 7
+  },
+  {
+    "word": "an",
+    "start": 42.772,
+    "end": 43.092,
+    "beat": 7
+  },
+  {
+    "word": "toàn.",
+    "start": 43.092,
+    "end": 43.412,
+    "beat": 7
+  },
+  {
+    "word": "Quy",
+    "start": 43.412,
+    "end": 43.732,
+    "beat": 7
+  },
+  {
+    "word": "tắc",
+    "start": 43.732,
+    "end": 44.052,
+    "beat": 7
+  },
+  {
+    "word": "MỚI:",
+    "start": 44.052,
+    "end": 44.372,
+    "beat": 7
+  },
+  {
+    "word": "AI",
+    "start": 44.372,
+    "end": 44.692,
+    "beat": 7
+  },
+  {
+    "word": "vs",
+    "start": 44.692,
+    "end": 45.012,
+    "beat": 7
+  },
+  {
+    "word": "AI.",
+    "start": 45.012,
+    "end": 45.332,
+    "beat": 7
+  },
+  {
+    "word": "CHẬM",
+    "start": 45.332,
+    "end": 45.652,
+    "beat": 7
+  },
+  {
+    "word": "=",
+    "start": 45.652,
+    "end": 45.972,
+    "beat": 7
+  },
+  {
+    "word": "VỠ",
+    "start": 45.972,
+    "end": 46.292,
+    "beat": 7
+  },
+  {
+    "word": "TRẬN.",
+    "start": 46.292,
+    "end": 46.612,
+    "beat": 7
+  },
+  {
+    "word": "👀",
+    "start": 46.612,
+    "end": 46.823,
+    "beat": 8
+  },
+  {
+    "word": "Theo",
+    "start": 46.823,
+    "end": 47.035,
+    "beat": 8
+  },
+  {
+    "word": "dõi",
+    "start": 47.035,
+    "end": 47.246,
+    "beat": 8
+  },
+  {
+    "word": "·",
+    "start": 47.246,
+    "end": 47.457,
+    "beat": 8
+  },
+  {
+    "word": "tin",
+    "start": 47.457,
+    "end": 47.669,
+    "beat": 8
+  },
+  {
+    "word": "AI",
+    "start": 47.669,
+    "end": 47.88,
+    "beat": 8
+  },
+  {
+    "word": "security",
+    "start": 47.88,
+    "end": 48.092,
+    "beat": 8
+  },
+  {
+    "word": "nóng",
+    "start": 48.092,
+    "end": 48.303,
+    "beat": 8
+  },
+  {
+    "word": "nhất",
+    "start": 48.303,
+    "end": 48.514,
+    "beat": 8
+  },
+  {
+    "word": "mỗi",
+    "start": 48.514,
+    "end": 48.726,
+    "beat": 8
+  },
+  {
+    "word": "ngày.",
+    "start": 48.726,
+    "end": 48.937,
+    "beat": 8
+  }
+]

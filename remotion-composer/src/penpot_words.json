@@ -1,0 +1,1046 @@
+[
+  {
+    "word": "10",
+    "start": 0.0,
+    "end": 0.312,
+    "beat": 1
+  },
+  {
+    "word": "phút.",
+    "start": 0.312,
+    "end": 0.623,
+    "beat": 1
+  },
+  {
+    "word": "2",
+    "start": 0.623,
+    "end": 0.935,
+    "beat": 1
+  },
+  {
+    "word": "prompt.",
+    "start": 0.935,
+    "end": 1.246,
+    "beat": 1
+  },
+  {
+    "word": "Ra",
+    "start": 1.246,
+    "end": 1.558,
+    "beat": 1
+  },
+  {
+    "word": "trang",
+    "start": 1.558,
+    "end": 1.87,
+    "beat": 1
+  },
+  {
+    "word": "web",
+    "start": 1.87,
+    "end": 2.181,
+    "beat": 1
+  },
+  {
+    "word": "hoàn",
+    "start": 2.181,
+    "end": 2.493,
+    "beat": 1
+  },
+  {
+    "word": "chỉnh",
+    "start": 2.493,
+    "end": 2.804,
+    "beat": 1
+  },
+  {
+    "word": "—",
+    "start": 2.804,
+    "end": 3.116,
+    "beat": 1
+  },
+  {
+    "word": "từ",
+    "start": 3.116,
+    "end": 3.428,
+    "beat": 1
+  },
+  {
+    "word": "design",
+    "start": 3.428,
+    "end": 3.739,
+    "beat": 1
+  },
+  {
+    "word": "đến",
+    "start": 3.739,
+    "end": 4.051,
+    "beat": 1
+  },
+  {
+    "word": "code",
+    "start": 4.051,
+    "end": 4.362,
+    "beat": 1
+  },
+  {
+    "word": "chạy",
+    "start": 4.362,
+    "end": 4.674,
+    "beat": 1
+  },
+  {
+    "word": "thật.",
+    "start": 4.674,
+    "end": 4.985,
+    "beat": 1
+  },
+  {
+    "word": "Tool",
+    "start": 4.985,
+    "end": 5.395,
+    "beat": 2
+  },
+  {
+    "word": "này",
+    "start": 5.395,
+    "end": 5.805,
+    "beat": 2
+  },
+  {
+    "word": "tên",
+    "start": 5.805,
+    "end": 6.215,
+    "beat": 2
+  },
+  {
+    "word": "Penpot.",
+    "start": 6.215,
+    "end": 6.625,
+    "beat": 2
+  },
+  {
+    "word": "Open",
+    "start": 6.625,
+    "end": 7.035,
+    "beat": 2
+  },
+  {
+    "word": "source.",
+    "start": 7.035,
+    "end": 7.445,
+    "beat": 2
+  },
+  {
+    "word": "FREE.",
+    "start": 7.445,
+    "end": 7.855,
+    "beat": 2
+  },
+  {
+    "word": "Cắm",
+    "start": 7.855,
+    "end": 8.264,
+    "beat": 2
+  },
+  {
+    "word": "được",
+    "start": 8.264,
+    "end": 8.674,
+    "beat": 2
+  },
+  {
+    "word": "mọi",
+    "start": 8.674,
+    "end": 9.084,
+    "beat": 2
+  },
+  {
+    "word": "AI",
+    "start": 9.084,
+    "end": 9.494,
+    "beat": 2
+  },
+  {
+    "word": "agent",
+    "start": 9.494,
+    "end": 9.904,
+    "beat": 2
+  },
+  {
+    "word": "có",
+    "start": 9.904,
+    "end": 10.314,
+    "beat": 2
+  },
+  {
+    "word": "hỗ",
+    "start": 10.314,
+    "end": 10.724,
+    "beat": 2
+  },
+  {
+    "word": "trợ",
+    "start": 10.724,
+    "end": 11.134,
+    "beat": 2
+  },
+  {
+    "word": "MCP.",
+    "start": 11.134,
+    "end": 11.543,
+    "beat": 2
+  },
+  {
+    "word": "Khác",
+    "start": 11.543,
+    "end": 11.998,
+    "beat": 3
+  },
+  {
+    "word": "Figma",
+    "start": 11.998,
+    "end": 12.452,
+    "beat": 3
+  },
+  {
+    "word": "—",
+    "start": 12.452,
+    "end": 12.906,
+    "beat": 3
+  },
+  {
+    "word": "file",
+    "start": 12.906,
+    "end": 13.361,
+    "beat": 3
+  },
+  {
+    "word": "Penpot",
+    "start": 13.361,
+    "end": 13.815,
+    "beat": 3
+  },
+  {
+    "word": "lưu",
+    "start": 13.815,
+    "end": 14.269,
+    "beat": 3
+  },
+  {
+    "word": "dạng",
+    "start": 14.269,
+    "end": 14.723,
+    "beat": 3
+  },
+  {
+    "word": "SVG",
+    "start": 14.723,
+    "end": 15.178,
+    "beat": 3
+  },
+  {
+    "word": "=",
+    "start": 15.178,
+    "end": 15.632,
+    "beat": 3
+  },
+  {
+    "word": "code",
+    "start": 15.632,
+    "end": 16.086,
+    "beat": 3
+  },
+  {
+    "word": "thuần.",
+    "start": 16.086,
+    "end": 16.541,
+    "beat": 3
+  },
+  {
+    "word": "AI",
+    "start": 16.541,
+    "end": 16.995,
+    "beat": 3
+  },
+  {
+    "word": "đọc",
+    "start": 16.995,
+    "end": 17.449,
+    "beat": 3
+  },
+  {
+    "word": "thẳng.",
+    "start": 17.449,
+    "end": 17.903,
+    "beat": 3
+  },
+  {
+    "word": "AI",
+    "start": 17.903,
+    "end": 18.358,
+    "beat": 3
+  },
+  {
+    "word": "vẽ",
+    "start": 18.358,
+    "end": 18.812,
+    "beat": 3
+  },
+  {
+    "word": "thẳng.",
+    "start": 18.812,
+    "end": 19.266,
+    "beat": 3
+  },
+  {
+    "word": "Khỏi",
+    "start": 19.266,
+    "end": 19.721,
+    "beat": 3
+  },
+  {
+    "word": "screenshot.",
+    "start": 19.721,
+    "end": 20.175,
+    "beat": 3
+  },
+  {
+    "word": "Khỏi",
+    "start": 20.175,
+    "end": 20.629,
+    "beat": 3
+  },
+  {
+    "word": "API.",
+    "start": 20.629,
+    "end": 21.083,
+    "beat": 3
+  },
+  {
+    "word": "Mình:",
+    "start": 21.083,
+    "end": 21.366,
+    "beat": 4
+  },
+  {
+    "word": "\"vẽ",
+    "start": 21.366,
+    "end": 21.649,
+    "beat": 4
+  },
+  {
+    "word": "landing",
+    "start": 21.649,
+    "end": 21.932,
+    "beat": 4
+  },
+  {
+    "word": "page",
+    "start": 21.932,
+    "end": 22.215,
+    "beat": 4
+  },
+  {
+    "word": "cho",
+    "start": 22.215,
+    "end": 22.497,
+    "beat": 4
+  },
+  {
+    "word": "công",
+    "start": 22.497,
+    "end": 22.78,
+    "beat": 4
+  },
+  {
+    "word": "ty",
+    "start": 22.78,
+    "end": 23.063,
+    "beat": 4
+  },
+  {
+    "word": "phần",
+    "start": 23.063,
+    "end": 23.346,
+    "beat": 4
+  },
+  {
+    "word": "mềm\".",
+    "start": 23.346,
+    "end": 23.629,
+    "beat": 4
+  },
+  {
+    "word": "5",
+    "start": 23.629,
+    "end": 23.912,
+    "beat": 4
+  },
+  {
+    "word": "phút",
+    "start": 23.912,
+    "end": 24.194,
+    "beat": 4
+  },
+  {
+    "word": "sau",
+    "start": 24.194,
+    "end": 24.477,
+    "beat": 4
+  },
+  {
+    "word": "—",
+    "start": 24.477,
+    "end": 24.76,
+    "beat": 4
+  },
+  {
+    "word": "AI",
+    "start": 24.76,
+    "end": 25.043,
+    "beat": 4
+  },
+  {
+    "word": "tự",
+    "start": 25.043,
+    "end": 25.326,
+    "beat": 4
+  },
+  {
+    "word": "design",
+    "start": 25.326,
+    "end": 25.608,
+    "beat": 4
+  },
+  {
+    "word": "xong",
+    "start": 25.608,
+    "end": 25.891,
+    "beat": 4
+  },
+  {
+    "word": "trong",
+    "start": 25.891,
+    "end": 26.174,
+    "beat": 4
+  },
+  {
+    "word": "Penpot.",
+    "start": 26.174,
+    "end": 26.457,
+    "beat": 4
+  },
+  {
+    "word": "Đủ",
+    "start": 26.457,
+    "end": 26.74,
+    "beat": 4
+  },
+  {
+    "word": "Header",
+    "start": 26.74,
+    "end": 27.022,
+    "beat": 4
+  },
+  {
+    "word": "/",
+    "start": 27.022,
+    "end": 27.305,
+    "beat": 4
+  },
+  {
+    "word": "Hero",
+    "start": 27.305,
+    "end": 27.588,
+    "beat": 4
+  },
+  {
+    "word": "/",
+    "start": 27.588,
+    "end": 27.871,
+    "beat": 4
+  },
+  {
+    "word": "Code",
+    "start": 27.871,
+    "end": 28.154,
+    "beat": 4
+  },
+  {
+    "word": "block",
+    "start": 28.154,
+    "end": 28.436,
+    "beat": 4
+  },
+  {
+    "word": "/",
+    "start": 28.436,
+    "end": 28.719,
+    "beat": 4
+  },
+  {
+    "word": "Logos",
+    "start": 28.719,
+    "end": 29.002,
+    "beat": 4
+  },
+  {
+    "word": "/",
+    "start": 29.002,
+    "end": 29.285,
+    "beat": 4
+  },
+  {
+    "word": "Footer.",
+    "start": 29.285,
+    "end": 29.568,
+    "beat": 4
+  },
+  {
+    "word": "Mình:",
+    "start": 29.568,
+    "end": 29.921,
+    "beat": 5
+  },
+  {
+    "word": "\"clone",
+    "start": 29.921,
+    "end": 30.275,
+    "beat": 5
+  },
+  {
+    "word": "thành",
+    "start": 30.275,
+    "end": 30.628,
+    "beat": 5
+  },
+  {
+    "word": "Next.js\".",
+    "start": 30.628,
+    "end": 30.982,
+    "beat": 5
+  },
+  {
+    "word": "5",
+    "start": 30.982,
+    "end": 31.336,
+    "beat": 5
+  },
+  {
+    "word": "phút",
+    "start": 31.336,
+    "end": 31.689,
+    "beat": 5
+  },
+  {
+    "word": "sau",
+    "start": 31.689,
+    "end": 32.043,
+    "beat": 5
+  },
+  {
+    "word": "—",
+    "start": 32.043,
+    "end": 32.396,
+    "beat": 5
+  },
+  {
+    "word": "chạy",
+    "start": 32.396,
+    "end": 32.75,
+    "beat": 5
+  },
+  {
+    "word": "thật",
+    "start": 32.75,
+    "end": 33.103,
+    "beat": 5
+  },
+  {
+    "word": "trên",
+    "start": 33.103,
+    "end": 33.457,
+    "beat": 5
+  },
+  {
+    "word": "localhost:3000.",
+    "start": 33.457,
+    "end": 33.811,
+    "beat": 5
+  },
+  {
+    "word": "Mình",
+    "start": 33.811,
+    "end": 34.164,
+    "beat": 5
+  },
+  {
+    "word": "không",
+    "start": 34.164,
+    "end": 34.518,
+    "beat": 5
+  },
+  {
+    "word": "vẽ",
+    "start": 34.518,
+    "end": 34.871,
+    "beat": 5
+  },
+  {
+    "word": "1",
+    "start": 34.871,
+    "end": 35.225,
+    "beat": 5
+  },
+  {
+    "word": "pixel.",
+    "start": 35.225,
+    "end": 35.579,
+    "beat": 5
+  },
+  {
+    "word": "Không",
+    "start": 35.579,
+    "end": 35.932,
+    "beat": 5
+  },
+  {
+    "word": "gõ",
+    "start": 35.932,
+    "end": 36.286,
+    "beat": 5
+  },
+  {
+    "word": "1",
+    "start": 36.286,
+    "end": 36.639,
+    "beat": 5
+  },
+  {
+    "word": "dòng",
+    "start": 36.639,
+    "end": 36.993,
+    "beat": 5
+  },
+  {
+    "word": "code.",
+    "start": 36.993,
+    "end": 37.346,
+    "beat": 5
+  },
+  {
+    "word": "Không",
+    "start": 37.346,
+    "end": 37.732,
+    "beat": 6
+  },
+  {
+    "word": "chỉ",
+    "start": 37.732,
+    "end": 38.117,
+    "beat": 6
+  },
+  {
+    "word": "design",
+    "start": 38.117,
+    "end": 38.503,
+    "beat": 6
+  },
+  {
+    "word": "→",
+    "start": 38.503,
+    "end": 38.888,
+    "beat": 6
+  },
+  {
+    "word": "code.",
+    "start": 38.888,
+    "end": 39.274,
+    "beat": 6
+  },
+  {
+    "word": "Còn",
+    "start": 39.274,
+    "end": 39.659,
+    "beat": 6
+  },
+  {
+    "word": "code",
+    "start": 39.659,
+    "end": 40.044,
+    "beat": 6
+  },
+  {
+    "word": "→",
+    "start": 40.044,
+    "end": 40.43,
+    "beat": 6
+  },
+  {
+    "word": "design",
+    "start": 40.43,
+    "end": 40.815,
+    "beat": 6
+  },
+  {
+    "word": "·",
+    "start": 40.815,
+    "end": 41.201,
+    "beat": 6
+  },
+  {
+    "word": "design",
+    "start": 41.201,
+    "end": 41.586,
+    "beat": 6
+  },
+  {
+    "word": "→",
+    "start": 41.586,
+    "end": 41.971,
+    "beat": 6
+  },
+  {
+    "word": "docs",
+    "start": 41.971,
+    "end": 42.357,
+    "beat": 6
+  },
+  {
+    "word": "·",
+    "start": 42.357,
+    "end": 42.742,
+    "beat": 6
+  },
+  {
+    "word": "docs",
+    "start": 42.742,
+    "end": 43.128,
+    "beat": 6
+  },
+  {
+    "word": "→",
+    "start": 43.128,
+    "end": 43.513,
+    "beat": 6
+  },
+  {
+    "word": "component",
+    "start": 43.513,
+    "end": 43.899,
+    "beat": 6
+  },
+  {
+    "word": "system.",
+    "start": 43.899,
+    "end": 44.284,
+    "beat": 6
+  },
+  {
+    "word": "4",
+    "start": 44.284,
+    "end": 44.669,
+    "beat": 6
+  },
+  {
+    "word": "chiều.",
+    "start": 44.669,
+    "end": 45.055,
+    "beat": 6
+  },
+  {
+    "word": "1",
+    "start": 45.055,
+    "end": 45.44,
+    "beat": 6
+  },
+  {
+    "word": "MCP",
+    "start": 45.44,
+    "end": 45.826,
+    "beat": 6
+  },
+  {
+    "word": "server.",
+    "start": 45.826,
+    "end": 46.211,
+    "beat": 6
+  },
+  {
+    "word": "Self-host",
+    "start": 46.211,
+    "end": 46.564,
+    "beat": 7
+  },
+  {
+    "word": "VPS",
+    "start": 46.564,
+    "end": 46.916,
+    "beat": 7
+  },
+  {
+    "word": "$5/tháng",
+    "start": 46.916,
+    "end": 47.269,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 47.269,
+    "end": 47.621,
+    "beat": 7
+  },
+  {
+    "word": "∞",
+    "start": 47.621,
+    "end": 47.974,
+    "beat": 7
+  },
+  {
+    "word": "user",
+    "start": 47.974,
+    "end": 48.327,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 48.327,
+    "end": 48.679,
+    "beat": 7
+  },
+  {
+    "word": "∞",
+    "start": 48.679,
+    "end": 49.032,
+    "beat": 7
+  },
+  {
+    "word": "dev",
+    "start": 49.032,
+    "end": 49.384,
+    "beat": 7
+  },
+  {
+    "word": "seat",
+    "start": 49.384,
+    "end": 49.737,
+    "beat": 7
+  },
+  {
+    "word": "·",
+    "start": 49.737,
+    "end": 50.09,
+    "beat": 7
+  },
+  {
+    "word": "AI",
+    "start": 50.09,
+    "end": 50.442,
+    "beat": 7
+  },
+  {
+    "word": "nào",
+    "start": 50.442,
+    "end": 50.795,
+    "beat": 7
+  },
+  {
+    "word": "cũng",
+    "start": 50.795,
+    "end": 51.147,
+    "beat": 7
+  },
+  {
+    "word": "cắm.",
+    "start": 51.147,
+    "end": 51.5,
+    "beat": 7
+  },
+  {
+    "word": "Đây",
+    "start": 51.5,
+    "end": 51.853,
+    "beat": 7
+  },
+  {
+    "word": "là",
+    "start": 51.853,
+    "end": 52.205,
+    "beat": 7
+  },
+  {
+    "word": "cách",
+    "start": 52.205,
+    "end": 52.558,
+    "beat": 7
+  },
+  {
+    "word": "design",
+    "start": 52.558,
+    "end": 52.91,
+    "beat": 7
+  },
+  {
+    "word": "+",
+    "start": 52.91,
+    "end": 53.263,
+    "beat": 7
+  },
+  {
+    "word": "code",
+    "start": 53.263,
+    "end": 53.616,
+    "beat": 7
+  },
+  {
+    "word": "2026",
+    "start": 53.616,
+    "end": 53.968,
+    "beat": 7
+  },
+  {
+    "word": "nên",
+    "start": 53.968,
+    "end": 54.321,
+    "beat": 7
+  },
+  {
+    "word": "hoạt",
+    "start": 54.321,
+    "end": 54.673,
+    "beat": 7
+  },
+  {
+    "word": "động.",
+    "start": 54.673,
+    "end": 55.026,
+    "beat": 7
+  },
+  {
+    "word": "Link",
+    "start": 55.026,
+    "end": 55.359,
+    "beat": 8
+  },
+  {
+    "word": "Penpot",
+    "start": 55.359,
+    "end": 55.693,
+    "beat": 8
+  },
+  {
+    "word": "↓",
+    "start": 55.693,
+    "end": 56.026,
+    "beat": 8
+  },
+  {
+    "word": "mô",
+    "start": 56.026,
+    "end": 56.359,
+    "beat": 8
+  },
+  {
+    "word": "tả.",
+    "start": 56.359,
+    "end": 56.692,
+    "beat": 8
+  },
+  {
+    "word": "Cài",
+    "start": 56.692,
+    "end": 57.026,
+    "beat": 8
+  },
+  {
+    "word": "1",
+    "start": 57.026,
+    "end": 57.359,
+    "beat": 8
+  },
+  {
+    "word": "lệnh.",
+    "start": 57.359,
+    "end": 57.692,
+    "beat": 8
+  },
+  {
+    "word": "FREE",
+    "start": 57.692,
+    "end": 58.025,
+    "beat": 8
+  },
+  {
+    "word": "vĩnh",
+    "start": 58.025,
+    "end": 58.359,
+    "beat": 8
+  },
+  {
+    "word": "viễn.",
+    "start": 58.359,
+    "end": 58.692,
+    "beat": 8
+  },
+  {
+    "word": "Theo",
+    "start": 58.692,
+    "end": 59.025,
+    "beat": 8
+  },
+  {
+    "word": "dõi",
+    "start": 59.025,
+    "end": 59.358,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 59.358,
+    "end": 59.692,
+    "beat": 8
+  },
+  {
+    "word": "mỗi",
+    "start": 59.692,
+    "end": 60.025,
+    "beat": 8
+  },
+  {
+    "word": "tuần",
+    "start": 60.025,
+    "end": 60.358,
+    "beat": 8
+  },
+  {
+    "word": "1",
+    "start": 60.358,
+    "end": 60.691,
+    "beat": 8
+  },
+  {
+    "word": "tool",
+    "start": 60.691,
+    "end": 61.025,
+    "beat": 8
+  },
+  {
+    "word": "open",
+    "start": 61.025,
+    "end": 61.358,
+    "beat": 8
+  },
+  {
+    "word": "source",
+    "start": 61.358,
+    "end": 61.691,
+    "beat": 8
+  },
+  {
+    "word": "ngon.",
+    "start": 61.691,
+    "end": 62.024,
+    "beat": 8
+  }
+]

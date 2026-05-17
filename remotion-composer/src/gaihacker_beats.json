@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 4.917
+    },
+    {
+      "index": 2,
+      "name": "CONTEXT",
+      "start": 4.917,
+      "duration": 7.061
+    },
+    {
+      "index": 3,
+      "name": "WHAT",
+      "start": 11.978,
+      "duration": 7.509
+    },
+    {
+      "index": 4,
+      "name": "EXPLOIT",
+      "start": 19.487,
+      "duration": 6.933
+    },
+    {
+      "index": 5,
+      "name": "SCALE",
+      "start": 26.42,
+      "duration": 6.069
+    },
+    {
+      "index": 6,
+      "name": "WHO",
+      "start": 32.489,
+      "duration": 7.723
+    },
+    {
+      "index": 7,
+      "name": "INSIGHT",
+      "start": 40.212,
+      "duration": 6.4
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 46.612,
+      "duration": 2.325
+    }
+  ],
+  "total_duration": 48.937
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HOOK",
+    "start_word_idx": 0,
+    "start": 0.0,
+    "end": 15.3
+  },
+  {
+    "name": "SETUP",
+    "start_word_idx": 44,
+    "start": 15.3,
+    "end": 41.14
+  },
+  {
+    "name": "MIRROR",
+    "start_word_idx": 131,
+    "start": 41.14,
+    "end": 69.62
+  },
+  {
+    "name": "TRAP",
+    "start_word_idx": 195,
+    "start": 69.62,
+    "end": 102.96
+  },
+  {
+    "name": "WEIGHT",
+    "start_word_idx": 279,
+    "start": 102.96,
+    "end": 141.26
+  },
+  {
+    "name": "TURN",
+    "start_word_idx": 369,
+    "start": 141.26,
+    "end": 162.66
+  },
+  {
+    "name": "INSIGHT",
+    "start_word_idx": 432,
+    "start": 162.66,
+    "end": 175.16
+  },
+  {
+    "name": "LANDING",
+    "start_word_idx": 469,
+    "start": 175.16,
+    "end": 192.52
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 4.504
+    },
+    {
+      "index": 2,
+      "name": "CONTEXT",
+      "start": 4.504,
+      "duration": 7.827
+    },
+    {
+      "index": 3,
+      "name": "ANALOGY",
+      "start": 12.331,
+      "duration": 6.549
+    },
+    {
+      "index": 4,
+      "name": "PAIN",
+      "start": 18.88,
+      "duration": 7.971
+    },
+    {
+      "index": 5,
+      "name": "SOLUTION",
+      "start": 26.851,
+      "duration": 8.03
+    },
+    {
+      "index": 6,
+      "name": "MINDSET",
+      "start": 34.881,
+      "duration": 7.689
+    },
+    {
+      "index": 7,
+      "name": "SETUP_OPTIONS",
+      "start": 42.569,
+      "duration": 3.917
+    },
+    {
+      "index": 8,
+      "name": "THREE_OPTIONS",
+      "start": 46.486,
+      "duration": 9.678
+    },
+    {
+      "index": 9,
+      "name": "INSIGHT",
+      "start": 56.164,
+      "duration": 8.339
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 64.503,
+      "duration": 5.762
+    }
+  ],
+  "total_duration": 70.264
+}

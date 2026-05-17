@@ -1,0 +1,1846 @@
+Higher usage limits for Claude and a compute deal with SpaceX
+  URL: https://www.anthropic.com/news/higher-limits-spacex
+  This gives us access to more than 300 megawatts of new capacity (over 220,000 NVIDIA GPUs) within the month. This additional capacity will ...
+
+  --- Content ---
+  Announcements
+  
+  # Higher usage limits for Claude and a compute deal with SpaceX
+  
+  May 6, 2026
+  
+  ![Higher usage limits for Claude and a compute deal with SpaceX](https://www-cdn.anthropic.com/images/4zrzovbb/website/5f455d24ea80569b34eb4347f06152d8a5508722-1000x1000.svg)
+  
+  We’ve agreed to a partnership with SpaceX that will substantially increase our compute capacity. This, along with our other recent compute deals, means that we’ve been able to increase our usage limits for Claude Code and the Claude API.
+  
+  Below, we describe these changes and the progress we’re making on compute.
+  
+  ## Higher usage limits
+  
+  The following three changes—all effective today—are aimed at improving the experience of using Claude for our most dedicated customers.
+  
+  First, we’re **doubling Claude Code’s five-hour rate limits** for Pro, Max, Team, and seat-based Enterprise plans.
+  
+  Second, we’re **removing the peak hours limit reduction on Claude Code** for Pro and Max accounts.
+  
+  Third, we’re **raising our [API rate limits](https://platform.claude.com/docs/en/api/rate-limits) considerably for Claude Opus models**, as shown in the table below:
+  
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fd8f4f661bde0f11088d087dcda98916becad077f-1920x801.png&w=3840&q=75)_Our updated API rate limits for Claude Opus models._
+  
+  ## New compute partnership with SpaceX
+  
+  We’ve signed an agreement with SpaceX to use all of the compute capacity at their Colossus 1 data center. This gives us access to more than 300 megawatts of new capacity (over 220,000 NVIDIA GPUs) within the month. This additional capacity will directly improve capacity for Claude Pro and Claude Max subscribers.
+  
+  This joins our other significant compute announcements:
+  
+  - [An up to 5 gigawatt (GW) agreement with Amazon](https://urldefense.us/v3/__https:/www.anthropic.com/news/anthropic-amazon-compute__;!!Fqb0NABsjhF0Kh8I!f3EziG8q3wGsRgicn_ZGbvtLp5ZdopVN_KTE1QXfiqHcZ0l9w_sq_kpBwgsm-IHRGC18VQ89pRZ3BOVEnw$), which includes nearly 1 GW of new capacity by the end of 2026;
+  - [A 5 GW agreement with Google](https://urldefense.us/v3/__https:/www.anthropic.com/news/google-broadcom-partnership-compute__;!!Fqb0NABsjhF0Kh8I!f3EziG8q3wGsRgicn_ZGbvtLp5ZdopVN_KTE1QXfiqHcZ0l9w_sq_kpBwgsm-IHRGC18VQ89pRZtorfLOg$) and Broadcom, which will begin coming online in 2027;
+  - A [strategic partnership](https://urldefense.us/v3/__https:/www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships__;!!Fqb0NABsjhF0Kh8I!f3EziG8q3wGsRgicn_ZGbvtLp5ZdopVN_KTE1QXfiqHcZ0l9w_sq_kpBwgsm-IHRGC18VQ89pRaViUpCKQ$) with Microsoft and NVIDIA that includes $30 billion of Azure capacity;
+  - Our [$50 billion investment](https://urldefense.us/v3/__https:/www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure__;!!Fqb0NABsjhF0Kh8I!f3EziG8q3wGsRgicn_ZGbvtLp5ZdopVN_KTE1QXfiqHcZ0l9w_sq_kpBwgsm-IHRGC18VQ89pRYa_xNtww$) in American AI infrastructure with Fluidstack.
+  
+  We train and run Claude on a range of AI hardware—AWS Trainium, Google TPUs, and NVIDIA GPUs—and continue to explore opportunities to bring additional capacity online.
+  
+  As part of this agreement, we have also expressed interest in partnering with SpaceX to develop multiple gigawatts of orbital AI compute capacity.
+  
+  ## Expanding internationally
+  
+  Our enterprise customers—particularly those in regulated industries like financial services, healthcare, and government—increasingly need in-region infrastructure to meet compliance and data residency requirements. Accordingly, some of our capacity expansion will be international: our recently announced [collaboration with Amazon](https://www.anthropic.com/news/anthropic-amazon-compute) includes additional inference in Asia and Europe.
+  
+  We’re very intentional about where we’ll add capacity—partnering with democratic countries whose legal and regulatory frameworks support investments of this scale, and where the supply chain on which our compute depends—hardware, networking, and facilities—will be secure.
+  
+  Finally, we recently made a [commitment](https://www.anthropic.com/news/covering-electricity-price-increases) to cover any consumer electricity price increases caused by our data centers in the US. As part of our international expansion, we’re exploring ways to extend that commitment to new jurisdictions, as well as partnering with local leaders to invest back into the communities that host our facilities.
+  
+  [Share on Twitter](https://twitter.com/intent/tweet?text=https://www.anthropic.com/news/higher-limits-spacex)[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.anthropic.com/news/higher-limits-spacex)
+  
+  ## Related content
+  
+  ### Agents for financial services
+  
+  We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.
+  
+  [Read more](https://www.anthropic.com/news/finance-agents)
+  
+  ### Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs
+  
+  [Read more](https://www.anthropic.com/news/enterprise-ai-services-company)
+  
+  ### Claude for Creative Work
+  
+  [Read more](https://www.anthropic.com/news/claude-for-creative-work)
+  
+  Higher usage limits for Claude and a compute deal with SpaceX \ Anthropic
+  --- End Content ---
+
+Claude March 2026 usage promotion | Claude Help Center
+  URL: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion
+  From March 13, 2026 through March 28, 2026, your five-hour usage is doubled during off-peak hours (outside 8 AM-2 PM ET / 5-11 AM PT / 12-6 ...
+
+  --- Content ---
+  [Skip to main content](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#main-content)
+  
+  # Claude March 2026 usage promotion
+  
+  March 16, 2026
+  
+  Table of contents
+  
+  [What is the promotion?](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_1a78d60ac5)[Eligibility](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_8744d5cdb0)[Where does this apply?](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_882bba37af)[Frequently asked questions](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_4402e9c073)[Terms and conditions](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_5d2b98d6d5)
+  
+  We're offering a limited-time promotion that doubles usage limits for Claude users outside 8 AM-2 PM ET / 5-11 AM PT / 12-6 PM GMT on weekdays.
+  
+  This promotion is available for Free, Pro, Max, and Team plans. Enterprise plans are not included in this promotion.
+  
+  ## What is the promotion?
+  
+  From March 13, 2026 through March 28, 2026, your five-hour usage is doubled during off-peak hours (outside 8 AM-2 PM ET / 5-11 AM PT / 12-6 PM GMT) on weekdays). Usage remains unchanged from 8 AM-2 PM ET / 5-11 AM PT / 12-6 PM GMT on weekdays.
+  
+  ## Eligibility
+  
+  No action is required to participate. If you’re on an eligible plan, the doubled usage is automatically applied.
+  
+  ## Where does this apply?
+  
+  The 2x usage increase applies across the following Claude surfaces:
+  
+  - Claude (web, desktop, and mobile)
+  
+  - Cowork
+  
+  - Claude Code
+  
+  - Claude for Excel
+  
+  - Claude for PowerPoint
+  
+  
+  ## Frequently asked questions
+  
+  ### Do I need to do anything to get the extra usage?
+  
+  No. The promotion applies automatically. You’ll see higher limits reflected in your usage outside 8 AM-2 PM ET / 5-11 AM PT / 12-6 PM GMT on weekdays without any changes to your account settings.
+  
+  ### Does bonus usage count against my weekly usage limit?
+  
+  No. The additional usage you get during off-peak hours doesn’t count toward any weekly usage limits on your plan.
+  
+  ### What happens when the promotion ends?
+  
+  After March 28, 2026, usage limits return to their standard levels at all hours. There’s no change to your plan or billing.
+  
+  ## Terms and conditions
+  
+  This offer is valid from March 13, 2026 through March 28, 2026 at 11:59 PM PT. It applies to Free, Pro, Max, and Team plans only and excludes Enterprise plans. This offer has no cash value and is not transferable. It may not be combined with other offers.
+  
+  * * *
+  
+  Related Articles
+  
+  [Claude Code usage analytics](https://support.claude.com/en/articles/12157520-claude-code-usage-analytics) [Manage extra usage for paid Claude plans](https://support.claude.com/en/articles/12429409-manage-extra-usage-for-paid-claude-plans) [Holiday 2025 Usage Promotion](https://support.claude.com/en/articles/13163666-holiday-2025-usage-promotion) [Claude Design subscription usage and pricing](https://support.claude.com/en/articles/14667344-claude-design-subscription-usage-and-pricing) [Use analytics chat to ask Claude about usage](https://support.claude.com/en/articles/14729354-use-analytics-chat-to-ask-claude-about-usage)
+  
+  Did this answer your question?
+  
+  😞😐😃
+  
+  Table of contents
+  
+  [What is the promotion?](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_1a78d60ac5)[Eligibility](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_8744d5cdb0)[Where does this apply?](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_882bba37af)[Frequently asked questions](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_4402e9c073)[Terms and conditions](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion#h_5d2b98d6d5)
+  --- End Content ---
+
+Claude AI Usage Limits: What Changed in 2026 - J.D. Hodges
+  URL: https://www.jdhodges.com/blog/claude-ai-usage-limits/
+  Claude usage limits feel worse in March 2026. Why limits are tighter, what burns quota fastest, and specific tips to make your Claude ...
+
+  --- Content ---
+  ### Menu
+  
+  # Claude AI Usage Limits: What Changed and How to Make Them Last
+  
+  [Thursday, 2026.03.26](https://www.jdhodges.com/blog/claude-ai-usage-limits/ "3:18 PM")[J.D. H.](https://www.jdhodges.com/author/admin/ "View all posts by J.D. H.")[4 comments](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comments)
+  
+  **TL;DR:** Claude’s usage limits feel tighter in March 2026 because they are. The short version: Anthropic has more demand than GPU capacity right now. Millions of new users arrived as word got around about how good Claude is and especially after the OpenAI Pentagon boycott, the off-peak 2x promotion ends March 28, and [multiple Max subscribers report](https://github.com/anthropics/claude-code/issues/38335) usage meters jumping from under 50% to 100% on single prompts. **Below: what the limits actually are, why they’re worse right now, and [specific ways to stretch your quota](https://www.jdhodges.com/blog/claude-ai-usage-limits/#make-claude-last-longer).**
+  
+  [**Short on patience? Skip straight to the fixes.**](https://www.jdhodges.com/blog/claude-ai-usage-limits/#make-claude-last-longer)
+  
+  📢 Update, March 26, 2026
+  
+  Hours after this post went up, Anthropic [officially confirmed](https://www.reddit.com/r/Anthropic/comments/1s4iefu/update_on_session_limits/) that session limits are now tighter during peak hours by design. Here’s what they said, in plain English:
+  
+  - **Your weekly total is unchanged.** You’re not getting less Claude overall.
+  - **Weekday peak hours now cost more.** During 5am to 11am PT (7am to 1pm CT / 8am to 2pm ET), your 5-hour session burns faster than before. The same task at 10am Tuesday may hit your limit sooner than it would at 9pm.
+  - **About 7% of users will notice.** Anthropic says Pro subscribers are most affected.
+  - **Off-peak usage is now your friend.** If you run heavy tasks, shifting them to evenings or weekends stretches your limits further.
+  
+  People were not imagining it. The daytime squeeze is real, and now it’s official policy.
+  
+  ![Anthropic official Reddit announcement titled Update on Session Limits, posted by ClaudeOfficial verified Anthropic Representative, confirming tighter 5-hour session limits during weekday peak hours](https://www.jdhodges.com/wp-content/uploads/2026/03/anthropic-session-limits-reddit-update.jpg)Anthropic’s official announcement on r/Anthropic, March 26, 2026. The timing of the admission validates what users had been reporting for days.
+  
+  ## One Question, Zero Answers
+  
+  My wife is not a developer. She uses Claude the way most people do: ask a question, get an answer or research more, move on. Usually this works quite well and she gets a LOT of good work/tasks done with Claude as an assistant. So when she asked Claude a few questions about used Blazer EVs and immediately hit her session limit, something did not seem right! ![Claude AI showing You've hit your session limit, Resets at 1:00 PM banner after a single question about used Blazer EV listings](https://www.jdhodges.com/wp-content/uploads/2026/03/claude-session-limit-banner.jpg)One question. One limit. One unhappy user. She then messaged me to ask if she was crazy or if Claude was letting her do much LESS than before. She’s not wrong. The limits are super low for some people right now. We message a bit and this is the conclusion she came to:
+  
+  ![Text message reading: At this point, as long as it doesn't get worse, I can just be smarter about my questions... but really silly](https://www.jdhodges.com/wp-content/uploads/2026/03/claude-usage-limit-wife-text.jpg)“Really silly” is the polite version.
+  
+  But “be smarter about your questions” shouldn’t be the answer when you’re paying for a subscription. And yet here we are.
+  
+  ## What Are Claude’s Usage Limits?
+  
+  Anthropic’s [help center](https://support.claude.com/en/articles/11647753-how-do-usage-and-length-limits-work) breaks it down into two types: **Usage limits** cap how many messages you can send within a rolling window (roughly 5 hours). When you hit the cap, you’re locked out until the window resets. The exact number of messages varies by model, conversation length, and how many tools Claude uses per response. **Length limits** cap how long a single conversation can get. Long threads cost more because Claude reprocesses the entire conversation history with every message. A 100-message thread is dramatically more expensive per response than a fresh chat. The limits scale by plan:
+  
+  | Plan | Price | Usage |
+  | --- | --- | --- |
+  | **Free** | $0 | Limited messages, tighter during peak hours |
+  | **Pro** | $20/mo | ~5x free tier |
+  | **Max 5x** | $100/mo | 5x Pro limits |
+  | **Max 20x** | $200/mo | 20x Pro limits |
+  
+  One detail most people miss: usage counts across all surfaces. Messages on claude.ai, Claude Code, and Claude Desktop all draw from the same pool. If you burned through tokens debugging code in Claude Code this morning, your wife’s Blazer EV question this afternoon is competing for what’s left.
+  
+  ## Why Limits Feel Worse Right Now
+  
+  As of March 26, Anthropic has confirmed that tighter daytime limits are deliberate. But the full picture involves several overlapping factors, and they all point to the same root cause: demand outran available GPU capacity.
+  
+  **Millions of new users arrived.** After OpenAI signed a [Pentagon contract in late February](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/), ChatGPT uninstalls spiked 295% in a single day. The QuitGPT movement claimed 2.5 million participants. Claude hit #1 on the US App Store for the first time, surpassing ChatGPT in daily downloads. Anthropic’s web traffic jumped over 30% month-over-month.
+  
+  That’s a massive influx of new users hitting the same GPU infrastructure. Anthropic’s [annualized revenue surged to $19 billion](https://finance.yahoo.com/news/anthropic-arr-surges-19-billion-151028403.html) by March 2026, but inference costs scale with every user, every message, every long conversation. Flat monthly subscriptions were already strained before the wave hit.
+  
+  Here’s the thing people keep missing: this isn’t Anthropic being stingy. You can sign up 100,000 new subscribers overnight. You cannot add 100,000 GPUs worth of inference capacity overnight. When demand jumps faster than compute supply, the gap has to show up somewhere: slower responses, lower quality, or tighter limits. Anthropic chose tighter limits. That’s arguably the least bad option.
+  
+  **The off-peak promotion is ending.** Anthropic ran a [promotion through March 28](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion) doubling usage limits during off-peak hours. If things felt tight with double limits, they will feel tighter without them.
+  
+  **Something may also be broken.** Since March 23, [Max subscribers report](https://piunikaweb.com/2026/03/24/claude-max-subscribers-left-frustrated-after-usage-limits-drained-rapidly-with-no-clear-explanation/) usage meters jumping from 52% to 91% on single prompts. One Max 20x user ($200/month) watched their meter hit 100% after roughly 90 minutes of normal work. This isn’t the first time: less than a month ago, Anthropic reset Claude Code rate limits after a [prompt caching bug](https://github.com/anthropics/claude-code/issues/38335) caused similar drain. The official announcement explains the deliberate peak-hour tightening, but it doesn’t fully account for the sudden single-prompt meter jumps some users are reporting. Those may be a separate issue.
+  
+  ## The Bigger Picture: Why Both Companies Are Making Opposite Moves
+  
+  While Anthropic is tightening limits under user load, OpenAI is loosening them. That’s not because one company cares more about users than the other. They’re operating under different capacity constraints.
+  
+  OpenAI is hemorrhaging users and trying to win them back. Their response has been aggressive: [GPT-5.4 launched March 5](https://www.trendingtopics.eu/gpt-5-4-targets-anthropics-claude-with-premium-pricing-and-coding-muscle/) with native computer-use capabilities, explicitly targeting Claude Code and Claude’s professional user base. They [shut down Sora on March 24](https://www.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down) after the video app burned an estimated $15 million per day in compute against just $2.1 million in lifetime revenue. That freed-up infrastructure isn’t sitting idle. OpenAI is reallocating those GPU resources toward the professional workflows where Claude has been eating their lunch.
+  
+  This is a supply-and-demand story, not a morality play. OpenAI has compute it can reallocate. Anthropic has demand outrunning available GPU supply. If you’re the subscriber hitting the wall, that context doesn’t make the experience less frustrating. But it better explains why the product behaves this way right now, and why it’s likely temporary as Anthropic scales infrastructure to match.
+  
+  ## What Burns Through Your Quota Fastest
+  
+  Not all messages cost the same. Understanding what’s expensive helps you budget. **Long conversations.** This is the biggest one. Every message in a thread gets reprocessed as context. Message #50 in a conversation costs dramatically more than message #1. A 100-message thread can burn through your quota several times faster than the same questions asked in fresh chats. **Tool use.** Web search, code execution, file analysis, and connected services (Gmail, Google Drive, MCP servers) all consume additional tokens. Claude’s tool calls happen behind the scenes, and a single “search the web for X” can involve multiple searches, page reads, and summarization steps you never see. **Attached files and images.** Every file or image you upload gets processed as part of the conversation context. Large PDFs or multiple screenshots add up fast. **Opus-tier models.** More capable models cost more per message. If you’re using Claude Opus for a task that Sonnet could handle, you’re paying a premium in quota.
+  
+  ## How to Make Claude Last Longer
+  
+  If you only change two habits, do these first: start new chats more often and put your full request in the first message.
+  
+  ### For Everyone
+  
+  - 🆕 **Start a new chat when you switch topics.** This is the single highest-impact change you can make. Long threads get more expensive with every turn. Each topic switch is a chance to reset the context cost to zero.
+  
+  _⭐Likewise, if you come to a natural transition from one phase of a project or research conversation, craft a [handover prompt](https://www.jdhodges.com/blog/ai-session-handoffs-keep-context-across-conversations/) and start fresh on the next phase in a NEW conversation._
+  - 📦 **Front-load your context.** Instead of five messages building up to your actual question, put it all in one. One dense prompt is almost always cheaper than five setup messages.
+  - 📁 **Use Projects for recurring work.** [Project instructions](https://www.jdhodges.com/blog/claude-project-instructions-examples/) get cached on Anthropic’s side, saving you from re-uploading the same context every session. I wrote a full guide on [setting up Claude project instructions](https://www.jdhodges.com/blog/claude-project-instructions-examples/) if you want to get this right.
+  - 🧰 **Turn off tools you’re not using.** Web search, code execution, and connectors add token overhead just by being available. Disable them in Settings when you don’t need them.
+  - 🔀 **Use multiple AI models.** Keep ChatGPT, Gemini, or a local model available for lighter tasks and second opinions. Getting a second opinion from a different AI often catches blind spots anyway.
+  - 💳 **Enable extra usage if lockouts cost you more than overages.** Anthropic’s [pay-as-you-go overflow](https://support.claude.com/en/articles/12429409-manage-extra-usage-for-paid-claude-plans) lets you set a spending cap so it doesn’t run away. If hitting the wall mid-task costs you more in lost productivity than a few dollars, this is worth turning on.
+  
+  Here’s a prompt structure that front-loads everything Claude needs in a single message:
+  
+  ```
+  I need help with [task].
+  
+  Goal: [what success looks like]
+  Context: [background facts Claude needs up front]
+  Constraints: [budget, deadline, preferences, things to avoid]
+  Please return: [exact format you want the answer in]Copy prompt
+  ```
+  
+  ### For Claude Code and Heavy Workflows
+  
+  - 🧹 **Use `/clear` between tasks.** Treat each major task like a fresh session. Accumulated context is the silent quota killer.
+  - 🗺️ **Use plan mode (Shift+Tab) before implementation.** A few seconds of planning is cheaper than trial-and-error tool calls. Let Claude think before it starts writing and executing code.
+  - 📄 **Keep your CLAUDE.md lean.** Your [project instructions](https://www.jdhodges.com/blog/claude-ai-custom-instructions-a-real-example-that-actually-works/) load into every conversation. Stale rules become a recurring token tax on every single message.
+  - 🚫 **Use `.claudeignore`.** Exclude build artifacts, lock files, `node_modules`, and anything else Claude doesn’t need to scan. Treat your context window like RAM: load only what you need right now.
+  - ⚙️ **Use the API for production workloads.** The [Anthropic API](https://docs.anthropic.com/en/docs/about-claude/models) offers pay-per-token pricing with no arbitrary session windows. For client work or heavy automated workflows, the math often favors the API over a Max subscription.
+  
+  When starting a new Claude Code task after clearing context:
+  
+  ```
+  /clear
+  
+  New task:
+  Goal: [what you're building or fixing]
+  Files to inspect first: [specific paths]
+  Constraints: [tests that must pass, style rules, deadline]
+  Output: [what you want back - code, PR, analysis]Copy prompt
+  ```
+  
+  **Tip**
+  
+  If Claude Code is core to your daily work, you probably want to optimize your performance and workflow. My [Best Computer for Claude Code in 2026](https://www.jdhodges.com/blog/the-ultimate-claude-code-workstation/) covers specific picks for laptops, desktops, and peripherals, updated with each new release cycle. A few of the top choices might surprise you.
+  
+  ## Should You Upgrade to Max?
+  
+  Maybe. But go in with realistic expectations. Max 5x ($100/month) makes sense if you’re hitting Pro limits daily and the interruptions are costing you real productivity. Max 20x ($200/month) is for people running Claude Code all day or doing heavy professional workflows.
+  
+  But even Max 20x subscribers are reporting issues right now. And Anthropic’s announcement confirms that the peak-hour tightening applies to Free, Pro, and Max alike. Upgrading buys you more room, not immunity. If you’re considering the upgrade, I’d wait until after the March 28 promotion ends to see what the baseline experience looks like without the 2x buffer.
+  
+  **Personal note:** I’m on a higher-tier plan and use Claude heavily every day, including Claude Code for development work. My own experience has been noticeably better than a lot of what’s being reported online. I don’t know whether Anthropic quietly prioritizes longer-tenured accounts, higher-tier subscribers, certain usage patterns, or something else entirely. That’s speculation, not a claim. But the gap between my experience and the public complaints is real enough that I wanted to flag it. I’ll update this post after March 28 when the promotion ends and we can see baseline limits more clearly.
+  
+  For many power users, the better move might be a Pro subscription for interactive work plus API access for heavy lifting. That way you’re not dependent on a single plan’s session caps for everything.
+  
+  ## Where This Is Heading
+  
+  The industry is clearly moving toward consumption-based pricing. Anthropic already offers extra usage as an overflow mechanism. OpenAI has been experimenting with similar models. I’d rather pay for what I use than guess at opaque session limits that can apparently drain in 90 minutes on a $200/month plan. In the meantime, we’re in the awkward transition where pricing doesn’t match the product promise. “Unlimited” was never really unlimited. “5x usage” doesn’t mean 5x as much work when different tasks consume wildly different amounts of quota.
+  
+  Credit where it’s due: Anthropic’s Reddit announcement is a step in the right direction. For most of March, users were guessing about what was happening with limits. Now there are specific numbers (7% of users affected), specific windows (5am to 11am PT weekdays), and a direct acknowledgment that it’s frustrating. That’s more transparency than we usually get from AI companies on infrastructure pain.
+  
+  Anthropic is building what I believe is the best conversational AI on the market. My wife picked it up with zero coaching and immediately found it useful. That’s a genuine product win. But getting cut off after one question about used cars doesn’t feel like a billing policy. It feels like the tool quit on you.
+  
+  For now, being strategic about your AI usage isn’t optional. It’s the cost of using the best tools available while the business model catches up to the product. As my wife put it: silly, but manageable. As long as it doesn’t get worse.
+  
+  ## Sources and Further Reading
+  
+  - [How Do Usage and Length Limits Work?](https://support.claude.com/en/articles/11647753-how-do-usage-and-length-limits-work) – Anthropic Help Center
+  - [Usage Limit Best Practices](https://support.claude.com/en/articles/9797557-usage-limit-best-practices) – Anthropic Help Center
+  - [Claude March 2026 Usage Promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion) – Anthropic Help Center
+  - [Manage Extra Usage for Paid Plans](https://support.claude.com/en/articles/12429409-manage-extra-usage-for-paid-claude-plans) – Anthropic Help Center
+  - [Update on Session Limits](https://www.reddit.com/r/Anthropic/comments/1s4iefu/update_on_session_limits/) – Anthropic Official (r/Anthropic, March 26, 2026)
+  - [ChatGPT Uninstalls Surged 295% After DoD Deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/) – TechCrunch
+  - [Claude Max Subscribers Left Frustrated After Usage Limits Drained Rapidly](https://piunikaweb.com/2026/03/24/claude-max-subscribers-left-frustrated-after-usage-limits-drained-rapidly-with-no-clear-explanation/) – PiunikaWeb
+  - [OpenAI Is Shutting Down Its Sora Video App](https://www.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down) – CNN
+  - [GPT-5.4 Targets Anthropic’s Claude](https://www.trendingtopics.eu/gpt-5-4-targets-anthropics-claude-with-premium-pricing-and-coding-muscle/) – TrendingTopics
+  
+  * * *
+  
+  _Information in this post was accurate at the time of writing (March 2026). AI pricing and limits change frequently. If something here doesn’t match what you’re seeing, drop a comment and I’ll update the post._
+  
+  Related
+  
+  1. [MS Windows 10 Pro Upgrade refund \[SOLVED\]](https://www.jdhodges.com/blog/ms-windows-10-pro-upgrade-refund-solved/ "MS Windows 10 Pro Upgrade refund [SOLVED]")
+  2. [Best Computer for Claude Code in 2026](https://www.jdhodges.com/blog/the-ultimate-claude-code-workstation/ "Best Computer for Claude Code in 2026")
+  3. [Claude AI Custom Instructions: A Real Example That Actually Works](https://www.jdhodges.com/blog/claude-ai-custom-instructions-a-real-example-that-actually-works/ "Claude AI Custom Instructions: A Real Example That Actually Works")
+  4. [Every Apple CPU Compared: M1 Through M5 Max (All Variants)](https://www.jdhodges.com/blog/apple-cpu-compared-m1-m3-m3-m4-m5-max/ "Every Apple CPU Compared: M1 Through M5 Max (All Variants)")
+  
+  ### What are you stuck on?
+  
+  Stuck on something with Claude, Claude Code, or an AI workflow? Send the question. I'll try to answer in a future post and link it here.
+  
+  Your question
+  
+  Name (optional)
+  
+  Website
+  
+  Send
+  
+  Got it. Thanks.
+  
+  Your question is in my inbox. If I can help, you'll see the answer on this site.
+  
+  [AI](https://www.jdhodges.com/category/ask-jd/ai/)[ai](https://www.jdhodges.com/tag/ai/), [anthropic](https://www.jdhodges.com/tag/anthropic/), [claude](https://www.jdhodges.com/tag/claude/), [claude code](https://www.jdhodges.com/tag/claude-code/), [openai](https://www.jdhodges.com/tag/openai/), [usage-limits](https://www.jdhodges.com/tag/usage-limits/)
+  
+  ### 4 comments
+  
+  - Jim E
+  
+  
+  
+  [Monday, 2026.03.30 at 6:45 AM](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-959265)
+  
+  
+  
+  
+  
+  All of the links to your Claude project instructions are dead.
+  
+  
+  
+  
+  
+  [Reply](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-959265)
+  
+  
+    - [JD Hodges](https://www.jdhodges.com/)
+  
+  
+  
+      [Monday, 2026.03.30 at 8:43 AM](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-959285)
+  
+  
+  
+  
+  
+      Thanks for the heads up, Jim! You were right, the internal links were broken (missing a path prefix). Sorry about that! They’re all fixed now. I appreciate you taking the time to let me know.
+  
+  
+  
+  
+  
+      [Reply](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-959285)
+  - Asha
+  
+  
+  
+  [Wednesday, 2026.04.08 at 11:42 AM](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-961708)
+  
+  
+  
+  
+  
+  Helpful, clear and informative article. You were cited by Claude when I asked what was going on with my usage. Thanks 🙂
+  
+  
+  
+  
+  
+  [Reply](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-961708)
+  
+  
+    - [J.D. H.](http://www.jdhodges.com/)
+  
+  
+  
+      [Wednesday, 2026.04.08 at 12:16 PM](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-961712)
+  
+  
+  
+  
+  
+      Thanks so much Asha! I’m really glad the article was helpful and clear, that’s exactly what I’m going for 🙏.
+  
+  
+  
+      That’s also really cool that Claude cited it when you asked about your usage, I guess that means I’m on the right track. 😉 I appreciate you taking the time to let me know, thanks again and have a great day!!
+  
+  
+      -J.D.
+  
+  
+  
+  
+  
+      [Reply](https://www.jdhodges.com/blog/claude-ai-usage-limits/#comment-961712)
+  
+  ### Leave a Reply [Cancel reply](https://www.jdhodges.com/blog/claude-ai-usage-limits/\#respond)
+  
+  Your email address will not be published.Required fields are marked \*
+  
+  Comment \*
+  
+  Name
+  
+  Email
+  
+  Website
+  
+  Save my name, email, and website in this browser for the next time I comment.
+  --- End Content ---
+
+Claude Usage Limits Discussion Megathread Ongoing (sort ... - Reddit
+  URL: https://www.reddit.com/r/ClaudeAI/comments/1s7fcjf/claude_usage_limits_discussion_megathread_ongoing/
+  Updated : April 26, 2026. The problem: Since March-April 2026, Claude usage limits got brutal across all plans. Single prompts eating 50%+ of ...
+
+Claude Just Dropped Its Biggest Upgrade for 2026 - YouTube
+  URL: https://www.youtube.com/watch?v=ULKEyTxRZ5s
+  Want a step-by-step roadmap to $25000/m with AI? Get it here: https://leftclicker.gumroad.com/l/110-steps Today, Jack Roberts ...
+
+  --- Content ---
+  Error 403 (Forbidden)!!1
+  
+  **403.** That’s an error.
+  
+  We're sorry, but you do not have access to this page. That’s all we know.
+  
+  Back
+  
+  
+  [![Meet the fashion designer community](https://www.gstatic.com/youtube/img/promos/a91a670096a1cd63862824bb026a2d6e0f3e947ce0f667fc4d3f779602b46382_122x56.webp)](https://www.youtube.com/ "Meet the fashion designer community")
+  
+  Skip navigation
+  
+  Search
+  
+  
+  Search with your voice
+  
+  [Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DULKEyTxRZ5s&hl=en&ec=65620)
+  
+  Claude Just Dropped the Biggest Upgrade for 2026
+  
+  Tap to unmute
+  
+  2x
+  
+  ## Claude Just Dropped the Biggest Upgrade for 2026
+  
+  Stacked Podcast 8,580 views 2 weeks ago
+  
+  Search
+  
+  Copy link
+  
+  Info
+  
+  Shopping
+  
+  If playback doesn't begin shortly, try restarting your device.
+  
+  •
+  
+  You're signed out
+  
+  Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+  
+  CancelConfirm
+  
+  Up next
+  
+  Live
+  
+  Upcoming
+  
+  CancelPlay Now
+  
+  Share
+  
+  Include playlist
+  
+  An error occurred while retrieving sharing information. Please try again later.
+  
+  0:00
+  
+  [Next (SHIFT+n)](https://www.youtube.com/watch?v=6YhTa-fm1S0 "Next (SHIFT+n)")
+  
+  0:00 / 52:27
+  
+  Live
+  
+  •Watch full video
+  
+  •
+  Did Claude Get Dumber?
+  
+  •
+  
+  [59:24\\
+  GPT-5.5 Just Dropped... Anthropic Is In TroubleStacked Podcast6.7K views • 10 days agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=6YhTa-fm1S0) [13:16\\
+  Scott Galloway GOES OFF on Elon Musk LIVE on CNNMichael Smerconish104K views • 1 day agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=TuqQxMcRP4M) [12:27\\
+  The Vibe Coding Era: Why AI Won’t Replace Software EngineersBloomberg Television164K views • 1 day agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=xYU7zaaRjmE) [1:23:02\\
+  Codex Replaced Claude for Me… Here’s WhyRiley Brown30K views • 1 day agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=FU2iB-UfPPA) [1:20:57\\
+  OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide CrazeAll-In Podcast362K views • 2 days agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=fpC4sbawSzQ) [50:18\\
+  How This Simple Messaging Mistake Is Costing You Thousands \| George LittleModern Founders Podcast25 views • 7 days agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=mvKSp7BFmYE) [35:06\\
+  Claude Just Changed the Stock Market Forever! (Tutorial)Samin Yasar1M views • 4 weeks agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=lH5wrfNwL3k) [29:49\\
+  Andrej Karpathy: From Vibe Coding to Agentic EngineeringSequoia Capital574K views • 4 days agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=96jN2OCOfLs) [1:58:11\\
+  Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!The Diary Of A CEO and The Prof G Pod – Scott Galloway122K views • 6 hours agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=NdU6UdUKaYc) [1:04:06\\
+  Claude Just Revolutionized How Fast You Build AgentsStacked Podcast16K views • 3 weeks agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=udOqE90ckiI) [1:13:43\\
+  Cursor's $60B Deal, DeepSeek V4 & the Death of the AI Moat \| This Week in AI E11This Week in AI and This Week in Startups4.9K views • 3 days agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=TE_ncEzYxRA) [39:58\\
+  Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) \| Mo GawdatSilicon Valley Girl and Mo Gawdat819K views • 1 month agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=E0Q96IKXx6Q)
+  
+  # Claude Just Dropped the Biggest Upgrade for 2026
+  
+  [![](https://yt3.ggpht.com/krr3016dvcQIXR1FDrm0zW1mfHHwQztL2G5TeK3rNjyegu-vOzEjZ-mJc-kRgNaXKzeWy2Ev=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@stackedpod)
+  
+  [Stacked Podcast](https://www.youtube.com/@stackedpod)
+  
+  
+  Stacked Podcast
+  
+  
+  4.8K subscribers
+  
+  Subscribe
+  
+  Subscribed
+  
+  186
+  
+  Share
+  
+  Save
+  
+  Download
+  
+  Download
+  
+  8.5K views2 weeks ago [Stacked Podcast](https://www.youtube.com/playlist?list=PLemPKyz_iAG0ndLK6i3Jrg0CkPtXCI2PF)
+  
+  8,580 views • Apr 16, 2026 • Stacked Podcast
+  
+  💎 Routines are op
+  🔥 Step-by-step roadmap to $25K w/ AI: [https://leftclicker.gumroad.com/l/110...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUVOTzd1WHhwR0tGZ0p1RHRpMXJhNl83WkxGQXxBQ3Jtc0trdl9HSC1pRWxPMDBna3JGRlVJV1NaZF9ELU9YZDliU1Vyb1diQ3gtcVFWRk94c2pDcEZ1OW9XX3V6dnFXd2NyWmZVeDN5N0RoUVIwSVN0dTlqSGRITmx4WDVhS1gyc1l0WE1GR0pwUEt5eFc4eW1DRQ&q=https%3A%2F%2Fleftclicker.gumroad.com%2Fl%2F110-steps&v=ULKEyTxRZ5s)
+  ❤️ Main channels: [![](https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png) / @nicksaraev](https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA) & [![](https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png) / @itssssss\_jack](https://www.youtube.com/channel/UCxVxcTULO9cFU6SB9qVaisQ)…...more
+  
+  ...more
+  
+  How this was made
+  
+  Auto-dubbed
+  
+  Audio tracks for some languages were automatically generated. [Learn more](https://support.google.com/youtube/answer/15569972?hl=en)
+  
+  [**Did Claude Get Dumber?**  **Did Claude Get Dumber?** \\
+  \\
+  0:00](https://www.youtube.com/watch?v=ULKEyTxRZ5s)
+  
+  [**Did Claude Get Dumber?**](https://www.youtube.com/watch?v=ULKEyTxRZ5s)
+  
+  0:00
+  
+  [**The Evidence: AMD Engineer's Data**  **The Evidence: AMD Engineer's Data** \\
+  \\
+  2:13](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s)
+  
+  [**The Evidence: AMD Engineer's Data**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s)
+  
+  2:13
+  
+  [**What Anthropic Actually Changed**  **What Anthropic Actually Changed** \\
+  \\
+  3:05](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s)
+  
+  [**What Anthropic Actually Changed**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s)
+  
+  3:05
+  
+  [**Anthropic Ships Fast (For Better or Worse)**  **Anthropic Ships Fast (For Better or Worse)** \\
+  \\
+  6:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s&pp=0gcJCREDDuyUWbzu)
+  
+  [**Anthropic Ships Fast (For Better or Worse)**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s&pp=0gcJCREDDuyUWbzu)
+  
+  6:52
+  
+  [**Will Anthropic Swallow Every Startup?**  **Will Anthropic Swallow Every Startup?** \\
+  \\
+  8:06](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=486s)
+  
+  [**Will Anthropic Swallow Every Startup?**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=486s)
+  
+  8:06
+  
+  [**Claude Routines Explained**  **Claude Routines Explained** \\
+  \\
+  9:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=592s)
+  
+  [**Claude Routines Explained**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=592s)
+  
+  9:52
+  
+  [**Why Routines Is the Biggest Claude Update in a Year**  **Why Routines Is the Biggest Claude Update in a Year** \\
+  \\
+  27:32](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1652s)
+  
+  [**Why Routines Is the Biggest Claude Update in a Year**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1652s)
+  
+  27:32
+  
+  [**Routines vs Make & n8n**  **Routines vs Make & n8n** \\
+  \\
+  31:44](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1904s&pp=0gcJCREDDuyUWbzu)
+  
+  [**Routines vs Make & n8n**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1904s&pp=0gcJCREDDuyUWbzu)
+  
+  31:44
+  
+  [48 episodes\\
+  \\
+  48 episodes](https://www.youtube.com/playlist?list=PLemPKyz_iAG0ndLK6i3Jrg0CkPtXCI2PF)
+  
+  Stacked Podcast
+  
+  Stacked Podcast
+  
+  [Podcasts](https://www.youtube.com/podcasts)
+  
+  Follow along using the transcript.
+  
+  Show transcript
+  
+  [Videos](https://www.youtube.com/channel/UCA00QTLGuJ0I0wpEjLGAm9Q/videos)[About](https://www.youtube.com/channel/UCA00QTLGuJ0I0wpEjLGAm9Q/about)[Jack's YouTube](https://youtube.com/@jackroberts)[Nick's YouTube](https://www.youtube.com/@nicksaraev)
+  
+  Show less
+  
+  [Stacked Podcast](https://www.youtube.com/playlist?list=PLemPKyz_iAG0ndLK6i3Jrg0CkPtXCI2PF)
+  
+  # Claude Just Dropped the Biggest Upgrade for 2026
+  
+  8,580 views8.5K views
+  
+  Apr 16, 2026
+  
+  186
+  
+  Share
+  
+  Save
+  
+  Download
+  
+  Download
+  
+  ![](https://yt3.ggpht.com/ytc/AIdro_kq9OhY3wHxFjt_kpJYgQtOvsaJzE0IFeHnGeEKK_rbWZ8=s88-c-k-c0x00ffffff-no-rj)
+  
+  Carles Reina made a really strong point here: a lot of AI go-to-market and AI outbound tools do not work because they see everything as a transaction. Instead of understanding each prospect, like whether they prefer email, events, or a phone call, they just assume everyone wants to receive a message.
+  
+  He also said that what people put on LinkedIn and social media is one of the most fundamental signals, yet most AI SDR tools still track everyone as if they want outreach. And because of that, outbound email response rates have dropped to below 0.01%, while LinkedIn outreach has exploded.
+  
+  Nick and Jack, what’s your take? Do you agree that outbound is basically dead unless it’s done in a genuinely human way? Keep the awesome job, u guys are so genuine!!
+  
+  Read more
+  
+  Like
+  
+  3
+  
+  
+  Dislike
+  
+  ![](https://yt3.ggpht.com/krr3016dvcQIXR1FDrm0zW1mfHHwQztL2G5TeK3rNjyegu-vOzEjZ-mJc-kRgNaXKzeWy2Ev=s88-c-k-c0x00ffffff-no-rj)
+  
+  ❤ by @stackedpod
+  
+  Reply
+  
+  ![](https://yt3.ggpht.com/GYr-Btu9zHtnKo5sRXkDcOYQ_-95AFrw5idoEUJOaydkvDddTO28NsneSG_MHTJJY9ZzoDOitk8=s88-c-k-c0x00ffffff-no-rj)
+  
+  babe wake up ,
+  Staked Podcast has dropped
+  
+  Like
+  
+  4
+  
+  
+  Dislike
+  
+  ![](https://yt3.ggpht.com/krr3016dvcQIXR1FDrm0zW1mfHHwQztL2G5TeK3rNjyegu-vOzEjZ-mJc-kRgNaXKzeWy2Ev=s88-c-k-c0x00ffffff-no-rj)
+  
+  ❤ by @stackedpod
+  
+  Reply
+  
+  ![](https://yt3.ggpht.com/zM0SCaCALfSnqae1kEzPl0xkoU85MI1EwTHOzh24hUf2uimQwyW_Fx4EUsWg6CfBN9P4VntT=s88-c-k-c0x00ffffff-no-rj)
+  
+  Jack is speaking my language this episode. He's hitting all the thing I've been thinking about.
+  
+  Like
+  
+  2
+  
+  
+  Dislike
+  
+  ![](https://yt3.ggpht.com/krr3016dvcQIXR1FDrm0zW1mfHHwQztL2G5TeK3rNjyegu-vOzEjZ-mJc-kRgNaXKzeWy2Ev=s88-c-k-c0x00ffffff-no-rj)
+  
+  ❤ by @stackedpod
+  
+  Reply
+  
+  ![](https://yt3.ggpht.com/ytc/AIdro_n13_q0x6vxVaAvErO7pu_ct37aAKSjIR6d3PZ31oLJ_hr0=s88-c-k-c0x00ffffff-no-rj)
+  
+  Nick, saw you on Global National. Too bad they didn't ask you how you burned through your Claude tokens to book your travel ![😂](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f602.png)
+  
+  Like
+  
+  1
+  
+  
+  Dislike
+  
+  ![](https://yt3.ggpht.com/krr3016dvcQIXR1FDrm0zW1mfHHwQztL2G5TeK3rNjyegu-vOzEjZ-mJc-kRgNaXKzeWy2Ev=s88-c-k-c0x00ffffff-no-rj)
+  
+  ❤ by @stackedpod
+  
+  Reply
+  
+  [**Did Claude Get Dumber?**  **Did Claude Get Dumber?** \\
+  \\
+  0:00](https://www.youtube.com/watch?v=ULKEyTxRZ5s)
+  
+  [**Did Claude Get Dumber?**](https://www.youtube.com/watch?v=ULKEyTxRZ5s)
+  
+  0:00
+  
+  [**The Evidence: AMD Engineer's Data**  **The Evidence: AMD Engineer's Data** \\
+  \\
+  2:13](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s)
+  
+  [**The Evidence: AMD Engineer's Data**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s)
+  
+  2:13
+  
+  [**What Anthropic Actually Changed**  **What Anthropic Actually Changed** \\
+  \\
+  3:05](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s)
+  
+  [**What Anthropic Actually Changed**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s)
+  
+  3:05
+  
+  [**Anthropic Ships Fast (For Better or Worse)**  **Anthropic Ships Fast (For Better or Worse)** \\
+  \\
+  6:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s)
+  
+  [**Anthropic Ships Fast (For Better or Worse)**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s)
+  
+  6:52
+  
+  [**Will Anthropic Swallow Every Startup?**  **Will Anthropic Swallow Every Startup?** \\
+  \\
+  8:06](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=486s)
+  
+  [**Will Anthropic Swallow Every Startup?**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=486s)
+  
+  8:06
+  
+  [**Claude Routines Explained**  **Claude Routines Explained** \\
+  \\
+  9:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=592s)
+  
+  [**Claude Routines Explained**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=592s)
+  
+  9:52
+  
+  [**Why Routines Is the Biggest Claude Update in a Year**  **Why Routines Is the Biggest Claude Update in a Year** \\
+  \\
+  27:32](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1652s)
+  
+  [**Why Routines Is the Biggest Claude Update in a Year**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1652s)
+  
+  27:32
+  
+  [**Routines vs Make & n8n**  **Routines vs Make & n8n** \\
+  \\
+  31:44](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1904s)
+  
+  [**Routines vs Make & n8n**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1904s)
+  
+  31:44
+  
+  [**How AI Helped Create Our Best-Performing Content**  **How AI Helped Create Our Best-Performing Content** \\
+  \\
+  40:10](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2410s)
+  
+  [**How AI Helped Create Our Best-Performing Content**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2410s)
+  
+  40:10
+  
+  [**Community Comments & Q&A**  **Community Comments & Q&A** \\
+  \\
+  42:10](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2530s)
+  
+  [**Community Comments & Q&A**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2530s)
+  
+  42:10
+  
+  [**Vibe Coders vs Software Developers: Who Wins?**  **Vibe Coders vs Software Developers: Who Wins?** \\
+  \\
+  48:26](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2906s)
+  
+  [**Vibe Coders vs Software Developers: Who Wins?**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2906s)
+  
+  48:26
+  
+  [**Outro**  **Outro** \\
+  \\
+  51:48](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=3108s&pp=0gcJCREDDuyUWbzu)
+  
+  [**Outro**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=3108s&pp=0gcJCREDDuyUWbzu)
+  
+  51:48
+  
+  Sync to video time
+  
+  Claude Just Dropped the Biggest Upgrade for 2026
+  
+  186Likes
+  
+  8,580Views
+  
+  Apr 162026
+  
+  💎 Routines are op
+  🔥 Step-by-step roadmap to $25K w/ AI: [https://leftclicker.gumroad.com/l/110...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazFQRlFxN3RteklRSXNrNTlFTVlONWJpZHd4QXxBQ3Jtc0ttYTI4Q1NrTTFpWDIyRG1OaWUyUUU2WC13V0o0cFJFaHM3ZFJZdnhVRVpnM0xnRkVvaE1WZlJMNUdSb2lCcG12Ulh4RUhYQUxIcGhqWVFJSmZfNjZXaU9sdkVQQ18tN3R0VE1ZM2ExMzYzT1NzVm0zaw&q=https%3A%2F%2Fleftclicker.gumroad.com%2Fl%2F110-steps&v=ULKEyTxRZ5s)
+  ❤️ Main channels: [/ @nicksaraev](https://www.youtube.com/channel/UCbo-KbSjJDG6JWQ_MTZ_rNA) & [/ @itssssss\_jack](https://www.youtube.com/channel/UCxVxcTULO9cFU6SB9qVaisQ)
+  
+  Who are Nick & Jack, and what is The AI Millionaire Podcast? ⤵️
+  1\. Jack built a 7-figure AI business after exiting his tech startup as a Top-100 UK entrepreneur.
+  2\. Nick scaled two agencies to a combined rev of $160K/m & runs the largest AI community by $.
+  3\. Together, they open up the black book behind AI and share how you can build one yourself!
+  
+  What to watch next 🍿
+  1\. The one habit that made me outperform everyone: [• 3 Uncommon Habits That Got Us In A Room Wi...](https://www.youtube.com/watch?v=_3wxDsC8uTA)
+  2\. AI isn't the answer—here's what actually makes you rich: [• Here's what actually makes you rich](https://www.youtube.com/watch?v=jxm8Jb0XWhY)
+  
+  Chapters
+  [0:00](https://www.youtube.com/watch?v=ULKEyTxRZ5s) Did Claude Get Dumber?
+  [2:13](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s) The Evidence: AMD Engineer's Data
+  [3:05](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s) What Anthropic Actually Changed
+  [6:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s) Anthropic Ships Fast (For Better or Worse)
+  [8:06](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=486s) Will Anthropic Swallow Every Startup?
+  [9:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=592s) Claude Routines Explained
+  [27:32](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1652s) Why Routines Is the Biggest Claude Update in a Year
+  [31:44](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=1904s) Routines vs Make & n8n
+  [40:10](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2410s) How AI Helped Create Our Best-Performing Content
+  [42:10](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2530s) Community Comments & Q&A
+  [48:26](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=2906s) Vibe Coders vs Software Developers: Who Wins?
+  [51:48](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=3108s) Outro…...more
+  
+  ...more
+  Show less
+  
+  How this was made
+  
+  Auto-dubbed
+  
+  Audio tracks for some languages were automatically generated. [Learn more](https://support.google.com/youtube/answer/15569972?hl=en)
+  
+  [**Did Claude Get Dumber?**  **Did Claude Get Dumber?** \\
+  \\
+  0:00](https://www.youtube.com/watch?v=ULKEyTxRZ5s)
+  
+  [**Did Claude Get Dumber?**](https://www.youtube.com/watch?v=ULKEyTxRZ5s)
+  
+  0:00
+  
+  [**The Evidence: AMD Engineer's Data**  **The Evidence: AMD Engineer's Data** \\
+  \\
+  2:13](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s)
+  
+  [**The Evidence: AMD Engineer's Data**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=133s)
+  
+  2:13
+  
+  [**What Anthropic Actually Changed**  **What Anthropic Actually Changed** \\
+  \\
+  3:05](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s)
+  
+  [**What Anthropic Actually Changed**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=185s)
+  
+  3:05
+  
+  [**Anthropic Ships Fast (For Better or Worse)**  **Anthropic Ships Fast (For Better or Worse)** \\
+  \\
+  6:52](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s&pp=0gcJCREDDuyUWbzu)
+  
+  [**Anthropic Ships Fast (For Better or Worse)**](https://www.youtube.com/watch?v=ULKEyTxRZ5s&t=412s&pp=0gcJCREDDuyUWbzu)
+  
+  6:52
+  
+  [48 episodes\\
+  \\
+  48 episodes](https://www.youtube.com/playlist?list=PLemPKyz_iAG0ndLK6i3Jrg0CkPtXCI2PF)
+  
+  Stacked Podcast
+  
+  Stacked Podcast
+  
+  [Podcasts](https://www.youtube.com/podcasts)
+  
+  Follow along using the transcript.
+  
+  Show transcript
+  
+  [Videos](https://www.youtube.com/channel/UCA00QTLGuJ0I0wpEjLGAm9Q/videos)[About](https://www.youtube.com/channel/UCA00QTLGuJ0I0wpEjLGAm9Q/about)[Jack's YouTube](https://youtube.com/@jackroberts)[Nick's YouTube](https://www.youtube.com/@nicksaraev)
+  
+  [![](https://i.ytimg.com/vi/6YhTa-fm1S0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBd92ou59L2IMYU_lcO6oiZLGY5bQ)\\
+  \\
+  59:24](https://www.youtube.com/watch?v=6YhTa-fm1S0&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [GPT-5.5 Just Dropped... Anthropic Is In Trouble](https://www.youtube.com/watch?v=6YhTa-fm1S0&pp=ugUEEgJlbg%3D%3D)
+  
+  Stacked Podcast
+  
+  6.7K views • 10 days ago
+  
+  [![](https://i.ytimg.com/vi/TuqQxMcRP4M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDlFsvEhkSRlz2HpZpJWLiA5AAzxg)\\
+  \\
+  13:16](https://www.youtube.com/watch?v=TuqQxMcRP4M&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [Scott Galloway GOES OFF on Elon Musk LIVE on CNN](https://www.youtube.com/watch?v=TuqQxMcRP4M&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Michael Smerconish
+  
+  104K views • 1 day ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/xYU7zaaRjmE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDiYAbU6zcP8L1ZSHpILCAhvIgRGQ)\\
+  \\
+  12:27](https://www.youtube.com/watch?v=xYU7zaaRjmE)
+  
+  ### [The Vibe Coding Era: Why AI Won’t Replace Software Engineers](https://www.youtube.com/watch?v=xYU7zaaRjmE)
+  
+  Bloomberg Television
+  
+  164K views • 1 day ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/FU2iB-UfPPA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDkAi1DQeju9XD6EMxFk8izq04D9A)\\
+  \\
+  1:23:02](https://www.youtube.com/watch?v=FU2iB-UfPPA)
+  
+  ### [Codex Replaced Claude for Me… Here’s Why](https://www.youtube.com/watch?v=FU2iB-UfPPA)
+  
+  Riley Brown
+  
+  30K views • 1 day ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/fpC4sbawSzQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBYSJNPtxfWuAZGQeEnjf00GV2dZw)\\
+  \\
+  1:20:57](https://www.youtube.com/watch?v=fpC4sbawSzQ)
+  
+  ### [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](https://www.youtube.com/watch?v=fpC4sbawSzQ)
+  
+  All-In Podcast
+  
+  362K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/mvKSp7BFmYE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLByRynWuixu9xQnsRQ_THKpiKKfzQ)\\
+  \\
+  50:18](https://www.youtube.com/watch?v=mvKSp7BFmYE)
+  
+  ### [How This Simple Messaging Mistake Is Costing You Thousands \| George Little](https://www.youtube.com/watch?v=mvKSp7BFmYE)
+  
+  Modern Founders Podcast
+  
+  25 views • 7 days ago
+  
+  [![](https://i.ytimg.com/vi/lH5wrfNwL3k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAAmWVE5MsppcoH3klRryWgTHX5Mg)\\
+  \\
+  35:06](https://www.youtube.com/watch?v=lH5wrfNwL3k&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Claude Just Changed the Stock Market Forever! (Tutorial)](https://www.youtube.com/watch?v=lH5wrfNwL3k&pp=ugUEEgJlbg%3D%3D)
+  
+  Samin Yasar
+  
+  1M views • 4 weeks ago
+  
+  [![](https://i.ytimg.com/vi/96jN2OCOfLs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBZdp1cX62GE_0F_7p8NNyecd0HIQ)\\
+  \\
+  29:49](https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Andrej Karpathy: From Vibe Coding to Agentic Engineering](https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D)
+  
+  Sequoia Capital
+  
+  574K views • 4 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/NdU6UdUKaYc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAoV4AT0NxBj3-1hyFq0mKdNicfIQ)\\
+  \\
+  1:58:11](https://www.youtube.com/watch?v=NdU6UdUKaYc&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  ### [Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  The Diary Of A CEO
+  
+  and The Prof G Pod – Scott Galloway
+  
+  122K views • 6 hours ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/udOqE90ckiI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAkpKASKwIu97TXWfAfNaHmPOqD7w)\\
+  \\
+  1:04:06](https://www.youtube.com/watch?v=udOqE90ckiI&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Claude Just Revolutionized How Fast You Build Agents](https://www.youtube.com/watch?v=udOqE90ckiI&pp=ugUEEgJlbg%3D%3D)
+  
+  Stacked Podcast
+  
+  16K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/TE_ncEzYxRA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDrCsVBwWE4qRa7NnUQEqwu4wveRA)\\
+  \\
+  1:13:43](https://www.youtube.com/watch?v=TE_ncEzYxRA&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Cursor's $60B Deal, DeepSeek V4 & the Death of the AI Moat \| This Week in AI E11](https://www.youtube.com/watch?v=TE_ncEzYxRA&pp=ugUEEgJlbg%3D%3D)
+  
+  This Week in AI and This Week in Startups
+  
+  4.9K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/E0Q96IKXx6Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBY4oGphcukReKW1jJybaV3KZjkjg)\\
+  \\
+  39:58](https://www.youtube.com/watch?v=E0Q96IKXx6Q)
+  
+  ### [Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) \| Mo Gawdat](https://www.youtube.com/watch?v=E0Q96IKXx6Q)
+  
+  Silicon Valley Girl
+  
+  and Mo Gawdat
+  
+  819K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/cqMpTbTrMW4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3ORaiWJoSBVYBQPkgExeMYnN6JQ)\\
+  \\
+  1:38:36](https://www.youtube.com/watch?v=cqMpTbTrMW4)
+  
+  ### [AI Insider: The Fastest Way To Use AI Agents In Your Business, Content & Life (Open Claw & Claude)](https://www.youtube.com/watch?v=cqMpTbTrMW4)
+  
+  The Calum Johnson Show and Allie K Miller
+  
+  281K views • 7 days ago
+  
+  [![](https://i.ytimg.com/vi/_Q-e_nczWqM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA7fQZsTCIesm1jAAdsrZr6FXeluA)\\
+  \\
+  9:39](https://www.youtube.com/watch?v=_Q-e_nczWqM&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [The AI Economy is about to change](https://www.youtube.com/watch?v=_Q-e_nczWqM&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  The PrimeTime
+  
+  747K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/JG9BRfYVquE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAaYNEg6f5tMGOPyWWl8RUMu4YHYQ)\\
+  \\
+  48:34](https://www.youtube.com/watch?v=JG9BRfYVquE&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [OpenAI is Collapsing?](https://www.youtube.com/watch?v=JG9BRfYVquE&pp=ugUEEgJlbg%3D%3D)
+  
+  Stacked Podcast and 2 more
+  
+  6.8K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/uJeHGmMir5Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBXtH2KNY5NwGe44U2oEmJuU3dnjg)\\
+  \\
+  25:48](https://www.youtube.com/watch?v=uJeHGmMir5Q&pp=0gcJCd4KAYcqIYzv)
+  
+  ### [The \#1 Claude AI Side Hustle Nobody Is Talking About](https://www.youtube.com/watch?v=uJeHGmMir5Q&pp=0gcJCd4KAYcqIYzv)
+  
+  Patrick Dang
+  
+  90K views • 6 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/ovabeVoWrA0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCSamsf3ers2Q__vOHWvmgXgLOlHA)\\
+  \\
+  1:57:56](https://www.youtube.com/watch?v=ovabeVoWrA0&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  ### [Claude Design 2 HOUR COURSE (Beginner to Pro)](https://www.youtube.com/watch?v=ovabeVoWrA0&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  Nate Herk \| AI Automation
+  
+  38K views • 4 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/zgNvts_2TUE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAL-svbq-IcmcDfdDyGEfx87ow8ig)\\
+  \\
+  44:12](https://www.youtube.com/watch?v=zgNvts_2TUE&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [State of the Claw — Peter Steinberger](https://www.youtube.com/watch?v=zgNvts_2TUE&pp=ugUEEgJlbg%3D%3D)
+  
+  AI Engineer
+  
+  130K views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/X6Z7Wqid4ik/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCR6jnMDv_etS6rc53x1FoCaXytqw)\\
+  \\
+  1:10:42](https://www.youtube.com/watch?v=X6Z7Wqid4ik&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Useful AI in 2026: What Actually Works (And What’s Just Hype) \| Ep 847](https://www.youtube.com/watch?v=X6Z7Wqid4ik&pp=ugUEEgJlbg%3D%3D)
+  
+  Mac Power Users
+  
+  655 views • 22 hours ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/pTCF8J-23Fg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCuz6Qk7_4aPzZ-s1l7ZAcdPH12Zw)\\
+  \\
+  17:31](https://www.youtube.com/watch?v=pTCF8J-23Fg&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [I Let Claude & ChatGPT Trade Live and Here's What Happened](https://www.youtube.com/watch?v=pTCF8J-23Fg&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Trading with DaviddTech
+  
+  17K views • 4 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/KPDXMtmkcgk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDV5C363xtUhwv9uxzyewgTExPHZw)\\
+  \\
+  1:01:50](https://www.youtube.com/watch?v=KPDXMtmkcgk&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [This Company Used AI More Than Anthropic: Diego Zaks](https://www.youtube.com/watch?v=KPDXMtmkcgk&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Designer Tom
+  
+  5.9K views • 5 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/sUvWVF28CNM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDvgZJbVvSQuDMGv9NU_LUBwcDB3A)\\
+  \\
+  50:14](https://www.youtube.com/watch?v=sUvWVF28CNM&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [AI is Ending the Social Media Era and What Comes Next \| Gary Vee](https://www.youtube.com/watch?v=sUvWVF28CNM&pp=ugUEEgJlbg%3D%3D)
+  
+  Sinead Bovell
+  
+  292K views • 2 months ago
+  
+  [![](https://i.ytimg.com/vi/P9xbC_2r1vo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAR4H3HtTRQwIQdzx_eYjjxgBSEPA)\\
+  \\
+  54:00](https://www.youtube.com/watch?v=P9xbC_2r1vo&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Claude Source Code Leaked](https://www.youtube.com/watch?v=P9xbC_2r1vo&pp=ugUEEgJlbg%3D%3D)
+  
+  Stacked Podcast
+  
+  2.9K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/zNDebzq71ms/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt1skVbYIY8m6sgq2vNJba_1QOQA)\\
+  \\
+  42:38](https://www.youtube.com/watch?v=zNDebzq71ms&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [If You Understand Agentic AI, You’ll Never Be Poor (Again)](https://www.youtube.com/watch?v=zNDebzq71ms&pp=ugUEEgJlbg%3D%3D)
+  
+  Stacked Podcast
+  
+  3.8K views • 5 months ago
+  
+  [![](https://i.ytimg.com/vi/PWL2nwcicUQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCUra-DpdhlsyemKFnRD9ZkW8GVmw)\\
+  \\
+  1:05:36](https://www.youtube.com/watch?v=PWL2nwcicUQ)
+  
+  ### [Our Top 10 Video Games](https://www.youtube.com/watch?v=PWL2nwcicUQ)
+  
+  Only Child Bros
+  
+  36 views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/F7G20NjSxeI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBrRmGRu_YL3aTtgEFbSQGNtlaCEw)\\
+  \\
+  17:54](https://www.youtube.com/watch?v=F7G20NjSxeI)
+  
+  ### [The Ultimate Beginner’s Guide to Claude](https://www.youtube.com/watch?v=F7G20NjSxeI)
+  
+  Shane Brady
+  
+  19K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/fmK40iq-U6Y/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAj7gFmz1JMOxiyO5BYQooYVOcztQ)\\
+  \\
+  45:55](https://www.youtube.com/watch?v=fmK40iq-U6Y&pp=ugUHEgVlbi1HQtIHCQneCgGHKiGM7w%3D%3D)
+  
+  ### [AI bubble: OpenAI’s business model is ‘falling apart’ \| Ed Zitron](https://www.youtube.com/watch?v=fmK40iq-U6Y&pp=ugUHEgVlbi1HQtIHCQneCgGHKiGM7w%3D%3D)
+  
+  The Tech Report
+  
+  173K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/dxq7WtWxi44/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2cB_Bt39k1Ju1QhezbaOncWGLhw)\\
+  \\
+  41:09](https://www.youtube.com/watch?v=dxq7WtWxi44&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  ### [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  AI News & Strategy Daily \| Nate B Jones
+  
+  99K views • 11 days ago
+  
+  [![](https://i.ytimg.com/vi/S_oN3vlzpMw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCmuruxWgtTDQIKKEvhkKr4cgPfyg)\\
+  \\
+  35:26](https://www.youtube.com/watch?v=S_oN3vlzpMw)
+  
+  ### [How AI agents & Claude skills work (Clearly Explained)](https://www.youtube.com/watch?v=S_oN3vlzpMw)
+  
+  Greg Isenberg
+  
+  270K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/K8Ros5RhJW4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCBmzTWa2OgmKb9y0lHfq9KMUIWZQ)\\
+  \\
+  26:44](https://www.youtube.com/watch?v=K8Ros5RhJW4&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [The Only 20 Ways to Make Money with AI in 2026](https://www.youtube.com/watch?v=K8Ros5RhJW4&pp=ugUEEgJlbg%3D%3D)
+  
+  Dan Martell
+  
+  280K views • 4 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/KjNsnE_vsyc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAUVoYMZWFml6AYUEVkYwynva4wIA)\\
+  \\
+  16:32](https://www.youtube.com/watch?v=KjNsnE_vsyc&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Forget Prompt Engineering - This Is What Actually Matters in AI](https://www.youtube.com/watch?v=KjNsnE_vsyc&pp=ugUEEgJlbg%3D%3D)
+  
+  Vaibhav Sisinty
+  
+  184K views • 1 day ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/cDr8Ssi6gM0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCS-EnxzyQS6YmzaYFc3LfTJPgCpA)\\
+  \\
+  1:17:05](https://www.youtube.com/watch?v=cDr8Ssi6gM0)
+  
+  ### [The Rich Already Ready For the AI Economy. Are You? \| Michael Saylor](https://www.youtube.com/watch?v=cDr8Ssi6gM0)
+  
+  The Peter McCormack Show
+  
+  265K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/oCuttuCQmZg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBCcVf6uyylfw1XolHjNYkBNL52tA)\\
+  \\
+  40:23](https://www.youtube.com/watch?v=oCuttuCQmZg&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Claude Mythos Preview: Everything You Need to Know](https://www.youtube.com/watch?v=oCuttuCQmZg&pp=ugUEEgJlbg%3D%3D)
+  
+  Nick Saraev
+  
+  90K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/LWx4FGam2aQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBDwcVt5cF_amu74c5TsWivEuVtag)\\
+  \\
+  1:04:41](https://www.youtube.com/watch?v=LWx4FGam2aQ&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  ### [Stop using Claude. Start using Codex?](https://www.youtube.com/watch?v=LWx4FGam2aQ&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  Greg Isenberg
+  
+  73K views • 6 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/6szQxMGX5JI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCvA527b9eylo6UpGQtBrdvXJ6vVg)\\
+  \\
+  46:27](https://www.youtube.com/watch?v=6szQxMGX5JI&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [The Mythos Situation \| TheStandup](https://www.youtube.com/watch?v=6szQxMGX5JI&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  The PrimeTime
+  
+  288K views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/Xg55nTrbYYY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC8R3nm6rsBLEuC6XZk8ADbqhj_1A)\\
+  \\
+  1:52:38](https://www.youtube.com/watch?v=Xg55nTrbYYY&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [FULL Claude Tutorial For Beginners in 2026! (FULL COURSE)](https://www.youtube.com/watch?v=Xg55nTrbYYY&pp=ugUEEgJlbg%3D%3D)
+  
+  Productive Dude
+  
+  226K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/pl90LATQlHI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA8qTNvoaFyRsKHD1d0K3bnx36-og)\\
+  \\
+  47:53](https://www.youtube.com/watch?v=pl90LATQlHI)
+  
+  ### [Set Up Claude Cowork better than 99% of people](https://www.youtube.com/watch?v=pl90LATQlHI)
+  
+  Systems Made Better and Better Creating
+  
+  265K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/w62xTVuyu3s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBrYHtxEZAlY-zbL2ZhmoZGaCEi9A)\\
+  \\
+  37:39](https://www.youtube.com/watch?v=w62xTVuyu3s)
+  
+  ### [AI has a subsidization problem](https://www.youtube.com/watch?v=w62xTVuyu3s)
+  
+  Theo - t3․gg
+  
+  164K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/VTjsDNq1Eqw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAnDshVOsLrhxWUSICWrkCGQJfczg)\\
+  \\
+  12:02](https://www.youtube.com/watch?v=VTjsDNq1Eqw&pp=0gcJCd4KAYcqIYzv)
+  
+  ### [AI Just Made ADHD an Advantage (2026)](https://www.youtube.com/watch?v=VTjsDNq1Eqw&pp=0gcJCd4KAYcqIYzv)
+  
+  ADHDVision
+  
+  164K views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/2d9ZmA-4QzU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBmrUru_BJ1IYDZ_y3F9ia0D1tLEQ)\\
+  \\
+  21:00](https://www.youtube.com/watch?v=2d9ZmA-4QzU&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Your Apps Don't Need an API Anymore. Codex Just Proved It.](https://www.youtube.com/watch?v=2d9ZmA-4QzU&pp=ugUEEgJlbg%3D%3D)
+  
+  AI News & Strategy Daily \| Nate B Jones
+  
+  167K views • 10 days ago
+  
+  [![](https://i.ytimg.com/vi/KFisvc-AMII/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAWINS3wvTvNMV0M0qUXZ0vhAltkw)\\
+  \\
+  44:15](https://www.youtube.com/watch?v=KFisvc-AMII)
+  
+  ### [Did Claude really get dumber again?](https://www.youtube.com/watch?v=KFisvc-AMII)
+  
+  Theo - t3․gg
+  
+  110K views • 13 days ago
+  
+  [![](https://i.ytimg.com/vi/j6W4boMaz9k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCGjRuifwnOBJS55_sp0JxRbHnGAA)\\
+  \\
+  55:04](https://www.youtube.com/watch?v=j6W4boMaz9k&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [AI is Making CEOs Delusional](https://www.youtube.com/watch?v=j6W4boMaz9k&pp=ugUEEgJlbg%3D%3D)
+  
+  Stacked Podcast
+  
+  3K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/kFS6z_97Ohc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD5bBy-zf5TA_ux5sLyeoXG9olMyg)\\
+  \\
+  15:30](https://www.youtube.com/watch?v=kFS6z_97Ohc&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Why I Switched From ChatGPT To Claude (you should too)](https://www.youtube.com/watch?v=kFS6z_97Ohc&pp=ugUEEgJlbg%3D%3D)
+  
+  AI Edge
+  
+  380K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/suZ2Gt6i8do/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBBrmeGZLQMdUuOMU3pGcx_c0Ek-w)\\
+  \\
+  1:26:11](https://www.youtube.com/watch?v=suZ2Gt6i8do&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Casey Muratori Doesn’t Care About AI (Here’s Why)](https://www.youtube.com/watch?v=suZ2Gt6i8do&pp=ugUEEgJlbg%3D%3D)
+  
+  A Life Engineered
+  
+  and Molly Rocket
+  
+  119K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/-u2M86t7iYs/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBfKDwwDw==&rs=AOn4CLAPhMlx-o0rF-JkGxuXbEwc52QyPw)\\
+  \\
+  57:50](https://www.youtube.com/watch?v=-u2M86t7iYs)
+  
+  ### [Seth Godin on Building a Solopreneur Business: Stop Hiring Yourself as the Cheapest Freelancer](https://www.youtube.com/watch?v=-u2M86t7iYs)
+  
+  Istoria
+  
+  15K views • 2 months ago
+  
+  [![](https://i.ytimg.com/vi/_3wxDsC8uTA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD2jrK9kk4I8f6l3Q6BvvYQ6ejddQ)\\
+  \\
+  41:52](https://www.youtube.com/watch?v=_3wxDsC8uTA&pp=0gcJCd4KAYcqIYzv)
+  
+  ### [3 Uncommon Habits That Got Us In A Room With Alex Hormozi](https://www.youtube.com/watch?v=_3wxDsC8uTA&pp=0gcJCd4KAYcqIYzv)
+  
+  Stacked Podcast
+  
+  782 views • 9 months ago
+  
+  [![](https://i.ytimg.com/vi/9q5ojtkqsBs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDV_yhxf3fJpMqIMriZKzT-HR5AOw)\\
+  \\
+  24:19](https://www.youtube.com/watch?v=9q5ojtkqsBs)
+  
+  ### [How to Win With AI in 2026](https://www.youtube.com/watch?v=9q5ojtkqsBs)
+  
+  Alex Hormozi
+  
+  644K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/RKj7Jwk2BjA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCNdkegqLHZDHn-TLgfxbG2O6KrlA)\\
+  \\
+  38:51](https://www.youtube.com/watch?v=RKj7Jwk2BjA&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [Big Tech is Crushing It. What's the Catch?](https://www.youtube.com/watch?v=RKj7Jwk2BjA&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Limitless Podcast
+  
+  4.9K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/RJyPVLMyyuA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCeWxyGpOQk28jNxKBvbU-ryumZgQ)\\
+  \\
+  1:48:12](https://www.youtube.com/watch?v=RJyPVLMyyuA)
+  
+  ### [Should You Be A Carpenter? \[Wading Through AI - Episode 1\]](https://www.youtube.com/watch?v=RJyPVLMyyuA)
+  
+  Molly Rocket
+  
+  172K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/zECyMRI8sV4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBRyiNFNygOXZuSgC-Z2k5qL55KBQ)\\
+  \\
+  40:20](https://www.youtube.com/watch?v=zECyMRI8sV4&pp=ugUHEgVlbi1HQg%3D%3D)
+  
+  ### [How OpenAI ends and takes Oracle with it \| Ed Zitron](https://www.youtube.com/watch?v=zECyMRI8sV4&pp=ugUHEgVlbi1HQg%3D%3D)
+  
+  The Tech Report
+  
+  361K views • 9 days ago
+  
+  [![](https://i.ytimg.com/vi/4vIIeCqHYXA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZYhAAwaMjpHp6UNZ9IKgxM3m9gw)\\
+  \\
+  44:41](https://www.youtube.com/watch?v=4vIIeCqHYXA&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Gary Vee: The AI Opportunity Is Real — You're Just Looking at It Wrong](https://www.youtube.com/watch?v=4vIIeCqHYXA&pp=ugUEEgJlbg%3D%3D)
+  
+  Silicon Valley Girl
+  
+  and GaryVee
+  
+  157K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/tIEbxKQDL4s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBC8sf9VlhV4j_Vh0G3bfs0BZ-MpQ)\\
+  \\
+  21:00](https://www.youtube.com/watch?v=tIEbxKQDL4s)
+  
+  ### [AI News: Codex Surges; Free NotebookLM Updates; Viral Image Prompts](https://www.youtube.com/watch?v=tIEbxKQDL4s)
+  
+  Paul J Lipsky
+  
+  30K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/MDtMwKcx_4E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBhAA-_iEqWTI_WR94tWQ_2ioWNVg)\\
+  \\
+  1:33:48](https://www.youtube.com/watch?v=MDtMwKcx_4E&pp=0gcJCd4KAYcqIYzv)
+  
+  ### [Open Claw Runs My $11M Business: How To Get Rich In The New Era Of AI Agents (Even As A Beginner!)](https://www.youtube.com/watch?v=MDtMwKcx_4E&pp=0gcJCd4KAYcqIYzv)
+  
+  The Calum Johnson Show and Riley Brown
+  
+  183K views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/KBgZsV-0Fdo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB4YeuFrer4FIJR_scdlWIc0TgmaA)\\
+  \\
+  6:52](https://www.youtube.com/watch?v=KBgZsV-0Fdo)
+  
+  ### [The 6 Claude Features to Get You Ahead of 99% of People using AI](https://www.youtube.com/watch?v=KBgZsV-0Fdo)
+  
+  Tristen O'Brien
+  
+  497K views • 13 days ago
+  
+  [![](https://i.ytimg.com/vi/nyO60uzTnP4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBZe4v9uboNgXmp__ZTQkhJf0BViA)\\
+  \\
+  1:05:11](https://www.youtube.com/watch?v=nyO60uzTnP4&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Making $$ with AI Agents](https://www.youtube.com/watch?v=nyO60uzTnP4&pp=ugUEEgJlbg%3D%3D)
+  
+  Greg Isenberg
+  
+  67K views • 4 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/l48Aw-wrIr8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDb7tKagWBZBetswQeHGRk_8DaJaw)\\
+  \\
+  50:47](https://www.youtube.com/watch?v=l48Aw-wrIr8)
+  
+  ### [Here's a high ROI system to scale you to $100K/mo](https://www.youtube.com/watch?v=l48Aw-wrIr8)
+  
+  Stacked Podcast
+  
+  1K views • 11 months ago
+  
+  [![](https://i.ytimg.com/vi/LRo33rnv6rQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCPKseOYFgWKfu4oF-UlofJg5OWhg)\\
+  \\
+  32:27](https://www.youtube.com/watch?v=LRo33rnv6rQ&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [This is AGI: Sequoia AI Ascent 2026 Keynote](https://www.youtube.com/watch?v=LRo33rnv6rQ&pp=ugUEEgJlbg%3D%3D)
+  
+  Sequoia Capital
+  
+  45K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/gwsaC3WiCqs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBLbEH0hiLLG1ycPImSuhIqLFCLIQ)\\
+  \\
+  23:44](https://www.youtube.com/watch?v=gwsaC3WiCqs&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [6 Profitable AI business ideas for 2026](https://www.youtube.com/watch?v=gwsaC3WiCqs&pp=ugUEEgJlbg%3D%3D)
+  
+  Silicon Valley Girl
+  
+  29K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/3FkZDT2HWsA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDSOU5VpEa3f96dSSSIAzpllR_K9A)\\
+  \\
+  1:35:57](https://www.youtube.com/watch?v=3FkZDT2HWsA)
+  
+  ### [We need to talk about OpenAI](https://www.youtube.com/watch?v=3FkZDT2HWsA)
+  
+  Nerd Snipe and 2 more
+  
+  33K views • 3 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/13R5kJ94XeY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC-zAzc5sKIrFztrku8L3ojctxSCg)\\
+  \\
+  57:34](https://www.youtube.com/watch?v=13R5kJ94XeY)
+  
+  ### [FDT EP 110 - NFL Draft Storylines](https://www.youtube.com/watch?v=13R5kJ94XeY)
+  
+  Four Down Territory
+  
+  2 views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/_24HzGNv-3A/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0Zy-RA3u7UPOLHag1WHzmhOsjsQ)\\
+  \\
+  1:28:25](https://www.youtube.com/watch?v=_24HzGNv-3A)
+  
+  ### [Dan Martell: The AI Cheat Codes Every Founder Needs in 2026](https://www.youtube.com/watch?v=_24HzGNv-3A)
+  
+  Open Residency and Dan Martell
+  
+  100K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/UbiLWoIYoxk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCAbDvN_R_3vSQ7ozXkFORB65SYIg)\\
+  \\
+  59:27](https://www.youtube.com/watch?v=UbiLWoIYoxk&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [Stanford Leadership Forum 2026: Rewiring the Workforce in the Age of AI](https://www.youtube.com/watch?v=UbiLWoIYoxk&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Stanford Graduate School of Business
+  
+  11K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/EkpYTFmS4Ak/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDVFWt5YWVt_tfC17BxVzjPpcv22w)\\
+  \\
+  1:01:04](https://www.youtube.com/watch?v=EkpYTFmS4Ak&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [Elon Musk vs OpenAI Trial, Google Cloud Surge, Meta’s Blocked Acquisition, Anthropic Winning](https://www.youtube.com/watch?v=EkpYTFmS4Ak&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  More or Less Podcast
+  
+  1.3K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/jw0pMr54Ztc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAJEnjaEosQNw5Y5slTuCeO2W-lVw)\\
+  \\
+  25:36](https://www.youtube.com/watch?v=jw0pMr54Ztc&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [The Ultimate Beginner’s Guide To Claude](https://www.youtube.com/watch?v=jw0pMr54Ztc&pp=ugUEEgJlbg%3D%3D)
+  
+  AI Edge
+  
+  543K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/Z8K-Np6HCWE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA3WOJrSPrEkHVKFbljGxEdoZRNzA)\\
+  \\
+  38:56](https://www.youtube.com/watch?v=Z8K-Np6HCWE)
+  
+  ### [The Economics of Transformative AI by Anton Korinek](https://www.youtube.com/watch?v=Z8K-Np6HCWE)
+  
+  Alignment of Complex Systems
+  
+  7K views • 3 months ago
+  
+  [![](https://i.ytimg.com/vi/QRC1ErXgmeA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCdT2-rLVx-ze9pnoAwcNr7O57Sag)\\
+  \\
+  1:04:26](https://www.youtube.com/watch?v=QRC1ErXgmeA)
+  
+  ### [Theo gets conspiratorial about Anthropic](https://www.youtube.com/watch?v=QRC1ErXgmeA)
+  
+  Nerd Snipe and 2 more
+  
+  27K views • 11 days ago
+  
+  [![](https://i.ytimg.com/vi/gp3d7RAgFME/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA1X9RQjYaKXaEaoj3fYBlmI3IIPw)\\
+  \\
+  28:04](https://www.youtube.com/watch?v=gp3d7RAgFME&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [8 Insane Claude Cowork Use Cases! (automate anything)](https://www.youtube.com/watch?v=gp3d7RAgFME&pp=ugUEEgJlbg%3D%3D)
+  
+  9x
+  
+  128K views • 3 weeks ago
+  
+  [![](https://i.ytimg.com/vi/NCKQL0op30E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCc6WgTSYSJDl8YZ2J19CwABlgEKg)\\
+  \\
+  1:22:40](https://www.youtube.com/watch?v=NCKQL0op30E&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [The OpenAI Founders On Their Plan To Battle Elon, Compute And Everything Else](https://www.youtube.com/watch?v=NCKQL0op30E&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Core Memory Podcast
+  
+  and Core Memory
+  
+  91K views • 12 days ago
+  
+  [![](https://i.ytimg.com/vi/rRrBbyv3ChM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBttHzA0xujHYT54IAIKM4fMblxCQ)\\
+  \\
+  49:17](https://www.youtube.com/watch?v=rRrBbyv3ChM&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)](https://www.youtube.com/watch?v=rRrBbyv3ChM&pp=ugUEEgJlbg%3D%3D)
+  
+  AI Foundations
+  
+  660K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/y_ON1Qbb274/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDPa14jVXTMtdQOa_6gFkTg3cMQMA)\\
+  \\
+  50:54](https://www.youtube.com/watch?v=y_ON1Qbb274)
+  
+  ### [He Turned $400 Into $2.5M Using AI (No Coding)](https://www.youtube.com/watch?v=y_ON1Qbb274)
+  
+  Chris Koerner on The Koerner Office Podcast
+  
+  163K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/m6cMbyeoqo0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAaxjDRT6pleHmLpeTwRYh7NO4UYQ)\\
+  \\
+  47:56](https://www.youtube.com/watch?v=m6cMbyeoqo0&pp=0gcJCd4KAYcqIYzv)
+  
+  ### [Oneself - Episode 39 - Allow Us to Reintroduce Ourselves](https://www.youtube.com/watch?v=m6cMbyeoqo0&pp=0gcJCd4KAYcqIYzv)
+  
+  Oneself
+  
+  55 views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/WkHdkwDQJ5o/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAvp-cBvdDnVpszIzb7GuwgVO9NEA)\\
+  \\
+  30:07](https://www.youtube.com/watch?v=WkHdkwDQJ5o)
+  
+  ### [Claude's new Cursor killer just dropped](https://www.youtube.com/watch?v=WkHdkwDQJ5o)
+  
+  Theo - t3․gg
+  
+  122K views • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/qwUh7-FjVyM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAzrHCfGG1KTcVTTWF88a5Tx2nKmQ)\\
+  \\
+  14:18](https://www.youtube.com/watch?v=qwUh7-FjVyM)
+  
+  ### [Trump has DISASTER LANDING as Iran GIVES DIRE WARNING!!!](https://www.youtube.com/watch?v=qwUh7-FjVyM)
+  
+  MeidasTouch
+  
+  141K views • 2 hours ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/W6qY69Y_ZZI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA6V5Ix9cBxzDDO4g419OTe3xfc5A)\\
+  \\
+  15:51](https://www.youtube.com/watch?v=W6qY69Y_ZZI)
+  
+  ### [How We Built a 15,000-Strong Community Without Ads (Mike Rizzo)](https://www.youtube.com/watch?v=W6qY69Y_ZZI)
+  
+  Agentee Digital Podcast
+  
+  1 view • 2 weeks ago
+  
+  [![](https://i.ytimg.com/vi/bOHqE--T7-U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDcnKMtI8HBytzxxowUhE5pxoT3-w)\\
+  \\
+  45:27](https://www.youtube.com/watch?v=bOHqE--T7-U)
+  
+  ### [IHIP News: Fascism Expert SOUNDS ALARM as Trump SECRETLY Builds His HIDING PLACE While He COLLAPSES!](https://www.youtube.com/watch?v=bOHqE--T7-U)
+  
+  I've Had It
+  
+  372K views • 17 hours ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/epzzALZ8oYo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBLNxAW_jsln9bniUwaAJwR6oDQCQ)\\
+  \\
+  17:27](https://www.youtube.com/watch?v=epzzALZ8oYo)
+  
+  ### [Deepseek is a Problem](https://www.youtube.com/watch?v=epzzALZ8oYo)
+  
+  Matthew Berman
+  
+  120K views • 4 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/9dY1eA2_VEE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDIakKpc1xvgeWWGujyowd3JMrJyg)\\
+  \\
+  15:12](https://www.youtube.com/watch?v=9dY1eA2_VEE&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [5 Claude Code Niches That'll Blow Up in 2026](https://www.youtube.com/watch?v=9dY1eA2_VEE&pp=ugUEEgJlbg%3D%3D)
+  
+  Geekbot AI
+  
+  941 views • 22 hours ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/fr78adfAnuA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBZZpHhv6KAJikxg9P8fX5jNzMVCw)\\
+  \\
+  15:54](https://www.youtube.com/watch?v=fr78adfAnuA)
+  
+  ### [How to Use AI in Your Business in 2026](https://www.youtube.com/watch?v=fr78adfAnuA)
+  
+  Alex Hormozi
+  
+  153K views • 12 days ago
+  
+  [![](https://i.ytimg.com/vi/Qn2c_U-cWQs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCoENeYFjUaYjJT2sVGT61TV03pyw)\\
+  \\
+  37:01](https://www.youtube.com/watch?v=Qn2c_U-cWQs&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  ### [Hermes Agent: The New OpenClaw?](https://www.youtube.com/watch?v=Qn2c_U-cWQs&pp=ugUEEgJlbtIHCQneCgGHKiGM7w%3D%3D)
+  
+  Greg Isenberg
+  
+  89K views • 13 days ago
+  
+  [![](https://i.ytimg.com/vi/EZcYjH3jAo8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuiuaamxTP2SBYrdV1j4Mkj2cXPw)\\
+  \\
+  9:26](https://www.youtube.com/watch?v=EZcYjH3jAo8&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  ### [The 12 Claude Skills I Use Every Day (Free Download)](https://www.youtube.com/watch?v=EZcYjH3jAo8&pp=ugUHEgVlbi1VUw%3D%3D)
+  
+  Analyst Academy
+  
+  10K views • 2 days ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/C9gKWTzRukM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA3x0MRzKTYLw98NGt6zBIQOPJecw)\\
+  \\
+  1:28:07](https://www.youtube.com/watch?v=C9gKWTzRukM)
+  
+  ### [Claude COWORK Full Course: Zero To Working AI Employee (2026)](https://www.youtube.com/watch?v=C9gKWTzRukM)
+  
+  KJ Rainey
+  
+  180K views • 1 month ago
+  
+  [![](https://i.ytimg.com/vi/r0-Se2P8Oxo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBwbEsqGqxpAAhxpnj5aP102ceUrQ)\\
+  \\
+  8:21](https://www.youtube.com/watch?v=r0-Se2P8Oxo)
+  
+  ### [Breaking: Iranian state media says missiles hit U.S. warship](https://www.youtube.com/watch?v=r0-Se2P8Oxo)
+  
+  MS NOW
+  
+  33K views • 2 hours ago
+  
+  New
+  
+  [![](https://i.ytimg.com/vi/d6nxWP43feU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDP_ELNOvA1umwaP377LdZ_1pkBbw)\\
+  \\
+  1:53:30](https://www.youtube.com/watch?v=d6nxWP43feU&pp=ugUEEgJlbg%3D%3D)
+  
+  ### [Vince Nijhof's $100M+ Ecom Playbook](https://www.youtube.com/watch?v=d6nxWP43feU&pp=ugUEEgJlbg%3D%3D)
+  
+  Elevator Goods and Vince Nijhof
+  
+  28K views • 2 days ago
+  
+  New
+  --- End Content ---

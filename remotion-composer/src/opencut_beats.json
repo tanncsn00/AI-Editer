@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 5.277
+    },
+    {
+      "index": 2,
+      "name": "DISCOVERY",
+      "start": 5.277,
+      "duration": 11.896
+    },
+    {
+      "index": 3,
+      "name": "WOW_1_TEXT_EDIT",
+      "start": 17.173,
+      "duration": 10.797
+    },
+    {
+      "index": 4,
+      "name": "WOW_2_VOICE_CLONE",
+      "start": 27.969,
+      "duration": 14.25
+    },
+    {
+      "index": 5,
+      "name": "WOW_3_VIRAL_CLIP",
+      "start": 42.219,
+      "duration": 14.89
+    },
+    {
+      "index": 6,
+      "name": "WOW_4_TIKTOK_EXPORT",
+      "start": 57.109,
+      "duration": 17.794
+    },
+    {
+      "index": 7,
+      "name": "INSIGHT",
+      "start": 74.903,
+      "duration": 14.52
+    },
+    {
+      "index": 8,
+      "name": "INSTALL",
+      "start": 89.423,
+      "duration": 9.196
+    },
+    {
+      "index": 9,
+      "name": "CTA",
+      "start": 98.619,
+      "duration": 5.887
+    }
+  ],
+  "total_duration": 104.506
+}

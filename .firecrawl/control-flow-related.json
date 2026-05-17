@@ -1,0 +1,659 @@
+Nate Codes
+  URL: https://x.com/Nateemerson/status/2046225651535913168
+  Don't use prompts for control flow. Use control flow for control flow. Not just for coding agents. A photo of Dex onstage with a slide that ...
+
+  --- Content ---
+  # Post by @Nateemerson
+  
+  Author: Nate Codes @Nateemerson
+  Posted: Mon, 20 Apr 2026 13:53:07 GMT
+  URL: [https://x\.com/Nateemerson/status/2046225651535913168](https://x.com/Nateemerson/status/2046225651535913168)
+  Likes: 19 | Retweets: 3
+  
+  ## Post
+  
+  > Don’t use prompts for control flow
+  >
+  > Use control flow for control flow
+  >
+  > Not just for coding agents
+  
+  ## Top Comments
+  
+  ### 1. @StatisticsFTW
+  Author: Robert Balicki \(👀 @IsographLabs\)
+  Posted: Mon, 20 Apr 2026 15:51:54 GMT
+  URL: [https://x\.com/StatisticsFTW/status/2046255545372250136](https://x.com/StatisticsFTW/status/2046255545372250136)
+  
+  > Yes!!! That's the only way to create more reliable abstractions
+  
+  Likes: 2
+  
+  ### 2. @willking
+  Author: Will King
+  Posted: Mon, 20 Apr 2026 14:09:54 GMT
+  URL: [https://x\.com/willking/status/2046229877154517057](https://x.com/willking/status/2046229877154517057)
+  
+  > lol literally came to this conclusion about a specific process this morning.
+  
+  Likes: 1
+  
+  ### 3. @SheltonLouisGT
+  Author: Shelton Louis
+  Posted: Mon, 20 Apr 2026 16:41:53 GMT
+  URL: [https://x\.com/SheltonLouisGT/status/2046268124706611648](https://x.com/SheltonLouisGT/status/2046268124706611648)
+  
+  > What does that mean. How would you do control flow with prompts. Does it come down to If instructions?
+  
+  Likes: 0
+  
+  ### 4. @munawar2434
+  Author: Munawar Shah
+  Posted: Mon, 20 Apr 2026 19:18:41 GMT
+  URL: [https://x\.com/munawar2434/status/2046307584433631616](https://x.com/munawar2434/status/2046307584433631616)
+  
+  > But what if you want intelligent routing? I don’t understand. This is what LLMs are good at
+  
+  Likes: 0
+  
+  --- End Content ---
+
+AI agents don't just follow prompts anymore… they're starting to run ...
+  URL: https://www.reddit.com/r/AI_Agents/comments/1t02zgy/ai_agents_dont_just_follow_prompts_anymore_theyre/
+  AI agents don't just follow prompts anymore… they're starting to run themselves · Agents are now being evaluated on results, not steps → Less ...
+
+Your AI Agents Do Not Need More Prompts. They Need Better Events
+  URL: https://medium.com/@samurai.stateless.coder/your-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff
+  Most AI agents are not failing because their prompts are weak. They fail because they miss the right signals at the right time.
+
+  --- Content ---
+  [Sitemap](https://medium.com/sitemap/sitemap.xml)
+  
+  [Open in app](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=post_page---top_nav_layout_nav-----------------------------------------)
+  
+  Sign up
+  
+  [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40samurai.stateless.coder%2Fyour-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+  
+  [Medium Logo](https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------)
+  
+  Get app
+  
+  [Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------)
+  
+  [Search](https://medium.com/search?source=post_page---top_nav_layout_nav-----------------------------------------)
+  
+  Sign up
+  
+  [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40samurai.stateless.coder%2Fyour-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff&source=post_page---top_nav_layout_nav-----------------------global_nav------------------)
+  
+  ![](https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png)
+  
+  Member-only story
+  
+  # Your AI Agents Do Not Need More Prompts. They Need Better Events
+  
+  [![The Stateless Samurai](https://miro.medium.com/v2/resize:fill:32:32/1*OaQq_IM_xSNQjQ17IU_9sw@2x.jpeg)](https://medium.com/@samurai.stateless.coder?source=post_page---byline--157af28245ff---------------------------------------)
+  
+  [The Stateless Samurai](https://medium.com/@samurai.stateless.coder?source=post_page---byline--157af28245ff---------------------------------------)
+  
+  Follow
+  
+  8 min read
+  
+  ·
+  
+  Apr 22, 2026
+  
+  5
+  
+  [Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D157af28245ff&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40samurai.stateless.coder%2Fyour-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff&source=---header_actions--157af28245ff---------------------post_audio_button------------------)
+  
+  Share
+  
+  Press enter or click to view image in full size
+  
+  ![](https://miro.medium.com/v2/resize:fit:700/1*J9E-enzlBlsDTd8yEPXvKw.jpeg)
+  
+  The approval was already there.
+  
+  The data had already come back.
+  
+  The human had already done the part everyone was waiting for.
+  
+  And still the agent behaved like the world had not changed at all.
+  
+  That was the moment I stopped being impressed by clever prompts.
+  
+  I had spent too much energy trying to make the agent sound smarter. I kept rewriting instructions. I kept tightening wording. I kept adding guardrails, extra rules, fallback steps, and neat little sections that looked brilliant inside a document and weak inside a real system.
+  
+  The prompt kept getting better.
+  
+  The agent did not.
+  
+  That was the part that bothered me.
+  
+  It was not failing because it lacked language. It was failing because it lacked awareness. It did not know what had just changed. It did not know why that change mattered. It did not know when to wake up, stop, continue, or throw away its old plan.
+  
+  That is when the whole thing became painfully clear to me.
+  
+  Most AI agents do not need more prompts.
+  
+  They need better events.
+  
+  ## The Day I Stopped Blaming The Prompt
+  
+  For a while, I was convinced the problem had to be in the wording.
+  
+  That is where many of us go first.
+  
+  The agent misses context, so we expand the system prompt.
+  
+  The agent takes the wrong step, so we add more examples.
+  
+  The agent repeats itself, so we add more rules.
+  
+  The agent ignores a tool result, so we explain the tool harder.
+  
+  It feels productive because the prompt is the most visible part of the system. You can open it, edit it, polish it, and feel like progress is happening.
+  
+  But production systems are rude. They do not care how elegant your prompt looks.
+  
+  A document gets updated.
+  
+  A user changes their mind.
+  
+  A human approves a draft.
+  
+  A payment fails.
+  
+  A tool times out.
+  
+  A policy check blocks the next step.
+  
+  A second reply arrives and makes the first…
+  
+  ## Create an account to read the full story.
+  
+  The author made this story available to Medium members only.
+  
+  If you’re new to Medium, create a new account to read this story on us.
+  
+  [Continue in app](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3Dregwall&source=-----157af28245ff---------------------post_regwall------------------)
+  
+  Or, continue in mobile web
+  
+  [Sign up with Google](https://medium.com/m/connect/google?state=google-%7Chttps%3A%2F%2Fmedium.com%2F%40samurai.stateless.coder%2Fyour-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff%3Fsource%3D-----157af28245ff---------------------post_regwall------------------%26skipOnboarding%3D1%7Cregister%7Cremember_me&source=-----157af28245ff---------------------post_regwall------------------)
+  
+  [Sign up with Facebook](https://medium.com/m/connect/facebook?state=facebook-%7Chttps%3A%2F%2Fmedium.com%2F%40samurai.stateless.coder%2Fyour-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff%3Fsource%3D-----157af28245ff---------------------post_regwall------------------%26skipOnboarding%3D1%7Cregister%7Cremember_me&source=-----157af28245ff---------------------post_regwall------------------)
+  
+  Sign up with email
+  
+  Already have an account? [Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F%40samurai.stateless.coder%2Fyour-ai-agents-do-not-need-more-prompts-they-need-better-events-157af28245ff&source=-----157af28245ff---------------------post_regwall------------------)
+  
+  [![The Stateless Samurai](https://miro.medium.com/v2/resize:fill:48:48/1*OaQq_IM_xSNQjQ17IU_9sw@2x.jpeg)](https://medium.com/@samurai.stateless.coder?source=post_page---post_author_info--157af28245ff---------------------------------------)
+  
+  [![The Stateless Samurai](https://miro.medium.com/v2/resize:fill:64:64/1*OaQq_IM_xSNQjQ17IU_9sw@2x.jpeg)](https://medium.com/@samurai.stateless.coder?source=post_page---post_author_info--157af28245ff---------------------------------------)
+  
+  Follow
+  
+  [**Written by The Stateless Samurai**](https://medium.com/@samurai.stateless.coder?source=post_page---post_author_info--157af28245ff---------------------------------------)
+  
+  [1.7K followers](https://medium.com/@samurai.stateless.coder/followers?source=post_page---post_author_info--157af28245ff---------------------------------------)
+  
+  · [12 following](https://medium.com/@samurai.stateless.coder/following?source=post_page---post_author_info--157af28245ff---------------------------------------)
+  
+  I write about what breaks, what scales, and what nobody wants to admit in software engineering.
+  
+  Follow
+  
+  [Help](https://help.medium.com/hc/en-us?source=post_page-----157af28245ff---------------------------------------)
+  
+  [Status](https://status.medium.com/?source=post_page-----157af28245ff---------------------------------------)
+  
+  [About](https://medium.com/about?autoplay=1&source=post_page-----157af28245ff---------------------------------------)
+  
+  [Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----157af28245ff---------------------------------------)
+  
+  [Press](mailto:pressinquiries@medium.com)
+  
+  [Blog](https://blog.medium.com/?source=post_page-----157af28245ff---------------------------------------)
+  
+  [Privacy](https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----157af28245ff---------------------------------------)
+  
+  [Rules](https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----157af28245ff---------------------------------------)
+  
+  [Terms](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----157af28245ff---------------------------------------)
+  
+  [Text to speech](https://speechify.com/medium?source=post_page-----157af28245ff---------------------------------------)
+  
+  reCAPTCHA
+  
+  Recaptcha requires verification.
+  
+  protected by **reCAPTCHA**
+  --- End Content ---
+
+AI agents need operating rules, not just prompts - DEV Community
+  URL: https://dev.to/linou518/ai-agents-need-operating-rules-not-just-prompts-2d70
+  AI agents need operating rules, not just prompts. When people start using AI agents, the first thing they usually optimize is the prompt.
+
+  --- Content ---
+  # AI agents need operating rules, not just prompts
+  
+  When people start using AI agents, the first thing they usually optimize is the prompt.
+  
+  That is not wrong. It is just usually not enough.
+  
+  If you want an agent to move from “sometimes gives a good answer” to “delivers work reliably every day,” the real limit is often not prompt quality. It is whether the agent has clear operating rules.
+  
+  By operating rules, I do not mean abstract principles. I mean the hard constraints that directly change execution quality:
+  
+  - what must be checked before taking action
+  - which facts must be verified instead of recalled from memory
+  - which files and directories are in scope and which are off-limits
+  - whether failure should trigger exit, retry, or escalation
+  - when the agent may proceed autonomously and when it must stop for human review
+  
+  Without those rules, agents tend to develop a familiar failure mode: they look proactive, but the results are inconsistent.
+  
+  ## Prompts alone do not stabilize branching work
+  
+  Prompts are good at telling an agent what kind of behavior is desired.
+  
+  What is harder in real workflows is defining the order of decisions and the conditions for branching.
+  
+  Even a simple scheduled publishing job contains real operational branches:
+  
+  1. Is there source material for today?
+  2. Does it need editing and redaction?
+  3. Do different platforms require different language versions?
+  4. If one platform token is invalid, should the rest continue?
+  5. Where should published files be archived?
+  
+  A single instruction like “publish today’s blog post to four platforms” may succeed once.
+  
+  But when inputs are missing, credentials expire, or a repo contains uncommitted changes, the agent starts improvising. Improvisation is not the same as intelligence. In production, it often means unauditable randomness.
+  
+  ## Operating rules are what create consistency
+  
+  An agent becomes useful over time only if similar problems receive similar-quality handling.
+  
+  That means moving key decisions from “figure it out on the spot” to “define it in advance.”
+  
+  The most important rule categories are these.
+  
+  ### 1\. Preflight rules
+  
+  Check inputs, credentials, target paths, and external dependencies before execution starts.
+  
+  This sounds basic, but it prevents a large class of low-level failures. Many automation incidents happen not because the model is incapable, but because the workflow keeps running after its prerequisites have already failed.
+  
+  ### 2\. Evidence-first rules
+  
+  If a file can be read, do not guess. If logs exist, do not imagine. If an API returned a status, do not rely on impressions.
+  
+  One of the biggest risks with agents is not inability. It is confidence without verification.
+  
+  ### 3\. Scope rules
+  
+  Define what the agent may change and what it may not touch.
+  
+  For example, the workspace may be reserved for configuration and memory, project files may live in a shared project directory, and temporary artifacts may be restricted to a known temp area. Without scope rules, environments become messy quickly and later audits become expensive.
+  
+  ### 4\. Escalation rules
+  
+  When the agent hits a permission boundary or lacks enough information, the rule should require escalation rather than self-invented recovery.
+  
+  That may look conservative, but it matters in real systems.
+  
+  ## Prompts shape style; rules shape operability
+  
+  Prompts still matter. They affect tone, writing quality, preference ordering, and the overall feel of the agent.
+  
+  But the questions that decide whether an agent can be used in daily operations are more practical:
+  
+  - Does it check dependencies first?
+  - Does it leave a traceable record?
+  - Does it admit uncertainty when facts are missing?
+  - Can it separate partial success from failure?
+  - Can it stop before crossing a boundary?
+  
+  Those answers usually do not live in prompt wording. They live in operating rules.
+  
+  ## A simple maturity test
+  
+  If you want to judge whether an agent system is mature, do not start by asking how long the prompt is. Ask these four questions instead:
+  
+  1. Does it have a fixed startup checklist?
+  2. Does it have explicit file and permission boundaries?
+  3. Does it define what to do after failure?
+  4. Can it record important decisions for later review?
+  
+  If two or more of those are missing, the system is probably still in the “good demo” stage rather than the “operational tool” stage.
+  
+  ## Conclusion
+  
+  Turning an AI agent from a demo into a stable production tool is not mainly about making the prompt sound more human. It is about designing operating rules that make the workflow behave like a system.
+  
+  Prompts define expression. Rules define constraints. Prompts influence how the agent speaks. Rules determine how it works.
+  
+  If I had to strengthen only one of them first, I would strengthen the rules. Most production failures are not caused by tone. They come from missing boundaries, missing checks, and missing failure handling.
+  
+  [![profile](https://media2.dev.to/dynamic/image/width=64,height=64,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F634%2Fc6bfc78f-136d-456b-96dc-bcc4be1c88f9.jpg)\\
+  Auth0](https://dev.to/auth0) Promoted
+  
+  Dropdown menu
+  
+  - [What's a billboard?](https://dev.to/billboards)
+  - [Manage preferences](https://dev.to/settings/customization#sponsors)
+  
+  * * *
+  
+  - [Report billboard](https://dev.to/report-abuse?billboard=261636)
+  
+  [![Auth0 image](https://media2.dev.to/dynamic/image/width=775%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgur.com%2FlL0TGmi.png)](https://auth0.com/signup?utm_source=devto&utm_campaign=amer_namer_usa_all_ciam-dev_dg-plg_auth0_native_devto_native_aud_native-q12026_utm2&utm_medium=cpc&utm_id=aNKWR000002xVcv4AE&bb=261636)
+  
+  ## [The first and last auth platform you'll ever need.](https://auth0.com/signup?utm_source=devto&utm_campaign=amer_namer_usa_all_ciam-dev_dg-plg_auth0_native_devto_native_aud_native-q12026_utm2&utm_medium=cpc&utm_id=aNKWR000002xVcv4AE&bb=261636)
+  
+  [Get started today](https://auth0.com/signup?utm_source=devto&utm_campaign=amer_namer_usa_all_ciam-dev_dg-plg_auth0_native_devto_native_aud_native-q12026_utm2&utm_medium=cpc&utm_id=aNKWR000002xVcv4AE&bb=261636)
+  
+  Read More
+  
+  
+  ![pic](https://media2.dev.to/dynamic/image/width=256,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
+  
+  [Create template](https://dev.to/settings/response-templates)
+  
+  Templates let you quickly answer FAQs or store snippets for re-use.
+  
+  SubmitPreview [Dismiss](https://dev.to/404.html)
+  
+  Are you sure you want to hide this comment? It will become hidden in your post, but will still be visible via the comment's [permalink](https://dev.to/linou518/ai-agents-need-operating-rules-not-just-prompts-2d70#).
+  
+  
+  Hide child comments as well
+  
+  Confirm
+  
+  
+  For further actions, you may consider blocking this person and/or [reporting abuse](https://dev.to/report-abuse)
+  
+  [![profile](https://media2.dev.to/dynamic/image/width=64,height=64,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg)\\
+  The DEV Team](https://dev.to/devteam) Promoted
+  
+  Dropdown menu
+  
+  - [What's a billboard?](https://dev.to/billboards)
+  - [Manage preferences](https://dev.to/settings/customization#sponsors)
+  
+  * * *
+  
+  - [Report billboard](https://dev.to/report-abuse?billboard=263299)
+  
+  [![100 Days of Solana image](https://media2.dev.to/dynamic/image/width=775%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.imgur.com%2F6QJf70T.png)](https://events.mlh.io/events/13995-100-days-of-solana?bb=263299)
+  
+  ## [Explored Web3 but not sure where to start?](https://events.mlh.io/events/13995-100-days-of-solana?bb=263299)
+  
+  100 Days of Solana is a hands-on challenge series that takes you from curiosity to capability. By the end, you won’t just understand Solana, you’ll be ready to build something useful with it.
+  
+  [Start here](https://events.mlh.io/events/13995-100-days-of-solana?bb=263299)
+  
+  DEV Community
+  
+  Dropdown menu
+  
+  - [What's a billboard?](https://dev.to/billboards)
+  - [Manage preferences](https://dev.to/settings/customization#sponsors)
+  
+  * * *
+  
+  - [Report billboard](https://dev.to/report-abuse?billboard=263406)
+  
+  x
+  
+  [![Gemma 4 Challenge — $3,000 prize pool](https://media2.dev.to/dynamic/image/width=880%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fczn2cg5v69244azqpniu.png)](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-566b?bb=263406)
+  
+  # Ten winners. $3,000 in prizes. What will you build?
+  
+  Build something useful or creative with Gemma 4 and you could win $500 + a DEV++ membership.
+  
+  [Join Now](https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-566b?bb=263406)
+  
+  ![DEV Community](https://media2.dev.to/dynamic/image/width=190,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png)
+  
+  We're a place where coders share, stay up-to-date and grow their careers.
+  
+  
+  [Log in](https://dev.to/enter?signup_subforem=1) [Create account](https://dev.to/enter?signup_subforem=1&state=new-user)
+  
+  ![](https://assets.dev.to/assets/sparkle-heart-5f9bee3767e18deb1bb725290cb151c25234768a0e9a2bd39370c382d02920cf.svg)![](https://assets.dev.to/assets/multi-unicorn-b44d6f8c23cdd00964192bedc38af3e82463978aa611b4365bd33a0f1f4f3e97.svg)![](https://assets.dev.to/assets/exploding-head-daceb38d627e6ae9b730f36a1e390fca556a4289d5a41abb2c35068ad3e2c4b5.svg)![](https://assets.dev.to/assets/raised-hands-74b2099fd66a39f2d7eed9305ee0f4553df0eb7b4f11b01b6b1b499973048fe5.svg)![](https://assets.dev.to/assets/fire-f60e7a582391810302117f987b22a8ef04a2fe0df7e3258a5f49332df1cec71e.svg)
+  --- End Content ---
+
+Writer launches AI agents that can act without prompts, taking on ...
+  URL: https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce
+  Writer launched autonomous, event-triggered AI agents that monitor apps like Gmail, Slack and Gong, act without prompts, and challenge ...
+
+  --- Content ---
+  [Michael Nuñez](https://venturebeat.com/author/michael_nunez)
+  
+  9:00 am, PT, April 30, 2026
+  
+  
+  ![nuneybits Vector art of robot secretary typing on glowing typew bdb6fb50-e1f2-4f80-a241-560e6d906a91](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F2A4wsP5BX8u0ZylzUEOncb%2Fd97852834fdd610f61a1f5d79609d4ea%2Fnuneybits_Vector_art_of_robot_secretary_typing_on_glowing_typew_bdb6fb50-e1f2-4f80-a241-560e6d906a91.webp%3Fw%3D1000%26q%3D100&w=3840&q=85)
+  
+  Credit: VentureBeat made with Midjourney
+  
+  [Add to Google Preferred Source](https://www.google.com/preferences/source?q=venturebeat.com "Add to Google Preferred Source")
+  
+  [Writer](https://writer.com/), the enterprise AI agent platform backed by [Salesforce Ventures](https://salesforceventures.com/), [Adobe Ventures](https://www.adobe.com/ventures.html), and [Insight Partners](https://www.insightpartners.com/), today launched event-based triggers for its [Writer Agent](https://writer.com/product/writer-agent/) platform, enabling AI agents to autonomously detect business signals across Gmail, Gong, Google Calendar, Google Drive, Microsoft SharePoint, and Slack — and execute complex multi-step workflows without any human initiating the process.
+  
+  The release, which also includes a new [Adobe Experience Manager](https://business.adobe.com/products/experience-manager/sites/content-creation.html?s_iid=7015Y000003t125QAA&s_cid=7015Y000003t8BwQAI&sdid=Y2KRGPTN&mv=search&edtamo=true&ef_id=Cj0KCQjw2MbPBhCSARIsAP3jP9wxPTHHkVmXRWwXDNGw0nfigkoRLgBP2K9wRUxQ2dcauaUbOQ2XqL0aAm_EEALw_wcB:G:s&s_kwcid=AL!3085!3!805593600639!p!!g!!adobe%20experience%20manager!23756002971!197077065113&gad_source=1&gad_campaignid=23756002971&gbraid=0AAAAADOODJTeeN1oEsutTpXaLQzxfDXNZ&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9wxPTHHkVmXRWwXDNGw0nfigkoRLgBP2K9wRUxQ2dcauaUbOQ2XqL0aAm_EEALw_wcB) connector and a suite of enhanced governance controls such as bring-your-own encryption keys and a [Datadog](https://www.datadoghq.com/) observability plugin, represents Writer's most aggressive bet yet on fully autonomous enterprise AI. It arrives at a moment when [AWS](https://aws.amazon.com/), [Salesforce](https://www.salesforce.com/), and [Microsoft](https://www.microsoft.com/en-us) are all racing to establish their own agentic platforms, and when the question of how much autonomy enterprises will actually hand to AI agents remains deeply unresolved.
+  
+  "We are launching a series of event triggers that power and drive our playbooks to be more proactively called," Doris Jwo, Writer's VP of Product Management, told VentureBeat ahead of the announcement. "We're building on the ecosystem to actually for these connectors, such as SharePoint, Google Drive, Gong, Gmail, Google Calendar, actually listen for events happening in those platforms, so that the agent can practically know that something happened externally, and then, where relevant, call a certain playbook to be actually run live in real time, without any sort of human intervention required."
+  
+  The shift from reactive to proactive AI agents marks a critical inflection point for enterprise software. Until now, most AI assistants — including Writer's own platform — required a human to initiate every interaction. A marketer had to open a chat window and ask for help. A salesperson had to prompt a research brief. The new event-based triggers flip that dynamic entirely: the system watches for business events and acts on its own.
+  
+  ## **Why Writer decided humans were the weakest link in enterprise AI workflows**
+  
+  Writer's push toward autonomous triggers stems from a practical observation its product team made as enterprise customers scaled their use of the platform's playbooks — the reusable, natural-language workflows that Writer introduced in November 2025 to let business users automate recurring tasks without writing code.
+  
+  "What we found is, as playbooks continue to get integrated into enterprise workflows, it's actually humans that become the bottleneck in making sure that playbooks get triggered," Jwo said. "This really kind of solves that problem, to make sure that that sort of always-on, proactive, autonomous nature of that agent has continued to be built on."
+  
+  The mechanics work like this: Writer's connectors, which already provided read and write access to third-party enterprise tools, now also listen for specific events — an email arriving in Gmail, a sales call completing in Gong, a new file landing in a Google Drive folder, a meeting starting or ending on Google Calendar, a message posted in Slack. When the system detects a qualifying event, it triggers a predefined playbook that executes a multi-step workflow autonomously.
+  
+  Consider the use case Jwo described for marketing teams already running on Writer's platform. An email campaign workflow typically begins when a creative brief lands in a Google Drive folder. From there, multiple team members coordinate through Slack to assemble research, build assets, draft copy, review graphics, and package everything for a campaign management tool. Writer's event-based triggers collapse much of that chain: the moment a brief hits the designated folder, the system automatically fires a cascade of playbooks that assemble the research, generate the assets, and prepare deliverables for human review.
+  
+  "All the playbooks that our customers have been building with us to build all those each individual pieces now just get automatically triggered the minute that initial brief kind of hits the Google Drive folder," Jwo said. "That's, I think, a very common workflow for most of these marketing sort of, like, content-heavy use cases, where it's multiple parties involved, it's a lot of assets coming together in a cascade."
+  
+  ## **How Writer's AI reasoning engine separates it from simple automation tools like Zapier**
+  
+  The comparison to [Zapier](https://zapier.com/) — the popular automation tool that connects thousands of apps through if-this-then-that logic — is inevitable, and Jwo addressed it directly.
+  
+  "It's more than just an LLM in the middle," she said. "It is an agent with reasoning and then access to a really powerful set of tools that includes connectors, that includes its own virtual sandbox, which enables it to do things like write and execute code on the fly and create those assets."
+  
+  The distinction matters for understanding where Writer sits in an increasingly crowded landscape. Zapier and similar workflow automation tools require users to manually define rigid logic paths, specifying exact conditions and actions in a deterministic sequence. Writer's approach uses its [Palmyra-powered reasoning engine](https://venturebeat.com/ai/why-writers-palmyra-llm-is-the-little-ai-model-that-could-for-enterprises) to process event context and make real-time execution decisions. Users describe their goals in natural language rather than dragging around boxes and defining conditional branches.
+  
+  "It's not quite Zapier, because I think it requires a lot more — it's more rigid," Jwo said of traditional automation tools. "It requires more manual kind of setup to define the logic and the roles and the conditions for which a workflow has to be run." Writer's playbooks, by contrast, allow "a simple idea to turn into something that's actually executable and repeatable," she added, noting that builds take "hours and days, not weeks and months."
+  
+  This natural-language accessibility has been central to Writer's strategy since it introduced the Agent platform and playbooks last November. The company has consistently positioned itself as a platform that puts power in the hands of business users — marketers, sales teams, operations leads — rather than requiring engineering resources to build and maintain AI workflows. Writer CEO May Habib made this case forcefully at Davos earlier this year, arguing that the leaders pulling ahead are those entering what she called " [rebuild mode](https://writer.com/blog/davos-takeaway-2026/)" — stripping workflows down to outcomes and eliminating what she described as the " [coordination tax](https://writer.com/blog/davos-takeaway-2026/)" of endless handoffs, status meetings, and alignment emails.
+  
+  The event-based triggers extend that philosophy to its logical conclusion. If business users can build playbooks in natural language, and those playbooks can now fire automatically based on real-world business events, then the entire loop from signal to action can operate with minimal human involvement.
+  
+  ## **Inside the governance controls Writer built to make autonomous AI agents safe for regulated enterprises**
+  
+  That level of autonomy raises obvious concerns, and Writer appears to understand that governance is the linchpin of the entire strategy. The company paired its trigger launch with a substantial expansion of its administrative controls — a combination that suggests Writer views enterprise trust as its primary competitive weapon.
+  
+  The new governance features include [Connector Profiles](https://writer.com/blog/writer-connectors/), which allow administrators to configure multiple versions of the same connector with different permissions per team; Writer Agent Profiles for deploying customized agent configurations with specific capability toggles and security settings; AI Studio Observability for auditable tracking of every agent interaction; a Datadog Logs Plugin that forwards every LLM request and response as structured log events; and bring-your-own encryption key support through AWS, Azure, or GCP key management services.
+  
+  "A really important part of that, and a baseline, sort of foundation for everything that we roll out, is our observability and governance platform," Jwo told VentureBeat. "When connectors are set up, admins have full control over connector access, what is set up, who has access, which teams exactly are those access granted to, as well as individually, which exact tools do teams are able to call."
+  
+  The observability story extends to the individual user level as well. Jwo described [Writer Agent's](https://writer.com/product/writer-agent/) user experience as built around progressive disclosure — clean initial views that users can expand to inspect the full chain of reasoning behind any agent action. "You can drill down to the actual tool call level," she said. "You'd actually have the ability to look at specifically what web search results were pulled, what connector was called, what tool called, what succeeded, what failed, how did the agent divert its path to fulfill your goal."
+  
+  This transparency architecture reflects a broader conviction Writer has articulated through what it calls " [The Agentic Compact](https://writer.com/blog/agentic-compact/)" — a framework the company published for responsible AI that emphasizes foundational transparency, auditability, and human oversight. Dan Bikel, Writer's head of AI, has argued publicly that the industry's obsession with model scale has created what he calls a "transparency paradox," leaving businesses with powerful tools they cannot fully understand or control. Writer's governance-first approach to autonomous triggers represents the operational expression of that philosophy.
+  
+  Writer also introduced its [agent supervision suite](https://writer.com/blog/writer-supervise-press-release/) in December 2025, offering centralized monitoring, agent approval workflows, global guardrails, and integrations with external observability and security platforms like Datadog, Noma, and Lakera. The event-based triggers now extend that governance framework to cover actions initiated without any human in the loop — a meaningfully harder problem.
+  
+  ## **Writer takes aim at AWS, Salesforce, and Microsoft in the escalating agentic platform wars**
+  
+  The timing of Writer's announcement is not accidental. The enterprise agentic AI market has entered a period of intense platform competition, with the largest technology companies in the world staking claims to the same territory Writer occupies.
+  
+  Jwo acknowledged the pressure directly when asked why a CIO would choose Writer over established vendor relationships with AWS, Salesforce, or Microsoft — all of which have announced agentic platforms of their own.
+  
+  "At the baseline, I think we have all the pieces to be fully enterprise-grade and ready," Jwo said. But she argued that Writer's real advantage lies in accessibility for non-technical users. "A lot of the challenge has been: how do we get business users to actually be able to build these powerful workflows in a way that maybe a technical user, using coding agents, can do very quickly and well, but the typical business user is not accustomed to anything beyond typical prompting to actually create?"
+  
+  That positioning — enterprise-grade capabilities wrapped in a business-user-friendly interface — has been Writer's core differentiation since the company's founding in 2020. It is also the reason Writer has attracted strategic investment from [Salesforce Ventures](https://salesforceventures.com/) and [Adobe Ventures](https://www.adobe.com/ventures.html), both of which are building their own AI platforms but apparently see value in Writer's approach to the business-user segment.
+  
+  The company's March 2026 release of [Skills](https://writer.com/blog/writer-skills-team-expertise/) — reusable building blocks that encode a team's specific methodologies, quality standards, and decision frameworks into the Agent platform — reinforced this direction. Skills allow marketing teams, for instance, to capture exactly how their best strategist structures competitive analysis or formats campaign briefs, then make that expertise available to every team member and every playbook across the organization. Combined with event-based triggers, the result is a system where institutional knowledge executes automatically in response to real-world business events.
+  
+  Writer's 2026 AI adoption survey, conducted with Workplace Intelligence and covering 2,400 global executives, found that 79% of enterprises face AI adoption challenges despite high investment — and that organizations with strong change management programs are six times more likely to reach production. Writer CMO Diego Lomanto has argued that the real barrier to AI adoption is not technology but trust, writing that "they treat resistance as a training problem when it's actually a trust problem." The governance-heavy approach to event-based triggers appears designed to address exactly that dynamic.
+  
+  ## **Salesforce, SAP, and Workday triggers are next as Writer expands its connector roadmap**
+  
+  Writer's initial event trigger support covers [Gmail](https://www.google.com/gmail), [Gong](https://www.gong.io/), [Google Calendar](https://calendar.google.com/), [Google Drive](http://drive.google.com/), [SharePoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration), and [Slack](https://slack.com/) — tools that Jwo described as "generally the most applicable to every end user." But the company has its eye on deeper enterprise system integration.
+  
+  When asked about CRM and ERP triggers for systems like [Salesforce](https://www.salesforce.com/), [SAP](https://www.sap.com/index.html), and [Workday](https://www.workday.com/en-us/homepage.html), Jwo confirmed these are within the scope of the roadmap. "You can imagine, you know, a Salesforce opportunity is created that may trigger a cascade of events that happens," she said. "You might want to set up the right assets, maybe the right customer environment, all sorts of things can kind of cascade from that."
+  
+  The connector ecosystem has been a strategic priority since Writer launched its MCP (Model Context Protocol) gateway in November 2025, providing governed agent access across enterprise systems including Microsoft 365, Google Workspace, HubSpot, Gong, PitchBook, FactSet, and others. The addition of Adobe Experience Manager in this release gives marketing teams direct read/write access to pages, fragments, and digital assets in Adobe's content management system — a connector that closes the gap between AI-generated content and published output.
+  
+  Jwo clarified that in most integration scenarios, Writer Agent delivers content in a draft state rather than publishing it directly. "Writer Agent basically accomplishes the majority of the workload — pulling together the assets, making the changes and presenting — and then hopefully a person just has to go through the last three or so final steps to get it out," she said.
+  
+  ## **The real question enterprise AI must answer: how much autonomy is too much autonomy**
+  
+  The degree of autonomy enterprises are comfortable granting their AI agents remains one of the most consequential open questions in the industry. Jwo acknowledged that most customers still maintain human checkpoints in their workflows.
+  
+  "You can also build in instructions into our playbooks to say, 'Hey, before you move on to a next playbook, make sure that you check with me. I want to take a look, and then if I hit go, then you're good to go,'" she said. The agent can also be designed with self-QA capabilities, validating outputs against known pitfalls before proceeding.
+  
+  Writer plans to expand these checkpoint capabilities in the coming quarter, adding the ability to specify not just that a checkpoint is required but which specific person must respond and what types of responses are expected — essentially building a formal approval workflow into the autonomous trigger chain.
+  
+  Jwo characterized the current system as a hybrid: the platform listens deterministically for predefined events, but the agent applies reasoning to decide what action to take — or whether to act at all. "The agent has the ability to process what happened, understand the context of it, and understand the intent of what you want to do, so it can make that decision," she said. "You're just saying, like, 'Hey, the goal might be feedback is coming in, and we want to triage that in real time. And some things we might not want to action on, some things we do.' You basically just explain that to the agent."
+  
+  She views this release as a stepping stone toward a future where agents are "even more mission-driven, and less governed by even like a set of instructions or roles" — a future where the AI doesn't just respond to triggers but proactively identifies when action is needed based on broader organizational goals.
+  
+  For now, Writer is betting that the combination of autonomous triggers, robust governance, and business-user accessibility will be enough to carve out defensible territory in an enterprise AI market where the biggest technology companies in the world are all converging on the same set of capabilities. The company's argument is that having the foundational pieces is not enough — what matters is making those pieces work together in a way that non-technical business users can build, manage, and trust.
+  
+  It is, in other words, the same wager Writer has been making since 2020 — that the future of enterprise AI belongs not to the platform with the most powerful model, but to the one that can get an entire organization to actually use it. The difference now is that the agents don't wait to be asked.
+  
+  Event-based triggers, new connectors, and enhanced governance controls are available immediately to Writer enterprise customers.
+  
+  ## More
+  
+  [![RL conductor](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F1Pjru88KYRcP7uhAUoAFdr%2Fa8b3cbf6d225a6cc02672e589ca22917%2FRL_conductor.jpg%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Image credit: VentureBeat with ChatGPT](https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro)
+  
+  A 7B model that learns to route tasks across GPT-5, Claude Sonnet 4, and Gemini 2.5 Pro — using RL instead of hardcoded workflows.
+  
+  [Ben Dickson](https://venturebeat.com/author/ben-dickson-techtalks)
+  May 7, 2026
+  
+  
+  [![Sailboat sailing away from AMD GPUs](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F3g0YSaIRPGTCOtaBzSDZ1L%2F64a806f337067d6d6a56be1a8acca4a1%2FChatGPT_Image_May_7__2026__01_41_44_PM.png%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat made with ChatGPT Images 2.0](https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus)
+  
+  The real headline is what ZAYA1-8B was trained on: a full stack of AMD Instinct MI300 graphics processing units (GPUs), the rival to Nvidia GPUs.
+  
+  [Carl Franzen](https://venturebeat.com/author/carlfranzen)
+  May 7, 2026
+  
+  
+  [![AdobeStock 732816056 Preview](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F1y3TXpSkw5nQK9Sy9FNHku%2Fe60fb07290ac985fb32268f2bc5f46e0%2FAdobeStock_732816056.jpeg%3Fw%3D1000%26q%3D100&w=3840&q=50)](https://venturebeat.com/orchestration/why-ai-breaks-without-context-and-how-to-fix-it)
+  
+  Partner Content
+  
+  _Presented by Zeta Global_
+  
+  [Neej Gore, Zeta Global](https://venturebeat.com/author/neej-gore-zeta-global)
+  May 7, 2026
+  
+  
+  [![Reachy Mini robot looking at Reachy Mini App Store on Hugging Face](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F3xT1S0gyXEcOaAYkNU008I%2F0c6c6ca91ddaa7372085d9214c57ee35%2FGemini_Generated_Image_4a9bmz4a9bmz4a9b.png%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat made with Google Gemini 3.1 Pro Image](https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps)
+  
+  The new Hugging Face Reachy Mini App Store already hosts a library of over 200 community-built applications, and Reachy Mini owners will be able to download any of these free of charge to start
+  
+  [Carl Franzen](https://venturebeat.com/author/carlfranzen)
+  May 6, 2026
+  
+  
+  [![AdobeStock 752216172 Preview](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6b1kwCBC2TPKsBt1YG4Sx1%2F951fcf029e34b520f412925a4bf27e09%2FAdobeStock_752216172.jpeg%3Fw%3D1000%26q%3D100&w=3840&q=50)](https://venturebeat.com/orchestration/scaling-ai-into-production-is-forcing-a-rethink-of-enterprise-infrastructure)
+  
+  Partner Content
+  
+  _Presented by Nutanix_
+  
+  [VB Staff](https://venturebeat.com/author/vb-staff)
+  May 6, 2026
+  
+  
+  [![introducing-subq](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F1JuwghDCzBw4tsnuqJOGID%2F1f81154d6b90a8c9db9f43f807eac066%2Fintroducing-subq.jpg%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: Subquadratic](https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof)
+  
+  A little-known Miami-based startup called [Subquadratic](https://subq.ai/) emerged from stealth on Tuesday with a sweeping claim: that it has built the first large language model to fully escape the mathematical constraint that has defined — and limited — every major AI system since 2017.
+  
+  [Michael Nuñez](https://venturebeat.com/author/michael_nunez)
+  May 5, 2026
+  
+  
+  [![crimedy7 illustration of a robot trying to remember something 40ad3c2a-097e-454e-a646-8ef5b077c76e 0](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6Zi39GnfOALqIuWt28It2o%2Fc84a5f5983741b4adb11802c2cb7e168%2Fcrimedy7_illustration_of_a_robot_trying_to_remember_something_40ad3c2a-097e-454e-a646-8ef5b077c76e_0.png%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat, generated with MidJourney](https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it)
+  
+  OpenAI updated the default model for ChatGPT to its new GPT-5.5 Instant, along with a new memory capability that finally shows which context shaped responses — at least some of them.
+  
+  [Emilia David](https://venturebeat.com/author/emilia-david)
+  May 5, 2026
+  
+  
+  [![SageOx ](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F7lQ8WWUWyA4bo1ZwrPjuij%2F4f9baf7a50ca65980def0417b7b1c0ae%2FChatGPT_Image_May_5__2026__10_23_25_PM.png%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  A happy content white ox chews grass on a green field surrounded by holographic diagrams and messages against a cloudy greenish hued sky](https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure)
+  
+  Their suite of tools, from the open-source Ox CLI to the hardware-enabled Ox Dot, is designed to solve the immediate problem of alignment drift.
+  
+  [Carl Franzen](https://venturebeat.com/author/carlfranzen)
+  May 5, 2026
+  
+  
+  [![Nuneybits Vector art of pastel watercolors 1980s computer termi ed08da9b-0305-45aa-9851-1d339920bf82](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F1ox3Gl2pPgZrwBNgRnpEaT%2Fa0f613afddab3088909dba53af0cb607%2FNuneybits_Vector_art_of_pastel_watercolors_1980s_computer_termi_ed08da9b-0305-45aa-9851-1d339920bf82.webp%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat made with Midjourney](https://venturebeat.com/technology/openai-turns-its-sold-out-gpt-5-5-party-into-a-monthlong-codex-giveaway-for-8-000-developers)
+  
+  "We had over 8,000 people express interest in just 24 hours, and while we wish our office was big enough to welcome everyone, we weren't able to make space for every person who applied," the company wrote in the email, which VentureBeat obtained. "As a small token of appreciation, we've 10x'ed your Codex rate limits until June 5th on your personal ChatGPT account."
+  
+  [Michael Nuñez](https://venturebeat.com/author/michael_nunez)
+  May 5, 2026
+  
+  
+  [![crimedy7 illustration of a robot on a shopping spree --ar 169 75dad0d3-252d-4c33-b253-e0bb0f047adf 1](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F366YED8XdafVnuQNZDTeo4%2Ffed88723114b431a6bf19c1080a4f9a3%2Fcrimedy7_illustration_of_a_robot_on_a_shopping_spree_--ar_169_75dad0d3-252d-4c33-b253-e0bb0f047adf_1.png%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat, generated with MidJourney](https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions)
+  
+  American Express (Amex) is building a system that lets AI agents shop and pay on behalf of users — but right now it’s only within its own payment network, and still involves a black box that could hinder trust and auditability.
+  
+  [Emilia David](https://venturebeat.com/author/emilia-david)
+  May 4, 2026
+  
+  
+  [![Nuneybits Vector art of the iconic Microsoft Windows logo on a fa8c56b1-15d5-4e25-9044-a2beb94286fe](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6LMJpI0ffGMD479AXflYHJ%2F27174ee4558549a84413d0bd7353fb48%2FNuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__fa8c56b1-15d5-4e25-9044-a2beb94286fe.webp%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat made with Midjourney](https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat)
+  
+  The product, first announced at [Microsoft's Ignite conference](https://ignite.microsoft.com/en-US/home) in November, positions itself as a unified control plane that lets enterprise IT and security teams observe, govern, and secure AI agents wherever they run: inside Microsoft's own ecosystem, on third-party cloud platforms like [AWS Bedrock](https://aws.amazon.com/bedrock/) and [Google Cloud](https://cloud.google.com/?hl=en), on employee endpoints, and increasingly across a sprawling ecosystem of SaaS agents built by partner software companies.
+  
+  [Michael Nuñez](https://venturebeat.com/author/michael_nunez)
+  May 4, 2026
+  
+  
+  [![crimedy7 illustration of ai orchestration abstract --ar 169 - cb6c24fb-7c3b-414f-a8d4-7733592d8d94 2](https://venturebeat.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F3dLXAdbIIpPoxL2H1pLZTE%2Fd655e36d5c316dfa1e9583472909b5e4%2Fcrimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_2.png%3Fw%3D1000%26q%3D100&w=3840&q=50)\\
+  \\
+  Credit: VentureBeat, generated with MidJourney](https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai)
+  
+  Salesforce's new Agentforce Operations platform breaks back-office workflows into agent-ready tasks — because most enterprise processes were never built for AI.
+  
+  [Emilia David](https://venturebeat.com/author/emilia-david)
+  May 1, 2026
+  --- End Content ---

@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 4.985
+    },
+    {
+      "index": 2,
+      "name": "ANNOUNCE",
+      "start": 4.985,
+      "duration": 6.558
+    },
+    {
+      "index": 3,
+      "name": "KILLER_FACT",
+      "start": 11.543,
+      "duration": 9.54
+    },
+    {
+      "index": 4,
+      "name": "DEMO_PROMPT_1",
+      "start": 21.083,
+      "duration": 8.484
+    },
+    {
+      "index": 5,
+      "name": "DEMO_PROMPT_2",
+      "start": 29.568,
+      "duration": 7.779
+    },
+    {
+      "index": 6,
+      "name": "MULTI_DIRECTION",
+      "start": 37.346,
+      "duration": 8.865
+    },
+    {
+      "index": 7,
+      "name": "VERDICT",
+      "start": 46.211,
+      "duration": 8.815
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 55.026,
+      "duration": 6.998
+    }
+  ],
+  "total_duration": 62.024
+}

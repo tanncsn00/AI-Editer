@@ -1,0 +1,824 @@
+[
+  {
+    "word": "Đừng",
+    "start": 0.0,
+    "end": 0.284,
+    "beat": 1
+  },
+  {
+    "word": "đi",
+    "start": 0.284,
+    "end": 0.568,
+    "beat": 1
+  },
+  {
+    "word": "tìm",
+    "start": 0.568,
+    "end": 0.851,
+    "beat": 1
+  },
+  {
+    "word": "\"1",
+    "start": 0.851,
+    "end": 1.135,
+    "beat": 1
+  },
+  {
+    "word": "tool",
+    "start": 1.135,
+    "end": 1.419,
+    "beat": 1
+  },
+  {
+    "word": "clone",
+    "start": 1.419,
+    "end": 1.703,
+    "beat": 1
+  },
+  {
+    "word": "cả",
+    "start": 1.703,
+    "end": 1.987,
+    "beat": 1
+  },
+  {
+    "word": "kênh\".",
+    "start": 1.987,
+    "end": 2.271,
+    "beat": 1
+  },
+  {
+    "word": "Không",
+    "start": 2.271,
+    "end": 2.554,
+    "beat": 1
+  },
+  {
+    "word": "có",
+    "start": 2.554,
+    "end": 2.838,
+    "beat": 1
+  },
+  {
+    "word": "đâu.",
+    "start": 2.838,
+    "end": 3.122,
+    "beat": 1
+  },
+  {
+    "word": "Dân",
+    "start": 3.122,
+    "end": 3.46,
+    "beat": 2
+  },
+  {
+    "word": "làm",
+    "start": 3.46,
+    "end": 3.797,
+    "beat": 2
+  },
+  {
+    "word": "content",
+    "start": 3.797,
+    "end": 4.135,
+    "beat": 2
+  },
+  {
+    "word": "farm",
+    "start": 4.135,
+    "end": 4.473,
+    "beat": 2
+  },
+  {
+    "word": "thật",
+    "start": 4.473,
+    "end": 4.81,
+    "beat": 2
+  },
+  {
+    "word": "—",
+    "start": 4.81,
+    "end": 5.148,
+    "beat": 2
+  },
+  {
+    "word": "không",
+    "start": 5.148,
+    "end": 5.486,
+    "beat": 2
+  },
+  {
+    "word": "xài",
+    "start": 5.486,
+    "end": 5.824,
+    "beat": 2
+  },
+  {
+    "word": "tool",
+    "start": 5.824,
+    "end": 6.161,
+    "beat": 2
+  },
+  {
+    "word": "all-in-one.",
+    "start": 6.161,
+    "end": 6.499,
+    "beat": 2
+  },
+  {
+    "word": "Họ",
+    "start": 6.499,
+    "end": 6.837,
+    "beat": 2
+  },
+  {
+    "word": "build",
+    "start": 6.837,
+    "end": 7.174,
+    "beat": 2
+  },
+  {
+    "word": "stack.",
+    "start": 7.174,
+    "end": 7.512,
+    "beat": 2
+  },
+  {
+    "word": "6",
+    "start": 7.512,
+    "end": 7.85,
+    "beat": 2
+  },
+  {
+    "word": "công",
+    "start": 7.85,
+    "end": 8.188,
+    "beat": 2
+  },
+  {
+    "word": "cụ.",
+    "start": 8.188,
+    "end": 8.525,
+    "beat": 2
+  },
+  {
+    "word": "Toàn",
+    "start": 8.525,
+    "end": 8.863,
+    "beat": 2
+  },
+  {
+    "word": "FREE.",
+    "start": 8.863,
+    "end": 9.201,
+    "beat": 2
+  },
+  {
+    "word": "Script:",
+    "start": 9.201,
+    "end": 9.625,
+    "beat": 3
+  },
+  {
+    "word": "ChatGPT.",
+    "start": 9.625,
+    "end": 10.049,
+    "beat": 3
+  },
+  {
+    "word": "Viết",
+    "start": 10.049,
+    "end": 10.473,
+    "beat": 3
+  },
+  {
+    "word": "hook,",
+    "start": 10.473,
+    "end": 10.896,
+    "beat": 3
+  },
+  {
+    "word": "viết",
+    "start": 10.896,
+    "end": 11.32,
+    "beat": 3
+  },
+  {
+    "word": "caption,",
+    "start": 11.32,
+    "end": 11.744,
+    "beat": 3
+  },
+  {
+    "word": "viết",
+    "start": 11.744,
+    "end": 12.168,
+    "beat": 3
+  },
+  {
+    "word": "kịch",
+    "start": 12.168,
+    "end": 12.592,
+    "beat": 3
+  },
+  {
+    "word": "bản",
+    "start": 12.592,
+    "end": 13.016,
+    "beat": 3
+  },
+  {
+    "word": "trong",
+    "start": 13.016,
+    "end": 13.44,
+    "beat": 3
+  },
+  {
+    "word": "30",
+    "start": 13.44,
+    "end": 13.864,
+    "beat": 3
+  },
+  {
+    "word": "giây.",
+    "start": 13.864,
+    "end": 14.288,
+    "beat": 3
+  },
+  {
+    "word": "Voice:",
+    "start": 14.288,
+    "end": 14.647,
+    "beat": 4
+  },
+  {
+    "word": "ElevenLabs.",
+    "start": 14.647,
+    "end": 15.006,
+    "beat": 4
+  },
+  {
+    "word": "Giọng",
+    "start": 15.006,
+    "end": 15.365,
+    "beat": 4
+  },
+  {
+    "word": "AI",
+    "start": 15.365,
+    "end": 15.724,
+    "beat": 4
+  },
+  {
+    "word": "tự",
+    "start": 15.724,
+    "end": 16.083,
+    "beat": 4
+  },
+  {
+    "word": "nhiên",
+    "start": 16.083,
+    "end": 16.442,
+    "beat": 4
+  },
+  {
+    "word": "—",
+    "start": 16.442,
+    "end": 16.801,
+    "beat": 4
+  },
+  {
+    "word": "bằng",
+    "start": 16.801,
+    "end": 17.16,
+    "beat": 4
+  },
+  {
+    "word": "giọng",
+    "start": 17.16,
+    "end": 17.518,
+    "beat": 4
+  },
+  {
+    "word": "người",
+    "start": 17.518,
+    "end": 17.877,
+    "beat": 4
+  },
+  {
+    "word": "thật.",
+    "start": 17.877,
+    "end": 18.236,
+    "beat": 4
+  },
+  {
+    "word": "Video",
+    "start": 18.236,
+    "end": 18.596,
+    "beat": 5
+  },
+  {
+    "word": "AI:",
+    "start": 18.596,
+    "end": 18.955,
+    "beat": 5
+  },
+  {
+    "word": "Kling",
+    "start": 18.955,
+    "end": 19.315,
+    "beat": 5
+  },
+  {
+    "word": "AI.",
+    "start": 19.315,
+    "end": 19.675,
+    "beat": 5
+  },
+  {
+    "word": "Gen",
+    "start": 19.675,
+    "end": 20.034,
+    "beat": 5
+  },
+  {
+    "word": "clip",
+    "start": 20.034,
+    "end": 20.394,
+    "beat": 5
+  },
+  {
+    "word": "từ",
+    "start": 20.394,
+    "end": 20.753,
+    "beat": 5
+  },
+  {
+    "word": "prompt",
+    "start": 20.753,
+    "end": 21.113,
+    "beat": 5
+  },
+  {
+    "word": "—",
+    "start": 21.113,
+    "end": 21.472,
+    "beat": 5
+  },
+  {
+    "word": "không",
+    "start": 21.472,
+    "end": 21.832,
+    "beat": 5
+  },
+  {
+    "word": "cần",
+    "start": 21.832,
+    "end": 22.191,
+    "beat": 5
+  },
+  {
+    "word": "quay.",
+    "start": 22.191,
+    "end": 22.551,
+    "beat": 5
+  },
+  {
+    "word": "Edit:",
+    "start": 22.551,
+    "end": 22.953,
+    "beat": 6
+  },
+  {
+    "word": "CapCut.",
+    "start": 22.953,
+    "end": 23.356,
+    "beat": 6
+  },
+  {
+    "word": "Cắt",
+    "start": 23.356,
+    "end": 23.758,
+    "beat": 6
+  },
+  {
+    "word": "ghép,",
+    "start": 23.758,
+    "end": 24.16,
+    "beat": 6
+  },
+  {
+    "word": "caption",
+    "start": 24.16,
+    "end": 24.563,
+    "beat": 6
+  },
+  {
+    "word": "auto,",
+    "start": 24.563,
+    "end": 24.965,
+    "beat": 6
+  },
+  {
+    "word": "chuyển",
+    "start": 24.965,
+    "end": 25.368,
+    "beat": 6
+  },
+  {
+    "word": "cảnh",
+    "start": 25.368,
+    "end": 25.77,
+    "beat": 6
+  },
+  {
+    "word": "—",
+    "start": 25.77,
+    "end": 26.172,
+    "beat": 6
+  },
+  {
+    "word": "free",
+    "start": 26.172,
+    "end": 26.575,
+    "beat": 6
+  },
+  {
+    "word": "luôn.",
+    "start": 26.575,
+    "end": 26.977,
+    "beat": 6
+  },
+  {
+    "word": "Clone",
+    "start": 26.977,
+    "end": 27.319,
+    "beat": 7
+  },
+  {
+    "word": "hook",
+    "start": 27.319,
+    "end": 27.662,
+    "beat": 7
+  },
+  {
+    "word": "+",
+    "start": 27.662,
+    "end": 28.004,
+    "beat": 7
+  },
+  {
+    "word": "trend:",
+    "start": 28.004,
+    "end": 28.346,
+    "beat": 7
+  },
+  {
+    "word": "ViralClone.",
+    "start": 28.346,
+    "end": 28.688,
+    "beat": 7
+  },
+  {
+    "word": "Bắt",
+    "start": 28.688,
+    "end": 29.031,
+    "beat": 7
+  },
+  {
+    "word": "video",
+    "start": 29.031,
+    "end": 29.373,
+    "beat": 7
+  },
+  {
+    "word": "đang",
+    "start": 29.373,
+    "end": 29.715,
+    "beat": 7
+  },
+  {
+    "word": "viral,",
+    "start": 29.715,
+    "end": 30.057,
+    "beat": 7
+  },
+  {
+    "word": "copy",
+    "start": 30.057,
+    "end": 30.4,
+    "beat": 7
+  },
+  {
+    "word": "công",
+    "start": 30.4,
+    "end": 30.742,
+    "beat": 7
+  },
+  {
+    "word": "thức",
+    "start": 30.742,
+    "end": 31.084,
+    "beat": 7
+  },
+  {
+    "word": "của",
+    "start": 31.084,
+    "end": 31.426,
+    "beat": 7
+  },
+  {
+    "word": "họ.",
+    "start": 31.426,
+    "end": 31.768,
+    "beat": 7
+  },
+  {
+    "word": "Auto",
+    "start": 31.768,
+    "end": 32.132,
+    "beat": 8
+  },
+  {
+    "word": "workflow:",
+    "start": 32.132,
+    "end": 32.495,
+    "beat": 8
+  },
+  {
+    "word": "n8n.",
+    "start": 32.495,
+    "end": 32.859,
+    "beat": 8
+  },
+  {
+    "word": "Nối",
+    "start": 32.859,
+    "end": 33.222,
+    "beat": 8
+  },
+  {
+    "word": "6",
+    "start": 33.222,
+    "end": 33.585,
+    "beat": 8
+  },
+  {
+    "word": "tool",
+    "start": 33.585,
+    "end": 33.949,
+    "beat": 8
+  },
+  {
+    "word": "lại,",
+    "start": 33.949,
+    "end": 34.312,
+    "beat": 8
+  },
+  {
+    "word": "1",
+    "start": 34.312,
+    "end": 34.675,
+    "beat": 8
+  },
+  {
+    "word": "câu",
+    "start": 34.675,
+    "end": 35.039,
+    "beat": 8
+  },
+  {
+    "word": "prompt",
+    "start": 35.039,
+    "end": 35.402,
+    "beat": 8
+  },
+  {
+    "word": "—",
+    "start": 35.402,
+    "end": 35.766,
+    "beat": 8
+  },
+  {
+    "word": "ra",
+    "start": 35.766,
+    "end": 36.129,
+    "beat": 8
+  },
+  {
+    "word": "1",
+    "start": 36.129,
+    "end": 36.492,
+    "beat": 8
+  },
+  {
+    "word": "video.",
+    "start": 36.492,
+    "end": 36.856,
+    "beat": 8
+  },
+  {
+    "word": "Stack",
+    "start": 36.856,
+    "end": 37.112,
+    "beat": 9
+  },
+  {
+    "word": "thật",
+    "start": 37.112,
+    "end": 37.369,
+    "beat": 9
+  },
+  {
+    "word": "ngoài",
+    "start": 37.369,
+    "end": 37.626,
+    "beat": 9
+  },
+  {
+    "word": "đời",
+    "start": 37.626,
+    "end": 37.882,
+    "beat": 9
+  },
+  {
+    "word": "—",
+    "start": 37.882,
+    "end": 38.139,
+    "beat": 9
+  },
+  {
+    "word": "nhiều",
+    "start": 38.139,
+    "end": 38.396,
+    "beat": 9
+  },
+  {
+    "word": "kênh",
+    "start": 38.396,
+    "end": 38.652,
+    "beat": 9
+  },
+  {
+    "word": "faceless",
+    "start": 38.652,
+    "end": 38.909,
+    "beat": 9
+  },
+  {
+    "word": "đang",
+    "start": 38.909,
+    "end": 39.166,
+    "beat": 9
+  },
+  {
+    "word": "build",
+    "start": 39.166,
+    "end": 39.422,
+    "beat": 9
+  },
+  {
+    "word": "kiểu",
+    "start": 39.422,
+    "end": 39.679,
+    "beat": 9
+  },
+  {
+    "word": "này.",
+    "start": 39.679,
+    "end": 39.935,
+    "beat": 9
+  },
+  {
+    "word": "Hơn",
+    "start": 39.935,
+    "end": 40.192,
+    "beat": 9
+  },
+  {
+    "word": "là",
+    "start": 40.192,
+    "end": 40.449,
+    "beat": 9
+  },
+  {
+    "word": "đi",
+    "start": 40.449,
+    "end": 40.705,
+    "beat": 9
+  },
+  {
+    "word": "tìm",
+    "start": 40.705,
+    "end": 40.962,
+    "beat": 9
+  },
+  {
+    "word": "\"1",
+    "start": 40.962,
+    "end": 41.219,
+    "beat": 9
+  },
+  {
+    "word": "nút",
+    "start": 41.219,
+    "end": 41.475,
+    "beat": 9
+  },
+  {
+    "word": "clone",
+    "start": 41.475,
+    "end": 41.732,
+    "beat": 9
+  },
+  {
+    "word": "cả",
+    "start": 41.732,
+    "end": 41.989,
+    "beat": 9
+  },
+  {
+    "word": "kênh\".",
+    "start": 41.989,
+    "end": 42.245,
+    "beat": 9
+  },
+  {
+    "word": "Save",
+    "start": 42.245,
+    "end": 42.543,
+    "beat": 10
+  },
+  {
+    "word": "lại",
+    "start": 42.543,
+    "end": 42.84,
+    "beat": 10
+  },
+  {
+    "word": "để",
+    "start": 42.84,
+    "end": 43.137,
+    "beat": 10
+  },
+  {
+    "word": "build",
+    "start": 43.137,
+    "end": 43.435,
+    "beat": 10
+  },
+  {
+    "word": "stack",
+    "start": 43.435,
+    "end": 43.732,
+    "beat": 10
+  },
+  {
+    "word": "cho",
+    "start": 43.732,
+    "end": 44.03,
+    "beat": 10
+  },
+  {
+    "word": "mình.",
+    "start": 44.03,
+    "end": 44.327,
+    "beat": 10
+  },
+  {
+    "word": "Comment",
+    "start": 44.327,
+    "end": 44.624,
+    "beat": 10
+  },
+  {
+    "word": "tool",
+    "start": 44.624,
+    "end": 44.922,
+    "beat": 10
+  },
+  {
+    "word": "nào",
+    "start": 44.922,
+    "end": 45.219,
+    "beat": 10
+  },
+  {
+    "word": "bạn",
+    "start": 45.219,
+    "end": 45.516,
+    "beat": 10
+  },
+  {
+    "word": "dùng",
+    "start": 45.516,
+    "end": 45.814,
+    "beat": 10
+  },
+  {
+    "word": "rồi.",
+    "start": 45.814,
+    "end": 46.111,
+    "beat": 10
+  }
+]
