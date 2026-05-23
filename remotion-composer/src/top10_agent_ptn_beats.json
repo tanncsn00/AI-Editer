@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 12.175
+    },
+    {
+      "index": 2,
+      "name": "CHAIN",
+      "start": 12.175,
+      "duration": 10.982
+    },
+    {
+      "index": 3,
+      "name": "ROUTE",
+      "start": 23.157,
+      "duration": 14.622
+    },
+    {
+      "index": 4,
+      "name": "PARA_SEC",
+      "start": 37.78,
+      "duration": 13.13
+    },
+    {
+      "index": 5,
+      "name": "PARA_VOTE",
+      "start": 50.91,
+      "duration": 12.653
+    },
+    {
+      "index": 6,
+      "name": "ORCH",
+      "start": 63.563,
+      "duration": 13.309
+    },
+    {
+      "index": 7,
+      "name": "EVAL",
+      "start": 76.872,
+      "duration": 13.548
+    },
+    {
+      "index": 8,
+      "name": "AGENT",
+      "start": 90.42,
+      "duration": 13.608
+    },
+    {
+      "index": 9,
+      "name": "REACT",
+      "start": 104.028,
+      "duration": 13.548
+    },
+    {
+      "index": 10,
+      "name": "REFLEX",
+      "start": 117.576,
+      "duration": 13.608
+    },
+    {
+      "index": 11,
+      "name": "PLAN_EX",
+      "start": 131.184,
+      "duration": 13.13
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 144.314,
+      "duration": 12.713
+    }
+  ],
+  "total_duration": 157.027
+}

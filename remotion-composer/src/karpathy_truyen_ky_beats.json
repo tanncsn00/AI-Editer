@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 9.565
+    },
+    {
+      "index": 2,
+      "name": "KHAI_SON_2015",
+      "start": 9.565,
+      "duration": 29.664
+    },
+    {
+      "index": 3,
+      "name": "TRANSFORMER_2017",
+      "start": 39.229,
+      "duration": 17.966
+    },
+    {
+      "index": 4,
+      "name": "TESLA_TU_HANH",
+      "start": 57.195,
+      "duration": 23.977
+    },
+    {
+      "index": 5,
+      "name": "AN_CU_2022",
+      "start": 81.172,
+      "duration": 22.813
+    },
+    {
+      "index": 6,
+      "name": "HOI_SON_LY_KHAI",
+      "start": 103.985,
+      "duration": 25.269
+    },
+    {
+      "index": 7,
+      "name": "QUY_CHAN_ANTHROPIC",
+      "start": 129.255,
+      "duration": 23.912
+    },
+    {
+      "index": 8,
+      "name": "ENDING_CTA",
+      "start": 153.167,
+      "duration": 15.123
+    }
+  ],
+  "total_duration": 168.29
+}

@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.846
+    },
+    {
+      "index": 2,
+      "name": "ASK_QUESTION",
+      "start": 10.846,
+      "duration": 12.936
+    },
+    {
+      "index": 3,
+      "name": "TASTE",
+      "start": 23.781,
+      "duration": 12.879
+    },
+    {
+      "index": 4,
+      "name": "EMPATHY",
+      "start": 36.66,
+      "duration": 11.128
+    },
+    {
+      "index": 5,
+      "name": "NEGOTIATION",
+      "start": 47.788,
+      "duration": 12.145
+    },
+    {
+      "index": 6,
+      "name": "ORIGINAL",
+      "start": 59.933,
+      "duration": 12.145
+    },
+    {
+      "index": 7,
+      "name": "DOMAIN",
+      "start": 72.078,
+      "duration": 12.314
+    },
+    {
+      "index": 8,
+      "name": "IN_PERSON",
+      "start": 84.392,
+      "duration": 12.823
+    },
+    {
+      "index": 9,
+      "name": "LEADERSHIP",
+      "start": 97.215,
+      "duration": 11.749
+    },
+    {
+      "index": 10,
+      "name": "DISCIPLINE",
+      "start": 108.964,
+      "duration": 11.523
+    },
+    {
+      "index": 11,
+      "name": "CROSS_DOMAIN",
+      "start": 120.487,
+      "duration": 11.636
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 132.124,
+      "duration": 11.636
+    }
+  ],
+  "total_duration": 143.76
+}

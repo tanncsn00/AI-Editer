@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 12.639
+    },
+    {
+      "index": 2,
+      "name": "DATA_75",
+      "start": 12.639,
+      "duration": 15.309
+    },
+    {
+      "index": 3,
+      "name": "DATA_82",
+      "start": 27.947,
+      "duration": 11.867
+    },
+    {
+      "index": 4,
+      "name": "MIT_95",
+      "start": 39.815,
+      "duration": 13.469
+    },
+    {
+      "index": 5,
+      "name": "WHY_3_LY_DO",
+      "start": 53.284,
+      "duration": 16.139
+    },
+    {
+      "index": 6,
+      "name": "WHAT_WORK",
+      "start": 69.423,
+      "duration": 13.232
+    },
+    {
+      "index": 7,
+      "name": "INSIGHT_OPPORTUNITY",
+      "start": 82.655,
+      "duration": 14.181
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 96.837,
+      "duration": 6.764
+    }
+  ],
+  "total_duration": 103.601
+}

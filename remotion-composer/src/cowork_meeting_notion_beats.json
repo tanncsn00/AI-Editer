@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 8.127
+    },
+    {
+      "index": 2,
+      "name": "STEP1_DOWNLOAD",
+      "start": 8.127,
+      "duration": 12.449
+    },
+    {
+      "index": 3,
+      "name": "STEP2_LOGIN",
+      "start": 20.576,
+      "duration": 11.997
+    },
+    {
+      "index": 4,
+      "name": "STEP3_TAB",
+      "start": 32.573,
+      "duration": 11.739
+    },
+    {
+      "index": 5,
+      "name": "STEP4_CONNECT",
+      "start": 44.312,
+      "duration": 12.191
+    },
+    {
+      "index": 6,
+      "name": "STEP5_PROMPT",
+      "start": 56.503,
+      "duration": 11.288
+    },
+    {
+      "index": 7,
+      "name": "STEP6_RESULT",
+      "start": 67.791,
+      "duration": 7.611
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 75.402,
+      "duration": 7.482
+    }
+  ],
+  "total_duration": 82.884
+}

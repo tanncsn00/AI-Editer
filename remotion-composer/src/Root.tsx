@@ -135,6 +135,51 @@ import { Top10ClaudeCodeSettingsThumbnail } from "./Top10ClaudeCodeSettingsThumb
 import { SlideCarouselTop10Plugins } from "./SlideCarouselTop10Plugins";
 import { Top10ClaudeCodePlugins } from "./Top10ClaudeCodePlugins";
 import { Top10ClaudeCodePluginsThumbnail } from "./Top10ClaudeCodePluginsThumbnail";
+import { SlideCarouselTop10AgentPatterns } from "./SlideCarouselTop10AgentPatterns";
+import { Top10AgentPatterns } from "./Top10AgentPatterns";
+import { Top10AgentPatternsThumbnail } from "./Top10AgentPatternsThumbnail";
+import { SlideCarouselTop10NotGood } from "./SlideCarouselTop10NotGood";
+import { Top10ClaudeNotGood } from "./Top10ClaudeNotGood";
+import { Top10ClaudeNotGoodThumbnail } from "./Top10ClaudeNotGoodThumbnail";
+import { SlideCarouselTop10SkillLost } from "./SlideCarouselTop10SkillLost";
+import { Top10SkillLost } from "./Top10SkillLost";
+import { Top10SkillLostThumbnail } from "./Top10SkillLostThumbnail";
+import { SlideCarouselTop10Cowork } from "./SlideCarouselTop10Cowork";
+import { Top10ClaudeCowork } from "./Top10ClaudeCowork";
+import { Top10ClaudeCoworkThumbnail } from "./Top10ClaudeCoworkThumbnail";
+import { SlideCarouselTop5McpAuto } from "./SlideCarouselTop5McpAuto";
+import { Top5McpAutomation } from "./Top5McpAutomation";
+import { Top5McpAutomationThumbnail } from "./Top5McpAutomationThumbnail";
+import { SlideCarouselTop10SkillAi } from "./SlideCarouselTop10SkillAi";
+import { Top10SkillAiEra } from "./Top10SkillAiEra";
+import { Top10SkillAiEraThumbnail } from "./Top10SkillAiEraThumbnail";
+import { SlideCarouselTop10SkillKeep } from "./SlideCarouselTop10SkillKeep";
+import { Top10SkillKeep } from "./Top10SkillKeep";
+import { Top10SkillKeepThumbnail } from "./Top10SkillKeepThumbnail";
+import { SlideCarouselAgi } from "./SlideCarouselAgi";
+import { AgiExplained } from "./AgiExplained";
+import { AgiExplainedThumbnail } from "./AgiExplainedThumbnail";
+import { SlideCarouselGoogleIO } from "./SlideCarouselGoogleIO";
+import { GoogleIO2026 } from "./GoogleIO2026";
+import { GoogleIO2026Thumbnail } from "./GoogleIO2026Thumbnail";
+import { SlideCarouselSepKhongBietAI } from "./SlideCarouselSepKhongBietAI";
+import { SepKhongBietAI } from "./SepKhongBietAI";
+import { SepKhongBietAIThumbnail } from "./SepKhongBietAIThumbnail";
+import { SlideCarouselTop10Shortcut } from "./SlideCarouselTop10Shortcut";
+import { Top10ClaudeShortcut } from "./Top10ClaudeShortcut";
+import { Top10ClaudeShortcutThumbnail } from "./Top10ClaudeShortcutThumbnail";
+import { SlideCarouselGeminiSpark } from "./SlideCarouselGeminiSpark";
+import { GeminiSpark } from "./GeminiSpark";
+import { GeminiSparkThumbnail } from "./GeminiSparkThumbnail";
+import { SlideCarouselCoworkMeeting } from "./SlideCarouselCoworkMeeting";
+import { CoworkMeetingNotion } from "./CoworkMeetingNotion";
+import { CoworkMeetingNotionThumbnail } from "./CoworkMeetingNotionThumbnail";
+import { SlideCarouselCanhGioiAi } from "./SlideCarouselCanhGioiAi";
+import { CanhGioiAi } from "./CanhGioiAi";
+import { CanhGioiAiThumbnail } from "./CanhGioiAiThumbnail";
+import { SlideCarouselKarpathyStory } from "./SlideCarouselKarpathyStory";
+import { KarpathyTruyenKy } from "./KarpathyTruyenKy";
+import { KarpathyTruyenKyThumbnail } from "./KarpathyTruyenKyThumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -934,6 +979,366 @@ export const Root: React.FC = () => {
       <Composition
         id="Top10ClaudeCodePluginsThumbnail"
         component={Top10ClaudeCodePluginsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10AgentPatterns"
+        component={SlideCarouselTop10AgentPatterns}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10AgentPatterns"
+        component={Top10AgentPatterns}
+        durationInFrames={4711}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10AgentPatternsThumbnail"
+        component={Top10AgentPatternsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10NotGood"
+        component={SlideCarouselTop10NotGood}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeNotGood"
+        component={Top10ClaudeNotGood}
+        durationInFrames={4801}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeNotGoodThumbnail"
+        component={Top10ClaudeNotGoodThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10SkillLost"
+        component={SlideCarouselTop10SkillLost}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10SkillLost"
+        component={Top10SkillLost}
+        durationInFrames={4524}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10SkillLostThumbnail"
+        component={Top10SkillLostThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10Cowork"
+        component={SlideCarouselTop10Cowork}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCowork"
+        component={Top10ClaudeCowork}
+        durationInFrames={4883}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeCoworkThumbnail"
+        component={Top10ClaudeCoworkThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop5McpAuto"
+        component={SlideCarouselTop5McpAuto}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top5McpAutomation"
+        component={Top5McpAutomation}
+        durationInFrames={3467}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top5McpAutomationThumbnail"
+        component={Top5McpAutomationThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10SkillAi"
+        component={SlideCarouselTop10SkillAi}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10SkillAiEra"
+        component={Top10SkillAiEra}
+        durationInFrames={3971}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10SkillAiEraThumbnail"
+        component={Top10SkillAiEraThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10SkillKeep"
+        component={SlideCarouselTop10SkillKeep}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10SkillKeep"
+        component={Top10SkillKeep}
+        durationInFrames={4313}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10SkillKeepThumbnail"
+        component={Top10SkillKeepThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselAgi"
+        component={SlideCarouselAgi}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AgiExplained"
+        component={AgiExplained}
+        durationInFrames={3776}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AgiExplainedThumbnail"
+        component={AgiExplainedThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselGoogleIO"
+        component={SlideCarouselGoogleIO}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GoogleIO2026"
+        component={GoogleIO2026}
+        durationInFrames={3856}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GoogleIO2026Thumbnail"
+        component={GoogleIO2026Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselSepKhongBietAI"
+        component={SlideCarouselSepKhongBietAI}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SepKhongBietAI"
+        component={SepKhongBietAI}
+        durationInFrames={3108}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SepKhongBietAIThumbnail"
+        component={SepKhongBietAIThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop10Shortcut"
+        component={SlideCarouselTop10Shortcut}
+        durationInFrames={12}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeShortcut"
+        component={Top10ClaudeShortcut}
+        durationInFrames={3354}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top10ClaudeShortcutThumbnail"
+        component={Top10ClaudeShortcutThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselGeminiSpark"
+        component={SlideCarouselGeminiSpark}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GeminiSpark"
+        component={GeminiSpark}
+        durationInFrames={2855}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GeminiSparkThumbnail"
+        component={GeminiSparkThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselCoworkMeeting"
+        component={SlideCarouselCoworkMeeting}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CoworkMeetingNotion"
+        component={CoworkMeetingNotion}
+        durationInFrames={2487}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CoworkMeetingNotionThumbnail"
+        component={CoworkMeetingNotionThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselCanhGioiAi"
+        component={SlideCarouselCanhGioiAi}
+        durationInFrames={10}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CanhGioiAi"
+        component={CanhGioiAi}
+        durationInFrames={5871}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CanhGioiAiThumbnail"
+        component={CanhGioiAiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselKarpathyStory"
+        component={SlideCarouselKarpathyStory}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="KarpathyTruyenKy"
+        component={KarpathyTruyenKy}
+        durationInFrames={5049}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="KarpathyTruyenKyThumbnail"
+        component={KarpathyTruyenKyThumbnail}
         durationInFrames={1}
         fps={30}
         width={1080}

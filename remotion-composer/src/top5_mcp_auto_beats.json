@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.106
+    },
+    {
+      "index": 2,
+      "name": "PLAYWRIGHT",
+      "start": 11.106,
+      "duration": 15.051
+    },
+    {
+      "index": 3,
+      "name": "BROWSER_MCP",
+      "start": 26.158,
+      "duration": 15.901
+    },
+    {
+      "index": 4,
+      "name": "WINDOWS_MCP",
+      "start": 42.058,
+      "duration": 14.384
+    },
+    {
+      "index": 5,
+      "name": "COMPUTER_CTRL",
+      "start": 56.442,
+      "duration": 14.202
+    },
+    {
+      "index": 6,
+      "name": "STAGEHAND",
+      "start": 70.644,
+      "duration": 14.626
+    },
+    {
+      "index": 7,
+      "name": "BONUS",
+      "start": 85.27,
+      "duration": 15.415
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 100.685,
+      "duration": 14.869
+    }
+  ],
+  "total_duration": 115.554
+}

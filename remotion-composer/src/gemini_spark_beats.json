@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 9.132
+    },
+    {
+      "index": 2,
+      "name": "WTF",
+      "start": 9.132,
+      "duration": 10.455
+    },
+    {
+      "index": 3,
+      "name": "DEMO_1_LEAD",
+      "start": 19.587,
+      "duration": 11.589
+    },
+    {
+      "index": 4,
+      "name": "DEMO_2_SUB",
+      "start": 31.176,
+      "duration": 12.911
+    },
+    {
+      "index": 5,
+      "name": "CONNECT",
+      "start": 44.088,
+      "duration": 14.612
+    },
+    {
+      "index": 6,
+      "name": "PRICE",
+      "start": 58.7,
+      "duration": 12.659
+    },
+    {
+      "index": 7,
+      "name": "VS_3_AGENT",
+      "start": 71.359,
+      "duration": 14.486
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 85.845,
+      "duration": 9.321
+    }
+  ],
+  "total_duration": 95.166
+}

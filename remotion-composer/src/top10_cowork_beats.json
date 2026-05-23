@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.156
+    },
+    {
+      "index": 2,
+      "name": "FILE_ORG",
+      "start": 11.156,
+      "duration": 13.689
+    },
+    {
+      "index": 3,
+      "name": "PAYROLL",
+      "start": 24.846,
+      "duration": 13.147
+    },
+    {
+      "index": 4,
+      "name": "RECONCILIATION",
+      "start": 37.992,
+      "duration": 14.534
+    },
+    {
+      "index": 5,
+      "name": "MARGIN_REPORT",
+      "start": 52.526,
+      "duration": 14.594
+    },
+    {
+      "index": 6,
+      "name": "CAMPAIGN",
+      "start": 67.12,
+      "duration": 13.93
+    },
+    {
+      "index": 7,
+      "name": "CONTRACT",
+      "start": 81.05,
+      "duration": 12.604
+    },
+    {
+      "index": 8,
+      "name": "RESEARCH",
+      "start": 93.654,
+      "duration": 14.714
+    },
+    {
+      "index": 9,
+      "name": "EMAIL_TRIAGE",
+      "start": 108.368,
+      "duration": 13.991
+    },
+    {
+      "index": 10,
+      "name": "TAX_SEASON",
+      "start": 122.359,
+      "duration": 13.81
+    },
+    {
+      "index": 11,
+      "name": "INVOICE_CHASE",
+      "start": 136.169,
+      "duration": 12.845
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 149.014,
+      "duration": 13.75
+    }
+  ],
+  "total_duration": 162.764
+}

@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 7.823
+    },
+    {
+      "index": 2,
+      "name": "LV1_LUYEN_KHI",
+      "start": 7.823,
+      "duration": 16.077
+    },
+    {
+      "index": 3,
+      "name": "LV2_TRUC_CO",
+      "start": 23.9,
+      "duration": 12.997
+    },
+    {
+      "index": 4,
+      "name": "LV3_KET_DAN",
+      "start": 36.897,
+      "duration": 21.867
+    },
+    {
+      "index": 5,
+      "name": "LV4_NGUYEN_ANH",
+      "start": 58.764,
+      "duration": 21.929
+    },
+    {
+      "index": 6,
+      "name": "LV5_HOA_THAN",
+      "start": 80.693,
+      "duration": 29.875
+    },
+    {
+      "index": 7,
+      "name": "LV6_TIEN_DE",
+      "start": 110.568,
+      "duration": 26.734
+    },
+    {
+      "index": 8,
+      "name": "LV7_DAI_DE",
+      "start": 137.302,
+      "duration": 32.893
+    },
+    {
+      "index": 9,
+      "name": "INSIGHT",
+      "start": 170.195,
+      "duration": 13.552
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 183.747,
+      "duration": 11.95
+    }
+  ],
+  "total_duration": 195.697
+}

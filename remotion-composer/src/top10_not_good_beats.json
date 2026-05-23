@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.45
+    },
+    {
+      "index": 2,
+      "name": "MATH",
+      "start": 10.45,
+      "duration": 13.444
+    },
+    {
+      "index": 3,
+      "name": "REALTIME",
+      "start": 23.895,
+      "duration": 11.801
+    },
+    {
+      "index": 4,
+      "name": "HALLUCINATE",
+      "start": 35.695,
+      "duration": 13.562
+    },
+    {
+      "index": 5,
+      "name": "LONG_CONTEXT",
+      "start": 49.257,
+      "duration": 20.372
+    },
+    {
+      "index": 6,
+      "name": "SYCOPHANCY",
+      "start": 69.629,
+      "duration": 11.624
+    },
+    {
+      "index": 7,
+      "name": "VISUAL_TASTE",
+      "start": 81.253,
+      "duration": 14.09
+    },
+    {
+      "index": 8,
+      "name": "NICHE_LANG",
+      "start": 95.344,
+      "duration": 12.446
+    },
+    {
+      "index": 9,
+      "name": "MEMORY",
+      "start": 107.79,
+      "duration": 12.681
+    },
+    {
+      "index": 10,
+      "name": "COST",
+      "start": 120.471,
+      "duration": 13.268
+    },
+    {
+      "index": 11,
+      "name": "DOMAIN",
+      "start": 133.739,
+      "duration": 13.562
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 147.301,
+      "duration": 12.74
+    }
+  ],
+  "total_duration": 160.041
+}

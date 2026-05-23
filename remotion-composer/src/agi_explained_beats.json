@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 8.797
+    },
+    {
+      "index": 2,
+      "name": "AI_HEP",
+      "start": 8.797,
+      "duration": 17.652
+    },
+    {
+      "index": 3,
+      "name": "EX_NGUOI_YEU_CU",
+      "start": 26.449,
+      "duration": 10.556
+    },
+    {
+      "index": 4,
+      "name": "AGI_DEF",
+      "start": 37.005,
+      "duration": 16.42
+    },
+    {
+      "index": 5,
+      "name": "EX_NGUOI_YEU_HOAN_HAO",
+      "start": 53.425,
+      "duration": 13.136
+    },
+    {
+      "index": 6,
+      "name": "KHI_NAO_CO",
+      "start": 66.561,
+      "duration": 26.214
+    },
+    {
+      "index": 7,
+      "name": "KHI_AGI_DEN",
+      "start": 92.775,
+      "duration": 16.01
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 108.785,
+      "duration": 17.066
+    }
+  ],
+  "total_duration": 125.851
+}

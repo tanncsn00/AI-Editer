@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.104
+    },
+    {
+      "index": 2,
+      "name": "ERROR_MSG",
+      "start": 11.104,
+      "duration": 14.073
+    },
+    {
+      "index": 3,
+      "name": "PRINT_DEBUG",
+      "start": 25.177,
+      "duration": 12.589
+    },
+    {
+      "index": 4,
+      "name": "SYNTAX",
+      "start": 37.766,
+      "duration": 10.867
+    },
+    {
+      "index": 5,
+      "name": "DOCS",
+      "start": 48.632,
+      "duration": 12.885
+    },
+    {
+      "index": 6,
+      "name": "LEETCODE",
+      "start": 61.518,
+      "duration": 14.132
+    },
+    {
+      "index": 7,
+      "name": "BLANK_FILE",
+      "start": 75.65,
+      "duration": 11.876
+    },
+    {
+      "index": 8,
+      "name": "CODE_REVIEW",
+      "start": 87.526,
+      "duration": 13.182
+    },
+    {
+      "index": 9,
+      "name": "CODEBASE_MAP",
+      "start": 100.708,
+      "duration": 12.232
+    },
+    {
+      "index": 10,
+      "name": "REGEX_SHELL",
+      "start": 112.941,
+      "duration": 11.579
+    },
+    {
+      "index": 11,
+      "name": "PATIENCE",
+      "start": 124.52,
+      "duration": 13.301
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 137.821,
+      "duration": 12.945
+    }
+  ],
+  "total_duration": 150.766
+}

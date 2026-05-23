@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 9.259
+    },
+    {
+      "index": 2,
+      "name": "CONTEXT",
+      "start": 9.259,
+      "duration": 14.436
+    },
+    {
+      "index": 3,
+      "name": "GEMINI_FLASH",
+      "start": 23.695,
+      "duration": 21.928
+    },
+    {
+      "index": 4,
+      "name": "GEMINI_SPARK",
+      "start": 45.623,
+      "duration": 16.69
+    },
+    {
+      "index": 5,
+      "name": "GEMINI_OMNI",
+      "start": 62.313,
+      "duration": 19.126
+    },
+    {
+      "index": 6,
+      "name": "ANTIGRAVITY",
+      "start": 81.439,
+      "duration": 23.512
+    },
+    {
+      "index": 7,
+      "name": "INSIGHT",
+      "start": 104.951,
+      "duration": 13.34
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 118.29,
+      "duration": 10.233
+    }
+  ],
+  "total_duration": 128.524
+}

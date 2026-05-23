@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 12.387
+    },
+    {
+      "index": 2,
+      "name": "N10_ARROW",
+      "start": 12.387,
+      "duration": 7.59
+    },
+    {
+      "index": 3,
+      "name": "N9_SHIFT_ENTER",
+      "start": 19.977,
+      "duration": 12.448
+    },
+    {
+      "index": 4,
+      "name": "N8_CTRL_R",
+      "start": 32.425,
+      "duration": 8.137
+    },
+    {
+      "index": 5,
+      "name": "N7_SLASH",
+      "start": 40.562,
+      "duration": 8.865
+    },
+    {
+      "index": 6,
+      "name": "N6_AT",
+      "start": 49.427,
+      "duration": 7.529
+    },
+    {
+      "index": 7,
+      "name": "N5_BANG",
+      "start": 56.956,
+      "duration": 7.894
+    },
+    {
+      "index": 8,
+      "name": "N4_HASH",
+      "start": 64.85,
+      "duration": 7.226
+    },
+    {
+      "index": 9,
+      "name": "N3_ESC",
+      "start": 72.076,
+      "duration": 8.501
+    },
+    {
+      "index": 10,
+      "name": "N2_ESC_ESC",
+      "start": 80.577,
+      "duration": 8.744
+    },
+    {
+      "index": 11,
+      "name": "N1_SHIFT_TAB",
+      "start": 89.321,
+      "duration": 13.48
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 102.801,
+      "duration": 8.987
+    }
+  ],
+  "total_duration": 111.788
+}
