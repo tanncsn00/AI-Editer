@@ -1,0 +1,57 @@
+{
+  "HOOK": {
+    "join": 14,
+    "believe": 116,
+    "naive": 258
+  },
+  "VOTU": {
+    "demands": 140,
+    "contra": 295,
+    "name": 433
+  },
+  "LUYENHOA": {
+    "skills": 41,
+    "done": 327
+  },
+  "LOGO": {
+    "bigger": 35,
+    "notyet": 213,
+    "name": 413
+  },
+  "KHO": {
+    "receive": 99,
+    "cannot": 285,
+    "name": 500
+  },
+  "BUILD": {
+    "broken": 62,
+    "dev": 465,
+    "crack": 613
+  },
+  "CAMXUC": {
+    "lack": 77,
+    "name": 315,
+    "musknow": 477
+  },
+  "MAU": {
+    "ceo": 268,
+    "otherblue": 402,
+    "revert": 522,
+    "collapse": 564
+  },
+  "GIONGKHAC": {
+    "biggest": 3,
+    "sameother": 218,
+    "dilemma": 295
+  },
+  "NGO": {
+    "hardest": 66,
+    "transform": 299
+  },
+  "DAOLY": {
+    "notdrawer": 109,
+    "translate": 276,
+    "pixel": 453,
+    "save": 751
+  }
+}

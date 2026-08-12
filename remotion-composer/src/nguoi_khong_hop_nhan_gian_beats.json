@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_TU_SI_KY_LA",
+      "start": 0.0,
+      "duration": 8.087
+    },
+    {
+      "index": 2,
+      "name": "BAN_NGAY_DEM",
+      "start": 8.087,
+      "duration": 11.198
+    },
+    {
+      "index": 3,
+      "name": "CANH_BA_DEM_TOI",
+      "start": 19.285,
+      "duration": 15.864
+    },
+    {
+      "index": 4,
+      "name": "KHO_HOA_NHAP",
+      "start": 35.149,
+      "duration": 17.108
+    },
+    {
+      "index": 5,
+      "name": "TAM_MA_HAY_TIEN_CAN",
+      "start": 52.257,
+      "duration": 6.843
+    },
+    {
+      "index": 6,
+      "name": "CO_DOC_KIEM_TU",
+      "start": 59.101,
+      "duration": 15.864
+    },
+    {
+      "index": 7,
+      "name": "DEM_TU_HANH",
+      "start": 74.964,
+      "duration": 13.438
+    },
+    {
+      "index": 8,
+      "name": "KET_LUAN_TIEN_CAN",
+      "start": 88.402,
+      "duration": 15.055
+    }
+  ],
+  "total_duration": 103.457
+}

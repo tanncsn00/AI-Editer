@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 25.437
+    },
+    {
+      "index": 2,
+      "name": "KHACH1",
+      "start": 25.437,
+      "duration": 29.122
+    },
+    {
+      "index": 3,
+      "name": "CHACKHONG",
+      "start": 54.559,
+      "duration": 14.534
+    },
+    {
+      "index": 4,
+      "name": "NHIEULOAI",
+      "start": 69.093,
+      "duration": 31.417
+    },
+    {
+      "index": 5,
+      "name": "CUOCGOI",
+      "start": 100.511,
+      "duration": 20.042
+    },
+    {
+      "index": 6,
+      "name": "CALLMARGIN",
+      "start": 120.552,
+      "duration": 22.789
+    },
+    {
+      "index": 7,
+      "name": "BONGBONG",
+      "start": 143.341,
+      "duration": 26.224
+    },
+    {
+      "index": 8,
+      "name": "DAOLY",
+      "start": 169.565,
+      "duration": 18.113
+    },
+    {
+      "index": 9,
+      "name": "KET",
+      "start": 187.678,
+      "duration": 18.641
+    }
+  ],
+  "total_duration": 206.319
+}

@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 16.19
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 16.19,
+      "duration": 11.64
+    },
+    {
+      "index": 3,
+      "name": "S1",
+      "start": 27.83,
+      "duration": 16.42
+    },
+    {
+      "index": 4,
+      "name": "S2",
+      "start": 44.25,
+      "duration": 18.24
+    },
+    {
+      "index": 5,
+      "name": "S3",
+      "start": 62.49,
+      "duration": 20.94
+    },
+    {
+      "index": 6,
+      "name": "S4",
+      "start": 83.43,
+      "duration": 15.2
+    },
+    {
+      "index": 7,
+      "name": "S5",
+      "start": 98.63,
+      "duration": 18.42
+    },
+    {
+      "index": 8,
+      "name": "S6",
+      "start": 117.05,
+      "duration": 17.32
+    },
+    {
+      "index": 9,
+      "name": "TWIST",
+      "start": 134.37,
+      "duration": 18.4
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 152.77,
+      "duration": 14.5
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 167.27,
+      "duration": 6.733
+    }
+  ],
+  "total_duration": 174.003
+}

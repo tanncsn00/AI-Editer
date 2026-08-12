@@ -1,0 +1,65 @@
+{
+  "HOOK": {
+    "who": 100,
+    "count": 404
+  },
+  "CONGPHAP": {
+    "intro": 14,
+    "phaps": [
+      313,
+      455,
+      601
+    ]
+  },
+  "TUYKHOC": {
+    "kiep": 14,
+    "cry": 113,
+    "sing": 371,
+    "role": 501
+  },
+  "HUVINH": {
+    "kiep": 14,
+    "boast": 171,
+    "card": 346,
+    "reveal": 522
+  },
+  "SIMONG": {
+    "kiep": 14,
+    "text": 220,
+    "vip": 376
+  },
+  "HATIEN": {
+    "kiep": 13,
+    "cheap": 111,
+    "tip": 498
+  },
+  "MAAM": {
+    "kiep": 13,
+    "grab": 166,
+    "ask": 390
+  },
+  "TANGHAI": {
+    "gaze": 145,
+    "dodge": [
+      305,
+      363,
+      417
+    ],
+    "punch": 518
+  },
+  "THANCHU": {
+    "spell": 51,
+    "clock": 274,
+    "sunrise": 376
+  },
+  "TIER": {
+    "tiers": [
+      140,
+      189,
+      324,
+      400
+    ],
+    "lost": 522,
+    "cta": 561
+  }
+}

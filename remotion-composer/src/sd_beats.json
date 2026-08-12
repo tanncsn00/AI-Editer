@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 13.31
+    },
+    {
+      "index": 2,
+      "name": "BAOGIA",
+      "start": 13.31,
+      "duration": 40.3
+    },
+    {
+      "index": 3,
+      "name": "DEMO",
+      "start": 53.61,
+      "duration": 27.18
+    },
+    {
+      "index": 4,
+      "name": "CHODON",
+      "start": 80.79,
+      "duration": 25.94
+    },
+    {
+      "index": 5,
+      "name": "KPI",
+      "start": 106.73,
+      "duration": 26.46
+    },
+    {
+      "index": 6,
+      "name": "SUYNGHI",
+      "start": 133.19,
+      "duration": 27.96
+    },
+    {
+      "index": 7,
+      "name": "DAOLY",
+      "start": 161.15,
+      "duration": 31.18
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 192.33,
+      "duration": 13.652
+    }
+  ],
+  "total_duration": 205.982
+}

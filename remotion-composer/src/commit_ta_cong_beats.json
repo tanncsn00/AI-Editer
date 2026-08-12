@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 13.459
+    },
+    {
+      "index": 2,
+      "name": "LOAI_1_DOAN_TUYET_HAU_LO",
+      "start": 13.459,
+      "duration": 19.774
+    },
+    {
+      "index": 3,
+      "name": "LOAI_2_THIEN_CO",
+      "start": 33.233,
+      "duration": 12.119
+    },
+    {
+      "index": 4,
+      "name": "LOAI_3_TAU_HOA_NHAP_MA",
+      "start": 45.352,
+      "duration": 12.63
+    },
+    {
+      "index": 5,
+      "name": "LOAI_4_HIEN_TE_THO_NGUYEN",
+      "start": 57.982,
+      "duration": 12.885
+    },
+    {
+      "index": 6,
+      "name": "LOAI_5_THUONG_CO_PHONG_AN",
+      "start": 70.867,
+      "duration": 16.265
+    },
+    {
+      "index": 7,
+      "name": "LOAI_6_NGHICH_THIEN_CAI_MENH",
+      "start": 87.132,
+      "duration": 15.883
+    },
+    {
+      "index": 8,
+      "name": "LOAI_7_TAM_MA_CUOI_CUNG",
+      "start": 103.015,
+      "duration": 8.037
+    },
+    {
+      "index": 9,
+      "name": "ENDING_CTA",
+      "start": 111.052,
+      "duration": 21.624
+    }
+  ],
+  "total_duration": 132.675
+}

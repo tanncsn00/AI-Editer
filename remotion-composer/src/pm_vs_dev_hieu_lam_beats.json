@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 15.289
+    },
+    {
+      "index": 2,
+      "name": "HL1",
+      "start": 15.289,
+      "duration": 10.985
+    },
+    {
+      "index": 3,
+      "name": "HL2",
+      "start": 26.275,
+      "duration": 16.639
+    },
+    {
+      "index": 4,
+      "name": "HL3",
+      "start": 42.913,
+      "duration": 15.097
+    },
+    {
+      "index": 5,
+      "name": "HL4",
+      "start": 58.01,
+      "duration": 11.499
+    },
+    {
+      "index": 6,
+      "name": "HL5",
+      "start": 69.509,
+      "duration": 12.591
+    },
+    {
+      "index": 7,
+      "name": "HL6",
+      "start": 82.1,
+      "duration": 13.105
+    },
+    {
+      "index": 8,
+      "name": "ENDING",
+      "start": 95.206,
+      "duration": 37.324
+    }
+  ],
+  "total_duration": 132.53
+}

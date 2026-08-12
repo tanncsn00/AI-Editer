@@ -1,0 +1,69 @@
+{
+  "HOOK": {
+    "worst": 171,
+    "odds": 224,
+    "name": 439
+  },
+  "HAISUDE": {
+    "book": 129,
+    "rule": 309,
+    "seed": 522
+  },
+  "THIENKIEP": {
+    "both": 68,
+    "add": 284,
+    "should": 405,
+    "vanish": 609,
+    "crack": 699
+  },
+  "PHAMTRAN": {
+    "ticket": 195,
+    "both2": 345,
+    "contrast": 521
+  },
+  "HEISENBUG": {
+    "report": 295,
+    "boom": 382,
+    "vanish2": 461,
+    "name": 751
+  },
+  "NGO": {
+    "nocode": 156,
+    "who": 444,
+    "scheduler": 542
+  },
+  "LOCK": {
+    "root": 213,
+    "grab": 357,
+    "gone": 573,
+    "coarse": 731,
+    "mutex": 1229,
+    "critical": 1346
+  },
+  "DEADLOCK": {
+    "need2": 75,
+    "cross": 157,
+    "stuck": 597,
+    "order": 1110
+  },
+  "ATOMIC": {
+    "why": 246,
+    "gap": 341,
+    "merge": 472,
+    "cmd": 848,
+    "name": 1064
+  },
+  "OPTIMISTIC": {
+    "why": 77,
+    "stamp": 237,
+    "cond": 581,
+    "fail": 771,
+    "phil": 1251
+  },
+  "DAOLY": {
+    "always": 89,
+    "sometimes": 175,
+    "threeways": 290,
+    "strong": 952
+  }
+}

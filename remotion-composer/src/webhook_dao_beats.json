@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.105
+    },
+    {
+      "index": 2,
+      "name": "POLLING",
+      "start": 11.105,
+      "duration": 10.668
+    },
+    {
+      "index": 3,
+      "name": "PROBLEM",
+      "start": 21.773,
+      "duration": 12.166
+    },
+    {
+      "index": 4,
+      "name": "WEBHOOK",
+      "start": 33.939,
+      "duration": 14.224
+    },
+    {
+      "index": 5,
+      "name": "EXAMPLE",
+      "start": 48.164,
+      "duration": 18.529
+    },
+    {
+      "index": 6,
+      "name": "BENEFIT",
+      "start": 66.693,
+      "duration": 8.797
+    },
+    {
+      "index": 7,
+      "name": "CAVEATS",
+      "start": 75.49,
+      "duration": 19.403
+    },
+    {
+      "index": 8,
+      "name": "ENDING",
+      "start": 94.892,
+      "duration": 17.406
+    },
+    {
+      "index": 9,
+      "name": "CTA",
+      "start": 112.299,
+      "duration": 4.492
+    }
+  ],
+  "total_duration": 116.791
+}

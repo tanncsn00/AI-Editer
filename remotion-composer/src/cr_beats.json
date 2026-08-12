@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 14.028
+    },
+    {
+      "index": 2,
+      "name": "THIENCO",
+      "start": 14.028,
+      "duration": 23.06
+    },
+    {
+      "index": 3,
+      "name": "NHANQUA",
+      "start": 37.089,
+      "duration": 18.284
+    },
+    {
+      "index": 4,
+      "name": "TAMMA",
+      "start": 55.372,
+      "duration": 17.838
+    },
+    {
+      "index": 5,
+      "name": "TICHTU",
+      "start": 73.21,
+      "duration": 16.471
+    },
+    {
+      "index": 6,
+      "name": "BEQUAN",
+      "start": 89.681,
+      "duration": 15.011
+    },
+    {
+      "index": 7,
+      "name": "NHATKIEM",
+      "start": 104.693,
+      "duration": 16.263
+    },
+    {
+      "index": 8,
+      "name": "TRUYENDAO",
+      "start": 120.955,
+      "duration": 24.024
+    },
+    {
+      "index": 9,
+      "name": "NGO",
+      "start": 144.98,
+      "duration": 16.644
+    },
+    {
+      "index": 10,
+      "name": "DAOLY",
+      "start": 161.623,
+      "duration": 16.607
+    },
+    {
+      "index": 11,
+      "name": "VETSEO",
+      "start": 178.23,
+      "duration": 23.431
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 201.661,
+      "duration": 9.28
+    }
+  ],
+  "total_duration": 210.941
+}

@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.0
+    },
+    {
+      "index": 2,
+      "name": "NIEN_THIEU_2005",
+      "start": 10.0,
+      "duration": 24.401
+    },
+    {
+      "index": 3,
+      "name": "Y_COMBINATOR_2014",
+      "start": 34.401,
+      "duration": 21.867
+    },
+    {
+      "index": 4,
+      "name": "KHAI_SON_OPENAI_2015",
+      "start": 56.269,
+      "duration": 19.667
+    },
+    {
+      "index": 5,
+      "name": "PHA_QUAN_CHATGPT_2022",
+      "start": 75.936,
+      "duration": 22.267
+    },
+    {
+      "index": 6,
+      "name": "BINH_BIEN_2023",
+      "start": 98.204,
+      "duration": 23.001
+    },
+    {
+      "index": 7,
+      "name": "HOI_SON_2026",
+      "start": 121.204,
+      "duration": 22.801
+    },
+    {
+      "index": 8,
+      "name": "ENDING_CTA",
+      "start": 144.005,
+      "duration": 15.667
+    }
+  ],
+  "total_duration": 159.672
+}

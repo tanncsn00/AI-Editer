@@ -1,0 +1,61 @@
+{
+  "HOOK": {
+    "intro": 81,
+    "roles": 440,
+    "name": 491
+  },
+  "SETUP": {
+    "respect": 23,
+    "test": 425
+  },
+  "MOHO": {
+    "simple": 124,
+    "likethat": 389,
+    "forgot": 533,
+    "name": 636,
+    "truth": 776
+  },
+  "CHISUA": {
+    "little": 86,
+    "everything": 374,
+    "nochu": 628,
+    "name": 717
+  },
+  "KHONGDOC": {
+    "steps": 136,
+    "notsee": 453,
+    "notdone": 584,
+    "name": 750
+  },
+  "CANGAP": {
+    "urgent": 129,
+    "grind": 295,
+    "days": 504,
+    "day4": 614,
+    "lesson": 778
+  },
+  "THIENBIEN": {
+    "master": 85,
+    "colors": 162,
+    "versions": 438,
+    "cry": 568
+  },
+  "TUSANGTAO": {
+    "create": 262,
+    "notthis": 518,
+    "dunno": 633,
+    "name": 828
+  },
+  "DAOLY": {
+    "test": 150,
+    "quotes": 267,
+    "skills": 456
+  },
+  "TIERLIST": {
+    "ha": 48,
+    "trung": 113,
+    "thuong": 179,
+    "cuc": 258,
+    "lost": 477
+  }
+}

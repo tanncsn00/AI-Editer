@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 13.014
+    },
+    {
+      "index": 2,
+      "name": "TT_TRUONG_LAO",
+      "start": 13.014,
+      "duration": 28.821
+    },
+    {
+      "index": 3,
+      "name": "BACH_HIEU",
+      "start": 41.835,
+      "duration": 24.949
+    },
+    {
+      "index": 4,
+      "name": "THIEN_NHAN",
+      "start": 66.783,
+      "duration": 18.156
+    },
+    {
+      "index": 5,
+      "name": "THU_MO",
+      "start": 84.939,
+      "duration": 28.44
+    },
+    {
+      "index": 6,
+      "name": "LUU_QUANG",
+      "start": 113.379,
+      "duration": 20.695
+    },
+    {
+      "index": 7,
+      "name": "DO_KIEP",
+      "start": 134.075,
+      "duration": 26.409
+    },
+    {
+      "index": 8,
+      "name": "FINAL",
+      "start": 160.483,
+      "duration": 32.122
+    },
+    {
+      "index": 9,
+      "name": "CLOSING",
+      "start": 192.605,
+      "duration": 19.426
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 212.031,
+      "duration": 4.571
+    }
+  ],
+  "total_duration": 216.602
+}

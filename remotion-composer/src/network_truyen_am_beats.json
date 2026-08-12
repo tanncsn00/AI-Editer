@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.981
+    },
+    {
+      "index": 2,
+      "name": "NGAY_XUA",
+      "start": 10.981,
+      "duration": 16.156
+    },
+    {
+      "index": 3,
+      "name": "NETWORK",
+      "start": 27.136,
+      "duration": 12.495
+    },
+    {
+      "index": 4,
+      "name": "PACKET",
+      "start": 39.632,
+      "duration": 15.083
+    },
+    {
+      "index": 5,
+      "name": "IP",
+      "start": 54.714,
+      "duration": 12.811
+    },
+    {
+      "index": 6,
+      "name": "ROUTER",
+      "start": 67.525,
+      "duration": 23.981
+    },
+    {
+      "index": 7,
+      "name": "PROBLEMS",
+      "start": 91.506,
+      "duration": 17.418
+    },
+    {
+      "index": 8,
+      "name": "TCP_ACK",
+      "start": 108.924,
+      "duration": 19.374
+    },
+    {
+      "index": 9,
+      "name": "UDP",
+      "start": 128.298,
+      "duration": 27.01
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 155.308,
+      "duration": 32.564
+    }
+  ],
+  "total_duration": 187.871
+}

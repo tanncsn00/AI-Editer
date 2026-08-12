@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 16.744
+    },
+    {
+      "index": 2,
+      "name": "NHAPMON",
+      "start": 16.744,
+      "duration": 8.668
+    },
+    {
+      "index": 3,
+      "name": "HACKER",
+      "start": 25.412,
+      "duration": 21.839
+    },
+    {
+      "index": 4,
+      "name": "EMAIL",
+      "start": 47.251,
+      "duration": 21.545
+    },
+    {
+      "index": 5,
+      "name": "NGUOIDUNG",
+      "start": 68.796,
+      "duration": 28.62
+    },
+    {
+      "index": 6,
+      "name": "QUEN",
+      "start": 97.416,
+      "duration": 16.549
+    },
+    {
+      "index": 7,
+      "name": "LEGACY",
+      "start": 113.965,
+      "duration": 23.083
+    },
+    {
+      "index": 8,
+      "name": "COPHAP",
+      "start": 137.049,
+      "duration": 13.095
+    },
+    {
+      "index": 9,
+      "name": "THIENKIEP",
+      "start": 150.144,
+      "duration": 19.324
+    },
+    {
+      "index": 10,
+      "name": "HUNGTHU",
+      "start": 169.468,
+      "duration": 19.399
+    },
+    {
+      "index": 11,
+      "name": "DAOLY",
+      "start": 188.866,
+      "duration": 13.232
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 202.099,
+      "duration": 9.454
+    }
+  ],
+  "total_duration": 211.553
+}

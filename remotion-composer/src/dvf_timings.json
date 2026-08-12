@@ -1,0 +1,64 @@
+{
+  "HOOK": {
+    "hoa": 110,
+    "kiem": 253,
+    "war": 576
+  },
+  "SUAMOTCHUT": {
+    "quote": 225,
+    "ok": 318,
+    "changes": [
+      474,
+      511,
+      542,
+      563,
+      587,
+      614,
+      675
+    ],
+    "reveal": 1096
+  },
+  "THIENNHAN": {
+    "claim": 216,
+    "nits": [
+      363,
+      420,
+      472,
+      513
+    ],
+    "zoom": 608
+  },
+  "MOBILE": {
+    "ask": 106,
+    "shrink": 173,
+    "pile": [
+      288,
+      326,
+      361,
+      394
+    ],
+    "punch": 514
+  },
+  "FONT": {
+    "q1": 79,
+    "q2": 160,
+    "q3": 218,
+    "react1": 281,
+    "react2": 357
+  },
+  "KHACHHANG": {
+    "enter": 85,
+    "feedback": 209,
+    "demand": [
+      617,
+      651,
+      732
+    ],
+    "truth": 1007
+  },
+  "DAOLY": {
+    "want": 130,
+    "unite": 523,
+    "file": 865
+  }
+}

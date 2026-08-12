@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 17.262
+    },
+    {
+      "index": 2,
+      "name": "TYPE1",
+      "start": 17.262,
+      "duration": 17.998
+    },
+    {
+      "index": 3,
+      "name": "TYPE2",
+      "start": 35.259,
+      "duration": 8.564
+    },
+    {
+      "index": 4,
+      "name": "TYPE3",
+      "start": 43.823,
+      "duration": 13.113
+    },
+    {
+      "index": 5,
+      "name": "TYPE4",
+      "start": 56.937,
+      "duration": 12.244
+    },
+    {
+      "index": 6,
+      "name": "TYPE5",
+      "start": 69.18,
+      "duration": 10.504
+    },
+    {
+      "index": 7,
+      "name": "TYPE6",
+      "start": 79.684,
+      "duration": 13.448
+    },
+    {
+      "index": 8,
+      "name": "TYPE7",
+      "start": 93.132,
+      "duration": 13.849
+    },
+    {
+      "index": 9,
+      "name": "TYPE8",
+      "start": 106.982,
+      "duration": 12.311
+    },
+    {
+      "index": 10,
+      "name": "TYPE9",
+      "start": 119.292,
+      "duration": 17.128
+    },
+    {
+      "index": 11,
+      "name": "OUTRO",
+      "start": 136.42,
+      "duration": 8.229
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 144.65,
+      "duration": 7.627
+    }
+  ],
+  "total_duration": 152.277
+}

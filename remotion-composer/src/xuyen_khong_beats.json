@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "SETUP_XUYEN_KHONG",
+      "start": 0.0,
+      "duration": 12.221
+    },
+    {
+      "index": 2,
+      "name": "IDE_HOANG",
+      "start": 12.221,
+      "duration": 13.053
+    },
+    {
+      "index": 3,
+      "name": "GAP_BUG",
+      "start": 25.275,
+      "duration": 8.446
+    },
+    {
+      "index": 4,
+      "name": "KHONG_CO_GI",
+      "start": 33.721,
+      "duration": 10.494
+    },
+    {
+      "index": 5,
+      "name": "THIEN_TAI",
+      "start": 44.215,
+      "duration": 14.781
+    },
+    {
+      "index": 6,
+      "name": "TRUONG_LAO",
+      "start": 58.996,
+      "duration": 8.062
+    },
+    {
+      "index": 7,
+      "name": "CAU_HOI",
+      "start": 67.058,
+      "duration": 14.205
+    },
+    {
+      "index": 8,
+      "name": "DAP_AN_ENDING",
+      "start": 81.263,
+      "duration": 20.22
+    }
+  ],
+  "total_duration": 101.483
+}

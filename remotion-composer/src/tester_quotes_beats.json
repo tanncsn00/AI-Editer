@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 16.639
+    },
+    {
+      "index": 2,
+      "name": "C1_HOI_LA",
+      "start": 16.639,
+      "duration": 9.727
+    },
+    {
+      "index": 3,
+      "name": "C2_TAI_HIEN",
+      "start": 26.366,
+      "duration": 8.575
+    },
+    {
+      "index": 4,
+      "name": "C3_LAU_LAU_MOI_BI",
+      "start": 34.941,
+      "duration": 8.767
+    },
+    {
+      "index": 5,
+      "name": "C4_BAM_LINH_TINH",
+      "start": 43.708,
+      "duration": 6.527
+    },
+    {
+      "index": 6,
+      "name": "C5_MAY_EM_BI",
+      "start": 50.236,
+      "duration": 6.719
+    },
+    {
+      "index": 7,
+      "name": "C6_SUA_XONG_CHUA",
+      "start": 56.955,
+      "duration": 5.76
+    },
+    {
+      "index": 8,
+      "name": "C7_ANH_RANH_KHONG",
+      "start": 62.715,
+      "duration": 6.08
+    },
+    {
+      "index": 9,
+      "name": "ENDING_CTA",
+      "start": 68.794,
+      "duration": 15.871
+    }
+  ],
+  "total_duration": 84.665
+}

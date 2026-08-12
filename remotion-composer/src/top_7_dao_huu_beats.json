@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_HOOK",
+      "start": 0.0,
+      "duration": 10.911
+    },
+    {
+      "index": 2,
+      "name": "LOAI_1_REFACTOR",
+      "start": 10.911,
+      "duration": 13.444
+    },
+    {
+      "index": 3,
+      "name": "LOAI_2_AI_BRO",
+      "start": 24.356,
+      "duration": 12.73
+    },
+    {
+      "index": 4,
+      "name": "LOAI_3_FRIDAY_DEPLOY",
+      "start": 37.085,
+      "duration": 14.224
+    },
+    {
+      "index": 5,
+      "name": "LOAI_4_OVERENGINEERING",
+      "start": 51.309,
+      "duration": 13.314
+    },
+    {
+      "index": 6,
+      "name": "LOAI_5_HOP_DAO",
+      "start": 64.623,
+      "duration": 12.405
+    },
+    {
+      "index": 7,
+      "name": "LOAI_6_SILENT_BUG",
+      "start": 77.028,
+      "duration": 15.588
+    },
+    {
+      "index": 8,
+      "name": "LOAI_7_XINH_DEP_BIET_CODE",
+      "start": 92.616,
+      "duration": 20.589
+    }
+  ],
+  "total_duration": 113.205
+}

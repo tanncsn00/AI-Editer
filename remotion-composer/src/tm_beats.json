@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 17.951
+    },
+    {
+      "index": 2,
+      "name": "NHAPMON",
+      "start": 17.951,
+      "duration": 18.271
+    },
+    {
+      "index": 3,
+      "name": "METAM",
+      "start": 36.222,
+      "duration": 35.172
+    },
+    {
+      "index": 4,
+      "name": "SCAN",
+      "start": 71.394,
+      "duration": 33.075
+    },
+    {
+      "index": 5,
+      "name": "MATKHAU",
+      "start": 104.469,
+      "duration": 25.755
+    },
+    {
+      "index": 6,
+      "name": "CEO",
+      "start": 130.224,
+      "duration": 34.295
+    },
+    {
+      "index": 7,
+      "name": "DAOLY",
+      "start": 164.519,
+      "duration": 21.006
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 185.525,
+      "duration": 9.302
+    }
+  ],
+  "total_duration": 194.826
+}

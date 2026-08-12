@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_XUAT_THE",
+      "start": 0.0,
+      "duration": 8.85
+    },
+    {
+      "index": 2,
+      "name": "KHONG_PHAI_CHATBOT",
+      "start": 8.85,
+      "duration": 11.522
+    },
+    {
+      "index": 3,
+      "name": "HONESTY",
+      "start": 20.372,
+      "duration": 31.241
+    },
+    {
+      "index": 4,
+      "name": "CODE_DAO",
+      "start": 51.613,
+      "duration": 18.709
+    },
+    {
+      "index": 5,
+      "name": "DYNAMIC_WORKFLOW",
+      "start": 70.322,
+      "duration": 15.799
+    },
+    {
+      "index": 6,
+      "name": "CLAUDE_MYTHOS",
+      "start": 86.12,
+      "duration": 24.648
+    },
+    {
+      "index": 7,
+      "name": "QUY_LUAT_TAN_NHAN",
+      "start": 110.769,
+      "duration": 19.065
+    },
+    {
+      "index": 8,
+      "name": "ENDING_DAI_KIEP_CTA",
+      "start": 129.834,
+      "duration": 36.765
+    }
+  ],
+  "total_duration": 166.598
+}

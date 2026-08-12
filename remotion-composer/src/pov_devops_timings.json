@@ -1,0 +1,103 @@
+{
+  "INTRO": {
+    "invisible": 106,
+    "summon": 240
+  },
+  "SETUP": {
+    "naive": [
+      168,
+      208,
+      270
+    ],
+    "kiep": 295
+  },
+  "K1A": {
+    "kiep": 64,
+    "quote": 305,
+    "tin": 362,
+    "boom": 548
+  },
+  "K1B": {
+    "prophecy": 334,
+    "hero": 464,
+    "seal": 710,
+    "hunt": 829
+  },
+  "K2A": {
+    "kiep": 72,
+    "manual": 204,
+    "typo": 507,
+    "culprit": 761
+  },
+  "K2B": {
+    "hero": 59,
+    "gateintro": 267,
+    "gates": [
+      297,
+      312,
+      330,
+      353
+    ],
+    "phongsat": 426,
+    "truth": 731
+  },
+  "K3A": {
+    "kiep": 71,
+    "leave": 333,
+    "know": [
+      430,
+      460,
+      494
+    ],
+    "onlyme": 522
+  },
+  "K3B": {
+    "hero": 122,
+    "alerts": [
+      268,
+      315,
+      371,
+      432
+    ],
+    "karma": 574
+  },
+  "DIETHE": {
+    "wake": 54,
+    "intern": 393,
+    "name": 551
+  },
+  "FRIDAY1": {
+    "ask": 284,
+    "clock": 381,
+    "taboo": 658
+  },
+  "FRIDAY2": {
+    "trust": 91,
+    "timeline": [
+      192,
+      269,
+      355,
+      456
+    ],
+    "drink": 606
+  },
+  "NODEPLOY": {
+    "name": 43,
+    "eng": 98
+  },
+  "ENDING": {
+    "roles": [
+      130,
+      178,
+      226
+    ],
+    "fame": 381,
+    "tiers": [
+      625,
+      693,
+      753,
+      827
+    ],
+    "lost": 967
+  }
+}

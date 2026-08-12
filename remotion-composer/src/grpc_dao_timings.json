@@ -1,0 +1,81 @@
+{
+  "INTRO": {
+    "hard": 224
+  },
+  "MONOLITH": {
+    "mono": 87,
+    "call": 473,
+    "split": 585,
+    "strong": 1013
+  },
+  "PROBLEM": {
+    "q": [
+      82,
+      144,
+      206,
+      271
+    ],
+    "chuc": 364,
+    "cross": 734
+  },
+  "RPC": {
+    "hero": 335,
+    "idea": 499,
+    "pay": 937
+  },
+  "RPC_LAW": {
+    "law": 142,
+    "chaos": 283,
+    "borrow": 510
+  },
+  "HTTP_SLOW": {
+    "good": 30,
+    "million": 543,
+    "hundred": 788,
+    "cpu": 924
+  },
+  "PROTOBUF": {
+    "hero": 30,
+    "why": 139,
+    "compress": 269,
+    "speed": 623
+  },
+  "HTTP12": {
+    "http1": 172,
+    "freeze": 431,
+    "hero": 662,
+    "multi": 877
+  },
+  "GRPC_FORM": {
+    "form": 89,
+    "three": 128
+  },
+  "PROTOFILE": {
+    "clash": 110,
+    "hero": 377,
+    "contract": 562,
+    "build": 751
+  },
+  "STREAMING": {
+    "need": 84,
+    "harass": 408,
+    "hero": 473,
+    "mind": 718
+  },
+  "DEADLINE": {
+    "chain": 72,
+    "freeze": 264,
+    "hero": 464,
+    "give": 652
+  },
+  "LOADBAL": {
+    "load": 30,
+    "hero": 193,
+    "dist": 340
+  },
+  "FINALE": {
+    "daitran": 274,
+    "pay": 866,
+    "end": 1112
+  }
+}

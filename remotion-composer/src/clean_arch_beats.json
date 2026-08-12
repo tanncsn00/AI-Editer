@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 16.85
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 16.85,
+      "duration": 27.66
+    },
+    {
+      "index": 3,
+      "name": "SRP",
+      "start": 44.51,
+      "duration": 28.92
+    },
+    {
+      "index": 4,
+      "name": "OCP",
+      "start": 73.43,
+      "duration": 22.26
+    },
+    {
+      "index": 5,
+      "name": "LSP",
+      "start": 95.69,
+      "duration": 17.38
+    },
+    {
+      "index": 6,
+      "name": "ISP",
+      "start": 113.07,
+      "duration": 15.8
+    },
+    {
+      "index": 7,
+      "name": "DIP",
+      "start": 128.87,
+      "duration": 22.62
+    },
+    {
+      "index": 8,
+      "name": "NHINLAI",
+      "start": 151.49,
+      "duration": 16.58
+    },
+    {
+      "index": 9,
+      "name": "CHONGTHEM",
+      "start": 168.07,
+      "duration": 26.48
+    },
+    {
+      "index": 10,
+      "name": "DAOLY",
+      "start": 194.55,
+      "duration": 27.2
+    },
+    {
+      "index": 11,
+      "name": "TIER",
+      "start": 221.75,
+      "duration": 17.8
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 239.55,
+      "duration": 16.835
+    }
+  ],
+  "total_duration": 256.385
+}

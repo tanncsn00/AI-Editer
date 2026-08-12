@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_DAI_CHIEN",
+      "start": 0.0,
+      "duration": 13.793
+    },
+    {
+      "index": 2,
+      "name": "SAME_GOAL",
+      "start": 13.793,
+      "duration": 9.302
+    },
+    {
+      "index": 3,
+      "name": "FIRST_DIFF",
+      "start": 23.095,
+      "duration": 14.114
+    },
+    {
+      "index": 4,
+      "name": "PIXEL_WAR",
+      "start": 37.209,
+      "duration": 11.868
+    },
+    {
+      "index": 5,
+      "name": "FONT_CAM_XUC",
+      "start": 49.077,
+      "duration": 9.88
+    },
+    {
+      "index": 6,
+      "name": "FIGMA_CHINH_NHE",
+      "start": 58.957,
+      "duration": 13.729
+    },
+    {
+      "index": 7,
+      "name": "CHUA_GIONG_FIGMA",
+      "start": 72.685,
+      "duration": 13.985
+    },
+    {
+      "index": 8,
+      "name": "SPRINT_CONG_LUC",
+      "start": 86.671,
+      "duration": 13.344
+    },
+    {
+      "index": 9,
+      "name": "ENDING_CHAN_LY",
+      "start": 100.015,
+      "duration": 26.303
+    }
+  ],
+  "total_duration": 126.317
+}

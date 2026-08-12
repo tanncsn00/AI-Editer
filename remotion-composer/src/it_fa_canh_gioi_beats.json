@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_HOOK",
+      "start": 0.0,
+      "duration": 13.607
+    },
+    {
+      "index": 2,
+      "name": "LUYEN_KHI_FA",
+      "start": 13.607,
+      "duration": 17.415
+    },
+    {
+      "index": 3,
+      "name": "TRUC_CO_CO_DOC",
+      "start": 31.022,
+      "duration": 17.165
+    },
+    {
+      "index": 4,
+      "name": "KET_DAN_TINH_KIEP",
+      "start": 48.187,
+      "duration": 17.477
+    },
+    {
+      "index": 5,
+      "name": "NGUYEN_ANH_VO_TINH",
+      "start": 65.664,
+      "duration": 16.041
+    },
+    {
+      "index": 6,
+      "name": "HOA_THAN_TAU_HOA",
+      "start": 81.705,
+      "duration": 20.848
+    },
+    {
+      "index": 7,
+      "name": "DO_KIEP_FA",
+      "start": 102.553,
+      "duration": 17.54
+    },
+    {
+      "index": 8,
+      "name": "PHI_THANG_CO_DOC",
+      "start": 120.093,
+      "duration": 24.53
+    }
+  ],
+  "total_duration": 144.623
+}

@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 12.068
+    },
+    {
+      "index": 2,
+      "name": "STORY1A",
+      "start": 12.068,
+      "duration": 30.365
+    },
+    {
+      "index": 3,
+      "name": "STORY1B",
+      "start": 42.433,
+      "duration": 21.411
+    },
+    {
+      "index": 4,
+      "name": "STORY2A",
+      "start": 63.845,
+      "duration": 15.896
+    },
+    {
+      "index": 5,
+      "name": "STORY2B",
+      "start": 79.741,
+      "duration": 16.286
+    },
+    {
+      "index": 6,
+      "name": "STORY3A",
+      "start": 96.026,
+      "duration": 14.209
+    },
+    {
+      "index": 7,
+      "name": "STORY3B",
+      "start": 110.236,
+      "duration": 23.488
+    },
+    {
+      "index": 8,
+      "name": "STORY4A",
+      "start": 133.723,
+      "duration": 24.396
+    },
+    {
+      "index": 9,
+      "name": "STORY4B",
+      "start": 158.119,
+      "duration": 20.179
+    },
+    {
+      "index": 10,
+      "name": "CLIMAX",
+      "start": 178.298,
+      "duration": 23.033
+    },
+    {
+      "index": 11,
+      "name": "ENDING",
+      "start": 201.331,
+      "duration": 29.846
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 231.177,
+      "duration": 7.591
+    }
+  ],
+  "total_duration": 238.769
+}

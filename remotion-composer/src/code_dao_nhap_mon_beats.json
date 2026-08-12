@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 8.714
+    },
+    {
+      "index": 2,
+      "name": "NAIVE",
+      "start": 8.714,
+      "duration": 10.304
+    },
+    {
+      "index": 3,
+      "name": "JUDGING",
+      "start": 19.018,
+      "duration": 15.838
+    },
+    {
+      "index": 4,
+      "name": "LEGACY",
+      "start": 34.856,
+      "duration": 21.371
+    },
+    {
+      "index": 5,
+      "name": "REALIZATION",
+      "start": 56.227,
+      "duration": 9.223
+    },
+    {
+      "index": 6,
+      "name": "HOTFIX",
+      "start": 65.45,
+      "duration": 22.135
+    },
+    {
+      "index": 7,
+      "name": "THE_HOTFIX",
+      "start": 87.584,
+      "duration": 14.82
+    },
+    {
+      "index": 8,
+      "name": "KARMA",
+      "start": 102.404,
+      "duration": 22.961
+    },
+    {
+      "index": 9,
+      "name": "NO_MOCK",
+      "start": 125.366,
+      "duration": 16.028
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 141.394,
+      "duration": 17.11
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 158.504,
+      "duration": 7.823
+    }
+  ],
+  "total_duration": 166.327
+}

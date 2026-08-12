@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 19.815
+    },
+    {
+      "index": 2,
+      "name": "BOWL_RACE",
+      "start": 19.815,
+      "duration": 24.204
+    },
+    {
+      "index": 3,
+      "name": "RESULT",
+      "start": 44.019,
+      "duration": 18.717
+    },
+    {
+      "index": 4,
+      "name": "IDEMPOTENCY",
+      "start": 62.736,
+      "duration": 22.436
+    },
+    {
+      "index": 5,
+      "name": "NETWORK_CUT",
+      "start": 85.172,
+      "duration": 23.107
+    },
+    {
+      "index": 6,
+      "name": "TRANSACTION",
+      "start": 108.279,
+      "duration": 19.144
+    },
+    {
+      "index": 7,
+      "name": "CROSS",
+      "start": 127.423,
+      "duration": 21.765
+    },
+    {
+      "index": 8,
+      "name": "OUTBOX",
+      "start": 149.188,
+      "duration": 19.51
+    },
+    {
+      "index": 9,
+      "name": "SAGA",
+      "start": 168.698,
+      "duration": 30.301
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 198.999,
+      "duration": 29.508
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 228.507,
+      "duration": 7.804
+    }
+  ],
+  "total_duration": 236.311
+}

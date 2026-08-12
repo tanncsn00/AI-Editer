@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 15.43
+    },
+    {
+      "index": 2,
+      "name": "CONGPHAP",
+      "start": 15.43,
+      "duration": 24.26
+    },
+    {
+      "index": 3,
+      "name": "TUYKHOC",
+      "start": 39.69,
+      "duration": 25.48
+    },
+    {
+      "index": 4,
+      "name": "HUVINH",
+      "start": 65.17,
+      "duration": 23.28
+    },
+    {
+      "index": 5,
+      "name": "SIMONG",
+      "start": 88.45,
+      "duration": 18.2
+    },
+    {
+      "index": 6,
+      "name": "HATIEN",
+      "start": 106.65,
+      "duration": 20.64
+    },
+    {
+      "index": 7,
+      "name": "MAAM",
+      "start": 127.29,
+      "duration": 19.42
+    },
+    {
+      "index": 8,
+      "name": "TANGHAI",
+      "start": 146.71,
+      "duration": 24.34
+    },
+    {
+      "index": 9,
+      "name": "THANCHU",
+      "start": 171.05,
+      "duration": 16.2
+    },
+    {
+      "index": 10,
+      "name": "TIER",
+      "start": 187.25,
+      "duration": 27.082
+    }
+  ],
+  "total_duration": 214.332
+}

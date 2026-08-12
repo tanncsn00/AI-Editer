@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_THUOA_MOI_NHAP",
+      "start": 0.0,
+      "duration": 22.811
+    },
+    {
+      "index": 2,
+      "name": "JUNIOR_CHAP_NIEM",
+      "start": 22.811,
+      "duration": 8.546
+    },
+    {
+      "index": 3,
+      "name": "PRODUCTION_TAM_MA",
+      "start": 31.357,
+      "duration": 22.497
+    },
+    {
+      "index": 4,
+      "name": "DAO_LY_TAN_NHAN",
+      "start": 53.854,
+      "duration": 9.112
+    },
+    {
+      "index": 5,
+      "name": "DAI_NANG_DON_GIAN",
+      "start": 62.966,
+      "duration": 18.035
+    },
+    {
+      "index": 6,
+      "name": "QUY_LUAT_KY_LA",
+      "start": 81.001,
+      "duration": 5.97
+    },
+    {
+      "index": 7,
+      "name": "CANH_GIOI_THAT_SU",
+      "start": 86.971,
+      "duration": 7.164
+    },
+    {
+      "index": 8,
+      "name": "DAI_DAO_TOI_CAO",
+      "start": 94.135,
+      "duration": 13.762
+    }
+  ],
+  "total_duration": 107.897
+}

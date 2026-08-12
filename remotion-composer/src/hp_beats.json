@@ -1,0 +1,41 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 19.243
+    },
+    {
+      "index": 2,
+      "name": "DAYMANG",
+      "start": 19.243,
+      "duration": 32.68
+    },
+    {
+      "index": 3,
+      "name": "THUNGRAC",
+      "start": 51.922,
+      "duration": 32.336
+    },
+    {
+      "index": 4,
+      "name": "CHROME",
+      "start": 84.258,
+      "duration": 33.506
+    },
+    {
+      "index": 5,
+      "name": "DAOLY",
+      "start": 117.764,
+      "duration": 16.182
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "start": 133.946,
+      "duration": 8.92
+    }
+  ],
+  "total_duration": 142.866
+}

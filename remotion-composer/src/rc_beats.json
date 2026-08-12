@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 16.773
+    },
+    {
+      "index": 2,
+      "name": "HAISUDE",
+      "start": 16.773,
+      "duration": 19.588
+    },
+    {
+      "index": 3,
+      "name": "THIENKIEP",
+      "start": 36.361,
+      "duration": 25.494
+    },
+    {
+      "index": 4,
+      "name": "PHAMTRAN",
+      "start": 61.855,
+      "duration": 21.373
+    },
+    {
+      "index": 5,
+      "name": "HEISENBUG",
+      "start": 83.229,
+      "duration": 26.941
+    },
+    {
+      "index": 6,
+      "name": "NGO",
+      "start": 110.17,
+      "duration": 22.143
+    },
+    {
+      "index": 7,
+      "name": "LOCK",
+      "start": 132.313,
+      "duration": 47.199
+    },
+    {
+      "index": 8,
+      "name": "DEADLOCK",
+      "start": 179.512,
+      "duration": 39.142
+    },
+    {
+      "index": 9,
+      "name": "ATOMIC",
+      "start": 218.653,
+      "duration": 39.842
+    },
+    {
+      "index": 10,
+      "name": "OPTIMISTIC",
+      "start": 258.495,
+      "duration": 49.238
+    },
+    {
+      "index": 11,
+      "name": "DAOLY",
+      "start": 307.732,
+      "duration": 33.916
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 341.648,
+      "duration": 9.612
+    }
+  ],
+  "total_duration": 351.26
+}

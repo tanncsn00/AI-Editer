@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 8.413
+    },
+    {
+      "index": 2,
+      "name": "GIT",
+      "start": 8.413,
+      "duration": 19.735
+    },
+    {
+      "index": 3,
+      "name": "BUG",
+      "start": 28.148,
+      "duration": 18.126
+    },
+    {
+      "index": 4,
+      "name": "JS",
+      "start": 46.274,
+      "duration": 20.848
+    },
+    {
+      "index": 5,
+      "name": "OUTAGE",
+      "start": 67.122,
+      "duration": 15.775
+    },
+    {
+      "index": 6,
+      "name": "PYTHON",
+      "start": 82.898,
+      "duration": 26.354
+    },
+    {
+      "index": 7,
+      "name": "NOFIX",
+      "start": 109.252,
+      "duration": 18.312
+    },
+    {
+      "index": 8,
+      "name": "FINAL1",
+      "start": 127.563,
+      "duration": 24.003
+    },
+    {
+      "index": 9,
+      "name": "FINAL2",
+      "start": 151.567,
+      "duration": 17.941
+    },
+    {
+      "index": 10,
+      "name": "FINAL3",
+      "start": 169.507,
+      "duration": 26.725
+    },
+    {
+      "index": 11,
+      "name": "ENDING",
+      "start": 196.232,
+      "duration": 22.147
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 218.38,
+      "duration": 4.702
+    }
+  ],
+  "total_duration": 223.081
+}

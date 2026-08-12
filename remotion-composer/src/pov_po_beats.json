@@ -1,0 +1,89 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 14.756
+    },
+    {
+      "index": 2,
+      "name": "BACKLOG",
+      "start": 14.756,
+      "duration": 14.822
+    },
+    {
+      "index": 3,
+      "name": "UUTIEN",
+      "start": 29.578,
+      "duration": 7.976
+    },
+    {
+      "index": 4,
+      "name": "REQUESTS",
+      "start": 37.554,
+      "duration": 20.738
+    },
+    {
+      "index": 5,
+      "name": "TUCHOI",
+      "start": 58.291,
+      "duration": 9.704
+    },
+    {
+      "index": 6,
+      "name": "SPRINT",
+      "start": 67.995,
+      "duration": 13.16
+    },
+    {
+      "index": 7,
+      "name": "GANHNGHIEP",
+      "start": 81.156,
+      "duration": 12.097
+    },
+    {
+      "index": 8,
+      "name": "DATA",
+      "start": 93.252,
+      "duration": 23.463
+    },
+    {
+      "index": 9,
+      "name": "CHUNGDAO",
+      "start": 116.715,
+      "duration": 10.302
+    },
+    {
+      "index": 10,
+      "name": "RELEASE",
+      "start": 127.017,
+      "duration": 18.145
+    },
+    {
+      "index": 11,
+      "name": "GIATRI",
+      "start": 145.163,
+      "duration": 11.499
+    },
+    {
+      "index": 12,
+      "name": "CHANLY",
+      "start": 156.661,
+      "duration": 16.085
+    },
+    {
+      "index": 13,
+      "name": "VOHAN",
+      "start": 172.746,
+      "duration": 20.206
+    },
+    {
+      "index": 14,
+      "name": "CTA",
+      "start": 192.952,
+      "duration": 7.777
+    }
+  ],
+  "total_duration": 200.729
+}

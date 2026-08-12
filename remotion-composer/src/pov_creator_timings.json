@@ -1,0 +1,79 @@
+{
+  "HOOK": {
+    "hunt": [
+      97,
+      127,
+      185
+    ],
+    "vanish": 252
+  },
+  "SETUP": {
+    "belief": [
+      149,
+      179,
+      216,
+      239
+    ],
+    "truth": 455
+  },
+  "LINHCAM": {
+    "kiep": 13,
+    "flow": 153,
+    "wtf": 367
+  },
+  "THUATTOAN": {
+    "kiep": 14,
+    "hard": 179,
+    "lazy": 435,
+    "ngo": 641
+  },
+  "BINHLUAN": {
+    "kiep": 14,
+    "praise": 118,
+    "focus": 270
+  },
+  "VIDEONUA": {
+    "kiep": 14,
+    "demand": [
+      202,
+      202,
+      283
+    ],
+    "capcut": 339
+  },
+  "NGHIHO": {
+    "kiep": 14,
+    "asks": [
+      302,
+      302,
+      302,
+      302,
+      302
+    ],
+    "ngo": 542
+  },
+  "TRONGRONG": {
+    "notalg": 38,
+    "ready": [
+      238,
+      238,
+      238,
+      238
+    ],
+    "empty": 411
+  },
+  "DAOLY": {
+    "notsell": 141,
+    "attention": 215,
+    "forget": 410
+  },
+  "TIER": {
+    "tiers": [
+      96,
+      138,
+      192,
+      246
+    ],
+    "daotam": 439
+  }
+}

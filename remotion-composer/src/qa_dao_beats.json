@@ -1,0 +1,83 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 27.37
+    },
+    {
+      "index": 2,
+      "name": "ORIGIN",
+      "start": 27.37,
+      "duration": 27.175
+    },
+    {
+      "index": 3,
+      "name": "BLAME",
+      "start": 54.545,
+      "duration": 25.355
+    },
+    {
+      "index": 4,
+      "name": "ROOTCAUSE",
+      "start": 79.9,
+      "duration": 12.482
+    },
+    {
+      "index": 5,
+      "name": "BUGHUNTER",
+      "start": 92.382,
+      "duration": 25.745
+    },
+    {
+      "index": 6,
+      "name": "PROPHECY",
+      "start": 118.127,
+      "duration": 8.061
+    },
+    {
+      "index": 7,
+      "name": "DUKIEP1",
+      "start": 126.188,
+      "duration": 17.943
+    },
+    {
+      "index": 8,
+      "name": "DUKIEP2",
+      "start": 144.132,
+      "duration": 24.77
+    },
+    {
+      "index": 9,
+      "name": "TRUYBAN1",
+      "start": 168.901,
+      "duration": 17.943
+    },
+    {
+      "index": 10,
+      "name": "TRUYBAN2",
+      "start": 186.844,
+      "duration": 17.163
+    },
+    {
+      "index": 11,
+      "name": "LEVELS1",
+      "start": 204.008,
+      "duration": 15.798
+    },
+    {
+      "index": 12,
+      "name": "LEVELS2",
+      "start": 219.806,
+      "duration": 21.129
+    },
+    {
+      "index": 13,
+      "name": "CTA",
+      "start": 240.934,
+      "duration": 8.387
+    }
+  ],
+  "total_duration": 249.321
+}

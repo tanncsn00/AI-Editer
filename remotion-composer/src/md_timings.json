@@ -1,0 +1,66 @@
+{
+  "HOOK": {
+    "nokiep": 93,
+    "crack": 233,
+    "meeting": 320
+  },
+  "NAMPHUT": {
+    "quote": 0,
+    "glitch": [
+      195,
+      272,
+      338
+    ],
+    "start": 486,
+    "delete": 575
+  },
+  "YNHO": {
+    "ask": 5,
+    "chot": 160,
+    "idea": 303,
+    "react": [
+      458,
+      534,
+      610
+    ],
+    "reveal": 918
+  },
+  "CHIMOTCHUT": {
+    "quote": 112,
+    "react1": 161,
+    "changes": [
+      385,
+      433,
+      458
+    ],
+    "allchange": 487,
+    "react2": 592,
+    "deadline": 962
+  },
+  "PHUONGANB": {
+    "agreeA": 103,
+    "ceoIn": 184,
+    "ceoAsk": 332,
+    "file": 507,
+    "crack": 725
+  },
+  "TIENDAY": {
+    "standup": 98,
+    "tienday": 194,
+    "react": 316,
+    "pm": 629,
+    "shatter": 825
+  },
+  "DAOLY": {
+    "notin": [
+      134,
+      185,
+      236
+    ],
+    "phrases": [
+      325,
+      397
+    ],
+    "reveal": 577
+  }
+}

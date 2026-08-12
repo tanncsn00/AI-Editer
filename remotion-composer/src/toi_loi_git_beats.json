@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.743
+    },
+    {
+      "index": 2,
+      "name": "T1_COMMIT_THANG_PROD",
+      "start": 11.743,
+      "duration": 9.057
+    },
+    {
+      "index": 3,
+      "name": "T2_FIX_BUG",
+      "start": 20.799,
+      "duration": 11.305
+    },
+    {
+      "index": 4,
+      "name": "T3_NHAM_BRANCH",
+      "start": 32.105,
+      "duration": 8.37
+    },
+    {
+      "index": 5,
+      "name": "T4_ACCEPT_INCOMING",
+      "start": 40.474,
+      "duration": 13.054
+    },
+    {
+      "index": 6,
+      "name": "T5_MAI_SE_DON",
+      "start": 53.528,
+      "duration": 10.868
+    },
+    {
+      "index": 7,
+      "name": "T6_GIT_BLAME_MINH",
+      "start": 64.396,
+      "duration": 13.179
+    },
+    {
+      "index": 8,
+      "name": "T7_FORCE_PUSH",
+      "start": 77.575,
+      "duration": 12.367
+    },
+    {
+      "index": 9,
+      "name": "T8_BRANCH_FINAL",
+      "start": 89.943,
+      "duration": 15.365
+    },
+    {
+      "index": 10,
+      "name": "ENDING_CTA",
+      "start": 105.308,
+      "duration": 19.175
+    }
+  ],
+  "total_duration": 124.483
+}

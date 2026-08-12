@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 15.447
+    },
+    {
+      "index": 2,
+      "name": "DH1_GAP_GI_CUNG_HOI",
+      "start": 15.447,
+      "duration": 11.863
+    },
+    {
+      "index": 3,
+      "name": "DH2_TIN_AI_HON_MINH",
+      "start": 27.31,
+      "duration": 9.451
+    },
+    {
+      "index": 4,
+      "name": "DH3_HOI_AI_NAY_CHECK_AI_KIA",
+      "start": 36.761,
+      "duration": 13.297
+    },
+    {
+      "index": 5,
+      "name": "DH4_QUEN_CAU_HOI",
+      "start": 50.057,
+      "duration": 11.928
+    },
+    {
+      "index": 6,
+      "name": "DH5_VIET_TIN_NHAN",
+      "start": 61.985,
+      "duration": 9.777
+    },
+    {
+      "index": 7,
+      "name": "DH6_DE_AI_TOM_TAT",
+      "start": 71.762,
+      "duration": 6.453
+    },
+    {
+      "index": 8,
+      "name": "DH7_AI_HIEU_MINH",
+      "start": 78.215,
+      "duration": 10.429
+    },
+    {
+      "index": 9,
+      "name": "DH_CUOI_CUNG",
+      "start": 88.643,
+      "duration": 9.386
+    },
+    {
+      "index": 10,
+      "name": "ENDING_CTA",
+      "start": 98.029,
+      "duration": 18.576
+    }
+  ],
+  "total_duration": 116.605
+}

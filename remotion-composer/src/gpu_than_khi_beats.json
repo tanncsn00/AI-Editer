@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "SETUP_GAME_THU",
+      "start": 0.0,
+      "duration": 10.101
+    },
+    {
+      "index": 2,
+      "name": "BI_MAT",
+      "start": 10.101,
+      "duration": 8.355
+    },
+    {
+      "index": 3,
+      "name": "CPU_KIEM_TU",
+      "start": 18.456,
+      "duration": 7.981
+    },
+    {
+      "index": 4,
+      "name": "GPU_VAN_KIEM",
+      "start": 26.437,
+      "duration": 10.974
+    },
+    {
+      "index": 5,
+      "name": "SCALE_THAM_SO",
+      "start": 37.41,
+      "duration": 18.705
+    },
+    {
+      "index": 6,
+      "name": "GOM_GPU",
+      "start": 56.115,
+      "duration": 17.707
+    },
+    {
+      "index": 7,
+      "name": "NVIDIA_BAN_CUOC",
+      "start": 73.823,
+      "duration": 18.206
+    },
+    {
+      "index": 8,
+      "name": "ENDING_GPU_REVEAL",
+      "start": 92.029,
+      "duration": 25.564
+    }
+  ],
+  "total_duration": 117.593
+}

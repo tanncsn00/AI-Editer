@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_GIT_DAO",
+      "start": 0.0,
+      "duration": 7.45
+    },
+    {
+      "index": 2,
+      "name": "EASY_START",
+      "start": 7.45,
+      "duration": 8.15
+    },
+    {
+      "index": 3,
+      "name": "THE_CRACKS",
+      "start": 15.6,
+      "duration": 14.709
+    },
+    {
+      "index": 4,
+      "name": "DO_KIEP",
+      "start": 30.308,
+      "duration": 12.162
+    },
+    {
+      "index": 5,
+      "name": "THAN_CHU",
+      "start": 42.47,
+      "duration": 9.042
+    },
+    {
+      "index": 6,
+      "name": "KHONG_AI_HIEU",
+      "start": 51.512,
+      "duration": 11.843
+    },
+    {
+      "index": 7,
+      "name": "BA_CANH_GIOI",
+      "start": 63.355,
+      "duration": 16.428
+    },
+    {
+      "index": 8,
+      "name": "FORCE_PUSH_PROD",
+      "start": 79.783,
+      "duration": 10.251
+    },
+    {
+      "index": 9,
+      "name": "ALARM_ENDING",
+      "start": 90.034,
+      "duration": 12.48
+    }
+  ],
+  "total_duration": 102.514
+}

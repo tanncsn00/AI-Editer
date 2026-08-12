@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 9.9
+    },
+    {
+      "index": 2,
+      "name": "TYPE1",
+      "start": 9.9,
+      "duration": 25.82
+    },
+    {
+      "index": 3,
+      "name": "TYPE2",
+      "start": 35.72,
+      "duration": 19.24
+    },
+    {
+      "index": 4,
+      "name": "TYPE3",
+      "start": 54.96,
+      "duration": 17.88
+    },
+    {
+      "index": 5,
+      "name": "TYPE4",
+      "start": 72.84,
+      "duration": 13.0
+    },
+    {
+      "index": 6,
+      "name": "TYPE5",
+      "start": 85.84,
+      "duration": 20.4
+    },
+    {
+      "index": 7,
+      "name": "TYPE6",
+      "start": 106.24,
+      "duration": 28.02
+    },
+    {
+      "index": 8,
+      "name": "MASTERY",
+      "start": 134.26,
+      "duration": 14.04
+    },
+    {
+      "index": 9,
+      "name": "FINALE",
+      "start": 148.3,
+      "duration": 9.56
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 157.86,
+      "duration": 7.152
+    }
+  ],
+  "total_duration": 165.012
+}

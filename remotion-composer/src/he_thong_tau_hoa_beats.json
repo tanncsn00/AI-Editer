@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 14.648
+    },
+    {
+      "index": 2,
+      "name": "DH1_KHONG_DAM_DONG",
+      "start": 14.648,
+      "duration": 11.947
+    },
+    {
+      "index": 3,
+      "name": "DH2_KHONG_AI_THAY_TOAN_BO",
+      "start": 26.595,
+      "duration": 14.888
+    },
+    {
+      "index": 4,
+      "name": "DH3_DEPLOY_CAU_NGUYEN",
+      "start": 41.483,
+      "duration": 8.945
+    },
+    {
+      "index": 5,
+      "name": "DH4_CO_THAN_FILE",
+      "start": 50.428,
+      "duration": 21.072
+    },
+    {
+      "index": 6,
+      "name": "DH5_DAO_TO_PHI_THANG",
+      "start": 71.5,
+      "duration": 15.909
+    },
+    {
+      "index": 7,
+      "name": "DH6_GIT_BLAME_MA",
+      "start": 87.409,
+      "duration": 14.348
+    },
+    {
+      "index": 8,
+      "name": "DH7_REWRITE_TOAN_BO",
+      "start": 101.757,
+      "duration": 10.746
+    },
+    {
+      "index": 9,
+      "name": "ENDING_CTA",
+      "start": 112.503,
+      "duration": 19.811
+    }
+  ],
+  "total_duration": 132.314
+}

@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_K8S",
+      "start": 0.0,
+      "duration": 17.453
+    },
+    {
+      "index": 2,
+      "name": "ORIGIN_GOOGLE",
+      "start": 17.453,
+      "duration": 9.142
+    },
+    {
+      "index": 3,
+      "name": "GROWTH_HUYEN_DIEU",
+      "start": 26.595,
+      "duration": 9.142
+    },
+    {
+      "index": 4,
+      "name": "DEPLOY_POD",
+      "start": 35.737,
+      "duration": 6.137
+    },
+    {
+      "index": 5,
+      "name": "SERVICE_INGRESS",
+      "start": 41.875,
+      "duration": 4.923
+    },
+    {
+      "index": 6,
+      "name": "THE_FLOOD",
+      "start": 46.797,
+      "duration": 7.991
+    },
+    {
+      "index": 7,
+      "name": "RAT_DON_GIAN",
+      "start": 54.789,
+      "duration": 11.38
+    },
+    {
+      "index": 8,
+      "name": "BA_CANH_GIOI",
+      "start": 66.168,
+      "duration": 13.809
+    },
+    {
+      "index": 9,
+      "name": "ENDING",
+      "start": 79.977,
+      "duration": 13.873
+    }
+  ],
+  "total_duration": 93.85
+}

@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 16.117
+    },
+    {
+      "index": 2,
+      "name": "NHAPMON",
+      "start": 16.117,
+      "duration": 10.361
+    },
+    {
+      "index": 3,
+      "name": "NGOCGIAN",
+      "start": 26.478,
+      "duration": 17.487
+    },
+    {
+      "index": 4,
+      "name": "NGANSACH",
+      "start": 43.965,
+      "duration": 20.419
+    },
+    {
+      "index": 5,
+      "name": "PHONGVAN",
+      "start": 64.384,
+      "duration": 15.965
+    },
+    {
+      "index": 6,
+      "name": "OFFER",
+      "start": 80.348,
+      "duration": 18.166
+    },
+    {
+      "index": 7,
+      "name": "THIENKIEP",
+      "start": 98.515,
+      "duration": 20.06
+    },
+    {
+      "index": 8,
+      "name": "ANTHAN",
+      "start": 118.574,
+      "duration": 20.259
+    },
+    {
+      "index": 9,
+      "name": "NGO",
+      "start": 138.833,
+      "duration": 11.6
+    },
+    {
+      "index": 10,
+      "name": "DAOLY",
+      "start": 150.433,
+      "duration": 19.86
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 170.293,
+      "duration": 9.538
+    }
+  ],
+  "total_duration": 179.831
+}

@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 25.07
+    },
+    {
+      "index": 2,
+      "name": "SESSION_IN",
+      "start": 25.07,
+      "duration": 25.1
+    },
+    {
+      "index": 3,
+      "name": "SESSION_KIEP",
+      "start": 50.17,
+      "duration": 46.24
+    },
+    {
+      "index": 4,
+      "name": "REDIS",
+      "start": 96.41,
+      "duration": 19.34
+    },
+    {
+      "index": 5,
+      "name": "JWT_IN",
+      "start": 115.75,
+      "duration": 38.1
+    },
+    {
+      "index": 6,
+      "name": "JWT_KIEP",
+      "start": 153.85,
+      "duration": 36.42
+    },
+    {
+      "index": 7,
+      "name": "BLACKLIST",
+      "start": 190.27,
+      "duration": 15.9
+    },
+    {
+      "index": 8,
+      "name": "HOPNHAT",
+      "start": 206.17,
+      "duration": 27.68
+    },
+    {
+      "index": 9,
+      "name": "NGODAO",
+      "start": 233.85,
+      "duration": 26.34
+    },
+    {
+      "index": 10,
+      "name": "DAOLY",
+      "start": 260.19,
+      "duration": 22.52
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 282.71,
+      "duration": 13.023
+    }
+  ],
+  "total_duration": 295.733
+}

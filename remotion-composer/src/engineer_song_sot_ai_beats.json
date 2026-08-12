@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_AI_THIEN_KIEP",
+      "start": 0.0,
+      "duration": 16.147
+    },
+    {
+      "index": 2,
+      "name": "DAI_NANG_HIEU",
+      "start": 16.147,
+      "duration": 18.651
+    },
+    {
+      "index": 3,
+      "name": "LOAI_1_GOC_RE",
+      "start": 34.798,
+      "duration": 15.521
+    },
+    {
+      "index": 4,
+      "name": "LOAI_2_TRAN_PHAP_SU",
+      "start": 50.32,
+      "duration": 15.271
+    },
+    {
+      "index": 5,
+      "name": "LOAI_3_TRADE_OFF",
+      "start": 65.591,
+      "duration": 18.025
+    },
+    {
+      "index": 6,
+      "name": "LOAI_4_CON_NGUOI",
+      "start": 83.616,
+      "duration": 19.777
+    },
+    {
+      "index": 7,
+      "name": "LOAI_5_VO_TINH_HOC_DAO",
+      "start": 103.393,
+      "duration": 21.718
+    },
+    {
+      "index": 8,
+      "name": "FINAL_SOI_LAI",
+      "start": 125.11,
+      "duration": 29.729
+    }
+  ],
+  "total_duration": 154.839
+}

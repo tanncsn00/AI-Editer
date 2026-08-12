@@ -1,0 +1,77 @@
+{
+  "HOOK": {
+    "simple": 165,
+    "salary": 295,
+    "ask": 549,
+    "twist": 681
+  },
+  "KHACH1": {
+    "q": 74,
+    "analysis": [
+      146,
+      201,
+      239,
+      271
+    ],
+    "buy": 399,
+    "blame": 618,
+    "reveal": 754
+  },
+  "CHACKHONG": {
+    "q1": 86,
+    "a1": 155,
+    "q2": 207,
+    "a2": 244,
+    "leave": 352
+  },
+  "NHIEULOAI": {
+    "chot": 149,
+    "up50": 267,
+    "losses": [
+      437,
+      533,
+      624
+    ],
+    "reveal": 879
+  },
+  "CUOCGOI": {
+    "intro": 81,
+    "calls": [
+      155,
+      219,
+      294
+    ],
+    "reveal": 437
+  },
+  "CALLMARGIN": {
+    "kiep": 58,
+    "nocontact": 175,
+    "excuse": 277,
+    "pressure": 448,
+    "reveal": 563
+  },
+  "BONGBONG": {
+    "boom": 98,
+    "gurus": [
+      174,
+      249,
+      342
+    ],
+    "crash": 513,
+    "allin": 666
+  },
+  "DAOLY": {
+    "notpredict": 117,
+    "between": [
+      301,
+      372,
+      456
+    ]
+  },
+  "KET": {
+    "laugh": 89,
+    "dont": 181,
+    "askq": 284,
+    "follow": 429
+  }
+}

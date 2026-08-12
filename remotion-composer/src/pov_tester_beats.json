@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 12.081
+    },
+    {
+      "index": 2,
+      "name": "DAY_ONE",
+      "start": 12.081,
+      "duration": 12.873
+    },
+    {
+      "index": 3,
+      "name": "NOT_REPRO",
+      "start": 24.955,
+      "duration": 24.096
+    },
+    {
+      "index": 4,
+      "name": "MAY_EM",
+      "start": 49.051,
+      "duration": 22.182
+    },
+    {
+      "index": 5,
+      "name": "DETECTIVE",
+      "start": 71.233,
+      "duration": 12.609
+    },
+    {
+      "index": 6,
+      "name": "CREATURE",
+      "start": 83.842,
+      "duration": 16.174
+    },
+    {
+      "index": 7,
+      "name": "PROD_CATCH",
+      "start": 100.016,
+      "duration": 20.003
+    },
+    {
+      "index": 8,
+      "name": "BUG_SINH_BUG",
+      "start": 120.019,
+      "duration": 19.739
+    },
+    {
+      "index": 9,
+      "name": "NO_ONE",
+      "start": 139.759,
+      "duration": 16.438
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 156.197,
+      "duration": 22.182
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 178.379,
+      "duration": 7.724
+    }
+  ],
+  "total_duration": 186.103
+}

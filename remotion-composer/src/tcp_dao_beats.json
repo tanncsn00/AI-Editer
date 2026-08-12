@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 11.579
+    },
+    {
+      "index": 2,
+      "name": "NAIVE",
+      "start": 11.579,
+      "duration": 24.48
+    },
+    {
+      "index": 3,
+      "name": "DISASTER",
+      "start": 36.06,
+      "duration": 23.851
+    },
+    {
+      "index": 4,
+      "name": "TCPBIRTH",
+      "start": 59.911,
+      "duration": 15.67
+    },
+    {
+      "index": 5,
+      "name": "ACK",
+      "start": 75.581,
+      "duration": 25.55
+    },
+    {
+      "index": 6,
+      "name": "SEQ",
+      "start": 101.131,
+      "duration": 25.173
+    },
+    {
+      "index": 7,
+      "name": "FLOW",
+      "start": 126.303,
+      "duration": 28.634
+    },
+    {
+      "index": 8,
+      "name": "CONGESTION",
+      "start": 154.937,
+      "duration": 30.27
+    },
+    {
+      "index": 9,
+      "name": "DAOTAM1",
+      "start": 185.207,
+      "duration": 18.754
+    },
+    {
+      "index": 10,
+      "name": "DAOTAM2",
+      "start": 203.961,
+      "duration": 9.44
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 213.4,
+      "duration": 8.244
+    }
+  ],
+  "total_duration": 221.644
+}

@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 9.866
+    },
+    {
+      "index": 2,
+      "name": "C1_TE_KHI_LINH_AI",
+      "start": 9.866,
+      "duration": 6.388
+    },
+    {
+      "index": 3,
+      "name": "C2_DAO_TO_CHUYEN_THE",
+      "start": 16.254,
+      "duration": 9.297
+    },
+    {
+      "index": 4,
+      "name": "C3_THIEN_MONG_DAI_DAO",
+      "start": 25.551,
+      "duration": 11.953
+    },
+    {
+      "index": 5,
+      "name": "C4_COPY_KHONG_HIEU",
+      "start": 37.505,
+      "duration": 9.424
+    },
+    {
+      "index": 6,
+      "name": "C5_KHAO_CO_CODE",
+      "start": 46.928,
+      "duration": 9.866
+    },
+    {
+      "index": 7,
+      "name": "C6_SHARE_MAN_HINH",
+      "start": 56.794,
+      "duration": 9.55
+    },
+    {
+      "index": 8,
+      "name": "C7_PHONG_AN_HIEN_TRUONG",
+      "start": 66.344,
+      "duration": 11.068
+    },
+    {
+      "index": 9,
+      "name": "ENDING_CTA",
+      "start": 77.412,
+      "duration": 16.381
+    }
+  ],
+  "total_duration": 93.793
+}

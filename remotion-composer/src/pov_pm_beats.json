@@ -1,0 +1,101 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 11.619
+    },
+    {
+      "index": 2,
+      "name": "BATTLEFIELD",
+      "start": 11.619,
+      "duration": 12.472
+    },
+    {
+      "index": 3,
+      "name": "CEO",
+      "start": 24.091,
+      "duration": 13.785
+    },
+    {
+      "index": 4,
+      "name": "LESSON1",
+      "start": 37.877,
+      "duration": 14.573
+    },
+    {
+      "index": 5,
+      "name": "MEETING",
+      "start": 52.45,
+      "duration": 25.207
+    },
+    {
+      "index": 6,
+      "name": "LESSON2",
+      "start": 77.657,
+      "duration": 14.376
+    },
+    {
+      "index": 7,
+      "name": "SPRINT",
+      "start": 92.033,
+      "duration": 28.161
+    },
+    {
+      "index": 8,
+      "name": "LESSON3",
+      "start": 120.195,
+      "duration": 16.148
+    },
+    {
+      "index": 9,
+      "name": "EIGHTY",
+      "start": 136.343,
+      "duration": 27.177
+    },
+    {
+      "index": 10,
+      "name": "LESSON4",
+      "start": 163.52,
+      "duration": 13.326
+    },
+    {
+      "index": 11,
+      "name": "BUG",
+      "start": 176.846,
+      "duration": 25.076
+    },
+    {
+      "index": 12,
+      "name": "RELEASE",
+      "start": 201.922,
+      "duration": 24.814
+    },
+    {
+      "index": 13,
+      "name": "LESSON5",
+      "start": 226.735,
+      "duration": 14.901
+    },
+    {
+      "index": 14,
+      "name": "TRUTH",
+      "start": 241.637,
+      "duration": 20.941
+    },
+    {
+      "index": 15,
+      "name": "CLOSING",
+      "start": 262.577,
+      "duration": 20.415
+    },
+    {
+      "index": 16,
+      "name": "CTA",
+      "start": 282.993,
+      "duration": 7.68
+    }
+  ],
+  "total_duration": 290.673
+}

@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 13.99
+    },
+    {
+      "index": 2,
+      "name": "NAMPHUT",
+      "start": 13.99,
+      "duration": 23.04
+    },
+    {
+      "index": 3,
+      "name": "YNHO",
+      "start": 37.03,
+      "duration": 33.26
+    },
+    {
+      "index": 4,
+      "name": "CHIMOTCHUT",
+      "start": 70.29,
+      "duration": 35.46
+    },
+    {
+      "index": 5,
+      "name": "PHUONGANB",
+      "start": 105.75,
+      "duration": 27.7
+    },
+    {
+      "index": 6,
+      "name": "TIENDAY",
+      "start": 133.45,
+      "duration": 28.58
+    },
+    {
+      "index": 7,
+      "name": "DAOLY",
+      "start": 162.03,
+      "duration": 20.46
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 182.49,
+      "duration": 13.804
+    }
+  ],
+  "total_duration": 196.294
+}

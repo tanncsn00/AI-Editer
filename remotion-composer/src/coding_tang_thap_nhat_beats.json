@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_LEETCODE_JUNIOR",
+      "start": 0.0,
+      "duration": 15.535
+    },
+    {
+      "index": 2,
+      "name": "DAI_NANG_IT_VIET_CODE",
+      "start": 15.535,
+      "duration": 10.031
+    },
+    {
+      "index": 3,
+      "name": "TRUOC_KHI_CODE",
+      "start": 25.566,
+      "duration": 18.226
+    },
+    {
+      "index": 4,
+      "name": "JUNIOR_VS_SENIOR",
+      "start": 43.792,
+      "duration": 6.239
+    },
+    {
+      "index": 5,
+      "name": "SENIOR_VOCABULARY",
+      "start": 50.031,
+      "duration": 16.514
+    },
+    {
+      "index": 6,
+      "name": "CODE_1_DEM_HAU_QUA_NHIEU_NAM",
+      "start": 66.545,
+      "duration": 17.125
+    },
+    {
+      "index": 7,
+      "name": "DAI_NANG_THAT_SU",
+      "start": 83.67,
+      "duration": 10.765
+    },
+    {
+      "index": 8,
+      "name": "FINAL_SOFTWARE_ENGINEERING",
+      "start": 94.435,
+      "duration": 22.018
+    }
+  ],
+  "total_duration": 116.453
+}

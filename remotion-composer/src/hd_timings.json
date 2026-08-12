@@ -1,0 +1,56 @@
+{
+  "HOOK": {
+    "roles": 79,
+    "vanish": 267,
+    "name": 372
+  },
+  "NHAPMON": {
+    "join": 15,
+    "believe": 107,
+    "naive": 201
+  },
+  "HACKER": {
+    "ask": 167,
+    "email": 489,
+    "crack": 596
+  },
+  "EMAIL": {
+    "title": 125,
+    "victims": 165,
+    "sigh": 571
+  },
+  "NGUOIDUNG": {
+    "human": 174,
+    "quotes": 264,
+    "truth": 791
+  },
+  "QUEN": {
+    "api": 90,
+    "forget": 253,
+    "name": 435
+  },
+  "LEGACY": {
+    "prod": 2,
+    "nobody": 246,
+    "name": 586
+  },
+  "COPHAP": {
+    "inside": 29,
+    "heart": 327
+  },
+  "THIENKIEP": {
+    "morning": 2,
+    "questions": 167,
+    "log": 515
+  },
+  "HUNGTHU": {
+    "reveal": 17,
+    "not": 192,
+    "email": 236
+  },
+  "DAOLY": {
+    "first": 86,
+    "notwhat": 217,
+    "trust": 284
+  }
+}

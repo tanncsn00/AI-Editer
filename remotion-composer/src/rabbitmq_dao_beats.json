@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 22.479
+    },
+    {
+      "index": 2,
+      "name": "PROBLEM",
+      "start": 22.479,
+      "duration": 18.42
+    },
+    {
+      "index": 3,
+      "name": "RABBITMQ",
+      "start": 40.899,
+      "duration": 14.986
+    },
+    {
+      "index": 4,
+      "name": "HOW",
+      "start": 55.885,
+      "duration": 15.298
+    },
+    {
+      "index": 5,
+      "name": "DECOUPLE",
+      "start": 71.184,
+      "duration": 7.493
+    },
+    {
+      "index": 6,
+      "name": "CAVEATS",
+      "start": 78.677,
+      "duration": 20.231
+    },
+    {
+      "index": 7,
+      "name": "PHAP_TAC",
+      "start": 98.908,
+      "duration": 10.553
+    },
+    {
+      "index": 8,
+      "name": "USECASE",
+      "start": 109.461,
+      "duration": 17.983
+    },
+    {
+      "index": 9,
+      "name": "ENDING",
+      "start": 127.444,
+      "duration": 14.112
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 141.556,
+      "duration": 4.059
+    }
+  ],
+  "total_duration": 145.614
+}

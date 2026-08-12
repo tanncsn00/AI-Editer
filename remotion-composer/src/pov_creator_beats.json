@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 13.73
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 13.73,
+      "duration": 18.22
+    },
+    {
+      "index": 3,
+      "name": "LINHCAM",
+      "start": 31.95,
+      "duration": 12.66
+    },
+    {
+      "index": 4,
+      "name": "THUATTOAN",
+      "start": 44.61,
+      "duration": 25.22
+    },
+    {
+      "index": 5,
+      "name": "BINHLUAN",
+      "start": 69.83,
+      "duration": 9.72
+    },
+    {
+      "index": 6,
+      "name": "VIDEONUA",
+      "start": 79.55,
+      "duration": 16.14
+    },
+    {
+      "index": 7,
+      "name": "NGHIHO",
+      "start": 95.69,
+      "duration": 22.9
+    },
+    {
+      "index": 8,
+      "name": "TRONGRONG",
+      "start": 118.59,
+      "duration": 16.94
+    },
+    {
+      "index": 9,
+      "name": "DAOLY",
+      "start": 135.53,
+      "duration": 14.72
+    },
+    {
+      "index": 10,
+      "name": "TIER",
+      "start": 150.25,
+      "duration": 15.24
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 165.49,
+      "duration": 14.848
+    }
+  ],
+  "total_duration": 180.338
+}

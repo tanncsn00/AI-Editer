@@ -1,0 +1,30 @@
+{
+  "HOOK": {
+    "join": 62,
+    "confident": 273,
+    "wrong": 507
+  },
+  "DAYMANG": {
+    "problem": 134,
+    "investigate": 203,
+    "cable": 482,
+    "name": 911
+  },
+  "THUNGRAC": {
+    "lost": 98,
+    "search": 161,
+    "trash": 480,
+    "truth": 892
+  },
+  "CHROME": {
+    "ceo": 128,
+    "tools": 219,
+    "tabs": 424,
+    "calm": 942
+  },
+  "DAOLY": {
+    "notfixer": 70,
+    "karma": 140,
+    "seesth": 422
+  }
+}

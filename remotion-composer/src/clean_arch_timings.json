@@ -1,0 +1,82 @@
+{
+  "HOOK": {
+    "powers": [
+      181,
+      191,
+      191,
+      300
+    ],
+    "name": 422
+  },
+  "SETUP": {
+    "diagram": 60,
+    "ngo": 609
+  },
+  "SRP": {
+    "pillar": 109,
+    "roles": [
+      245,
+      312,
+      383
+    ],
+    "buffalo": 502
+  },
+  "OCP": {
+    "pillar": 54,
+    "problem": 192,
+    "rule": 443
+  },
+  "LSP": {
+    "pillar": 56,
+    "vow": 194,
+    "betray": 421
+  },
+  "ISP": {
+    "pillar": 48,
+    "burden": [
+      251,
+      268,
+      299,
+      322
+    ],
+    "rule": 376
+  },
+  "DIP": {
+    "pillar": 61,
+    "blind": [
+      251,
+      251,
+      251
+    ],
+    "vohinh": 453
+  },
+  "NHINLAI": {
+    "recap": 88,
+    "bind": 415
+  },
+  "CHONGTHEM": {
+    "intro": 14,
+    "items": [
+      287,
+      371,
+      475,
+      569,
+      678
+    ],
+    "base": 725
+  },
+  "DAOLY": {
+    "learn": 125,
+    "reveal": 475,
+    "collapse": 738
+  },
+  "TIER": {
+    "tiers": [
+      80,
+      144,
+      211,
+      289
+    ],
+    "lost": 492
+  }
+}

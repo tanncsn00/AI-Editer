@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 12.312
+    },
+    {
+      "index": 2,
+      "name": "N1_DAO_LU",
+      "start": 12.312,
+      "duration": 11.886
+    },
+    {
+      "index": 3,
+      "name": "N2_HUYNH_DE",
+      "start": 24.198,
+      "duration": 9.143
+    },
+    {
+      "index": 4,
+      "name": "N3_CHUA_BAT_DAU",
+      "start": 33.34,
+      "duration": 9.204
+    },
+    {
+      "index": 5,
+      "name": "N4_KHONG_AI_YEU",
+      "start": 42.544,
+      "duration": 12.251
+    },
+    {
+      "index": 6,
+      "name": "N5_TIEN_CUOI",
+      "start": 54.795,
+      "duration": 10.727
+    },
+    {
+      "index": 7,
+      "name": "N6_CHATGPT",
+      "start": 65.523,
+      "duration": 9.874
+    },
+    {
+      "index": 8,
+      "name": "N7_NOI_XAU_CRUSH",
+      "start": 75.397,
+      "duration": 10.727
+    },
+    {
+      "index": 9,
+      "name": "ENDING",
+      "start": 86.124,
+      "duration": 11.276
+    }
+  ],
+  "total_duration": 97.4
+}

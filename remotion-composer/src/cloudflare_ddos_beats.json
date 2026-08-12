@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 18.718
+    },
+    {
+      "index": 2,
+      "name": "ATTACK",
+      "start": 18.718,
+      "duration": 22.173
+    },
+    {
+      "index": 3,
+      "name": "OVERWHELM",
+      "start": 40.891,
+      "duration": 27.638
+    },
+    {
+      "index": 4,
+      "name": "CLOUDFLARE",
+      "start": 68.529,
+      "duration": 29.648
+    },
+    {
+      "index": 5,
+      "name": "DISTRIBUTE",
+      "start": 98.176,
+      "duration": 20.289
+    },
+    {
+      "index": 6,
+      "name": "ANYCAST",
+      "start": 118.465,
+      "duration": 28.894
+    },
+    {
+      "index": 7,
+      "name": "WAF",
+      "start": 147.359,
+      "duration": 25.628
+    },
+    {
+      "index": 8,
+      "name": "EDGE",
+      "start": 172.987,
+      "duration": 19.095
+    },
+    {
+      "index": 9,
+      "name": "ENDING",
+      "start": 192.082,
+      "duration": 28.391
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 220.473,
+      "duration": 8.04
+    }
+  ],
+  "total_duration": 228.513
+}

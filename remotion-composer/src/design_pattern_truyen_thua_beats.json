@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 22.303
+    },
+    {
+      "index": 2,
+      "name": "CATALOG",
+      "start": 22.303,
+      "duration": 23.659
+    },
+    {
+      "index": 3,
+      "name": "CHAOS",
+      "start": 45.962,
+      "duration": 8.502
+    },
+    {
+      "index": 4,
+      "name": "GOF",
+      "start": 54.464,
+      "duration": 14.171
+    },
+    {
+      "index": 5,
+      "name": "SPREAD",
+      "start": 68.635,
+      "duration": 11.09
+    },
+    {
+      "index": 6,
+      "name": "MISCONCEPTION",
+      "start": 79.725,
+      "duration": 16.327
+    },
+    {
+      "index": 7,
+      "name": "INHERIT",
+      "start": 96.052,
+      "duration": 7.024
+    },
+    {
+      "index": 8,
+      "name": "TAM_MA",
+      "start": 103.075,
+      "duration": 13.986
+    },
+    {
+      "index": 9,
+      "name": "RESULT",
+      "start": 117.061,
+      "duration": 4.929
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 121.99,
+      "duration": 21.317
+    }
+  ],
+  "total_duration": 143.307
+}

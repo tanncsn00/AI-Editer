@@ -1,0 +1,40 @@
+{
+  "HOOK": {
+    "shadow": 98,
+    "trigger": 332,
+    "summon": 462
+  },
+  "NHAPMON": {
+    "enemy": 77,
+    "prepare": 272,
+    "colleague": 477
+  },
+  "METAM": {
+    "open": 230,
+    "title": 507,
+    "insight": 616,
+    "reveal": 905
+  },
+  "SCAN": {
+    "dev": 254,
+    "silence": 357,
+    "runs": 710,
+    "reveal": 840
+  },
+  "MATKHAU": {
+    "pw": 207,
+    "reason": 354,
+    "reveal": 696
+  },
+  "CEO": {
+    "night": 177,
+    "hunt": 278,
+    "suspect": 554,
+    "ceo": 701
+  },
+  "DAOLY": {
+    "roles": 68,
+    "watch": 283,
+    "truth": 545
+  }
+}

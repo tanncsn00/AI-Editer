@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 21.31
+    },
+    {
+      "index": 2,
+      "name": "SUAMOTCHUT",
+      "start": 21.31,
+      "duration": 38.02
+    },
+    {
+      "index": 3,
+      "name": "THIENNHAN",
+      "start": 59.33,
+      "duration": 30.18
+    },
+    {
+      "index": 4,
+      "name": "MOBILE",
+      "start": 89.51,
+      "duration": 24.3
+    },
+    {
+      "index": 5,
+      "name": "FONT",
+      "start": 113.81,
+      "duration": 16.7
+    },
+    {
+      "index": 6,
+      "name": "KHACHHANG",
+      "start": 130.51,
+      "duration": 34.52
+    },
+    {
+      "index": 7,
+      "name": "DAOLY",
+      "start": 165.03,
+      "duration": 39.44
+    },
+    {
+      "index": 8,
+      "name": "CTA",
+      "start": 204.47,
+      "duration": 13.046
+    }
+  ],
+  "total_duration": 217.516
+}

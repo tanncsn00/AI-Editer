@@ -1,0 +1,89 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 17.03
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 17.03,
+      "duration": 13.5
+    },
+    {
+      "index": 3,
+      "name": "K1A",
+      "start": 30.53,
+      "duration": 19.3
+    },
+    {
+      "index": 4,
+      "name": "K1B",
+      "start": 49.83,
+      "duration": 28.48
+    },
+    {
+      "index": 5,
+      "name": "K2A",
+      "start": 78.31,
+      "duration": 27.74
+    },
+    {
+      "index": 6,
+      "name": "K2B",
+      "start": 106.05,
+      "duration": 25.36
+    },
+    {
+      "index": 7,
+      "name": "K3A",
+      "start": 131.41,
+      "duration": 19.28
+    },
+    {
+      "index": 8,
+      "name": "K3B",
+      "start": 150.69,
+      "duration": 27.46
+    },
+    {
+      "index": 9,
+      "name": "DIETHE",
+      "start": 178.15,
+      "duration": 19.26
+    },
+    {
+      "index": 10,
+      "name": "FRIDAY1",
+      "start": 197.41,
+      "duration": 24.94
+    },
+    {
+      "index": 11,
+      "name": "FRIDAY2",
+      "start": 222.35,
+      "duration": 27.46
+    },
+    {
+      "index": 12,
+      "name": "NODEPLOY",
+      "start": 249.81,
+      "duration": 5.46
+    },
+    {
+      "index": 13,
+      "name": "ENDING",
+      "start": 255.27,
+      "duration": 34.9
+    },
+    {
+      "index": 14,
+      "name": "CTA",
+      "start": 290.17,
+      "duration": 7.018
+    }
+  ],
+  "total_duration": 297.188
+}

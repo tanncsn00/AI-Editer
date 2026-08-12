@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 20.69
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 20.69,
+      "duration": 14.7
+    },
+    {
+      "index": 3,
+      "name": "K1",
+      "start": 35.39,
+      "duration": 23.28
+    },
+    {
+      "index": 4,
+      "name": "K2",
+      "start": 58.67,
+      "duration": 21.38
+    },
+    {
+      "index": 5,
+      "name": "K3",
+      "start": 80.05,
+      "duration": 21.68
+    },
+    {
+      "index": 6,
+      "name": "K4",
+      "start": 101.73,
+      "duration": 20.1
+    },
+    {
+      "index": 7,
+      "name": "K5",
+      "start": 121.83,
+      "duration": 18.64
+    },
+    {
+      "index": 8,
+      "name": "K6",
+      "start": 140.47,
+      "duration": 18.66
+    },
+    {
+      "index": 9,
+      "name": "ENDING",
+      "start": 159.13,
+      "duration": 26.42
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 185.55,
+      "duration": 6.593
+    }
+  ],
+  "total_duration": 192.143
+}

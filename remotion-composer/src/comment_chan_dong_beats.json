@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.815
+    },
+    {
+      "index": 2,
+      "name": "C1_DO_NOT_REMOVE",
+      "start": 10.815,
+      "duration": 18.781
+    },
+    {
+      "index": 3,
+      "name": "C2_TEMP_FIX",
+      "start": 29.597,
+      "duration": 11.722
+    },
+    {
+      "index": 4,
+      "name": "C3_TODO",
+      "start": 41.319,
+      "duration": 10.492
+    },
+    {
+      "index": 5,
+      "name": "C4_QUICK_FIX",
+      "start": 51.81,
+      "duration": 9.909
+    },
+    {
+      "index": 6,
+      "name": "C5_NO_IDEA",
+      "start": 61.719,
+      "duration": 18.198
+    },
+    {
+      "index": 7,
+      "name": "C6_HACK",
+      "start": 79.917,
+      "duration": 11.139
+    },
+    {
+      "index": 8,
+      "name": "C7_ENDING",
+      "start": 91.056,
+      "duration": 35.749
+    }
+  ],
+  "total_duration": 126.805
+}

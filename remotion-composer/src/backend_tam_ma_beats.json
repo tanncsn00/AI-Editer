@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 15.275
+    },
+    {
+      "index": 2,
+      "name": "M1_API",
+      "start": 15.275,
+      "duration": 11.584
+    },
+    {
+      "index": 3,
+      "name": "M2_REFACTOR",
+      "start": 26.859,
+      "duration": 16.548
+    },
+    {
+      "index": 4,
+      "name": "M3_CONFIG",
+      "start": 43.406,
+      "duration": 15.275
+    },
+    {
+      "index": 5,
+      "name": "M4_PM_NHANH",
+      "start": 58.681,
+      "duration": 16.739
+    },
+    {
+      "index": 6,
+      "name": "M5_USER_NHAN_RA",
+      "start": 75.42,
+      "duration": 16.039
+    },
+    {
+      "index": 7,
+      "name": "M6_TEST_LOCAL",
+      "start": 91.459,
+      "duration": 13.238
+    },
+    {
+      "index": 8,
+      "name": "M7_SELECT_STAR",
+      "start": 104.697,
+      "duration": 17.121
+    },
+    {
+      "index": 9,
+      "name": "M8_ENDING",
+      "start": 121.818,
+      "duration": 21.767
+    }
+  ],
+  "total_duration": 143.585
+}

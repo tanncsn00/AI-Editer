@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 18.694
+    },
+    {
+      "index": 2,
+      "name": "SETUP",
+      "start": 18.694,
+      "duration": 16.273
+    },
+    {
+      "index": 3,
+      "name": "MOHO",
+      "start": 34.966,
+      "duration": 28.992
+    },
+    {
+      "index": 4,
+      "name": "CHISUA",
+      "start": 63.958,
+      "duration": 26.561
+    },
+    {
+      "index": 5,
+      "name": "KHONGDOC",
+      "start": 90.519,
+      "duration": 27.485
+    },
+    {
+      "index": 6,
+      "name": "CANGAP",
+      "start": 118.003,
+      "duration": 28.315
+    },
+    {
+      "index": 7,
+      "name": "THIENBIEN",
+      "start": 146.318,
+      "duration": 21.33
+    },
+    {
+      "index": 8,
+      "name": "TUSANGTAO",
+      "start": 167.648,
+      "duration": 29.737
+    },
+    {
+      "index": 9,
+      "name": "DAOLY",
+      "start": 197.385,
+      "duration": 21.584
+    },
+    {
+      "index": 10,
+      "name": "TIERLIST",
+      "start": 218.968,
+      "duration": 18.431
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 237.399,
+      "duration": 9.52
+    }
+  ],
+  "total_duration": 246.919
+}

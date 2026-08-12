@@ -1,0 +1,59 @@
+{
+  "HOOK": {
+    "nosword": 76,
+    "divine": 217
+  },
+  "NAMING": {
+    "tuong": 80,
+    "truth": 253,
+    "name": 446
+  },
+  "SETUP": {
+    "master": 130,
+    "warn": 396
+  },
+  "MOHO": {
+    "kiep": 13,
+    "ask": 216,
+    "grind": 428,
+    "phap": 732
+  },
+  "HONNGUYEN": {
+    "kiep": 14,
+    "dirty": [
+      249,
+      249,
+      249,
+      366
+    ],
+    "mess": 488,
+    "phap": 781
+  },
+  "DIENDAO": {
+    "kiep": 14,
+    "boss": 404,
+    "rebut": 570,
+    "punch": 802,
+    "ngo": 936
+  },
+  "HIPPO": {
+    "kiep": 13,
+    "bet": 127,
+    "reply": 432,
+    "daotam": 598,
+    "ngo": 808
+  },
+  "DAOLY": {
+    "lie": 126,
+    "choose": 265
+  },
+  "TIER": {
+    "tiers": [
+      86,
+      170,
+      234,
+      309
+    ],
+    "lost": 538
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 11.02
+    },
+    {
+      "index": 2,
+      "name": "MONOLITH",
+      "start": 11.02,
+      "duration": 36.26
+    },
+    {
+      "index": 3,
+      "name": "PROBLEM",
+      "start": 47.28,
+      "duration": 28.64
+    },
+    {
+      "index": 4,
+      "name": "RPC",
+      "start": 75.92,
+      "duration": 34.38
+    },
+    {
+      "index": 5,
+      "name": "RPC_LAW",
+      "start": 110.3,
+      "duration": 26.36
+    },
+    {
+      "index": 6,
+      "name": "HTTP_SLOW",
+      "start": 136.66,
+      "duration": 39.04
+    },
+    {
+      "index": 7,
+      "name": "PROTOBUF",
+      "start": 175.7,
+      "duration": 24.3
+    },
+    {
+      "index": 8,
+      "name": "HTTP12",
+      "start": 200.0,
+      "duration": 36.34
+    },
+    {
+      "index": 9,
+      "name": "GRPC_FORM",
+      "start": 236.34,
+      "duration": 15.08
+    },
+    {
+      "index": 10,
+      "name": "PROTOFILE",
+      "start": 251.42,
+      "duration": 31.88
+    },
+    {
+      "index": 11,
+      "name": "STREAMING",
+      "start": 283.3,
+      "duration": 30.22
+    },
+    {
+      "index": 12,
+      "name": "DEADLINE",
+      "start": 313.52,
+      "duration": 26.92
+    },
+    {
+      "index": 13,
+      "name": "LOADBAL",
+      "start": 340.44,
+      "duration": 17.14
+    },
+    {
+      "index": 14,
+      "name": "FINALE",
+      "start": 357.58,
+      "duration": 38.56
+    },
+    {
+      "index": 15,
+      "name": "CTA",
+      "start": 396.14,
+      "duration": 9.169
+    }
+  ],
+  "total_duration": 405.309
+}

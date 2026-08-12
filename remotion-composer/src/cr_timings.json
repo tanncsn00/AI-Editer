@@ -1,0 +1,57 @@
+{
+  "HOOK": {
+    "rule": 70,
+    "broken": 275,
+    "name": 334
+  },
+  "THIENCO": {
+    "oneline": 77,
+    "ifs": 243,
+    "name": 639
+  },
+  "NHANQUA": {
+    "button": 76,
+    "ifs": 159,
+    "name": 443
+  },
+  "TAMMA": {
+    "notcode": 67,
+    "history": 143,
+    "name": 465
+  },
+  "TICHTU": {
+    "pr": 92,
+    "forget": 230,
+    "learn": 324
+  },
+  "BEQUAN": {
+    "wait": 164,
+    "merge": 334,
+    "appear": 384
+  },
+  "NHATKIEM": {
+    "swords": 108,
+    "five": 297,
+    "bleed": 357
+  },
+  "TRUYENDAO": {
+    "highest": 75,
+    "suggest": 293,
+    "result": 572
+  },
+  "NGO": {
+    "comments": 138,
+    "realize": 317,
+    "noone": 411
+  },
+  "DAOLY": {
+    "each": 75,
+    "trial": 240,
+    "night": 444
+  },
+  "VETSEO": {
+    "meet": 81,
+    "help": 351,
+    "scar": 548
+  }
+}

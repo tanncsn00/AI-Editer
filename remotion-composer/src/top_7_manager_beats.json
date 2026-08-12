@@ -1,0 +1,53 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO_HOOK",
+      "start": 0.0,
+      "duration": 13.799
+    },
+    {
+      "index": 2,
+      "name": "LOAI_1_THIEN_CO_QUAN_LY",
+      "start": 13.799,
+      "duration": 12.394
+    },
+    {
+      "index": 3,
+      "name": "LOAI_2_VO_THUONG_HOP_DAO",
+      "start": 26.193,
+      "duration": 16.61
+    },
+    {
+      "index": 4,
+      "name": "LOAI_3_DAI_NANG_VI_MO",
+      "start": 42.804,
+      "duration": 15.46
+    },
+    {
+      "index": 5,
+      "name": "LOAI_4_KHONG_BIET_TECH",
+      "start": 58.264,
+      "duration": 15.013
+    },
+    {
+      "index": 6,
+      "name": "LOAI_5_DAI_DAO_KPI",
+      "start": 73.277,
+      "duration": 15.013
+    },
+    {
+      "index": 7,
+      "name": "LOAI_6_AN_THE_BIEN_MAT",
+      "start": 88.29,
+      "duration": 16.802
+    },
+    {
+      "index": 8,
+      "name": "LOAI_7_PHAT_TU_TICH_CUC",
+      "start": 105.092,
+      "duration": 18.655
+    }
+  ],
+  "total_duration": 123.747
+}

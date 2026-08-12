@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 17.217
+    },
+    {
+      "index": 2,
+      "name": "BUGPHU",
+      "start": 17.217,
+      "duration": 40.509
+    },
+    {
+      "index": 3,
+      "name": "FEATURE",
+      "start": 57.726,
+      "duration": 20.205
+    },
+    {
+      "index": 4,
+      "name": "BUGSINHBUG",
+      "start": 77.931,
+      "duration": 19.007
+    },
+    {
+      "index": 5,
+      "name": "KHONGAIBAM",
+      "start": 96.938,
+      "duration": 17.733
+    },
+    {
+      "index": 6,
+      "name": "HAIDONGTHOIGIAN",
+      "start": 114.671,
+      "duration": 18.816
+    },
+    {
+      "index": 7,
+      "name": "GITBLAME",
+      "start": 133.487,
+      "duration": 21.087
+    },
+    {
+      "index": 8,
+      "name": "NGO",
+      "start": 154.573,
+      "duration": 28.38
+    },
+    {
+      "index": 9,
+      "name": "DAOLY",
+      "start": 182.953,
+      "duration": 18.854
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 201.808,
+      "duration": 12.219
+    }
+  ],
+  "total_duration": 214.027
+}

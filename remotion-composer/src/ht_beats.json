@@ -1,0 +1,77 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 10.575
+    },
+    {
+      "index": 2,
+      "name": "VOTU",
+      "start": 10.575,
+      "duration": 16.62
+    },
+    {
+      "index": 3,
+      "name": "LUYENHOA",
+      "start": 27.194,
+      "duration": 13.71
+    },
+    {
+      "index": 4,
+      "name": "LOGO",
+      "start": 40.905,
+      "duration": 15.959
+    },
+    {
+      "index": 5,
+      "name": "KHO",
+      "start": 56.864,
+      "duration": 18.694
+    },
+    {
+      "index": 6,
+      "name": "BUILD",
+      "start": 75.558,
+      "duration": 22.505
+    },
+    {
+      "index": 7,
+      "name": "CAMXUC",
+      "start": 98.063,
+      "duration": 18.049
+    },
+    {
+      "index": 8,
+      "name": "MAU",
+      "start": 116.112,
+      "duration": 23.413
+    },
+    {
+      "index": 9,
+      "name": "GIONGKHAC",
+      "start": 139.525,
+      "duration": 17.713
+    },
+    {
+      "index": 10,
+      "name": "NGO",
+      "start": 157.238,
+      "duration": 12.016
+    },
+    {
+      "index": 11,
+      "name": "DAOLY",
+      "start": 169.254,
+      "duration": 27.454
+    },
+    {
+      "index": 12,
+      "name": "CTA",
+      "start": 196.708,
+      "duration": 10.077
+    }
+  ],
+  "total_duration": 206.785
+}

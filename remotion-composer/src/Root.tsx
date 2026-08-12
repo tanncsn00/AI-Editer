@@ -180,6 +180,164 @@ import { CanhGioiAiThumbnail } from "./CanhGioiAiThumbnail";
 import { SlideCarouselKarpathyStory } from "./SlideCarouselKarpathyStory";
 import { KarpathyTruyenKy } from "./KarpathyTruyenKy";
 import { KarpathyTruyenKyThumbnail } from "./KarpathyTruyenKyThumbnail";
+import { SlideCarouselSamAltmanStory } from "./SlideCarouselSamAltmanStory";
+import { SamAltmanTruyenKy } from "./SamAltmanTruyenKy";
+import { SamAltmanTruyenKyThumbnail } from "./SamAltmanTruyenKyThumbnail";
+import { SlideCarouselClaudeOpus48 } from "./SlideCarouselClaudeOpus48";
+import { ClaudeOpus48TruyenKy } from "./ClaudeOpus48TruyenKy";
+import { ClaudeOpus48TruyenKyThumbnail } from "./ClaudeOpus48TruyenKyThumbnail";
+import { ClaudeOpus48Blueprint } from "./ClaudeOpus48Blueprint";
+import { ClaudeOpus48BlueprintThumbnail } from "./ClaudeOpus48BlueprintThumbnail";
+import { CommitTaCong } from "./CommitTaCong";
+import { CommitTaCongThumbnail } from "./CommitTaCongThumbnail";
+import { ThanChuDanTech } from "./ThanChuDanTech";
+import { ThanChuDanTechThumbnail } from "./ThanChuDanTechThumbnail";
+import { Top7FixBug } from "./Top7FixBug";
+import { Top7FixBugThumbnail } from "./Top7FixBugThumbnail";
+import { DauHieuAiXamNhap } from "./DauHieuAiXamNhap";
+import { DauHieuAiXamNhapThumbnail } from "./DauHieuAiXamNhapThumbnail";
+import { Top7TesterQuotes } from "./Top7TesterQuotes";
+import { Top7TesterQuotesThumbnail } from "./Top7TesterQuotesThumbnail";
+import { SeniorDevXuyenKhong } from "./SeniorDevXuyenKhong";
+import { SeniorDevXuyenKhongThumbnail } from "./SeniorDevXuyenKhongThumbnail";
+import { DieuKhongAiThuaNhan } from "./DieuKhongAiThuaNhan";
+import { DieuKhongAiThuaNhanThumbnail } from "./DieuKhongAiThuaNhanThumbnail";
+import { DauHieuSenior } from "./DauHieuSenior";
+import { DauHieuSeniorThumbnail } from "./DauHieuSeniorThumbnail";
+import { GpuThanKhi } from "./GpuThanKhi";
+import { GpuThanKhiThumbnail } from "./GpuThanKhiThumbnail";
+import { HeThongTauHoa } from "./HeThongTauHoa";
+import { HeThongTauHoaThumbnail } from "./HeThongTauHoaThumbnail";
+import { ToiLoiGitDao } from "./ToiLoiGitDao";
+import { ToiLoiGitDaoThumbnail } from "./ToiLoiGitDaoThumbnail";
+import { DaoToXuyenKhong } from "./DaoToXuyenKhong";
+import { DaoToXuyenKhongThumbnail } from "./DaoToXuyenKhongThumbnail";
+import { KubernetesTamGioi } from "./KubernetesTamGioi";
+import { KubernetesTamGioiThumbnail } from "./KubernetesTamGioiThumbnail";
+import { CudaTruyenKy } from "./CudaTruyenKy";
+import { CudaTruyenKyThumbnail } from "./CudaTruyenKyThumbnail";
+import { GitDaoTruyenThuyet } from "./GitDaoTruyenThuyet";
+import { GitDaoTruyenThuyetThumbnail } from "./GitDaoTruyenThuyetThumbnail";
+import { FrontendVsDesigner } from "./FrontendVsDesigner";
+import { FrontendVsDesignerThumbnail } from "./FrontendVsDesignerThumbnail";
+import { SalesVsEngineering } from "./SalesVsEngineering";
+import { SalesVsEngineeringThumbnail } from "./SalesVsEngineeringThumbnail";
+import { DongMonNguyHiem } from "./DongMonNguyHiem";
+import { DongMonNguyHiemThumbnail } from "./DongMonNguyHiemThumbnail";
+import { CacheThanKhi } from "./CacheThanKhi";
+import { CacheThanKhiThumbnail } from "./CacheThanKhiThumbnail";
+import { BackendTamMa } from "./BackendTamMa";
+import { BackendTamMaThumbnail } from "./BackendTamMaThumbnail";
+import { CommentChanDong } from "./CommentChanDong";
+import { CommentChanDongThumbnail } from "./CommentChanDongThumbnail";
+import { MicroserviceDaiTran } from "./MicroserviceDaiTran";
+import { MicroserviceDaiTranThumbnail } from "./MicroserviceDaiTranThumbnail";
+import { GioiHanKiemTu } from "./GioiHanKiemTu";
+import { GioiHanKiemTuThumbnail } from "./GioiHanKiemTuThumbnail";
+import { NetworkTruyenAm } from "./NetworkTruyenAm";
+import { NetworkTruyenAmThumbnail } from "./NetworkTruyenAmThumbnail";
+import { PmVsDevHieuLam } from "./PmVsDevHieuLam";
+import { PmVsDevHieuLamThumbnail } from "./PmVsDevHieuLamThumbnail";
+import { IndexThanThu } from "./IndexThanThu";
+import { IndexThanThuThumbnail } from "./IndexThanThuThumbnail";
+import { DesignPatternTruyenThua } from "./DesignPatternTruyenThua";
+import { DesignPatternTruyenThuaThumbnail } from "./DesignPatternTruyenThuaThumbnail";
+import { TruyenThuyetCoThat } from "./TruyenThuyetCoThat";
+import { TruyenThuyetCoThatThumbnail } from "./TruyenThuyetCoThatThumbnail";
+import { WebhookDao } from "./WebhookDao";
+import { WebhookDaoThumbnail } from "./WebhookDaoThumbnail";
+import { SinhVatThanBi } from "./SinhVatThanBi";
+import { SinhVatThanBiThumbnail } from "./SinhVatThanBiThumbnail";
+import { TodoThuongCo } from "./TodoThuongCo";
+import { TodoThuongCoThumbnail } from "./TodoThuongCoThumbnail";
+import { RabbitmqDao } from "./RabbitmqDao";
+import { RabbitmqDaoThumbnail } from "./RabbitmqDaoThumbnail";
+import { CodeDaoNhapMon } from "./CodeDaoNhapMon";
+import { CodeDaoNhapMonThumbnail } from "./CodeDaoNhapMonThumbnail";
+import { TienTeDao } from "./TienTeDao";
+import { TienTeDaoThumbnail } from "./TienTeDaoThumbnail";
+import { PovTester } from "./PovTester";
+import { PovTesterThumbnail } from "./PovTesterThumbnail";
+import { PovBa } from "./PovBa";
+import { PovBaThumbnail } from "./PovBaThumbnail";
+import { PovPo } from "./PovPo";
+import { PovPoThumbnail } from "./PovPoThumbnail";
+import { GroupChatDongMon } from "./GroupChatDongMon";
+import { GroupChatDongMonThumbnail } from "./GroupChatDongMonThumbnail";
+import { PovPm } from "./PovPm";
+import { PovPmThumbnail } from "./PovPmThumbnail";
+import { QaDao } from "./QaDao";
+import { QaDaoThumbnail } from "./QaDaoThumbnail";
+import { TcpDao } from "./TcpDao";
+import { TcpDaoThumbnail } from "./TcpDaoThumbnail";
+import { TuSiCuoiThang } from "./TuSiCuoiThang";
+import { TuSiCuoiThangThumbnail } from "./TuSiCuoiThangThumbnail";
+import { GrpcDao } from "./GrpcDao";
+import { GrpcDaoThumbnail } from "./GrpcDaoThumbnail";
+import { PovDevops } from "./PovDevops";
+import { PovDevopsThumbnail } from "./PovDevopsThumbnail";
+import { PovKetoan } from "./PovKetoan";
+import { PovKetoanThumbnail } from "./PovKetoanThumbnail";
+import { SeniorJunior } from "./SeniorJunior";
+import { SeniorJuniorThumbnail } from "./SeniorJuniorThumbnail";
+import { HttpSessionJwt } from "./HttpSessionJwt";
+import { HttpSessionJwtThumbnail } from "./HttpSessionJwtThumbnail";
+import { PovKtv } from "./PovKtv";
+import { PovKtvThumbnail } from "./PovKtvThumbnail";
+import { ThienCoSu } from "./ThienCoSu";
+import { ThienCoSuThumbnail } from "./ThienCoSuThumbnail";
+import { CleanArch } from "./CleanArch";
+import { CleanArchThumbnail } from "./CleanArchThumbnail";
+import { PovCreator } from "./PovCreator";
+import { PovCreatorThumbnail } from "./PovCreatorThumbnail";
+import { HoaTuKiemTu } from "./HoaTuKiemTu";
+import { HoaTuKiemTuThumbnail } from "./HoaTuKiemTuThumbnail";
+import { SalesDao } from "./SalesDao";
+import { SalesDaoThumbnail } from "./SalesDaoThumbnail";
+import { MeetingDao } from "./MeetingDao";
+import { MeetingDaoThumbnail } from "./MeetingDaoThumbnail";
+import { MoiGioiDao } from "./MoiGioiDao";
+import { MoiGioiDaoThumbnail } from "./MoiGioiDaoThumbnail";
+import { QaVsDev } from "./QaVsDev";
+import { QaVsDevThumbnail } from "./QaVsDevThumbnail";
+import { RaceCondition } from "./RaceCondition";
+import { RaceConditionThumbnail } from "./RaceConditionThumbnail";
+import { ThuongKhach } from "./ThuongKhach";
+import { ThuongKhachThumbnail } from "./ThuongKhachThumbnail";
+import { HoaTu } from "./HoaTu";
+import { HoaTuThumbnail } from "./HoaTuThumbnail";
+import { NhanSu } from "./NhanSu";
+import { NhanSuThumbnail } from "./NhanSuThumbnail";
+import { CodeReview } from "./CodeReview";
+import { CodeReviewThumbnail } from "./CodeReviewThumbnail";
+import { HoDao } from "./HoDao";
+import { HoDaoThumbnail } from "./HoDaoThumbnail";
+import { Helpdesk } from "./Helpdesk";
+import { HelpdeskThumbnail } from "./HelpdeskThumbnail";
+import { TruMa } from "./TruMa";
+import { TruMaThumbnail } from "./TruMaThumbnail";
+import { CloudflareDdos } from "./CloudflareDdos";
+import { CloudflareDdosThumbnail } from "./CloudflareDdosThumbnail";
+import { SlideCarouselItFaCanhGioi } from "./SlideCarouselItFaCanhGioi";
+import { ItFaCanhGioi } from "./ItFaCanhGioi";
+import { ItFaCanhGioiThumbnail } from "./ItFaCanhGioiThumbnail";
+import { SlideCarouselTop7DaoHuu } from "./SlideCarouselTop7DaoHuu";
+import { Top7DaoHuu } from "./Top7DaoHuu";
+import { Top7DaoHuuThumbnail } from "./Top7DaoHuuThumbnail";
+import { SlideCarouselNguoiKhongHop } from "./SlideCarouselNguoiKhongHop";
+import { NguoiKhongHopNhanGian } from "./NguoiKhongHopNhanGian";
+import { NguoiKhongHopNhanGianThumbnail } from "./NguoiKhongHopNhanGianThumbnail";
+import { SlideCarouselTop7Manager } from "./SlideCarouselTop7Manager";
+import { Top7Manager } from "./Top7Manager";
+import { Top7ManagerThumbnail } from "./Top7ManagerThumbnail";
+import { SlideCarouselDonGianDaiDao } from "./SlideCarouselDonGianDaiDao";
+import { DonGianDaiDao } from "./DonGianDaiDao";
+import { DonGianDaiDaoThumbnail } from "./DonGianDaiDaoThumbnail";
+import { DonGianDaiDaoAnimated } from "./DonGianDaiDaoAnimated";
+import { CodingTangThapNhat } from "./CodingTangThapNhat";
+import { CodingTangThapNhatThumbnail } from "./CodingTangThapNhatThumbnail";
+import { EngineerSongSotAi } from "./EngineerSongSotAi";
+import { EngineerSongSotAiThumbnail } from "./EngineerSongSotAiThumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -1339,6 +1497,1270 @@ export const Root: React.FC = () => {
       <Composition
         id="KarpathyTruyenKyThumbnail"
         component={KarpathyTruyenKyThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselSamAltmanStory"
+        component={SlideCarouselSamAltmanStory}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SamAltmanTruyenKy"
+        component={SamAltmanTruyenKy}
+        durationInFrames={4800}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SamAltmanTruyenKyThumbnail"
+        component={SamAltmanTruyenKyThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselClaudeOpus48"
+        component={SlideCarouselClaudeOpus48}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ClaudeOpus48TruyenKy"
+        component={ClaudeOpus48TruyenKy}
+        durationInFrames={5000}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ClaudeOpus48TruyenKyThumbnail"
+        component={ClaudeOpus48TruyenKyThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ClaudeOpus48Blueprint"
+        component={ClaudeOpus48Blueprint}
+        durationInFrames={5000}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ClaudeOpus48BlueprintThumbnail"
+        component={ClaudeOpus48BlueprintThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CommitTaCong"
+        component={CommitTaCong}
+        durationInFrames={3980}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CommitTaCongThumbnail"
+        component={CommitTaCongThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThanChuDanTech"
+        component={ThanChuDanTech}
+        durationInFrames={3376}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThanChuDanTechThumbnail"
+        component={ThanChuDanTechThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7FixBug"
+        component={Top7FixBug}
+        durationInFrames={2894}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7FixBugThumbnail"
+        component={Top7FixBugThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DauHieuAiXamNhap"
+        component={DauHieuAiXamNhap}
+        durationInFrames={3498}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DauHieuAiXamNhapThumbnail"
+        component={DauHieuAiXamNhapThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7TesterQuotes"
+        component={Top7TesterQuotes}
+        durationInFrames={2540}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7TesterQuotesThumbnail"
+        component={Top7TesterQuotesThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SeniorDevXuyenKhong"
+        component={SeniorDevXuyenKhong}
+        durationInFrames={3045}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SeniorDevXuyenKhongThumbnail"
+        component={SeniorDevXuyenKhongThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DieuKhongAiThuaNhan"
+        component={DieuKhongAiThuaNhan}
+        durationInFrames={2813}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DieuKhongAiThuaNhanThumbnail"
+        component={DieuKhongAiThuaNhanThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DauHieuSenior"
+        component={DauHieuSenior}
+        durationInFrames={3572}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DauHieuSeniorThumbnail"
+        component={DauHieuSeniorThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GpuThanKhi"
+        component={GpuThanKhi}
+        durationInFrames={3528}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GpuThanKhiThumbnail"
+        component={GpuThanKhiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HeThongTauHoa"
+        component={HeThongTauHoa}
+        durationInFrames={3969}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HeThongTauHoaThumbnail"
+        component={HeThongTauHoaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ToiLoiGitDao"
+        component={ToiLoiGitDao}
+        durationInFrames={3734}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ToiLoiGitDaoThumbnail"
+        component={ToiLoiGitDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DaoToXuyenKhong"
+        component={DaoToXuyenKhong}
+        durationInFrames={4254}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DaoToXuyenKhongThumbnail"
+        component={DaoToXuyenKhongThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="KubernetesTamGioi"
+        component={KubernetesTamGioi}
+        durationInFrames={2816}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="KubernetesTamGioiThumbnail"
+        component={KubernetesTamGioiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CudaTruyenKy"
+        component={CudaTruyenKy}
+        durationInFrames={4409}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CudaTruyenKyThumbnail"
+        component={CudaTruyenKyThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GitDaoTruyenThuyet"
+        component={GitDaoTruyenThuyet}
+        durationInFrames={3076}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GitDaoTruyenThuyetThumbnail"
+        component={GitDaoTruyenThuyetThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="FrontendVsDesigner"
+        component={FrontendVsDesigner}
+        durationInFrames={3790}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="FrontendVsDesignerThumbnail"
+        component={FrontendVsDesignerThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SalesVsEngineering"
+        component={SalesVsEngineering}
+        durationInFrames={4593}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SalesVsEngineeringThumbnail"
+        component={SalesVsEngineeringThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DongMonNguyHiem"
+        component={DongMonNguyHiem}
+        durationInFrames={4002}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DongMonNguyHiemThumbnail"
+        component={DongMonNguyHiemThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CacheThanKhi"
+        component={CacheThanKhi}
+        durationInFrames={4007}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CacheThanKhiThumbnail"
+        component={CacheThanKhiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BackendTamMa"
+        component={BackendTamMa}
+        durationInFrames={4308}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BackendTamMaThumbnail"
+        component={BackendTamMaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CommentChanDong"
+        component={CommentChanDong}
+        durationInFrames={3805}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CommentChanDongThumbnail"
+        component={CommentChanDongThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MicroserviceDaiTran"
+        component={MicroserviceDaiTran}
+        durationInFrames={4204}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MicroserviceDaiTranThumbnail"
+        component={MicroserviceDaiTranThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GioiHanKiemTu"
+        component={GioiHanKiemTu}
+        durationInFrames={2922}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GioiHanKiemTuThumbnail"
+        component={GioiHanKiemTuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NetworkTruyenAm"
+        component={NetworkTruyenAm}
+        durationInFrames={5637}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NetworkTruyenAmThumbnail"
+        component={NetworkTruyenAmThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PmVsDevHieuLam"
+        component={PmVsDevHieuLam}
+        durationInFrames={3976}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PmVsDevHieuLamThumbnail"
+        component={PmVsDevHieuLamThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IndexThanThu"
+        component={IndexThanThu}
+        durationInFrames={4450}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IndexThanThuThumbnail"
+        component={IndexThanThuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DesignPatternTruyenThua"
+        component={DesignPatternTruyenThua}
+        durationInFrames={4300}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DesignPatternTruyenThuaThumbnail"
+        component={DesignPatternTruyenThuaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TruyenThuyetCoThat"
+        component={TruyenThuyetCoThat}
+        durationInFrames={6693}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TruyenThuyetCoThatThumbnail"
+        component={TruyenThuyetCoThatThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="WebhookDao"
+        component={WebhookDao}
+        durationInFrames={3504}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="WebhookDaoThumbnail"
+        component={WebhookDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SinhVatThanBi"
+        component={SinhVatThanBi}
+        durationInFrames={6498}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SinhVatThanBiThumbnail"
+        component={SinhVatThanBiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TodoThuongCo"
+        component={TodoThuongCo}
+        durationInFrames={4452}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TodoThuongCoThumbnail"
+        component={TodoThuongCoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RabbitmqDao"
+        component={RabbitmqDao}
+        durationInFrames={4369}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RabbitmqDaoThumbnail"
+        component={RabbitmqDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CodeDaoNhapMon"
+        component={CodeDaoNhapMon}
+        durationInFrames={4990}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CodeDaoNhapMonThumbnail"
+        component={CodeDaoNhapMonThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TienTeDao"
+        component={TienTeDao}
+        durationInFrames={7090}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TienTeDaoThumbnail"
+        component={TienTeDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovTester"
+        component={PovTester}
+        durationInFrames={5583}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovTesterThumbnail"
+        component={PovTesterThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovBa"
+        component={PovBa}
+        durationInFrames={7164}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovBaThumbnail"
+        component={PovBaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovPo"
+        component={PovPo}
+        durationInFrames={6022}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovPoThumbnail"
+        component={PovPoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GroupChatDongMon"
+        component={GroupChatDongMon}
+        durationInFrames={4569}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GroupChatDongMonThumbnail"
+        component={GroupChatDongMonThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovPm"
+        component={PovPm}
+        durationInFrames={8721}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovPmThumbnail"
+        component={PovPmThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="QaDao"
+        component={QaDao}
+        durationInFrames={7480}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="QaDaoThumbnail"
+        component={QaDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TcpDao"
+        component={TcpDao}
+        durationInFrames={6650}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TcpDaoThumbnail"
+        component={TcpDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TuSiCuoiThang"
+        component={TuSiCuoiThang}
+        durationInFrames={4951}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TuSiCuoiThangThumbnail"
+        component={TuSiCuoiThangThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GrpcDao"
+        component={GrpcDao}
+        durationInFrames={12160}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GrpcDaoThumbnail"
+        component={GrpcDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovDevops"
+        component={PovDevops}
+        durationInFrames={8916}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovDevopsThumbnail"
+        component={PovDevopsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovKetoan"
+        component={PovKetoan}
+        durationInFrames={5765}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovKetoanThumbnail"
+        component={PovKetoanThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SeniorJunior"
+        component={SeniorJunior}
+        durationInFrames={5220}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SeniorJuniorThumbnail"
+        component={SeniorJuniorThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HttpSessionJwt"
+        component={HttpSessionJwt}
+        durationInFrames={8872}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HttpSessionJwtThumbnail"
+        component={HttpSessionJwtThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovKtv"
+        component={PovKtv}
+        durationInFrames={6430}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovKtvThumbnail"
+        component={PovKtvThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThienCoSu"
+        component={ThienCoSu}
+        durationInFrames={6604}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThienCoSuThumbnail"
+        component={ThienCoSuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CleanArch"
+        component={CleanArch}
+        durationInFrames={7692}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CleanArchThumbnail"
+        component={CleanArchThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovCreator"
+        component={PovCreator}
+        durationInFrames={5410}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovCreatorThumbnail"
+        component={PovCreatorThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoaTuKiemTu"
+        component={HoaTuKiemTu}
+        durationInFrames={6525}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoaTuKiemTuThumbnail"
+        component={HoaTuKiemTuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SalesDao"
+        component={SalesDao}
+        durationInFrames={6180}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SalesDaoThumbnail"
+        component={SalesDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MeetingDao"
+        component={MeetingDao}
+        durationInFrames={5889}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MeetingDaoThumbnail"
+        component={MeetingDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MoiGioiDao"
+        component={MoiGioiDao}
+        durationInFrames={6192}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MoiGioiDaoThumbnail"
+        component={MoiGioiDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="QaVsDev"
+        component={QaVsDev}
+        durationInFrames={6421}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="QaVsDevThumbnail"
+        component={QaVsDevThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RaceCondition"
+        component={RaceCondition}
+        durationInFrames={10537}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RaceConditionThumbnail"
+        component={RaceConditionThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThuongKhach"
+        component={ThuongKhach}
+        durationInFrames={7408}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThuongKhachThumbnail"
+        component={ThuongKhachThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoaTu"
+        component={HoaTu}
+        durationInFrames={6203}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoaTuThumbnail"
+        component={HoaTuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NhanSu"
+        component={NhanSu}
+        durationInFrames={5395}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NhanSuThumbnail"
+        component={NhanSuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CodeReview"
+        component={CodeReview}
+        durationInFrames={6328}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CodeReviewThumbnail"
+        component={CodeReviewThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoDao"
+        component={HoDao}
+        durationInFrames={6347}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoDaoThumbnail"
+        component={HoDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Helpdesk"
+        component={Helpdesk}
+        durationInFrames={4286}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HelpdeskThumbnail"
+        component={HelpdeskThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TruMa"
+        component={TruMa}
+        durationInFrames={5845}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TruMaThumbnail"
+        component={TruMaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CloudflareDdos"
+        component={CloudflareDdos}
+        durationInFrames={6856}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CloudflareDdosThumbnail"
+        component={CloudflareDdosThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselItFaCanhGioi"
+        component={SlideCarouselItFaCanhGioi}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ItFaCanhGioi"
+        component={ItFaCanhGioi}
+        durationInFrames={4360}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ItFaCanhGioiThumbnail"
+        component={ItFaCanhGioiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop7DaoHuu"
+        component={SlideCarouselTop7DaoHuu}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7DaoHuu"
+        component={Top7DaoHuu}
+        durationInFrames={3400}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7DaoHuuThumbnail"
+        component={Top7DaoHuuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselNguoiKhongHop"
+        component={SlideCarouselNguoiKhongHop}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NguoiKhongHopNhanGian"
+        component={NguoiKhongHopNhanGian}
+        durationInFrames={3120}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NguoiKhongHopNhanGianThumbnail"
+        component={NguoiKhongHopNhanGianThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselTop7Manager"
+        component={SlideCarouselTop7Manager}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7Manager"
+        component={Top7Manager}
+        durationInFrames={3720}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="Top7ManagerThumbnail"
+        component={Top7ManagerThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="SlideCarouselDonGianDaiDao"
+        component={SlideCarouselDonGianDaiDao}
+        durationInFrames={8}
+        fps={1}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DonGianDaiDao"
+        component={DonGianDaiDao}
+        durationInFrames={3240}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DonGianDaiDaoThumbnail"
+        component={DonGianDaiDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DonGianDaiDaoAnimated"
+        component={DonGianDaiDaoAnimated}
+        durationInFrames={3240}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CodingTangThapNhat"
+        component={CodingTangThapNhat}
+        durationInFrames={3500}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CodingTangThapNhatThumbnail"
+        component={CodingTangThapNhatThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="EngineerSongSotAi"
+        component={EngineerSongSotAi}
+        durationInFrames={4660}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="EngineerSongSotAiThumbnail"
+        component={EngineerSongSotAiThumbnail}
         durationInFrames={1}
         fps={30}
         width={1080}

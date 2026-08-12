@@ -1,0 +1,59 @@
+{
+  "HOOK": {
+    "nokiem": 150,
+    "mouth": 288,
+    "sales": 330
+  },
+  "BAOGIA": {
+    "teach": 117,
+    "price": 425,
+    "vanish": 560,
+    "appear": 600,
+    "resend": 690,
+    "discount": 860,
+    "truth": 1044
+  },
+  "DEMO": {
+    "prep": 70,
+    "askprice": 347,
+    "praise": 511,
+    "boss": 694,
+    "reveal": 794
+  },
+  "CHODON": {
+    "close": 191,
+    "demand": [
+      361,
+      430,
+      454,
+      514
+    ],
+    "reveal": 691
+  },
+  "KPI": {
+    "sign": 165,
+    "four": 387,
+    "reveal": 526,
+    "newkpi": 688
+  },
+  "SUYNGHI": {
+    "praise": 61,
+    "think": 425,
+    "photos": [
+      554,
+      600,
+      630
+    ],
+    "reveal": 677
+  },
+  "DAOLY": {
+    "fear": 94,
+    "tiers": [
+      402,
+      473,
+      567,
+      683
+    ],
+    "lost": 890
+  }
+}

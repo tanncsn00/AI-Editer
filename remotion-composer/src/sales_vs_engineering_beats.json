@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_TIEN_HUA",
+      "start": 0.0,
+      "duration": 10.816
+    },
+    {
+      "index": 2,
+      "name": "TIEN_HUA_DAI_PHAP",
+      "start": 10.816,
+      "duration": 15.514
+    },
+    {
+      "index": 3,
+      "name": "LAM_DUOC",
+      "start": 26.33,
+      "duration": 16.441
+    },
+    {
+      "index": 4,
+      "name": "MOT_TUAN",
+      "start": 42.771,
+      "duration": 11.187
+    },
+    {
+      "index": 5,
+      "name": "KHONG_GIOI_HAN",
+      "start": 53.959,
+      "duration": 9.642
+    },
+    {
+      "index": 6,
+      "name": "BA_DAU_HIEU",
+      "start": 63.601,
+      "duration": 22.807
+    },
+    {
+      "index": 7,
+      "name": "EM_LO_HUA",
+      "start": 86.408,
+      "duration": 18.481
+    },
+    {
+      "index": 8,
+      "name": "KHACH_CAN_GAP",
+      "start": 104.889,
+      "duration": 13.474
+    },
+    {
+      "index": 9,
+      "name": "ENDING_THIEN_KIEP",
+      "start": 118.363,
+      "duration": 20.706
+    },
+    {
+      "index": 10,
+      "name": "CTA_FOLLOW",
+      "start": 139.069,
+      "duration": 14.031
+    }
+  ],
+  "total_duration": 153.1
+}

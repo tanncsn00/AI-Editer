@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_DAO_TO",
+      "start": 0.0,
+      "duration": 9.079
+    },
+    {
+      "index": 2,
+      "name": "XUYEN_KHONG",
+      "start": 9.079,
+      "duration": 6.032
+    },
+    {
+      "index": 3,
+      "name": "KHONG_AI_VIET_CODE",
+      "start": 15.112,
+      "duration": 7.617
+    },
+    {
+      "index": 4,
+      "name": "AI_VIET_GIUP",
+      "start": 22.728,
+      "duration": 14.563
+    },
+    {
+      "index": 5,
+      "name": "KHONG_AI_DEBUG",
+      "start": 37.292,
+      "duration": 13.832
+    },
+    {
+      "index": 6,
+      "name": "HAU_BOI_TAN_THU",
+      "start": 51.124,
+      "duration": 18.463
+    },
+    {
+      "index": 7,
+      "name": "MOT_NGUOI_QUOC_GIA",
+      "start": 69.587,
+      "duration": 17.244
+    },
+    {
+      "index": 8,
+      "name": "AI_DAY_AI",
+      "start": 86.831,
+      "duration": 18.585
+    },
+    {
+      "index": 9,
+      "name": "HOC_DIEU_KHIEN_AI",
+      "start": 105.416,
+      "duration": 20.657
+    },
+    {
+      "index": 10,
+      "name": "ENDING",
+      "start": 126.073,
+      "duration": 15.721
+    }
+  ],
+  "total_duration": 141.794
+}

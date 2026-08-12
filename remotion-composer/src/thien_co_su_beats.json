@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 14.31
+    },
+    {
+      "index": 2,
+      "name": "NAMING",
+      "start": 14.31,
+      "duration": 20.44
+    },
+    {
+      "index": 3,
+      "name": "SETUP",
+      "start": 34.75,
+      "duration": 18.92
+    },
+    {
+      "index": 4,
+      "name": "MOHO",
+      "start": 53.67,
+      "duration": 29.02
+    },
+    {
+      "index": 5,
+      "name": "HONNGUYEN",
+      "start": 82.69,
+      "duration": 31.5
+    },
+    {
+      "index": 6,
+      "name": "DIENDAO",
+      "start": 114.19,
+      "duration": 34.68
+    },
+    {
+      "index": 7,
+      "name": "HIPPO",
+      "start": 148.87,
+      "duration": 28.96
+    },
+    {
+      "index": 8,
+      "name": "DAOLY",
+      "start": 177.83,
+      "duration": 9.54
+    },
+    {
+      "index": 9,
+      "name": "TIER",
+      "start": 187.37,
+      "duration": 19.5
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 206.87,
+      "duration": 13.256
+    }
+  ],
+  "total_duration": 220.126
+}

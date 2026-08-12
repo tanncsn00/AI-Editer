@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "INTRO",
+      "start": 0.0,
+      "duration": 11.825
+    },
+    {
+      "index": 2,
+      "name": "SUA_SAU",
+      "start": 11.825,
+      "duration": 16.226
+    },
+    {
+      "index": 3,
+      "name": "REFACTOR",
+      "start": 28.051,
+      "duration": 14.19
+    },
+    {
+      "index": 4,
+      "name": "TOI_UU",
+      "start": 42.241,
+      "duration": 15.504
+    },
+    {
+      "index": 5,
+      "name": "KHONG_DAM_XOA",
+      "start": 57.745,
+      "duration": 18.263
+    },
+    {
+      "index": 6,
+      "name": "KHONG_AI_HIEU",
+      "start": 76.008,
+      "duration": 13.927
+    },
+    {
+      "index": 7,
+      "name": "THUONG_CO",
+      "start": 89.935,
+      "duration": 14.387
+    },
+    {
+      "index": 8,
+      "name": "FINAL",
+      "start": 104.322,
+      "duration": 28.708
+    },
+    {
+      "index": 9,
+      "name": "CLOSING",
+      "start": 133.03,
+      "duration": 10.314
+    },
+    {
+      "index": 10,
+      "name": "CTA",
+      "start": 143.344,
+      "duration": 5.058
+    }
+  ],
+  "total_duration": 148.403
+}

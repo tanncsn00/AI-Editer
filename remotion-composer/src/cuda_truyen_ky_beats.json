@@ -1,0 +1,65 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK_CUDA",
+      "start": 0.0,
+      "duration": 15.275
+    },
+    {
+      "index": 2,
+      "name": "GPU_ORIGIN",
+      "start": 15.275,
+      "duration": 14.286
+    },
+    {
+      "index": 3,
+      "name": "CUDA_BIRTH_2006",
+      "start": 29.561,
+      "duration": 14.286
+    },
+    {
+      "index": 4,
+      "name": "INTEL_DOMINANCE",
+      "start": 43.847,
+      "duration": 12.121
+    },
+    {
+      "index": 5,
+      "name": "AI_DISCOVERY",
+      "start": 55.968,
+      "duration": 16.203
+    },
+    {
+      "index": 6,
+      "name": "DEEP_LEARNING_DEP",
+      "start": 72.171,
+      "duration": 16.265
+    },
+    {
+      "index": 7,
+      "name": "LINH_MACH",
+      "start": 88.436,
+      "duration": 5.319
+    },
+    {
+      "index": 8,
+      "name": "FAILED_REBELLION",
+      "start": 93.755,
+      "duration": 17.192
+    },
+    {
+      "index": 9,
+      "name": "NVIDIA_COLLECTS",
+      "start": 110.947,
+      "duration": 6.988
+    },
+    {
+      "index": 10,
+      "name": "ENDING_TRUTH",
+      "start": 117.935,
+      "duration": 29.005
+    }
+  ],
+  "total_duration": 146.94
+}

@@ -1,0 +1,54 @@
+{
+  "HOOK": {
+    "power": 124,
+    "hunt": 333,
+    "name": 380
+  },
+  "NHAPMON": {
+    "join": 17,
+    "believe": 117,
+    "naive": 249
+  },
+  "NGOCGIAN": {
+    "order": 157,
+    "senior": 204,
+    "junior": 309,
+    "crack": 462
+  },
+  "NGANSACH": {
+    "first": 71,
+    "second": 318,
+    "name": 422,
+    "budget": 506
+  },
+  "PHONGVAN": {
+    "found": 58,
+    "other": 304,
+    "name": 402
+  },
+  "OFFER": {
+    "rounds": 10,
+    "reject": 297,
+    "void": 479
+  },
+  "THIENKIEP": {
+    "dev": 143,
+    "board": 380,
+    "alone": 536
+  },
+  "ANTHAN": {
+    "cv": 86,
+    "noshow": 315,
+    "name": 515
+  },
+  "NGO": {
+    "notrecruit": 132,
+    "find": 285
+  },
+  "DAOLY": {
+    "msg": 117,
+    "block": 162,
+    "trials": 359,
+    "foryou": 530
+  }
+}

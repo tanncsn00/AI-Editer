@@ -1,0 +1,59 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 16.983
+    },
+    {
+      "index": 2,
+      "name": "TC1_CHAC_KHONG_SAO",
+      "start": 16.983,
+      "duration": 11.633
+    },
+    {
+      "index": 3,
+      "name": "TC2_FIX_NHANH",
+      "start": 28.615,
+      "duration": 9.393
+    },
+    {
+      "index": 4,
+      "name": "TC3_LOCAL_CHAY",
+      "start": 38.009,
+      "duration": 10.575
+    },
+    {
+      "index": 5,
+      "name": "TC4_MOT_DONG",
+      "start": 48.584,
+      "duration": 7.838
+    },
+    {
+      "index": 6,
+      "name": "TC5_DEPLOY_THU_SAU",
+      "start": 56.422,
+      "duration": 10.575
+    },
+    {
+      "index": 7,
+      "name": "TC6_AI_VIET_ROI",
+      "start": 66.998,
+      "duration": 13.064
+    },
+    {
+      "index": 8,
+      "name": "TC7_DE_SAU_REFACTOR",
+      "start": 80.061,
+      "duration": 13.001
+    },
+    {
+      "index": 9,
+      "name": "ENDING_CTA",
+      "start": 93.063,
+      "duration": 19.471
+    }
+  ],
+  "total_duration": 112.534
+}
