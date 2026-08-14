@@ -1,0 +1,42 @@
+{
+ "beats": [
+  {
+   "index": 0,
+   "name": "INTRO",
+   "start": 0.0,
+   "duration": 3.0
+  },
+  {
+   "index": 1,
+   "name": "CAU1",
+   "start": 3.0,
+   "duration": 4.32
+  },
+  {
+   "index": 2,
+   "name": "CAU2",
+   "start": 7.32,
+   "duration": 4.719
+  },
+  {
+   "index": 3,
+   "name": "CAU3",
+   "start": 12.039,
+   "duration": 4.347
+  },
+  {
+   "index": 4,
+   "name": "CAU4",
+   "start": 16.385,
+   "duration": 4.719
+  },
+  {
+   "index": 99,
+   "name": "QUACK",
+   "start": 21.104,
+   "duration": 3.2
+  }
+ ],
+ "total_duration": 24.304,
+ "voice_offset": 3.0
+}

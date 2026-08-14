@@ -1,0 +1,71 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "HOOK",
+   "start": 0.0,
+   "duration": 10.263
+  },
+  {
+   "index": 2,
+   "name": "REVEAL",
+   "start": 10.263,
+   "duration": 5.376
+  },
+  {
+   "index": 3,
+   "name": "MOTDAO",
+   "start": 15.639,
+   "duration": 9.242
+  },
+  {
+   "index": 4,
+   "name": "KHONGCAN",
+   "start": 24.881,
+   "duration": 4.513
+  },
+  {
+   "index": 5,
+   "name": "TAUHOA",
+   "start": 29.394,
+   "duration": 5.8
+  },
+  {
+   "index": 6,
+   "name": "BASEURL",
+   "start": 35.194,
+   "duration": 7.77
+  },
+  {
+   "index": 7,
+   "name": "NHANRA",
+   "start": 42.964,
+   "duration": 6.293
+  },
+  {
+   "index": 8,
+   "name": "PHATTN",
+   "start": 49.256,
+   "duration": 2.068
+  },
+  {
+   "index": 9,
+   "name": "CHOT",
+   "start": 51.325,
+   "duration": 4.925
+  },
+  {
+   "index": 10,
+   "name": "CANHBAO",
+   "start": 56.25,
+   "duration": 7.955
+  },
+  {
+   "index": 11,
+   "name": "CTA",
+   "start": 64.204,
+   "duration": 4.162
+  }
+ ],
+ "total_duration": 68.367
+}

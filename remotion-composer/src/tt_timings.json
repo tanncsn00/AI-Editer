@@ -1,0 +1,52 @@
+{
+  "HOOK": {
+    "traits": 146,
+    "name": 276
+  },
+  "CANTHAN": {
+    "ask": 136,
+    "punch": 357,
+    "reveal": 432
+  },
+  "TUTIN": {
+    "claim": 166,
+    "cascade": 557,
+    "reveal": 707
+  },
+  "TANGKINH": {
+    "read": 185,
+    "tabs": 455,
+    "reveal": 573
+  },
+  "BUSINESS": {
+    "task": 106,
+    "twist": 505,
+    "reveal": 580
+  },
+  "MOITRUONG": {
+    "pass": 125,
+    "versions": 553,
+    "reveal": 675
+  },
+  "AI": {
+    "spell": 178,
+    "quiz": 377,
+    "reveal": 582
+  },
+  "ANTHE": {
+    "intro": 161,
+    "crisis": 365,
+    "fix": 551,
+    "reveal": 835
+  },
+  "KET": {
+    "intro": 18,
+    "list": 60,
+    "silent": 344
+  },
+  "SMALLCHANGE": {
+    "setup": 72,
+    "name": 108,
+    "punch": 291
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "beats": [
+    {
+      "index": 1,
+      "name": "HOOK",
+      "start": 0.0,
+      "duration": 11.728
+    },
+    {
+      "index": 2,
+      "name": "CANTHAN",
+      "start": 11.728,
+      "duration": 19.345
+    },
+    {
+      "index": 3,
+      "name": "TUTIN",
+      "start": 31.074,
+      "duration": 28.701
+    },
+    {
+      "index": 4,
+      "name": "TANGKINH",
+      "start": 59.775,
+      "duration": 24.127
+    },
+    {
+      "index": 5,
+      "name": "BUSINESS",
+      "start": 83.902,
+      "duration": 25.517
+    },
+    {
+      "index": 6,
+      "name": "MOITRUONG",
+      "start": 109.418,
+      "duration": 26.168
+    },
+    {
+      "index": 7,
+      "name": "AI",
+      "start": 135.586,
+      "duration": 27.279
+    },
+    {
+      "index": 8,
+      "name": "ANTHE",
+      "start": 162.866,
+      "duration": 30.11
+    },
+    {
+      "index": 9,
+      "name": "KET",
+      "start": 192.976,
+      "duration": 18.587
+    },
+    {
+      "index": 10,
+      "name": "SMALLCHANGE",
+      "start": 211.563,
+      "duration": 11.788
+    },
+    {
+      "index": 11,
+      "name": "CTA",
+      "start": 223.351,
+      "duration": 8.167
+    }
+  ],
+  "total_duration": 231.518
+}

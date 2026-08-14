@@ -316,6 +316,14 @@ import { Helpdesk } from "./Helpdesk";
 import { HelpdeskThumbnail } from "./HelpdeskThumbnail";
 import { TruMa } from "./TruMa";
 import { TruMaThumbnail } from "./TruMaThumbnail";
+import { TanTuSi } from "./TanTuSi";
+import { TanTuSiThumbnail } from "./TanTuSiThumbnail";
+import { XKiro } from "./XKiro";
+import { TuCode } from "./TuCode";
+import { TuCodeCliff } from "./TuCodeCliff";
+import { TuCodeFootage } from "./TuCodeFootage";
+import { TuCodeThumbnail } from "./TuCodeThumbnail";
+import { XKiroThumbnail } from "./XKiroThumbnail";
 import { CloudflareDdos } from "./CloudflareDdos";
 import { CloudflareDdosThumbnail } from "./CloudflareDdosThumbnail";
 import { SlideCarouselItFaCanhGioi } from "./SlideCarouselItFaCanhGioi";
@@ -913,7 +921,7 @@ export const Root: React.FC = () => {
       <Composition
         id="AgentControlFlow"
         component={AgentControlFlow}
-        durationInFrames={2160}
+        durationInFrames={2075}
         fps={30}
         width={1080}
         height={1920}
@@ -2585,6 +2593,83 @@ export const Root: React.FC = () => {
       <Composition
         id="TruMaThumbnail"
         component={TruMaThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TanTuSi"
+        component={TanTuSi}
+        durationInFrames={6946}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TanTuSiThumbnail"
+        component={TanTuSiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="XKiro"
+        component={XKiro}
+        durationInFrames={2075}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="XKiroNoBgm"
+        component={XKiro}
+        durationInFrames={2075}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="TuCodeFootage"
+        component={TuCodeFootage}
+        durationInFrames={729}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="TuCodeCliff"
+        component={TuCodeCliff}
+        durationInFrames={810}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="TuCodeThumbnail"
+        component={TuCodeThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="TuCode"
+        component={TuCode}
+        durationInFrames={729}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="XKiroThumbnail"
+        component={XKiroThumbnail}
         durationInFrames={1}
         fps={30}
         width={1080}
