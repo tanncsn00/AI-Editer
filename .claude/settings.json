@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "PYTHONIOENCODING=utf-8 python .claude/hooks/video_gate.py 2>/dev/null || true",
+            "timeout": 10,
+            "statusMessage": "Kiểm tra cổng sản xuất video..."
+          }
+        ]
+      }
+    ]
+  }
+}
