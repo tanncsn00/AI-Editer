@@ -115,6 +115,11 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 | deadline | **đét-lai** | — |
 | Optimistic (locking) | video thường: **literal "Optimistic"**. Video truyền kỳ: **"phép Lạc Quan"** (tên pháp bảo, phải reveal English kèm) | — |
 | Git Blame | video thường: **literal "Git Blame"**. Video truyền kỳ: **"Truy Tội Kính"** (tên pháp bảo, phải reveal English kèm). ⚠️ phonetic "Bờ-Lêm"/"Blêm" HỎNG →"lên" | Gít Bờ-Lêm |
+| **merge** | ⚠️ **PHỤ THUỘC TỪ ĐỨNG SAU** (đo 2026-08-25). Sau dấu câu + từ KHÔNG bắt đầu bằng đ/d thì literal `Merge` đọc sạch: "Anh, Merge, nhé?" ✓ · "Ai. Merge? Tất cả" ✓ · "Merge. xi ai xanh." ✓. Nhưng **`merge` + `đi` → "must"** ở cả 3 lần gen — /dʒ/ cuối bị "đi" nuốt. Chấp nhận được vì dev VN cũng đọc "mớt", nhưng phải có chữ MERGE trên hình cùng lúc | `merge` giữa câu không có dấu câu → "Musk" / "Murs" / "I must" |
+| **pull** | **pun** ("Em pun cốt mới chưa") | ❌ `pull` → "phù"/"pu"; ⚠️ whisper hay ghi lại thành "phun" dù âm ĐÚNG — phải test primed mới biết |
+| **timeout** | **tai-mao** | ❌ `timeout` → "Timiak" |
+| **cart** | **cát** | ❌ `cart` → "Các" (thành từ chỉ số nhiều) |
+| **Pull Request** | giữ literal **"Pull Request"** — đọc sạch, khác hẳn `pull` đứng một mình | — |
 | **Sinh** (trong tên chiêu) | ⚠️ "Lỗi **Sinh** Lỗi" → đọc "lỗi **xin** lỗi" → đổi **"Đẻ Ra"** | Sinh (→"xin") |
 
 ## Design / business / đời thường
@@ -173,6 +178,12 @@ Whisper KHÔNG bắt được glitch này → phải isolate-transcribe `word_ti
 3. **CamelCase tech** (PreToolUse, apiKeyHelper): hoặc Việt hóa rút gọn ("pri tu húc"), hoặc giữ English nguyên ("API key helper") — Adam EverAI premium handle được.
 4. **Brand/tool name**: dùng phonetic VN có sẵn — gít hấp / Ô pớt / Sô nét / Hai cu.
 5. **Không chắc:** đưa script cho user duyệt trước khi burn TTS.
+
+## 🔢 Whisper LUÔN ghi số bằng CHỮ SỐ — bẫy chọn anchor
+
+Đọc "bảy file" → whisper ghi **`7 file`**. Tương tự `hai`→2, `ba`→3, `mười`→10, `hai mươi`→20, `ba mươi`→30, `tám trăm`→800.
+
+→ **Không bao giờ neo anchor vào một con số viết bằng chữ.** Neo vào danh từ đi kèm (`file`, `giây`, `người`, `phút`). Đã cắn ở `mat-ngon-bang-huu` (800ml) và suýt cắn 5 anchor ở `mat-ngon-kiem-tu`.
 
 ## Verify
 
