@@ -1,0 +1,89 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 10.271
+  },
+  {
+   "index": 2,
+   "name": "GIAOCHIEN",
+   "start": 10.271,
+   "duration": 5.557
+  },
+  {
+   "index": 3,
+   "name": "K1A",
+   "start": 15.829,
+   "duration": 6.315
+  },
+  {
+   "index": 4,
+   "name": "K1B",
+   "start": 22.144,
+   "duration": 10.986
+  },
+  {
+   "index": 5,
+   "name": "K2A",
+   "start": 33.13,
+   "duration": 11.512
+  },
+  {
+   "index": 6,
+   "name": "K2B",
+   "start": 44.642,
+   "duration": 5.64
+  },
+  {
+   "index": 7,
+   "name": "K3A",
+   "start": 50.283,
+   "duration": 10.045
+  },
+  {
+   "index": 8,
+   "name": "K3B",
+   "start": 60.327,
+   "duration": 5.954
+  },
+  {
+   "index": 9,
+   "name": "K4A",
+   "start": 66.281,
+   "duration": 8.672
+  },
+  {
+   "index": 10,
+   "name": "K4B",
+   "start": 74.952,
+   "duration": 9.784
+  },
+  {
+   "index": 11,
+   "name": "DAOLY",
+   "start": 84.737,
+   "duration": 9.803
+  },
+  {
+   "index": 12,
+   "name": "CHOT",
+   "start": 94.539,
+   "duration": 4.97
+  },
+  {
+   "index": 13,
+   "name": "CTA",
+   "start": 99.509,
+   "duration": 3.667
+  },
+  {
+   "index": 99,
+   "name": "OUTRO",
+   "start": 103.176,
+   "duration": 3.2
+  }
+ ],
+ "total_duration": 106.376
+}

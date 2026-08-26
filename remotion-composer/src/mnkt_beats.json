@@ -1,0 +1,413 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 4.65
+  },
+  {
+   "index": 2,
+   "name": "MODAU2",
+   "start": 4.65,
+   "duration": 2.502
+  },
+  {
+   "index": 3,
+   "name": "MODAU3",
+   "start": 7.153,
+   "duration": 6.096
+  },
+  {
+   "index": 4,
+   "name": "MODAU4",
+   "start": 13.249,
+   "duration": 3.089
+  },
+  {
+   "index": 5,
+   "name": "M1_HEAD",
+   "start": 16.338,
+   "duration": 3.591
+  },
+  {
+   "index": 6,
+   "name": "M1_PAIR",
+   "start": 19.929,
+   "duration": 5.308
+  },
+  {
+   "index": 7,
+   "name": "M1_TANG",
+   "start": 25.237,
+   "duration": 2.521
+  },
+  {
+   "index": 8,
+   "name": "M1_MAY",
+   "start": 27.758,
+   "duration": 5.305
+  },
+  {
+   "index": 9,
+   "name": "M1_KIEM1",
+   "start": 33.064,
+   "duration": 5.146
+  },
+  {
+   "index": 10,
+   "name": "M1_KIEM2",
+   "start": 38.21,
+   "duration": 5.411
+  },
+  {
+   "index": 11,
+   "name": "M1_PACK",
+   "start": 43.621,
+   "duration": 5.434
+  },
+  {
+   "index": 12,
+   "name": "M1_LINH",
+   "start": 49.055,
+   "duration": 4.881
+  },
+  {
+   "index": 13,
+   "name": "M1_REVEAL",
+   "start": 53.936,
+   "duration": 3.301
+  },
+  {
+   "index": 14,
+   "name": "M2_HEAD",
+   "start": 57.237,
+   "duration": 3.321
+  },
+  {
+   "index": 15,
+   "name": "M2_PAIR",
+   "start": 60.558,
+   "duration": 4.44
+  },
+  {
+   "index": 16,
+   "name": "M2_TRUONG",
+   "start": 64.998,
+   "duration": 4.108
+  },
+  {
+   "index": 17,
+   "name": "M2_MOT",
+   "start": 69.106,
+   "duration": 3.755
+  },
+  {
+   "index": 18,
+   "name": "M2_SUA",
+   "start": 72.861,
+   "duration": 3.909
+  },
+  {
+   "index": 19,
+   "name": "M2_THA",
+   "start": 76.77,
+   "duration": 3.331
+  },
+  {
+   "index": 20,
+   "name": "M2_DOMINO1",
+   "start": 80.101,
+   "duration": 5.474
+  },
+  {
+   "index": 21,
+   "name": "M2_DOMINO2",
+   "start": 85.575,
+   "duration": 3.91
+  },
+  {
+   "index": 22,
+   "name": "M2_MANHINH",
+   "start": 89.485,
+   "duration": 3.107
+  },
+  {
+   "index": 23,
+   "name": "M2_LUAT",
+   "start": 92.591,
+   "duration": 3.312
+  },
+  {
+   "index": 24,
+   "name": "M2_REVEAL",
+   "start": 95.903,
+   "duration": 5.476
+  },
+  {
+   "index": 25,
+   "name": "M3_HEAD",
+   "start": 101.38,
+   "duration": 3.421
+  },
+  {
+   "index": 26,
+   "name": "M3_PAIR",
+   "start": 104.801,
+   "duration": 6.538
+  },
+  {
+   "index": 27,
+   "name": "M3_MAT",
+   "start": 111.339,
+   "duration": 3.018
+  },
+  {
+   "index": 28,
+   "name": "M3_DA",
+   "start": 114.357,
+   "duration": 3.003
+  },
+  {
+   "index": 29,
+   "name": "M3_NGHI",
+   "start": 117.361,
+   "duration": 5.082
+  },
+  {
+   "index": 30,
+   "name": "M3_PULL",
+   "start": 122.442,
+   "duration": 5.493
+  },
+  {
+   "index": 31,
+   "name": "M3_KHONG",
+   "start": 127.935,
+   "duration": 4.619
+  },
+  {
+   "index": 32,
+   "name": "M3_COMMIT",
+   "start": 132.554,
+   "duration": 5.111
+  },
+  {
+   "index": 33,
+   "name": "M3_LINH",
+   "start": 137.665,
+   "duration": 3.031
+  },
+  {
+   "index": 34,
+   "name": "M3_REVEAL",
+   "start": 140.696,
+   "duration": 3.24
+  },
+  {
+   "index": 35,
+   "name": "M4_HEAD",
+   "start": 143.936,
+   "duration": 3.25
+  },
+  {
+   "index": 36,
+   "name": "M4_PAIR",
+   "start": 147.186,
+   "duration": 5.706
+  },
+  {
+   "index": 37,
+   "name": "M4_PR",
+   "start": 152.892,
+   "duration": 5.181
+  },
+  {
+   "index": 38,
+   "name": "M4_LGTM",
+   "start": 158.073,
+   "duration": 3.82
+  },
+  {
+   "index": 39,
+   "name": "M4_DIFF",
+   "start": 161.893,
+   "duration": 5.792
+  },
+  {
+   "index": 40,
+   "name": "M4_XANH",
+   "start": 167.685,
+   "duration": 6.553
+  },
+  {
+   "index": 41,
+   "name": "M4_DO",
+   "start": 174.238,
+   "duration": 2.657
+  },
+  {
+   "index": 42,
+   "name": "M4_AI",
+   "start": 176.895,
+   "duration": 3.844
+  },
+  {
+   "index": 43,
+   "name": "M4_NHIN",
+   "start": 180.739,
+   "duration": 7.252
+  },
+  {
+   "index": 44,
+   "name": "M4_LINH",
+   "start": 187.991,
+   "duration": 2.523
+  },
+  {
+   "index": 45,
+   "name": "M4_REVEAL",
+   "start": 190.514,
+   "duration": 4.491
+  },
+  {
+   "index": 46,
+   "name": "M5_HEAD",
+   "start": 195.005,
+   "duration": 4.697
+  },
+  {
+   "index": 47,
+   "name": "M5_IMLANG",
+   "start": 199.702,
+   "duration": 2.55
+  },
+  {
+   "index": 48,
+   "name": "M5_TEAM",
+   "start": 202.251,
+   "duration": 6.158
+  },
+  {
+   "index": 49,
+   "name": "M5_HOI1",
+   "start": 208.409,
+   "duration": 2.902
+  },
+  {
+   "index": 50,
+   "name": "M5_HOI2",
+   "start": 211.311,
+   "duration": 3.31
+  },
+  {
+   "index": 51,
+   "name": "M5_NHIN",
+   "start": 214.621,
+   "duration": 5.546
+  },
+  {
+   "index": 52,
+   "name": "M5_GIAY",
+   "start": 220.167,
+   "duration": 6.484
+  },
+  {
+   "index": 53,
+   "name": "M5_CHET",
+   "start": 226.651,
+   "duration": 5.605
+  },
+  {
+   "index": 54,
+   "name": "M5_GROUP",
+   "start": 232.257,
+   "duration": 5.523
+  },
+  {
+   "index": 55,
+   "name": "M5_REVEAL",
+   "start": 237.78,
+   "duration": 7.486
+  },
+  {
+   "index": 56,
+   "name": "KET1",
+   "start": 245.266,
+   "duration": 4.688
+  },
+  {
+   "index": 57,
+   "name": "KET2",
+   "start": 249.954,
+   "duration": 4.106
+  },
+  {
+   "index": 58,
+   "name": "KET3",
+   "start": 254.06,
+   "duration": 3.809
+  },
+  {
+   "index": 59,
+   "name": "KET4",
+   "start": 257.869,
+   "duration": 6.376
+  },
+  {
+   "index": 60,
+   "name": "KET5",
+   "start": 264.245,
+   "duration": 4.923
+  },
+  {
+   "index": 61,
+   "name": "KET6",
+   "start": 269.168,
+   "duration": 6.345
+  },
+  {
+   "index": 62,
+   "name": "KET7",
+   "start": 275.513,
+   "duration": 6.695
+  },
+  {
+   "index": 63,
+   "name": "KET8",
+   "start": 282.208,
+   "duration": 7.32
+  },
+  {
+   "index": 64,
+   "name": "KET9",
+   "start": 289.528,
+   "duration": 4.996
+  },
+  {
+   "index": 65,
+   "name": "KET10",
+   "start": 294.524,
+   "duration": 2.865
+  },
+  {
+   "index": 66,
+   "name": "KET11",
+   "start": 297.39,
+   "duration": 4.852
+  },
+  {
+   "index": 67,
+   "name": "KET12",
+   "start": 302.242,
+   "duration": 3.507
+  },
+  {
+   "index": 68,
+   "name": "CTA",
+   "start": 305.748,
+   "duration": 2.919
+  }
+ ],
+ "total_duration": 308.665
+}

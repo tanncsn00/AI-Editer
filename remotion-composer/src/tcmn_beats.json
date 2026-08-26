@@ -1,0 +1,149 @@
+{
+ "beats": [
+  {
+   "index": 2,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 3.786
+  },
+  {
+   "index": 3,
+   "name": "MODAU2",
+   "start": 3.786,
+   "duration": 5.66
+  },
+  {
+   "index": 4,
+   "name": "MODAU3",
+   "start": 9.445,
+   "duration": 3.156
+  },
+  {
+   "index": 5,
+   "name": "M1_HEAD",
+   "start": 12.601,
+   "duration": 3.07
+  },
+  {
+   "index": 6,
+   "name": "M1_NEW",
+   "start": 15.671,
+   "duration": 2.972
+  },
+  {
+   "index": 7,
+   "name": "M1_OLD",
+   "start": 18.644,
+   "duration": 3.531
+  },
+  {
+   "index": 8,
+   "name": "M1_REVEAL",
+   "start": 22.174,
+   "duration": 7.642
+  },
+  {
+   "index": 9,
+   "name": "M2_HEAD",
+   "start": 29.817,
+   "duration": 3.275
+  },
+  {
+   "index": 10,
+   "name": "M2_TI",
+   "start": 33.092,
+   "duration": 7.861
+  },
+  {
+   "index": 11,
+   "name": "M2_HOI",
+   "start": 40.953,
+   "duration": 4.622
+  },
+  {
+   "index": 12,
+   "name": "M2_REVEAL",
+   "start": 45.575,
+   "duration": 5.753
+  },
+  {
+   "index": 13,
+   "name": "M3_HEAD",
+   "start": 51.328,
+   "duration": 3.033
+  },
+  {
+   "index": 14,
+   "name": "M3_TWO",
+   "start": 54.361,
+   "duration": 6.25
+  },
+  {
+   "index": 15,
+   "name": "M3_LOOP",
+   "start": 60.611,
+   "duration": 8.799
+  },
+  {
+   "index": 16,
+   "name": "M3_END",
+   "start": 69.41,
+   "duration": 4.824
+  },
+  {
+   "index": 17,
+   "name": "M4_HEAD",
+   "start": 74.234,
+   "duration": 3.573
+  },
+  {
+   "index": 18,
+   "name": "M4_DIEN",
+   "start": 77.807,
+   "duration": 8.556
+  },
+  {
+   "index": 19,
+   "name": "M4_DOC",
+   "start": 86.362,
+   "duration": 7.393
+  },
+  {
+   "index": 20,
+   "name": "M4_REVEAL",
+   "start": 93.756,
+   "duration": 4.929
+  },
+  {
+   "index": 21,
+   "name": "M5_HEAD",
+   "start": 98.685,
+   "duration": 3.233
+  },
+  {
+   "index": 22,
+   "name": "M5_DOI",
+   "start": 101.918,
+   "duration": 9.294
+  },
+  {
+   "index": 23,
+   "name": "M5_REVEAL",
+   "start": 111.212,
+   "duration": 7.287
+  },
+  {
+   "index": 24,
+   "name": "KET",
+   "start": 118.498,
+   "duration": 9.036
+  },
+  {
+   "index": 25,
+   "name": "CTA",
+   "start": 127.534,
+   "duration": 4.996
+  }
+ ],
+ "total_duration": 132.531
+}

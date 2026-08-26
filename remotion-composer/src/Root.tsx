@@ -65,6 +65,10 @@ import { IsseiDance3D } from "./IsseiDance3D";
 import { IsseiDance3DSmpl } from "./IsseiDance3DSmpl";
 import { IsseiDance3DAim } from "./IsseiDance3DAim";
 import { IsseiDance3DPolished } from "./IsseiDance3DPolished";
+import { BlockyCharSheet } from "./BlockyCharSheet";
+import { PovNoFlush, POV_NOFLUSH_DURATION } from "./PovNoFlush";
+import { PovNoFlushThumbnail } from "./PovNoFlushThumbnail";
+import { BlockyStageTest, BLOCKY_STAGE_TEST_DURATION } from "./BlockyStageTest";
 import { IsseiDanceProcedural } from "./IsseiDanceProcedural";
 import { IsseiDanceProceduralV2 } from "./IsseiDanceProceduralV2";
 import { CamiksRedraw } from "./CamiksRedraw";
@@ -320,6 +324,15 @@ import { TanTuSi } from "./TanTuSi";
 import { TanTuSiThumbnail } from "./TanTuSiThumbnail";
 import { XKiro } from "./XKiro";
 import { TuCode } from "./TuCode";
+import { HoaNgon } from "./HoaNgon";
+import { HoaNgonThumbnail } from "./HoaNgonThumbnail";
+import { ThienCoMatNgon } from "./ThienCoMatNgon";
+import { ThienCoMatNgonThumbnail } from "./ThienCoMatNgonThumbnail";
+import { MatNgonBangHuu } from "./MatNgonBangHuu";
+import { MatNgonBangHuuThumbnail } from "./MatNgonBangHuuThumbnail";
+import { MatNgonKiemTu } from "./MatNgonKiemTu";
+import { MatNgonKiemTuThumbnail } from "./MatNgonKiemTuThumbnail";
+import { OfficeBattleRoyale, OBR_DURATION } from "./OfficeBattleRoyale";
 import { TuCodeCliff } from "./TuCodeCliff";
 import { TuCodeFootage } from "./TuCodeFootage";
 import { TuCodeThumbnail } from "./TuCodeThumbnail";
@@ -2651,6 +2664,137 @@ export const Root: React.FC = () => {
         defaultProps={{ bgm: true }}
       />
       <Composition
+        id="TuCodeCliffNoBgm"
+        component={TuCodeCliff}
+        durationInFrames={810}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="HoaNgonThumbnail"
+        component={HoaNgonThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoaNgon"
+        component={HoaNgon}
+        durationInFrames={3191}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="HoaNgonNoBgm"
+        component={HoaNgon}
+        durationInFrames={3191}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="ThienCoMatNgonThumbnail"
+        component={ThienCoMatNgonThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThienCoMatNgon"
+        component={ThienCoMatNgon}
+        durationInFrames={4021}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="ThienCoMatNgonNoBgm"
+        component={ThienCoMatNgon}
+        durationInFrames={4021}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonBangHuuThumbnail"
+        component={MatNgonBangHuuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonBangHuu"
+        component={MatNgonBangHuu}
+        durationInFrames={4799}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="OfficeBattleRoyale"
+        component={OfficeBattleRoyale}
+        durationInFrames={OBR_DURATION}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ sfx: true }}
+      />
+      <Composition
+        id="OfficeBattleRoyaleSilent"
+        component={OfficeBattleRoyale}
+        durationInFrames={OBR_DURATION}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ sfx: false }}
+      />
+      <Composition
+        id="MatNgonKiemTuThumbnail"
+        component={MatNgonKiemTuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonKiemTu"
+        component={MatNgonKiemTu}
+        durationInFrames={9260}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonKiemTuNoBgm"
+        component={MatNgonKiemTu}
+        durationInFrames={9260}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonBangHuuNoBgm"
+        component={MatNgonBangHuu}
+        durationInFrames={4799}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
         id="TuCodeThumbnail"
         component={TuCodeThumbnail}
         durationInFrames={1}
@@ -2975,6 +3119,38 @@ export const Root: React.FC = () => {
         id="IsseiDance3DAim"
         component={IsseiDance3DAim}
         durationInFrames={427}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BlockyStageTest"
+        component={BlockyStageTest}
+        durationInFrames={BLOCKY_STAGE_TEST_DURATION}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovNoFlushThumbnail"
+        component={PovNoFlushThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovNoFlush"
+        component={PovNoFlush}
+        durationInFrames={POV_NOFLUSH_DURATION}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BlockyCharSheet"
+        component={BlockyCharSheet}
+        durationInFrames={180}
         fps={30}
         width={1080}
         height={1920}
