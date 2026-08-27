@@ -1,0 +1,551 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 4.964
+  },
+  {
+   "index": 2,
+   "name": "TONG1",
+   "start": 4.964,
+   "duration": 4.47
+  },
+  {
+   "index": 3,
+   "name": "TONG2",
+   "start": 9.434,
+   "duration": 4.84
+  },
+  {
+   "index": 4,
+   "name": "KIEP1",
+   "start": 14.274,
+   "duration": 3.851
+  },
+  {
+   "index": 5,
+   "name": "KIEP2",
+   "start": 18.125,
+   "duration": 4.972
+  },
+  {
+   "index": 6,
+   "name": "KIEP3",
+   "start": 23.097,
+   "duration": 3.224
+  },
+  {
+   "index": 7,
+   "name": "KIEP4",
+   "start": 26.322,
+   "duration": 3.804
+  },
+  {
+   "index": 8,
+   "name": "RBAC_RA",
+   "start": 30.126,
+   "duration": 6.232
+  },
+  {
+   "index": 9,
+   "name": "TUTUONG",
+   "start": 36.358,
+   "duration": 5.085
+  },
+  {
+   "index": 10,
+   "name": "TAOROLE",
+   "start": 41.443,
+   "duration": 2.358
+  },
+  {
+   "index": 11,
+   "name": "VIDU_ROLE",
+   "start": 43.801,
+   "duration": 4.188
+  },
+  {
+   "index": 12,
+   "name": "GAN1",
+   "start": 47.989,
+   "duration": 3.92
+  },
+  {
+   "index": 13,
+   "name": "GAN2",
+   "start": 51.909,
+   "duration": 3.227
+  },
+  {
+   "index": 14,
+   "name": "GAN3",
+   "start": 55.136,
+   "duration": 4.073
+  },
+  {
+   "index": 15,
+   "name": "GANDT",
+   "start": 59.209,
+   "duration": 2.764
+  },
+  {
+   "index": 16,
+   "name": "DETU",
+   "start": 61.973,
+   "duration": 4.986
+  },
+  {
+   "index": 17,
+   "name": "NHANQUA",
+   "start": 66.959,
+   "duration": 4.214
+  },
+  {
+   "index": 18,
+   "name": "PERM1",
+   "start": 71.173,
+   "duration": 6.451
+  },
+  {
+   "index": 19,
+   "name": "PERM2",
+   "start": 77.625,
+   "duration": 4.32
+  },
+  {
+   "index": 20,
+   "name": "PERM3",
+   "start": 81.945,
+   "duration": 3.57
+  },
+  {
+   "index": 21,
+   "name": "REQ1",
+   "start": 85.515,
+   "duration": 5.374
+  },
+  {
+   "index": 22,
+   "name": "REQ2",
+   "start": 90.889,
+   "duration": 3.075
+  },
+  {
+   "index": 23,
+   "name": "REQ3",
+   "start": 93.965,
+   "duration": 3.166
+  },
+  {
+   "index": 24,
+   "name": "REQ4",
+   "start": 97.131,
+   "duration": 2.811
+  },
+  {
+   "index": 25,
+   "name": "REQ5",
+   "start": 99.942,
+   "duration": 2.835
+  },
+  {
+   "index": 26,
+   "name": "REQ6",
+   "start": 102.777,
+   "duration": 4.312
+  },
+  {
+   "index": 27,
+   "name": "REQ7",
+   "start": 107.089,
+   "duration": 2.061
+  },
+  {
+   "index": 28,
+   "name": "REQ8",
+   "start": 109.15,
+   "duration": 3.329
+  },
+  {
+   "index": 29,
+   "name": "AUTH1",
+   "start": 112.478,
+   "duration": 5.187
+  },
+  {
+   "index": 30,
+   "name": "AUTH2",
+   "start": 117.665,
+   "duration": 4.106
+  },
+  {
+   "index": 31,
+   "name": "AUTH3",
+   "start": 121.771,
+   "duration": 3.543
+  },
+  {
+   "index": 32,
+   "name": "MULTI1",
+   "start": 125.315,
+   "duration": 3.597
+  },
+  {
+   "index": 33,
+   "name": "MULTI2",
+   "start": 128.912,
+   "duration": 2.437
+  },
+  {
+   "index": 34,
+   "name": "MULTI3",
+   "start": 131.349,
+   "duration": 4.666
+  },
+  {
+   "index": 35,
+   "name": "MULTI4",
+   "start": 136.015,
+   "duration": 3.379
+  },
+  {
+   "index": 36,
+   "name": "MULTI5",
+   "start": 139.394,
+   "duration": 2.681
+  },
+  {
+   "index": 37,
+   "name": "MULTI6",
+   "start": 142.075,
+   "duration": 3.517
+  },
+  {
+   "index": 38,
+   "name": "MULTI7",
+   "start": 145.592,
+   "duration": 5.082
+  },
+  {
+   "index": 39,
+   "name": "MULTI8",
+   "start": 150.674,
+   "duration": 3.381
+  },
+  {
+   "index": 40,
+   "name": "MULTI9",
+   "start": 154.055,
+   "duration": 2.884
+  },
+  {
+   "index": 41,
+   "name": "HIER1",
+   "start": 156.939,
+   "duration": 5.034
+  },
+  {
+   "index": 42,
+   "name": "HIER2",
+   "start": 161.973,
+   "duration": 4.432
+  },
+  {
+   "index": 43,
+   "name": "HIER3",
+   "start": 166.406,
+   "duration": 2.28
+  },
+  {
+   "index": 44,
+   "name": "HIER4",
+   "start": 168.685,
+   "duration": 6.082
+  },
+  {
+   "index": 45,
+   "name": "HIER5",
+   "start": 174.767,
+   "duration": 6.006
+  },
+  {
+   "index": 46,
+   "name": "HIER6",
+   "start": 180.773,
+   "duration": 2.097
+  },
+  {
+   "index": 47,
+   "name": "HIER7",
+   "start": 182.871,
+   "duration": 3.978
+  },
+  {
+   "index": 48,
+   "name": "HIER8",
+   "start": 186.849,
+   "duration": 2.635
+  },
+  {
+   "index": 49,
+   "name": "SESS1",
+   "start": 189.484,
+   "duration": 3.641
+  },
+  {
+   "index": 50,
+   "name": "SESS2",
+   "start": 193.125,
+   "duration": 3.188
+  },
+  {
+   "index": 51,
+   "name": "SESS3",
+   "start": 196.313,
+   "duration": 1.71
+  },
+  {
+   "index": 52,
+   "name": "SESS4",
+   "start": 198.023,
+   "duration": 4.786
+  },
+  {
+   "index": 53,
+   "name": "SESS5",
+   "start": 202.809,
+   "duration": 2.529
+  },
+  {
+   "index": 54,
+   "name": "SESS6",
+   "start": 205.338,
+   "duration": 7.248
+  },
+  {
+   "index": 55,
+   "name": "SESS7",
+   "start": 212.585,
+   "duration": 8.695
+  },
+  {
+   "index": 56,
+   "name": "SESS8",
+   "start": 221.28,
+   "duration": 3.029
+  },
+  {
+   "index": 57,
+   "name": "CONS1",
+   "start": 224.309,
+   "duration": 4.048
+  },
+  {
+   "index": 58,
+   "name": "CONS2",
+   "start": 228.358,
+   "duration": 5.242
+  },
+  {
+   "index": 59,
+   "name": "CONS3",
+   "start": 233.599,
+   "duration": 3.834
+  },
+  {
+   "index": 60,
+   "name": "CONS4",
+   "start": 237.433,
+   "duration": 4.763
+  },
+  {
+   "index": 61,
+   "name": "CONS5",
+   "start": 242.197,
+   "duration": 3.269
+  },
+  {
+   "index": 62,
+   "name": "CONS6",
+   "start": 245.465,
+   "duration": 5.507
+  },
+  {
+   "index": 63,
+   "name": "CONS7",
+   "start": 250.972,
+   "duration": 6.111
+  },
+  {
+   "index": 64,
+   "name": "CONS8",
+   "start": 257.083,
+   "duration": 5.148
+  },
+  {
+   "index": 65,
+   "name": "CONS9",
+   "start": 262.231,
+   "duration": 5.001
+  },
+  {
+   "index": 66,
+   "name": "CONS10",
+   "start": 267.232,
+   "duration": 9.703
+  },
+  {
+   "index": 67,
+   "name": "BEY1",
+   "start": 276.935,
+   "duration": 3.832
+  },
+  {
+   "index": 68,
+   "name": "BEY2",
+   "start": 280.767,
+   "duration": 6.379
+  },
+  {
+   "index": 69,
+   "name": "BEY3",
+   "start": 287.147,
+   "duration": 2.697
+  },
+  {
+   "index": 70,
+   "name": "BEY4",
+   "start": 289.843,
+   "duration": 6.139
+  },
+  {
+   "index": 71,
+   "name": "BEY5",
+   "start": 295.982,
+   "duration": 4.015
+  },
+  {
+   "index": 72,
+   "name": "BEY6",
+   "start": 299.997,
+   "duration": 5.954
+  },
+  {
+   "index": 73,
+   "name": "BEY7",
+   "start": 305.95,
+   "duration": 9.785
+  },
+  {
+   "index": 74,
+   "name": "BEY8",
+   "start": 315.736,
+   "duration": 7.153
+  },
+  {
+   "index": 75,
+   "name": "RECAP1",
+   "start": 322.889,
+   "duration": 5.726
+  },
+  {
+   "index": 76,
+   "name": "RECAP2",
+   "start": 328.615,
+   "duration": 9.209
+  },
+  {
+   "index": 77,
+   "name": "RECAP3",
+   "start": 337.825,
+   "duration": 4.905
+  },
+  {
+   "index": 78,
+   "name": "RECAP4",
+   "start": 342.729,
+   "duration": 7.46
+  },
+  {
+   "index": 79,
+   "name": "LEAST1",
+   "start": 350.189,
+   "duration": 5.149
+  },
+  {
+   "index": 80,
+   "name": "LEAST2",
+   "start": 355.338,
+   "duration": 5.63
+  },
+  {
+   "index": 81,
+   "name": "LEAST3",
+   "start": 360.968,
+   "duration": 3.133
+  },
+  {
+   "index": 82,
+   "name": "LEAST4",
+   "start": 364.101,
+   "duration": 4.945
+  },
+  {
+   "index": 83,
+   "name": "LEAST5",
+   "start": 369.046,
+   "duration": 3.648
+  },
+  {
+   "index": 84,
+   "name": "KET1",
+   "start": 372.695,
+   "duration": 5.59
+  },
+  {
+   "index": 85,
+   "name": "KET2",
+   "start": 378.285,
+   "duration": 5.474
+  },
+  {
+   "index": 86,
+   "name": "KET3",
+   "start": 383.759,
+   "duration": 7.818
+  },
+  {
+   "index": 87,
+   "name": "KET4",
+   "start": 391.577,
+   "duration": 4.961
+  },
+  {
+   "index": 88,
+   "name": "KET5",
+   "start": 396.538,
+   "duration": 9.047
+  },
+  {
+   "index": 89,
+   "name": "KET6",
+   "start": 405.585,
+   "duration": 4.922
+  },
+  {
+   "index": 90,
+   "name": "KET7",
+   "start": 410.507,
+   "duration": 4.042
+  },
+  {
+   "index": 91,
+   "name": "CTA",
+   "start": 414.549,
+   "duration": 2.9
+  }
+ ],
+ "total_duration": 417.445
+}
