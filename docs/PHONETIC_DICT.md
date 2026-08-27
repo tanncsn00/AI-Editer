@@ -115,6 +115,12 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 | deadline | **đét-lai** | — |
 | Optimistic (locking) | video thường: **literal "Optimistic"**. Video truyền kỳ: **"phép Lạc Quan"** (tên pháp bảo, phải reveal English kèm) | — |
 | Git Blame | video thường: **literal "Git Blame"**. Video truyền kỳ: **"Truy Tội Kính"** (tên pháp bảo, phải reveal English kèm). ⚠️ phonetic "Bờ-Lêm"/"Blêm" HỎNG →"lên" | Gít Bờ-Lêm |
+| **post:read** (và mọi `x:y`) | tách bằng dấu phẩy: **"pốt, rít"** | ❌ `pốt rít` viết liền → **"portrait"** (dính ở 4 beat) |
+| **Constraints** | giữ literal **"Constraints"** | ❌ "Con Sờ Trên" → nghe thành tiếng Việt vô nghĩa *"còn sờ trên"* |
+| **Least Privilege** | giữ literal | ❌ "Lít Pri Vi Lết" → "**Lead** Privilege" |
+| **Resource** | ⚠️ **chưa có cách nào chuẩn** — "Ri Sọt"→"Resort", "Ri Sọt Xơ"→"Rest". Chấp nhận nếu chữ hiện trên hình | — |
+| Permission / Session | **Pơ Mít Sần / Sét Sần** (suy từ `tcp-dao`: Transmission→"Tran Sờ Mít Sần", Congestion→"Con Giét Sần") | — |
+| Role / User / Admin | **Rôn / Diu Dơ / Át Min** | — |
 | **merge** | ⚠️ **PHỤ THUỘC TỪ ĐỨNG SAU** (đo 2026-08-25). Sau dấu câu + từ KHÔNG bắt đầu bằng đ/d thì literal `Merge` đọc sạch: "Anh, Merge, nhé?" ✓ · "Ai. Merge? Tất cả" ✓ · "Merge. xi ai xanh." ✓. Nhưng **`merge` + `đi` → "must"** ở cả 3 lần gen — /dʒ/ cuối bị "đi" nuốt. Chấp nhận được vì dev VN cũng đọc "mớt", nhưng phải có chữ MERGE trên hình cùng lúc | `merge` giữa câu không có dấu câu → "Musk" / "Murs" / "I must" |
 | **pull** | **pun** ("Em pun cốt mới chưa") | ❌ `pull` → "phù"/"pu"; ⚠️ whisper hay ghi lại thành "phun" dù âm ĐÚNG — phải test primed mới biết |
 | **timeout** | **tai-mao** | ❌ `timeout` → "Timiak" |
@@ -178,6 +184,36 @@ Whisper KHÔNG bắt được glitch này → phải isolate-transcribe `word_ti
 3. **CamelCase tech** (PreToolUse, apiKeyHelper): hoặc Việt hóa rút gọn ("pri tu húc"), hoặc giữ English nguyên ("API key helper") — Adam EverAI premium handle được.
 4. **Brand/tool name**: dùng phonetic VN có sẵn — gít hấp / Ô pớt / Sô nét / Hai cu.
 5. **Không chắc:** đưa script cho user duyệt trước khi burn TTS.
+
+## ⚖️ LITERAL hay PHIÊN ÂM? — KHÔNG có luật chung, phải ĐO từng từ
+
+Đo ở `mat-ngon-chieu-mo` (2026-08-26). Cùng là **từ đơn tiếng Anh**, kết quả ngược nhau hoàn toàn:
+
+| Để LITERAL mới đúng | Phiên âm Việt mới đúng |
+|---|---|
+| **Recruiter** — "Ri Crút Tơ" sai **7/9 lần** (*Retrooter · Rechuter · Rita · Retutor · Retroader · Researcher*) | **deadline** → "đét-lai" ✅ |
+| **Range** — "Reng" sai **3/3** (*ranh · rank · gen*) | **scope** → "sờ cốp" ✅ |
+| **assignment** — "ơ-sai-mần" → *"ơ Simon"* | **laptop** → "láp-tóp" ✅ |
+| **Director** — "Đi Rếc Tơ" → *"digester" / "Dezeter"* | **form** → "phom" ✅ |
+| **Team Lead** — "Tim Lít" → whisper ghi *"tim lít"*, để literal thì ra *"Team Lead"* | **upload** → "úp-lôt" ✅ |
+
+→ **Quy trình đúng: viết bản đầu bằng phán đoán, rồi GATE 3 đo, rồi lật những từ sai sang phương án còn lại.** Đừng tin một luật chung nào cả. Từ nào lặp nhiều lần trong bài (Recruiter 9 lần) thì phải ưu tiên đo trước.
+
+⚠️ **Vẫn phải kiểm ngay cả khi phiên âm "trông có vẻ ổn":** `Chiêu Mộ` (tiếng Việt thuần!) đọc thành **"triều mộ"** đúng ngay beat xướng tên tập. Chèn dấu phẩy `"Mật Ngôn, Chiêu Mộ"` là hết. Tên tập/tên series sai thì hỏng cả video mà nghe lướt rất khó bắt.
+
+## 🔠 Đánh vần acronym: chữ **R** và chữ **A** ĐỤNG NHAU
+
+Trả giá ở `rbac-dao` (2026-08-26). Viết **RBAC → "A Bi Ây Xi"** vì tưởng R hệ Anh đọc là "a" (/ɑːr/). Đánh vần ra lại thành **A-B-A-C = ABAC**. Whisper đọc lại **9/9 lần đều ra "ABAC"** — mà video đó có hẳn một đoạn đối chiếu RBAC ≠ ABAC ≠ ReBAC, tức là ý chính bị xoá sạch.
+
+| Acronym | ✅ Đúng | ❌ Sai |
+|---|---|---|
+| RBAC | **Rờ Bi Ây Xi** | ~~A Bi Ây Xi~~ (= ABAC) |
+| ABAC | **Ây Bi Ây Xi** | — |
+| ReBAC | **Rờ I Bi Ây Xi** | ~~A I Bi Ây Xi~~ |
+
+**Luật:** chữ **R** trong acronym luôn viết **"Rờ"** (hệ VN), đừng dùng "a". Chỉ chữ **A** mới được là "Ây".
+
+→ **Trước khi chốt phiên âm acronym, đánh vần ngược lại xem có ra đúng acronym đó không.** Nhất là khi trong cùng script có 2+ acronym gần giống nhau.
 
 ## 🔢 Whisper LUÔN ghi số bằng CHỮ SỐ — bẫy chọn anchor
 
