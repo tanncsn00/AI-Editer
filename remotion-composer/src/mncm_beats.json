@@ -1,0 +1,401 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 5.059
+  },
+  {
+   "index": 2,
+   "name": "MODAU2",
+   "start": 5.059,
+   "duration": 5.603
+  },
+  {
+   "index": 3,
+   "name": "MODAU3",
+   "start": 10.662,
+   "duration": 5.083
+  },
+  {
+   "index": 4,
+   "name": "MODAU4",
+   "start": 15.744,
+   "duration": 3.666
+  },
+  {
+   "index": 5,
+   "name": "MODAU5",
+   "start": 19.411,
+   "duration": 3.312
+  },
+  {
+   "index": 6,
+   "name": "M1_HEAD",
+   "start": 22.723,
+   "duration": 3.302
+  },
+  {
+   "index": 7,
+   "name": "M1_PAIR",
+   "start": 26.025,
+   "duration": 6.927
+  },
+  {
+   "index": 8,
+   "name": "M1_VUI",
+   "start": 32.952,
+   "duration": 6.29
+  },
+  {
+   "index": 9,
+   "name": "M1_TRUYEN",
+   "start": 39.242,
+   "duration": 4.064
+  },
+  {
+   "index": 10,
+   "name": "M1_HOI",
+   "start": 43.306,
+   "duration": 4.864
+  },
+  {
+   "index": 11,
+   "name": "M1_JD",
+   "start": 48.17,
+   "duration": 2.941
+  },
+  {
+   "index": 12,
+   "name": "M1_YEU1",
+   "start": 51.11,
+   "duration": 3.709
+  },
+  {
+   "index": 13,
+   "name": "M1_YEU2",
+   "start": 54.819,
+   "duration": 3.503
+  },
+  {
+   "index": 14,
+   "name": "M1_YEU3",
+   "start": 58.322,
+   "duration": 4.351
+  },
+  {
+   "index": 15,
+   "name": "M1_REVEAL",
+   "start": 62.672,
+   "duration": 7.367
+  },
+  {
+   "index": 16,
+   "name": "M2_HEAD",
+   "start": 70.039,
+   "duration": 3.79
+  },
+  {
+   "index": 17,
+   "name": "M2_PAIR",
+   "start": 73.829,
+   "duration": 5.121
+  },
+  {
+   "index": 18,
+   "name": "M2_HOI1",
+   "start": 78.95,
+   "duration": 5.904
+  },
+  {
+   "index": 19,
+   "name": "M2_NOI",
+   "start": 84.853,
+   "duration": 6.129
+  },
+  {
+   "index": 20,
+   "name": "M2_HOI2",
+   "start": 90.983,
+   "duration": 6.176
+  },
+  {
+   "index": 21,
+   "name": "M2_LINH",
+   "start": 97.159,
+   "duration": 2.411
+  },
+  {
+   "index": 22,
+   "name": "M2_LINHHOAT",
+   "start": 99.569,
+   "duration": 4.961
+  },
+  {
+   "index": 23,
+   "name": "M2_REVEAL",
+   "start": 104.53,
+   "duration": 3.739
+  },
+  {
+   "index": 24,
+   "name": "M3_HEAD",
+   "start": 108.269,
+   "duration": 3.913
+  },
+  {
+   "index": 25,
+   "name": "M3_PAIR",
+   "start": 112.182,
+   "duration": 5.579
+  },
+  {
+   "index": 26,
+   "name": "M3_VONG1",
+   "start": 117.761,
+   "duration": 4.322
+  },
+  {
+   "index": 27,
+   "name": "M3_VONG2",
+   "start": 122.083,
+   "duration": 3.72
+  },
+  {
+   "index": 28,
+   "name": "M3_VONG3",
+   "start": 125.804,
+   "duration": 5.439
+  },
+  {
+   "index": 29,
+   "name": "M3_LAM",
+   "start": 131.243,
+   "duration": 5.335
+  },
+  {
+   "index": 30,
+   "name": "M3_CUOI",
+   "start": 136.578,
+   "duration": 4.325
+  },
+  {
+   "index": 31,
+   "name": "M3_LICH",
+   "start": 140.903,
+   "duration": 6.349
+  },
+  {
+   "index": 32,
+   "name": "M3_REVEAL",
+   "start": 147.252,
+   "duration": 7.055
+  },
+  {
+   "index": 33,
+   "name": "M4_HEAD",
+   "start": 154.306,
+   "duration": 3.511
+  },
+  {
+   "index": 34,
+   "name": "M4_PAIR",
+   "start": 157.818,
+   "duration": 5.592
+  },
+  {
+   "index": 35,
+   "name": "M4_CHO",
+   "start": 163.409,
+   "duration": 4.7
+  },
+  {
+   "index": 36,
+   "name": "M4_KHONG",
+   "start": 168.11,
+   "duration": 3.308
+  },
+  {
+   "index": 37,
+   "name": "M4_TUHOI",
+   "start": 171.417,
+   "duration": 2.892
+  },
+  {
+   "index": 38,
+   "name": "M4_TING",
+   "start": 174.31,
+   "duration": 4.81
+  },
+  {
+   "index": 39,
+   "name": "M4_MO",
+   "start": 179.12,
+   "duration": 3.669
+  },
+  {
+   "index": 40,
+   "name": "M4_KEO",
+   "start": 182.79,
+   "duration": 4.914
+  },
+  {
+   "index": 41,
+   "name": "M4_DAT",
+   "start": 187.703,
+   "duration": 5.087
+  },
+  {
+   "index": 42,
+   "name": "M4_REVEAL",
+   "start": 192.791,
+   "duration": 7.294
+  },
+  {
+   "index": 43,
+   "name": "M5_HEAD",
+   "start": 200.084,
+   "duration": 4.648
+  },
+  {
+   "index": 44,
+   "name": "M5_PAIR",
+   "start": 204.732,
+   "duration": 5.751
+  },
+  {
+   "index": 45,
+   "name": "M5_GUI1",
+   "start": 210.484,
+   "duration": 4.395
+  },
+  {
+   "index": 46,
+   "name": "M5_GUI2",
+   "start": 214.879,
+   "duration": 3.997
+  },
+  {
+   "index": 47,
+   "name": "M5_DU",
+   "start": 218.875,
+   "duration": 2.01
+  },
+  {
+   "index": 48,
+   "name": "M5_FORM",
+   "start": 220.885,
+   "duration": 4.537
+  },
+  {
+   "index": 49,
+   "name": "M5_DIEN1",
+   "start": 225.422,
+   "duration": 2.98
+  },
+  {
+   "index": 50,
+   "name": "M5_DIEN2",
+   "start": 228.402,
+   "duration": 4.257
+  },
+  {
+   "index": 51,
+   "name": "M5_UPLOAD",
+   "start": 232.658,
+   "duration": 4.063
+  },
+  {
+   "index": 52,
+   "name": "M5_BOI",
+   "start": 236.722,
+   "duration": 4.768
+  },
+  {
+   "index": 53,
+   "name": "M5_REVEAL",
+   "start": 241.49,
+   "duration": 7.522
+  },
+  {
+   "index": 54,
+   "name": "KET1",
+   "start": 249.012,
+   "duration": 2.238
+  },
+  {
+   "index": 55,
+   "name": "KET2",
+   "start": 251.25,
+   "duration": 3.872
+  },
+  {
+   "index": 56,
+   "name": "KET3",
+   "start": 255.122,
+   "duration": 4.82
+  },
+  {
+   "index": 57,
+   "name": "KET4",
+   "start": 259.942,
+   "duration": 6.075
+  },
+  {
+   "index": 58,
+   "name": "KET5",
+   "start": 266.017,
+   "duration": 7.064
+  },
+  {
+   "index": 59,
+   "name": "KET6",
+   "start": 273.081,
+   "duration": 2.548
+  },
+  {
+   "index": 60,
+   "name": "KET7",
+   "start": 275.629,
+   "duration": 7.429
+  },
+  {
+   "index": 61,
+   "name": "KET8",
+   "start": 283.058,
+   "duration": 5.579
+  },
+  {
+   "index": 62,
+   "name": "KET9",
+   "start": 288.638,
+   "duration": 4.439
+  },
+  {
+   "index": 63,
+   "name": "KET10",
+   "start": 293.076,
+   "duration": 5.068
+  },
+  {
+   "index": 64,
+   "name": "KET11",
+   "start": 298.144,
+   "duration": 2.838
+  },
+  {
+   "index": 65,
+   "name": "KET12",
+   "start": 300.982,
+   "duration": 2.71
+  },
+  {
+   "index": 66,
+   "name": "CTA",
+   "start": 303.692,
+   "duration": 5.508
+  }
+ ],
+ "total_duration": 309.202
+}

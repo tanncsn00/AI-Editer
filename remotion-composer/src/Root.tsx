@@ -332,6 +332,10 @@ import { MatNgonBangHuu } from "./MatNgonBangHuu";
 import { MatNgonBangHuuThumbnail } from "./MatNgonBangHuuThumbnail";
 import { MatNgonKiemTu } from "./MatNgonKiemTu";
 import { MatNgonKiemTuThumbnail } from "./MatNgonKiemTuThumbnail";
+import { RbacDao } from "./RbacDao";
+import { RbacDaoThumbnail } from "./RbacDaoThumbnail";
+import { MatNgonChieuMo } from "./MatNgonChieuMo";
+import { MatNgonChieuMoThumbnail } from "./MatNgonChieuMoThumbnail";
 import { OfficeBattleRoyale, OBR_DURATION } from "./OfficeBattleRoyale";
 import { TuCodeCliff } from "./TuCodeCliff";
 import { TuCodeFootage } from "./TuCodeFootage";
@@ -2775,6 +2779,58 @@ export const Root: React.FC = () => {
         width={1080}
         height={1920}
         defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="RbacDaoThumbnail"
+        component={RbacDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="RbacDao"
+        component={RbacDao}
+        durationInFrames={12523}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonChieuMoThumbnail"
+        component={MatNgonChieuMoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonChieuMo"
+        component={MatNgonChieuMo}
+        durationInFrames={9276}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonChieuMoNoBgm"
+        component={MatNgonChieuMo}
+        durationInFrames={9276}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="RbacDaoNoBgm"
+        component={RbacDao}
+        durationInFrames={12523}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
       />
       <Composition
         id="MatNgonKiemTuNoBgm"
