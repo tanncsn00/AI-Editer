@@ -1,10 +1,14 @@
 ---
-name: Reup cartoon dub skill
-description: Preset at .agents/skills/reup-cartoon-dub for reup with pure SVG cartoon replacement visuals + VN voice + designed thumbnail
-type: reference
+name: reup-cartoon-dub-skill
+description: Preset at .claude/skills/reup-cartoon-dub for reup with pure SVG cartoon replacement visuals + VN voice + designed thumbnail
+metadata: 
+  node_type: memory
+  type: reference
+  originSessionId: fc965a61-9035-42e6-9240-c57856fe47a1
+  modified: 2026-08-13T04:28:00.700Z
 ---
 
-Reup Cartoon Dub skill at `.agents/skills/reup-cartoon-dub/SKILL.md` — replaces original video visual with SVG cartoon scenes instead of muting overlay (that's reup-comedy-dub).
+Reup Cartoon Dub skill at `.claude/skills/reup-cartoon-dub/SKILL.md` — replaces original video visual with SVG cartoon scenes instead of muting overlay (that's reup-comedy-dub).
 
 **Scope:** Short viral clips (or text inspiration) → rewrite 30% → VN voice → pure SVG cartoon scenes → karaoke caption → designed thumbnail (not frame extract).
 
@@ -13,7 +17,7 @@ Reup Cartoon Dub skill at `.agents/skills/reup-cartoon-dub/SKILL.md` — replace
 **Reference files:**
 - `remotion-composer/src/ReupTT01.tsx` — full composition with 9 scene switchers (Dog, Cat, Sofa, Fridge, House, MoneyBill, RunPerson, Bubble primitives inline)
 - `remotion-composer/src/ReupTT01Thumbnail.tsx` — designed thumbnail with split before/after + big hook text + black divider
-- `.agents/skills/reup-cartoon-dub/templates/run_tts.py` + `run_align.py`
+- `.claude/skills/reup-cartoon-dub/templates/run_tts.py` + `run_align.py`
 
 **Key differentiators vs reup-comedy-dub:**
 - Replaces visual entirely → transformative, lower legal risk

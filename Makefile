@@ -1,4 +1,4 @@
-.PHONY: setup install install-dev install-gpu test test-contracts lint clean preflight demo
+.PHONY: setup install install-dev install-gpu test test-contracts lint clean preflight demo sync-skills check-skills install-codex-skills
 
 # ---- One-command setup ----
 
@@ -29,6 +29,17 @@ install-dev:
 install-gpu:
 	pip install -r requirements-gpu.txt
 	pip install diffusers transformers accelerate
+
+# ---- Agent skills ----
+
+sync-skills:
+	python scripts/sync_skills.py
+
+check-skills:
+	python scripts/sync_skills.py --check
+
+install-codex-skills:
+	python scripts/sync_skills.py --codex
 
 # ---- Testing ----
 

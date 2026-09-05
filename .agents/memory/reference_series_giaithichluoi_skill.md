@@ -1,10 +1,16 @@
 ---
-name: Giải Thích Kiểu Lười series skill
+name: gi-i-th-ch-ki-u-l-i-series-skill
 description: Vietnamese Casually Explained adaptation — 4-character ensemble deadpan stick figure explainer series with locked character bible + voice config + topic matrix
-type: reference
+metadata: 
+  node_type: memory
+  type: reference
+  originSessionId: fc965a61-9035-42e6-9240-c57856fe47a1
+  modified: 2026-08-13T04:28:46.188Z
 ---
 
-"Giải Thích Kiểu Lười" series skill at `.agents/skills/giai-thich-luoi-series/SKILL.md`.
+"Giải Thích Kiểu Lười" series skill at `.agents/skills/giai-thich-luoi-series/SKILL.md` (⚠️ tên thư mục là `giai-thich-luoi-series`, KHÔNG phải `giai-thich-kieu-luoi`).
+
+> ⚠️ **CHƯA MIRROR sang `.claude/skills/`** (kiểm 2026-08-13) → Claude Code KHÔNG auto-load, phải đọc SKILL.md thủ công.
 
 **Format:** VN adaptation of Casually Explained + Sam O'Nella. Deadpan stick figure explainer videos with ensemble cast.
 

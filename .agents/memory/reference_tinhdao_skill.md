@@ -3,8 +3,9 @@ name: Tịnh Đạo video skill reference
 description: Preset workflow skill for Vietnamese philosophical TikTok videos (winter cinematic, minhtriet voice, EB Garamond drops)
 type: reference
 originSessionId: 2a0427d9-ac2c-40d3-81b6-da81290e9ead
+modified: 2026-08-13T04:28:04.734Z
 ---
-Skill `tinh-dao-video` tại `.agents/skills/tinh-dao-video/SKILL.md` là preset workflow cho video triết lý/chiêm nghiệm tiếng Việt kiểu kênh "Tịnh Đạo" trên TikTok.
+Skill `tinh-dao-video` tại `.claude/skills/tinh-dao-video/SKILL.md` là preset workflow cho video triết lý/chiêm nghiệm tiếng Việt kiểu kênh "Tịnh Đạo" trên TikTok.
 
 **Trigger khi user nhắc:** nhân sinh quan, triết lý, chiêm nghiệm, bẫy làm thuê, phản tư, Tịnh Đạo, Tĩnh Tâm, hoặc show reference image dark + chữ VN center.
 

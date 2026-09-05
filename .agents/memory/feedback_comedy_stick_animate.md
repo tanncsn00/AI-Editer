@@ -1,7 +1,11 @@
 ---
-name: Stick figures must animate — not static
-description: For cartoon/stick figure videos, characters must have mouth sync + eye blink + body bob when speaking, not stand static
-type: feedback
+name: stick-figures-must-animate-not-static
+description: "For cartoon/stick figure videos, characters must have mouth sync + eye blink + body bob when speaking, not stand static"
+metadata: 
+  node_type: memory
+  type: feedback
+  originSessionId: fc965a61-9035-42e6-9240-c57856fe47a1
+  modified: 2026-08-13T04:27:00.288Z
 ---
 
 Stick figure / cartoon characters in videos MUST animate when on screen — static poses feel dead and unprofessional. Minimum required animation:
@@ -26,6 +30,6 @@ Stick figure / cartoon characters in videos MUST animate when on screen — stat
 **Parent composition must pass `speaking={true}`** when the character is the active speaker in that beat. Non-speaking characters in ensemble = `speaking={false}` (breathe only).
 
 **Related rules:**
-- `feedback_tts_vn_short_syllables.md` — TTS pronunciation quality
+- [[feedback_tts_pronunciation_pitfalls]] — TTS pronunciation quality
 - `feedback_general_approve_script.md` — script gating before animation
 - Skill: `stick-figure-creative` technique #1 (body bob) + this rule (mouth sync)

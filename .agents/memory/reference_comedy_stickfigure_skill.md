@@ -1,10 +1,16 @@
 ---
-name: Stick figure creative techniques reference
+name: stick-figure-creative-techniques-reference
 description: Catalog of 34 stick figure / cartoon animation techniques + viral format recommendations for VN cartoon content
-type: reference
+metadata: 
+  node_type: memory
+  type: reference
+  originSessionId: fc965a61-9035-42e6-9240-c57856fe47a1
+  modified: 2026-08-13T04:28:42.645Z
 ---
 
 Stick Figure Creative skill at `.agents/skills/stick-figure-creative/SKILL.md` — reference library of techniques for building cartoon animation content.
+
+> ⚠️ **CHƯA MIRROR sang `.claude/skills/`** (kiểm 2026-08-13) → Claude Code KHÔNG auto-load, phải đọc SKILL.md thủ công.
 
 **Catalog structure (34 techniques, 5 sections):**
 1. **Drawing Style** (10) — hand-drawn wobble, whiteboard, chalkboard, ink splash, paper cutout, watercolor, outline-only, duotone, cel-shaded, pixel art

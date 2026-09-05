@@ -1,10 +1,14 @@
 ---
-name: Reup comedy dub skill
-description: Preset at .agents/skills/reup-comedy-dub for reupping Chinese/Douyin/TikTok clips with VN voice-over + karaoke caption
-type: reference
+name: reup-comedy-dub-skill
+description: Preset at .claude/skills/reup-comedy-dub for reupping Chinese/Douyin/TikTok clips with VN voice-over + karaoke caption
+metadata: 
+  node_type: memory
+  type: reference
+  originSessionId: fc965a61-9035-42e6-9240-c57856fe47a1
+  modified: 2026-08-13T04:27:59.298Z
 ---
 
-Reup Comedy Dub skill at `.agents/skills/reup-comedy-dub/SKILL.md` — 8-step pipeline for reupping short viral clips with Vietnamese narration.
+Reup Comedy Dub skill at `.claude/skills/reup-comedy-dub/SKILL.md` — 8-step pipeline for reupping short viral clips with Vietnamese narration.
 
 **Scope:** Short viral clips from Douyin / Xiaohongshu / Kuaishou / TikTok / FB → muted + VN voice-over + yellow karaoke caption.
 

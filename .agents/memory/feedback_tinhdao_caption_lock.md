@@ -3,7 +3,10 @@ name: Tịnh Đạo Caption + BigWord exact style lock
 description: All Tịnh Đạo series videos MUST copy Caption + BigWord pattern from ImLangFull.tsx verbatim — exact fontSize/letterSpacing/textShadow/spring config — only swap palette color per episode mood
 type: feedback
 originSessionId: 2a0427d9-ac2c-40d3-81b6-da81290e9ead
+modified: 2026-08-13T04:29:12.927Z
 ---
+> 📎 **Phạm vi:** phần **Caption** giờ do [[feedback_caption_universal_lock]] cầm trịch (áp cho MỌI video VN, không riêng Tịnh Đạo). File này giữ phần **riêng của Tịnh Đạo**: BigWord, palette theo mood, footage filter, audio volume.
+
 All Tịnh Đạo series videos must match the exact Caption + BigWord rendering pattern established in `remotion-composer/src/ImLangFull.tsx`. Don't invent a new style per episode — copy the component shape verbatim and only swap the emphasis/body color per episode mood.
 
 **Why:** User feedback 2026-04-14 on BaoHieu v1: "sao các chữ nó không giống như serie tĩnh đạo?" — I had invented a new caption style (marginRight gap, no blur fade-in, weak textShadow, smaller fontSize) instead of matching the locked series look. All episodes must share one recognizable caption/big-word language so the series feels cohesive.

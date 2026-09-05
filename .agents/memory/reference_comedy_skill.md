@@ -1,10 +1,16 @@
 ---
-name: Comedy animation skill
+name: comedy-animation-skill
 description: Preset workflow at .agents/skills/comedy-animation for VN meme-style comedy sketches with SVG characters
-type: reference
+metadata: 
+  node_type: memory
+  type: reference
+  originSessionId: fc965a61-9035-42e6-9240-c57856fe47a1
+  modified: 2026-08-13T04:28:40.560Z
 ---
 
 Comedy animation skill at `.agents/skills/comedy-animation/SKILL.md` — full 8-step workflow adapted from tinh-dao-video.
+
+> ⚠️ **CHƯA MIRROR sang `.claude/skills/`** (kiểm 2026-08-13) → Claude Code KHÔNG auto-load skill này, phải đọc file SKILL.md thủ công. Muốn dùng bằng `/comedy-animation` thì copy folder sang `.claude/skills/`.
 
 **Scope:** Character-based animated comedy sketches, VN meme style, 25-35s setup + punchline, pure SVG characters (no footage).
 
