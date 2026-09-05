@@ -126,6 +126,7 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 | **timeout** | **tai-mao** | ❌ `timeout` → "Timiak" |
 | **cart** | **cát** | ❌ `cart` → "Các" (thành từ chỉ số nhiều) |
 | **Pull Request** | giữ literal **"Pull Request"** — đọc sạch, khác hẳn `pull` đứng một mình | — |
+| **Prompt** | **"Prôm"** (đo `5-kieu-nguoi-ai` 2026-09-04) | ❌ literal `Prompt` → **"Prop"** (5/5 beat, priming KHÔNG cứu được); ❌ "Phờ-rôm" → **"From"** (ph = /f/, sai phụ âm đầu). "Pờ-rôm" cũng ra "Prom" ✓ nhưng "Prôm" gọn hơn |
 | **Sinh** (trong tên chiêu) | ⚠️ "Lỗi **Sinh** Lỗi" → đọc "lỗi **xin** lỗi" → đổi **"Đẻ Ra"** | Sinh (→"xin") |
 
 ## Design / business / đời thường
@@ -220,6 +221,51 @@ Trả giá ở `rbac-dao` (2026-08-26). Viết **RBAC → "A Bi Ây Xi"** vì t�
 Đọc "bảy file" → whisper ghi **`7 file`**. Tương tự `hai`→2, `ba`→3, `mười`→10, `hai mươi`→20, `ba mươi`→30, `tám trăm`→800.
 
 → **Không bao giờ neo anchor vào một con số viết bằng chữ.** Neo vào danh từ đi kèm (`file`, `giây`, `người`, `phút`). Đã cắn ở `mat-ngon-bang-huu` (800ml) và suýt cắn 5 anchor ở `mat-ngon-kiem-tu`.
+
+## 🎯 `ch` ↔ `tr`: whisper trộn nặng — dùng PRIMED-FLIP để tách lỗi thật khỏi lỗi đoán
+
+Đo ở `tha-tam-thong` (2026-08-28). Whisper tiếng Việt gộp `ch` và `tr` rất nặng, nên **đọc lại thấy chữ khác thì CHƯA phải TTS sai**. Suýt re-gen thừa 2 beat vì tin thẳng transcript.
+
+**Cách tách:** transcribe cùng một beat HAI lần — một lần `initial_prompt=None`, một lần `initial_prompt` có chứa từ đang nghi (`primed_tr.py`).
+
+| Từ | Không prime | Có prime | Kết luận |
+|---|---|---|---|
+| `chan` | *"tràn"* | **`chan`** ✅ | whisper đoán bậy → **giữ nguyên** |
+| `ghost em` | *"gốt stem"* | **`ghost em`** ✅ | whisper đoán bậy → **giữ nguyên** |
+| `Chưởng môn` | *"Trưởng môn"* | *"Trưởng môn"* ❌ | **lỗi TTS thật** (13/13 lần) |
+
+> **LUẬT: primed mà FLIP về đúng = whisper đoán bậy, đừng re-gen. Primed mà KHÔNG flip = lỗi TTS thật.**
+
+`Chưởng` → giọng Adam nhập `ch` vào `tr` ở vần `ưởng`. Không chữa được, và cũng **không đáng chữa**: gần đồng âm trong giọng Bắc, chữ trên hình vẫn hiện `CHƯỞNG MÔN`. Chấp nhận + ghi lại, đúng luật "ổn định qua nhiều lần gen = lỗi cấu trúc".
+
+## ❗ Chỗ NGẮT CÂU MẠNH → EverAI chèn CHỮ RÁC
+
+Đo ở `tha-tam-thong` (2026-08-28). `"Đệ tử nguyện ý! Trong đầu hắn: ..."` đọc ra **"nguyện ý, *kinh*, trong đầu hắn"** — thừa hẳn một từ vô nghĩa, đúng ngay beat punchline.
+
+Đo lần 2 ở `mat-ngon-thien-lao` (2026-08-28) — **lỗi này KHÔNG chỉ ở dấu `!`**. Dấu chấm cũng dính: `"Thiên Lao nghe. Có một con số đang sai."` đọc ra **"Thiên Lao nghe, *chúng* có một con số…"** — thừa hẳn chữ "chúng", đúng beat mở màn mật ngôn thứ nhất. Đổi thành **dấu hai chấm** `"Thiên Lao nghe: Có một..."` là hết.
+
+| Dính ở | Sửa thành | Video |
+|---|---|---|
+| `nguyện ý! Trong đầu hắn` → thừa *"kinh"* | `!` → `.` | `tha-tam-thong` |
+| `nghe. Có một con số` → thừa *"chúng"* | `.` → `:` | `mat-ngon-thien-lao` |
+
+→ **Quy tắc chung: thấy chữ rác xuất hiện, nhìn ngay dấu câu NGAY TRƯỚC nó và đổi sang dấu nhẹ hơn** (`!` → `.` → `:` → `,`). Rẻ hơn nhiều so với viết lại câu. Bốn beat đối đáp còn lại trong cùng video dùng y hệt cấu trúc `"... nghe. <câu>"` mà KHÔNG dính — nên đây là tương tác với **từ đứng ngay sau**, không phải lỗi của cấu trúc.
+
+## 🅰️ `AI` (English) vs `ai` (tiếng Việt) — bẫy của check_coverage
+
+`5-kieu-nguoi-ai`: script có cả `AI` (viết hoa, đọc **"ây ai"**) lẫn chữ **"ai"** tiếng Việt (*"không tin bất kỳ ai"*, *"những ai đã đối xử"*). Nếu `check_coverage.py` lowercase TRƯỚC rồi mới thay thì hai chữ này dính làm một, phiên âm sai toàn bộ.
+
+→ **Thay `AI` (case-sensitive) TRƯỚC khi lowercase.** Áp dụng cho mọi acronym trùng mặt chữ với từ tiếng Việt: `AI`/`ai`, `CÓ`/`co`, `BA`/`ba`.
+
+⚠️ Whisper cũng hay ghi `ây ai` thành **"ai ai"** khi xung quanh toàn tiếng Việt — nhưng primed lại ra `AI` ✅, tức **audio đúng**. Đừng re-gen.
+
+## 🔂 Beat chỉ có MỘT TỪ → whisper gần như chắc chắn đoán sai
+
+`mat-ngon-thien-lao`: beat `"Tìm."` đứng riêng → whisper ghi **"Team"**. Primed lại ra `Tìm.` ✅ → **audio đúng, KHÔNG phải lỗi TTS**, chỉ là whisper không có ngữ cảnh để đoán.
+
+→ Đừng re-gen. Nhưng **anchor phải neo theo token whisper GHI** (`team`), không theo chữ trong script — nếu không sẽ MISS. Ghi chú lại trong `gen_sync.py` để người sau không tưởng là gõ nhầm.
+
+→ **Trong `text_phonetic` đừng dùng `!` giữa câu, đổi thành `.`** — `text_display` vẫn giữ `!` bình thường. Cùng họ với glitch "list staccato lặp cấu trúc" ở trên: EverAI hay đẻ rác ở chỗ ngắt nhịp mạnh.
 
 ## Verify
 
