@@ -1,0 +1,203 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 4.997
+  },
+  {
+   "index": 2,
+   "name": "MODAU2",
+   "start": 4.997,
+   "duration": 3.836
+  },
+  {
+   "index": 3,
+   "name": "MODAU3",
+   "start": 8.833,
+   "duration": 3.032
+  },
+  {
+   "index": 4,
+   "name": "MODAU4",
+   "start": 11.864,
+   "duration": 1.898
+  },
+  {
+   "index": 5,
+   "name": "DD_HOI",
+   "start": 13.762,
+   "duration": 4.738
+  },
+  {
+   "index": 6,
+   "name": "DD_CUI",
+   "start": 18.5,
+   "duration": 2.779
+  },
+  {
+   "index": 7,
+   "name": "DD_PAIR",
+   "start": 21.279,
+   "duration": 3.262
+  },
+  {
+   "index": 8,
+   "name": "DD_TRONG",
+   "start": 24.541,
+   "duration": 13.506
+  },
+  {
+   "index": 9,
+   "name": "DD_VO",
+   "start": 38.047,
+   "duration": 2.807
+  },
+  {
+   "index": 10,
+   "name": "N1_HOI",
+   "start": 40.854,
+   "duration": 4.327
+  },
+  {
+   "index": 11,
+   "name": "N1_PAIR",
+   "start": 45.181,
+   "duration": 4.262
+  },
+  {
+   "index": 12,
+   "name": "N1_HA",
+   "start": 49.443,
+   "duration": 1.692
+  },
+  {
+   "index": 13,
+   "name": "N2_HOI",
+   "start": 51.135,
+   "duration": 5.383
+  },
+  {
+   "index": 14,
+   "name": "N2_PAIR",
+   "start": 56.518,
+   "duration": 5.59
+  },
+  {
+   "index": 15,
+   "name": "N2_IM",
+   "start": 62.108,
+   "duration": 2.452
+  },
+  {
+   "index": 16,
+   "name": "N3_HOI",
+   "start": 64.56,
+   "duration": 6.681
+  },
+  {
+   "index": 17,
+   "name": "N3_PAIR",
+   "start": 71.241,
+   "duration": 7.775
+  },
+  {
+   "index": 18,
+   "name": "N3_KINH",
+   "start": 79.016,
+   "duration": 3.59
+  },
+  {
+   "index": 19,
+   "name": "N4_HOI",
+   "start": 82.606,
+   "duration": 6.04
+  },
+  {
+   "index": 20,
+   "name": "N4_PAIR",
+   "start": 88.646,
+   "duration": 7.683
+  },
+  {
+   "index": 21,
+   "name": "N4_CHAN",
+   "start": 96.329,
+   "duration": 2.476
+  },
+  {
+   "index": 22,
+   "name": "N5_HOI",
+   "start": 98.805,
+   "duration": 5.63
+  },
+  {
+   "index": 23,
+   "name": "N5_PAIR",
+   "start": 104.435,
+   "duration": 8.612
+  },
+  {
+   "index": 24,
+   "name": "N5_ON",
+   "start": 113.046,
+   "duration": 2.673
+  },
+  {
+   "index": 25,
+   "name": "N6_HOI",
+   "start": 115.719,
+   "duration": 6.159
+  },
+  {
+   "index": 26,
+   "name": "N6_PAIR",
+   "start": 121.879,
+   "duration": 5.378
+  },
+  {
+   "index": 27,
+   "name": "N6_TRAM",
+   "start": 127.257,
+   "duration": 2.328
+  },
+  {
+   "index": 28,
+   "name": "N7_HOI",
+   "start": 129.585,
+   "duration": 4.92
+  },
+  {
+   "index": 29,
+   "name": "N7_PAIR",
+   "start": 134.505,
+   "duration": 8.002
+  },
+  {
+   "index": 30,
+   "name": "N7_IM",
+   "start": 142.507,
+   "duration": 1.533
+  },
+  {
+   "index": 31,
+   "name": "KET1",
+   "start": 144.041,
+   "duration": 4.736
+  },
+  {
+   "index": 32,
+   "name": "KET2",
+   "start": 148.776,
+   "duration": 1.851
+  },
+  {
+   "index": 33,
+   "name": "CTA",
+   "start": 150.628,
+   "duration": 2.995
+  }
+ ],
+ "total_duration": 153.623
+}
