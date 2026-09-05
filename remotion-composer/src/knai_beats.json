@@ -1,0 +1,305 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 7.023
+  },
+  {
+   "index": 2,
+   "name": "MD_L1",
+   "start": 7.023,
+   "duration": 13.127
+  },
+  {
+   "index": 6,
+   "name": "MODAU2",
+   "start": 20.15,
+   "duration": 3.619
+  },
+  {
+   "index": 7,
+   "name": "MODAU3",
+   "start": 23.769,
+   "duration": 4.08
+  },
+  {
+   "index": 8,
+   "name": "MODAU4",
+   "start": 27.85,
+   "duration": 3.437
+  },
+  {
+   "index": 9,
+   "name": "M1_HEAD",
+   "start": 31.286,
+   "duration": 2.914
+  },
+  {
+   "index": 10,
+   "name": "M1_A",
+   "start": 34.2,
+   "duration": 6.156
+  },
+  {
+   "index": 11,
+   "name": "M1_B1",
+   "start": 40.356,
+   "duration": 11.233
+  },
+  {
+   "index": 14,
+   "name": "M1_C",
+   "start": 51.589,
+   "duration": 4.734
+  },
+  {
+   "index": 15,
+   "name": "M1_D",
+   "start": 56.323,
+   "duration": 3.345
+  },
+  {
+   "index": 16,
+   "name": "M1_E",
+   "start": 59.668,
+   "duration": 2.997
+  },
+  {
+   "index": 17,
+   "name": "M1_PROMPT",
+   "start": 62.666,
+   "duration": 5.589
+  },
+  {
+   "index": 18,
+   "name": "M2_HEAD",
+   "start": 68.254,
+   "duration": 2.483
+  },
+  {
+   "index": 19,
+   "name": "M2_A",
+   "start": 70.737,
+   "duration": 5.393
+  },
+  {
+   "index": 20,
+   "name": "M2_N1",
+   "start": 76.13,
+   "duration": 5.905
+  },
+  {
+   "index": 23,
+   "name": "M2_B",
+   "start": 82.035,
+   "duration": 2.511
+  },
+  {
+   "index": 24,
+   "name": "M2_T1",
+   "start": 84.546,
+   "duration": 9.828
+  },
+  {
+   "index": 29,
+   "name": "M2_C",
+   "start": 94.374,
+   "duration": 2.61
+  },
+  {
+   "index": 30,
+   "name": "M2_D",
+   "start": 96.984,
+   "duration": 4.782
+  },
+  {
+   "index": 31,
+   "name": "M2_E",
+   "start": 101.766,
+   "duration": 2.929
+  },
+  {
+   "index": 32,
+   "name": "M2_PROMPT",
+   "start": 104.695,
+   "duration": 9.925
+  },
+  {
+   "index": 33,
+   "name": "M3_HEAD",
+   "start": 114.62,
+   "duration": 2.271
+  },
+  {
+   "index": 34,
+   "name": "M3_A",
+   "start": 116.891,
+   "duration": 4.314
+  },
+  {
+   "index": 35,
+   "name": "M3_B",
+   "start": 121.205,
+   "duration": 5.005
+  },
+  {
+   "index": 36,
+   "name": "M3_Q1",
+   "start": 126.21,
+   "duration": 12.822
+  },
+  {
+   "index": 41,
+   "name": "M3_C",
+   "start": 139.032,
+   "duration": 3.338
+  },
+  {
+   "index": 42,
+   "name": "M3_D",
+   "start": 142.371,
+   "duration": 4.703
+  },
+  {
+   "index": 43,
+   "name": "M3_PLABEL",
+   "start": 147.073,
+   "duration": 7.626
+  },
+  {
+   "index": 46,
+   "name": "M4_HEAD",
+   "start": 154.7,
+   "duration": 2.508
+  },
+  {
+   "index": 47,
+   "name": "M4_A",
+   "start": 157.208,
+   "duration": 4.316
+  },
+  {
+   "index": 48,
+   "name": "M4_E1",
+   "start": 161.525,
+   "duration": 17.042
+  },
+  {
+   "index": 53,
+   "name": "M4_B",
+   "start": 178.567,
+   "duration": 2.831
+  },
+  {
+   "index": 54,
+   "name": "M4_C",
+   "start": 181.398,
+   "duration": 3.241
+  },
+  {
+   "index": 55,
+   "name": "M4_D",
+   "start": 184.639,
+   "duration": 5.36
+  },
+  {
+   "index": 56,
+   "name": "M4_PROMPT",
+   "start": 189.999,
+   "duration": 7.424
+  },
+  {
+   "index": 57,
+   "name": "M5_HEAD",
+   "start": 197.422,
+   "duration": 2.534
+  },
+  {
+   "index": 58,
+   "name": "M5_A",
+   "start": 199.957,
+   "duration": 2.748
+  },
+  {
+   "index": 59,
+   "name": "M5_B",
+   "start": 202.705,
+   "duration": 5.816
+  },
+  {
+   "index": 60,
+   "name": "M5_C",
+   "start": 208.521,
+   "duration": 3.769
+  },
+  {
+   "index": 61,
+   "name": "M5_M1",
+   "start": 212.29,
+   "duration": 15.996
+  },
+  {
+   "index": 67,
+   "name": "M5_D",
+   "start": 228.287,
+   "duration": 4.254
+  },
+  {
+   "index": 68,
+   "name": "M5_E",
+   "start": 232.541,
+   "duration": 4.601
+  },
+  {
+   "index": 69,
+   "name": "M5_PROMPT",
+   "start": 237.142,
+   "duration": 6.215
+  },
+  {
+   "index": 70,
+   "name": "KET1",
+   "start": 243.357,
+   "duration": 2.745
+  },
+  {
+   "index": 71,
+   "name": "KET2",
+   "start": 246.102,
+   "duration": 4.693
+  },
+  {
+   "index": 72,
+   "name": "KET_C1",
+   "start": 250.796,
+   "duration": 14.16
+  },
+  {
+   "index": 77,
+   "name": "KET3",
+   "start": 264.955,
+   "duration": 4.363
+  },
+  {
+   "index": 78,
+   "name": "KET4",
+   "start": 269.318,
+   "duration": 4.07
+  },
+  {
+   "index": 79,
+   "name": "KET5",
+   "start": 273.388,
+   "duration": 2.004
+  },
+  {
+   "index": 80,
+   "name": "CTA",
+   "start": 275.392,
+   "duration": 2.792
+  }
+ ],
+ "total_duration": 278.181
+}

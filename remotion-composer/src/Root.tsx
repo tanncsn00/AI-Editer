@@ -336,6 +336,12 @@ import { RbacDao } from "./RbacDao";
 import { RbacDaoThumbnail } from "./RbacDaoThumbnail";
 import { MatNgonChieuMo } from "./MatNgonChieuMo";
 import { MatNgonChieuMoThumbnail } from "./MatNgonChieuMoThumbnail";
+import { ThaTamThong } from "./ThaTamThong";
+import { ThaTamThongThumbnail } from "./ThaTamThongThumbnail";
+import { MatNgonThienLao } from "./MatNgonThienLao";
+import { MatNgonThienLaoThumbnail } from "./MatNgonThienLaoThumbnail";
+import { KieuNguoiAi } from "./KieuNguoiAi";
+import { KieuNguoiAiThumbnail } from "./KieuNguoiAiThumbnail";
 import { OfficeBattleRoyale, OBR_DURATION } from "./OfficeBattleRoyale";
 import { TuCodeCliff } from "./TuCodeCliff";
 import { TuCodeFootage } from "./TuCodeFootage";
@@ -2796,6 +2802,84 @@ export const Root: React.FC = () => {
         width={1080}
         height={1920}
         defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="KieuNguoiAiThumbnail"
+        component={KieuNguoiAiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="KieuNguoiAi"
+        component={KieuNguoiAi}
+        durationInFrames={8345}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="KieuNguoiAiNoBgm"
+        component={KieuNguoiAi}
+        durationInFrames={8345}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonThienLaoThumbnail"
+        component={MatNgonThienLaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonThienLao"
+        component={MatNgonThienLao}
+        durationInFrames={6602}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonThienLaoNoBgm"
+        component={MatNgonThienLao}
+        durationInFrames={6602}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="ThaTamThongThumbnail"
+        component={ThaTamThongThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ThaTamThong"
+        component={ThaTamThong}
+        durationInFrames={4609}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="ThaTamThongNoBgm"
+        component={ThaTamThong}
+        durationInFrames={4609}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
       />
       <Composition
         id="MatNgonChieuMoThumbnail"
