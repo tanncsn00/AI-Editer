@@ -61,6 +61,11 @@ remotion-composer/out/
 remotion-composer/public/*
 # But keep demo props (shipped with the project for zero-key demos)
 !remotion-composer/public/demo-props/
+# AgiConspiracy word timings are a static import in src/ - the bundle
+# fails without them, so this one file must ship
+!remotion-composer/public/agi-conspiracy/
+remotion-composer/public/agi-conspiracy/*
+!remotion-composer/public/agi-conspiracy/words.json
 # Ignore test/scratch compositions in demo-props (keep only curated demos)
 remotion-composer/public/demo-props/test-*
 remotion-composer/public/demo-props/talking-head-*

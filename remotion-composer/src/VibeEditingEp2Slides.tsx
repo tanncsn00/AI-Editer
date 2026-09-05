@@ -2,7 +2,7 @@ import { AbsoluteFill, useCurrentFrame } from "remotion";
 import { loadFont as loadBeVietnamPro } from "@remotion/google-fonts/BeVietnamPro";
 import { loadFont as loadCaveat } from "@remotion/google-fonts/Caveat";
 import { loadFont as loadRobotoMono } from "@remotion/google-fonts/RobotoMono";
-import slidesData from "../../projects/vibe-editing-ep2/slides_content.json";
+import slidesData from "./data/vibe-editing-ep2-slides.json";
 
 loadBeVietnamPro("normal", { weights: ["400", "600", "700", "800"], subsets: ["vietnamese", "latin", "latin-ext"] });
 loadCaveat("normal", { weights: ["400", "700"], subsets: ["latin"] });

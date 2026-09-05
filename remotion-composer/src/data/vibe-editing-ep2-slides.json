@@ -1,0 +1,159 @@
+{
+  "title": "Vibe Editing EP2 — Cài Đặt Chuẩn Cho Người Non-Tech",
+  "voice_code": "vi_male_minhkhang_mb",
+  "model_id": "everai-v1.6",
+  "speed_rate": 1.0,
+  "pitch_rate": 1.0,
+  "slides": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "CÀI VAI BỜ ÊĐÍT TINH",
+      "subtitle": "TỪ SỐ 0",
+      "tagline": "Máy trắng tinh — ra video. Không bỏ bước nào.",
+      "badge": "EP2"
+    },
+    {
+      "id": 2,
+      "type": "checklist",
+      "title": "VỢ CẦN 6 THỨ",
+      "items": [
+        { "n": "1", "name": "Git" },
+        { "n": "2", "name": "Node.js" },
+        { "n": "3", "name": "FFmpeg" },
+        { "n": "4", "name": "Python" },
+        { "n": "5", "name": "AI IDE" },
+        { "n": "6", "name": "API Keys" }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "os",
+      "title": "WINDOWS hay MAC?",
+      "win": { "label": "WINDOWS", "tool": "winget" },
+      "mac": { "label": "MAC", "tool": "brew" },
+      "note": "Cả hai đều dùng Terminal. Chồng bày cho cả hai."
+    },
+    {
+      "id": 4,
+      "type": "tool",
+      "n": "1",
+      "title": "GIT",
+      "url": "git-scm.com",
+      "step": "Tải về → Next → Next → Done.",
+      "verify": "git --version",
+      "note": "Quản lý code. Bắt buộc."
+    },
+    {
+      "id": 5,
+      "type": "tool",
+      "n": "2",
+      "title": "NODE.JS",
+      "url": "nodejs.org",
+      "step": "Tải bản LTS (xanh, ổn định).",
+      "verify": "node -v && npm -v",
+      "note": "Để chạy Remotion render video."
+    },
+    {
+      "id": 6,
+      "type": "tool_dual",
+      "n": "3",
+      "title": "FFMPEG",
+      "win_cmd": "winget install ffmpeg",
+      "mac_cmd": "brew install ffmpeg",
+      "verify": "ffmpeg -version",
+      "note": "Xử lý video. 1 lệnh là xong."
+    },
+    {
+      "id": 7,
+      "type": "tool_warn",
+      "n": "4",
+      "title": "PYTHON",
+      "url": "python.org",
+      "warn": "TÍCH ô \"Add Python to PATH\"",
+      "warn_sub": "Quên tích = chạy không lên",
+      "verify": "python --version",
+      "note": "Chọn bản 3.11 hoặc 3.12."
+    },
+    {
+      "id": 8,
+      "type": "ide_grid",
+      "n": "5",
+      "title": "CHỌN AI IDE — 1 trong 4",
+      "options": [
+        { "name": "Claude Code", "price": "$20/m", "kind": "CLI", "pro": "Hiểu repo lớn, gọi tool ổn", "star": true, "url": "claude.com/code" },
+        { "name": "Cursor", "price": "$20/m", "kind": "IDE", "pro": "Editor đẹp, dễ nhìn", "star": false, "url": "cursor.com" },
+        { "name": "Antigravity", "price": "FREE giới hạn token", "kind": "IDE", "pro": "Google, không cần thẻ", "star": false, "url": "antigravity.google" },
+        { "name": "Codex", "price": "Trả theo API ($)", "kind": "CLI", "pro": "OpenAI, ít ảo tưởng", "star": false, "url": "openai.com/codex" }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "clone",
+      "n": "6",
+      "title": "CLONE REPO",
+      "cmds": [
+        "git clone https://github.com/calesthio/OpenMontage.git",
+        "cd OpenMontage && pip install -r requirements.txt",
+        "cd remotion-composer && npm install"
+      ],
+      "credit": "Based on calesthio/OpenMontage ♥"
+    },
+    {
+      "id": 10,
+      "type": "env",
+      "n": "7",
+      "title": "API KEYS",
+      "step": "Đổi tên .env.example → .env",
+      "keys": [
+        { "name": "FAL_KEY", "url": "fal.ai/dashboard", "purpose": "Ảnh + video AI" },
+        { "name": "EVERAI_API_KEY", "url": "everai.vn", "purpose": "Giọng tiếng Việt" },
+        { "name": "PEXELS_API_KEY", "url": "pexels.com/api", "purpose": "Footage free" }
+      ],
+      "note": "3 cái thôi vợ ơi. Mấy cái khác có thì paste, không có cũng chạy."
+    },
+    {
+      "id": 11,
+      "type": "test",
+      "title": "TEST 1 LỆNH",
+      "prompt": "render giúp anh composition VibeEditingIntro trong remotion-composer",
+      "expect": "~1 phút → ra mp4 intro 51s",
+      "note": "Đó chính là intro chồng đã làm. Render được = cài xong."
+    },
+    {
+      "id": 12,
+      "type": "trouble",
+      "title": "KẸT? COI ĐÂY",
+      "issues": [
+        { "err": "ffmpeg: command not found", "fix": "Khởi động lại Terminal. Mac dùng brew install lại." },
+        { "err": "python is not recognized", "fix": "Cài lại Python — TÍCH ô Add to PATH." },
+        { "err": "node-gyp build fail", "fix": "Win: cài Visual Studio Build Tools.\nMac: xcode-select --install" }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "outro",
+      "title": "FOLLOW CHỒNG",
+      "save_cta": "LƯU POST NÀY VỢ ƠI",
+      "next_ep": "Tập sau chồng quay lại",
+      "next_sub": "Kẹt chỗ nào — comment chồng giải.",
+      "handle": "@vibeediting"
+    }
+  ],
+  "recap_lines": [
+    { "id": "R1",  "text": "Vợ ơi — tập hai chồng dạy cài vai bờ ê đít tinh từ số không.", "time": 0.3, "slide": 1 },
+    { "id": "R2",  "text": "Sáu thứ thôi — git, nốt, ép ép em peg, python, ây ai, ây pi i ki.", "time": 5.0, "slide": 2 },
+    { "id": "R3",  "text": "Win xài winget. Mac xài brew. Cả hai chồng đều bày.", "time": 11.0, "slide": 3 },
+    { "id": "R4",  "text": "Một — git. Vào git chấm es si em chấm com tải về. Next next next.", "time": 15.5, "slide": 4 },
+    { "id": "R5",  "text": "Hai — nốt jây es. Vào nốt jây es chấm o ơ gờ, chọn bản LTS.", "time": 21.0, "slide": 5 },
+    { "id": "R6",  "text": "Ba — ép ép em peg. Win gõ winget install ffmpeg, Mac gõ brew install ffmpeg.", "time": 26.5, "slide": 6 },
+    { "id": "R7",  "text": "Bốn — python. Quan trọng — phải tích ô Add Python to PATH. Không tích là chết.", "time": 33.0, "slide": 7 },
+    { "id": "R8",  "text": "Năm — chọn ây ai. Bốn thằng: Claude Code, Cursor, Antigravity miễn phí, Codex trả theo ây pi i.", "time": 40.5, "slide": 8 },
+    { "id": "R9",  "text": "Sáu — clone repo. Git clone github của calesthio. Pi pi install. En pi em install.", "time": 48.0, "slide": 9 },
+    { "id": "R10", "text": "Bảy — paste ây pi i ki: FAL, EverAI, Pexels. Ba cái thôi.", "time": 56.5, "slide": 10 },
+    { "id": "R11", "text": "Test một lệnh — render composition vai bờ ê đít tinh i tờ rô. Một phút ra em pi bốn.", "time": 63.0, "slide": 11 },
+    { "id": "R12", "text": "Kẹt? Slide mười hai chồng để sẵn ba lỗi hay gặp.", "time": 71.0, "slide": 12 },
+    { "id": "R13", "text": "Lưu post chồng pin. Kẹt chỗ nào comment chồng giải. Follow chồng đi các vợ.", "time": 76.5, "slide": 13 }
+  ],
+  "total_recap_duration": 88
+}

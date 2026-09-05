@@ -10,7 +10,7 @@ import { AbsoluteFill, Audio, Sequence, staticFile, useCurrentFrame } from "remo
 import { JustinMascotFromPose } from "./fx/JustinMascotFromPose";
 import type { Tracking } from "./fx/PoseAttachedFX";
 import tracking from "./singer_mascot_tracking.json";
-import shotsData from "../../projects/singer-mascot-poc/source/shots.json";
+import shotsData from "./data/singer-mascot-shots.json";
 
 const T = tracking as Tracking;
 const W = 1080;

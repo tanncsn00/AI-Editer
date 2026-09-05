@@ -19,6 +19,14 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-blue.svg" alt="License"></a>
 </p>
 
+<p align="center">
+  <sub>
+    A fork of <a href="https://github.com/calesthio/OpenMontage">calesthio/OpenMontage</a>,
+    extended with Vietnamese format skills, a cross-agent skill layer, and project memory.
+    Licensed under AGPLv3, same as upstream.
+  </sub>
+</p>
+
 ---
 
 Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your agent handles research, scripting, asset generation, editing, and final composition.
@@ -69,8 +77,8 @@ Works with **Claude Code, Cursor, Copilot, Windsurf, Codex** — any AI coding a
 ### Install & Run
 
 ```bash
-git clone https://github.com/calesthio/OpenMontage.git
-cd OpenMontage
+git clone https://github.com/tanncsn00/AI-Editer.git
+cd AI-Editer
 make setup
 ```
 

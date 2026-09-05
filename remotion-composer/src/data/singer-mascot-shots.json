@@ -1,0 +1,149 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.7,
+    "dur": 0.7,
+    "pose_pct": 81.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 0.7,
+    "end": 5.1,
+    "dur": 4.4,
+    "pose_pct": 2.3,
+    "kind": "CROWD"
+  },
+  {
+    "start": 5.1,
+    "end": 5.9,
+    "dur": 0.8,
+    "pose_pct": 75.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 5.9,
+    "end": 7.2,
+    "dur": 1.3,
+    "pose_pct": 43.6,
+    "kind": "MIXED"
+  },
+  {
+    "start": 7.2,
+    "end": 7.7,
+    "dur": 0.5,
+    "pose_pct": 66.7,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 7.7,
+    "end": 10.1,
+    "dur": 2.4,
+    "pose_pct": 86.1,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 10.1,
+    "end": 22.6,
+    "dur": 12.5,
+    "pose_pct": 68.8,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 22.8,
+    "end": 23.5,
+    "dur": 0.7,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 24.0,
+    "end": 24.5,
+    "dur": 0.5,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 24.7,
+    "end": 25.4,
+    "dur": 0.7,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 26.6,
+    "end": 27.3,
+    "dur": 0.7,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 27.5,
+    "end": 28.2,
+    "dur": 0.7,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 28.4,
+    "end": 29.1,
+    "dur": 0.7,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 30.6,
+    "end": 31.1,
+    "dur": 0.5,
+    "pose_pct": 73.3,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 31.3,
+    "end": 31.9,
+    "dur": 0.6,
+    "pose_pct": 100.0,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 32.4,
+    "end": 33.0,
+    "dur": 0.6,
+    "pose_pct": 61.1,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 33.2,
+    "end": 33.9,
+    "dur": 0.7,
+    "pose_pct": 38.1,
+    "kind": "MIXED"
+  },
+  {
+    "start": 34.1,
+    "end": 44.6,
+    "dur": 10.5,
+    "pose_pct": 89.2,
+    "kind": "JUSTIN"
+  },
+  {
+    "start": 44.7,
+    "end": 58.9,
+    "dur": 14.2,
+    "pose_pct": 30.8,
+    "kind": "MIXED"
+  },
+  {
+    "start": 58.9,
+    "end": 61.1,
+    "dur": 2.2,
+    "pose_pct": 33.3,
+    "kind": "MIXED"
+  },
+  {
+    "start": 61.6,
+    "end": 62.8,
+    "dur": 1.2,
+    "pose_pct": 61.1,
+    "kind": "JUSTIN"
+  }
+]
