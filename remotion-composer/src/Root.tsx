@@ -340,6 +340,14 @@ import { ThaTamThong } from "./ThaTamThong";
 import { ThaTamThongThumbnail } from "./ThaTamThongThumbnail";
 import { MatNgonThienLao } from "./MatNgonThienLao";
 import { MatNgonThienLaoThumbnail } from "./MatNgonThienLaoThumbnail";
+import { LuocSuAi } from "./LuocSuAi";
+import { LuocSuAiThumbnail } from "./LuocSuAiThumbnail";
+import { NoDao } from "./NoDao";
+import { NoDaoThumbnail } from "./NoDaoThumbnail";
+import { CanhGioiTruongLao } from "./CanhGioiTruongLao";
+import { CanhGioiTruongLaoThumbnail } from "./CanhGioiTruongLaoThumbnail";
+import { BanThanTuTien } from "./BanThanTuTien";
+import { BanThanTuTienThumbnail } from "./BanThanTuTienThumbnail";
 import { KieuNguoiAi } from "./KieuNguoiAi";
 import { KieuNguoiAiThumbnail } from "./KieuNguoiAiThumbnail";
 import { OfficeBattleRoyale, OBR_DURATION } from "./OfficeBattleRoyale";
@@ -2802,6 +2810,110 @@ export const Root: React.FC = () => {
         width={1080}
         height={1920}
         defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="LuocSuAiThumbnail"
+        component={LuocSuAiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="LuocSuAi"
+        component={LuocSuAi}
+        durationInFrames={17820}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="LuocSuAiNoBgm"
+        component={LuocSuAi}
+        durationInFrames={17820}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="NoDaoThumbnail"
+        component={NoDaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NoDao"
+        component={NoDao}
+        durationInFrames={7176}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="NoDaoNoBgm"
+        component={NoDao}
+        durationInFrames={7176}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="CanhGioiTruongLaoThumbnail"
+        component={CanhGioiTruongLaoThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="CanhGioiTruongLao"
+        component={CanhGioiTruongLao}
+        durationInFrames={6190}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="CanhGioiTruongLaoNoBgm"
+        component={CanhGioiTruongLao}
+        durationInFrames={6190}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="BanThanTuTienThumbnail"
+        component={BanThanTuTienThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="BanThanTuTien"
+        component={BanThanTuTien}
+        durationInFrames={7760}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="BanThanTuTienNoBgm"
+        component={BanThanTuTien}
+        durationInFrames={7760}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
       />
       <Composition
         id="KieuNguoiAiThumbnail"

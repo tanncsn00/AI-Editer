@@ -1,0 +1,125 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "TRIGGER",
+   "start": 0.0,
+   "duration": 11.282
+  },
+  {
+   "index": 2,
+   "name": "ATTENTION",
+   "start": 11.282,
+   "duration": 11.739
+  },
+  {
+   "index": 3,
+   "name": "CG1GAG",
+   "start": 23.021,
+   "duration": 15.474
+  },
+  {
+   "index": 4,
+   "name": "CG1LES",
+   "start": 38.495,
+   "duration": 7.133
+  },
+  {
+   "index": 5,
+   "name": "CG2GAG",
+   "start": 45.628,
+   "duration": 18.08
+  },
+  {
+   "index": 6,
+   "name": "CG2LES",
+   "start": 63.708,
+   "duration": 9.045
+  },
+  {
+   "index": 7,
+   "name": "CG3GAG",
+   "start": 72.752,
+   "duration": 13.756
+  },
+  {
+   "index": 8,
+   "name": "CG3LES",
+   "start": 86.508,
+   "duration": 10.912
+  },
+  {
+   "index": 9,
+   "name": "CG4GAG",
+   "start": 97.42,
+   "duration": 17.614
+  },
+  {
+   "index": 10,
+   "name": "CG4LES",
+   "start": 115.035,
+   "duration": 10.486
+  },
+  {
+   "index": 11,
+   "name": "CG5GAG",
+   "start": 125.52,
+   "duration": 23.777
+  },
+  {
+   "index": 12,
+   "name": "CG5LES",
+   "start": 149.298,
+   "duration": 9.368
+  },
+  {
+   "index": 13,
+   "name": "CG6GAG",
+   "start": 158.666,
+   "duration": 14.324
+  },
+  {
+   "index": 14,
+   "name": "CG6LES",
+   "start": 172.99,
+   "duration": 7.808
+  },
+  {
+   "index": 15,
+   "name": "CG7GAG",
+   "start": 180.798,
+   "duration": 11.579
+  },
+  {
+   "index": 16,
+   "name": "CG7LES",
+   "start": 192.377,
+   "duration": 15.493
+  },
+  {
+   "index": 17,
+   "name": "PAYOFF1",
+   "start": 207.87,
+   "duration": 12.594
+  },
+  {
+   "index": 18,
+   "name": "PAYOFF2",
+   "start": 220.465,
+   "duration": 5.907
+  },
+  {
+   "index": 19,
+   "name": "TRANSMIT",
+   "start": 226.372,
+   "duration": 9.534
+  },
+  {
+   "index": 20,
+   "name": "CTA",
+   "start": 235.906,
+   "duration": 3.279
+  }
+ ],
+ "total_duration": 239.184
+}

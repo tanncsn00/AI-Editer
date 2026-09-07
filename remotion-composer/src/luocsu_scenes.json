@@ -1,0 +1,2431 @@
+{
+ "TITLE": {
+  "kind": "title",
+  "ch": "TI",
+  "els": [
+   {
+    "k": "titlecard",
+    "key": "t",
+    "t": "📜 LƯỢC SỬ AI",
+    "noanchor": true
+   },
+   {
+    "k": "sub",
+    "key": "sub",
+    "t": "THẾ GIỚI ĐÃ THAY ĐỔI NHƯ NÀO KỂ TỪ KHI THIÊN CƠ AI XUẤT THẾ"
+   }
+  ]
+ },
+ "HK_DATE": {
+  "kind": "date",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "stamp",
+    "key": "st0",
+    "anchor_src": "Ngày 30 tháng 11 năm 2022…",
+    "t": "30 · 11 · 2022"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "hàng tỷ người trên thế giới…",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "HK_ERA": {
+  "kind": "big",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "big",
+    "key": "big",
+    "t": "không hề biết rằng họ vừa bước vào một kỷ nguyên mới.",
+    "size": 54,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "HK_N1": {
+  "kind": "casc",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Không có chiến tranh.",
+    "size": 50
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Không có cuộc cách mạng trên đường phố.",
+    "size": 50
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Không có một đế chế nào sụp đổ.",
+    "size": 50
+   }
+  ]
+ },
+ "HK_BOX": {
+  "kind": "line",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Chỉ có một công ty…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "mở một ô chat trên Internet.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "HK_IN": {
+  "kind": "line",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và bên trong ô chat đó…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "là một thứ có thể khiến con người học nhanh hơn, làm việc nhanh hơn, viết, lập trình, sáng tạo…",
+    "size": 42,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "HK_FIRST": {
+  "kind": "line",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "và lần đầu tiên…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "đặt câu hỏi về chính giá trị của trí tuệ con người.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "HK_NAME": {
+  "kind": "big",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Thứ đó có tên…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "ChatGPT.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "HK_FEAR": {
+  "kind": "line",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng điều đáng sợ không phải là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "AI đã trở nên thông minh đến mức nào.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "HK_TWIST": {
+  "kind": "line",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Mà là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "con người đã thay đổi nhanh đến mức nào… kể từ ngày AI xuất hiện.",
+    "size": 42,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "HK_Q": {
+  "kind": "quote",
+  "ch": "HK",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "Vậy chỉ trong vài năm…\nThiên Cơ đã thay đổi nhân gian như thế nào?",
+    "size": 56
+   }
+  ]
+ },
+ "C1_OPEN": {
+  "kind": "open",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN NHẤT",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Có một thời…"
+   }
+  ]
+ },
+ "C1_A": {
+  "kind": "line",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "con người muốn biết một điều gì đó,",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "phải đi tìm người biết nó.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C1_P1": {
+  "kind": "pair",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "pairq",
+    "key": "a_0",
+    "t": "Muốn học…",
+    "size": 46
+   },
+   {
+    "k": "paira",
+    "key": "b_0",
+    "t": "phải tìm thầy.",
+    "size": 46
+   },
+   {
+    "k": "pairq",
+    "key": "a_1",
+    "t": "Muốn nghiên cứu…",
+    "size": 46
+   },
+   {
+    "k": "paira",
+    "key": "b_1",
+    "t": "phải đọc hàng chồng sách.",
+    "size": 46
+   },
+   {
+    "k": "pairq",
+    "key": "a_2",
+    "t": "Muốn viết một thứ thật tốt…",
+    "size": 46
+   },
+   {
+    "k": "paira",
+    "key": "b_2",
+    "t": "phải tự mình làm.",
+    "size": 46
+   },
+   {
+    "k": "pairq",
+    "key": "a_3",
+    "t": "Muốn xây dựng một sản phẩm…",
+    "size": 46
+   },
+   {
+    "k": "paira",
+    "key": "b_3",
+    "t": "phải cần cả một đội ngũ.",
+    "size": 46
+   }
+  ]
+ },
+ "C1_DATE": {
+  "kind": "date",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Rồi…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "stamp",
+    "key": "st1",
+    "anchor_src": "ngày 30 tháng 11 năm 2022.",
+    "t": "30 · 11 · 2022"
+   }
+  ]
+ },
+ "C1_LAUN": {
+  "kind": "line",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Một công ty có tên OpenAI công khai một sản phẩm mang tên ChatGPT.",
+    "size": 42,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C1_B": {
+  "kind": "line",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Ban đầu…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "chẳng ai nghĩ đó sẽ là một cột mốc lịch sử.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C1_C": {
+  "kind": "line",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó chỉ là một khung trò chuyện.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C1_QA": {
+  "kind": "line",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Con người hỏi.",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "Máy trả lời.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C1_D": {
+  "kind": "line",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng lần này…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "cỗ máy không chỉ tìm kiếm thông tin.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C1_K1": {
+  "kind": "casc",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Nó có thể đối thoại.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Có thể giải thích.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Có thể viết.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Có thể sửa.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Có thể tiếp tục cuộc trò chuyện dựa trên những gì vừa nói.",
+    "size": 42
+   }
+  ]
+ },
+ "C1_EYE": {
+  "kind": "big",
+  "ch": "C1",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Thiên Cơ…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "đã bắt đầu mở mắt.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C2_OPEN": {
+  "kind": "open",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN NHỊ",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Và điều kỳ lạ xảy ra sau đó…"
+   }
+  ]
+ },
+ "C2_A": {
+  "kind": "line",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "không phải AI lập tức thay thế con người.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C2_B": {
+  "kind": "big",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Mà là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "con người bắt đầu thay đổi cách làm việc.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C2_U1": {
+  "kind": "casc",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Một học sinh có thể hỏi AI bài mình không hiểu.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Một nhân viên có thể đưa cho nó một email và nhờ viết lại.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Một người không biết lập trình… có thể bắt đầu học code bằng cách đối thoại.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Một người không giỏi tiếng Anh… có thể dùng AI để dịch và luyện giao tiếp.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Một người có ý tưởng… nhưng không biết viết, có thể biến ý tưởng ấy thành một bản kế hoạch.",
+    "size": 34
+   }
+  ]
+ },
+ "C2_C": {
+  "kind": "line",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Lần đầu tiên…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "một thứ từng nằm trong tay chuyên gia,",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l2",
+    "t": "bắt đầu được đưa đến gần hơn với người bình thường.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C2_D": {
+  "kind": "line",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Tri thức…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "không còn chỉ nằm trong kinh các.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C2_TALK": {
+  "kind": "big",
+  "ch": "C2",
+  "els": [
+   {
+    "k": "big",
+    "key": "big",
+    "t": "Nó bắt đầu biết nói chuyện.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C3_OPEN": {
+  "kind": "open",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN TAM",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Rồi tốc độ bắt đầu thay đổi."
+   }
+  ]
+ },
+ "C3_A": {
+  "kind": "line",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Ngày trước,",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "một công việc có thể mất vài giờ.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C3_B": {
+  "kind": "line",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nay…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "AI có thể giúp tạo bản nháp trong vài phút.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C3_S1": {
+  "kind": "casc",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Một tài liệu dài… có thể được tóm tắt.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Một cuộc họp… có thể được ghi lại và tổng hợp.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Một đoạn văn… có thể được viết lại hàng chục phiên bản.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Một ý tưởng… có thể nhanh chóng biến thành hình ảnh, âm thanh, video hoặc mã nguồn.",
+    "size": 38
+   }
+  ]
+ },
+ "C3_C": {
+  "kind": "line",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "AI không nhất thiết làm thay toàn bộ công việc.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C3_D": {
+  "kind": "big",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "big",
+    "key": "big",
+    "t": "Nhưng nó bắt đầu rút ngắn khoảng cách từ ý tưởng đến kết quả.",
+    "size": 54,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C3_E": {
+  "kind": "line",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và khi một người làm nhanh hơn…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "thì cả xã hội cũng bắt đầu đặt ra một câu hỏi:",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C3_QUOTE": {
+  "kind": "quote",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "Nếu AI làm được trong vài phút…\ntại sao ngươi vẫn mất cả ngày?",
+    "size": 56
+   }
+  ]
+ },
+ "C3_F": {
+  "kind": "line",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Thiên Cơ…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "không chỉ tăng sức mạnh.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C3_STD": {
+  "kind": "big",
+  "ch": "C3",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó bắt đầu…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "nâng tiêu chuẩn của nhân gian.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C4_OPEN": {
+  "kind": "year",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "yearstamp",
+    "key": "yr",
+    "t": "2024",
+    "anchor_src": "Đến năm 2024,"
+   },
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Đến năm 2024,",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C4_A": {
+  "kind": "line",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "sự thay đổi ấy đã không còn nằm trong những người thích công nghệ.",
+    "size": 42,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C4_ST1": {
+  "kind": "stat",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "statline",
+    "key": "s_0",
+    "t": "Microsoft và LinkedIn khảo sát 31.000 người tại 31 quốc gia",
+    "nums": [
+     "31.000",
+     "31"
+    ],
+    "size": 46
+   },
+   {
+    "k": "statline",
+    "key": "s_1",
+    "t": "và ghi nhận 75% knowledge workers đã sử dụng AI tại nơi làm việc.",
+    "nums": [
+     "75%"
+    ],
+    "size": 46
+   }
+  ]
+ },
+ "C4_B": {
+  "kind": "line",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Đáng chú ý hơn…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "nhiều người tự mang công cụ AI của mình vào công ty,",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C4_C": {
+  "kind": "line",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "bởi họ không muốn chờ tổ chức thay đổi trước.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C4_D": {
+  "kind": "line",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Điều đó nói lên một chuyện rất lớn.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C4_E": {
+  "kind": "line",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "AI không còn chỉ là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "một sản phẩm công nghệ.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C4_HABIT": {
+  "kind": "big",
+  "ch": "C4",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó bắt đầu trở thành…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "một thói quen lao động mới.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C5_OPEN": {
+  "kind": "open",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN NGŨ",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Và từ đây,"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "sự thay đổi bắt đầu đi sâu hơn.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C5_A": {
+  "kind": "line",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Doanh nghiệp bắt đầu hỏi:",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C5_Q1": {
+  "kind": "casc",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Có thể dùng AI để chăm sóc khách hàng không?",
+    "size": 40
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Có thể dùng AI để phân tích dữ liệu không?",
+    "size": 40
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Có thể tự động hóa quy trình không?",
+    "size": 40
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Có thể hỗ trợ lập trình không?",
+    "size": 40
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Có thể tạo nội dung không?",
+    "size": 40
+   },
+   {
+    "k": "row",
+    "key": "r_5",
+    "t": "Có thể để AI tham gia vào quá trình ra quyết định không?",
+    "size": 40
+   }
+  ]
+ },
+ "C5_B": {
+  "kind": "line",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Rồi những câu hỏi lớn hơn xuất hiện:",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C5_BQ1": {
+  "kind": "quote",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "Nếu một nhân viên có AI mạnh gấp nhiều lần trước đây…\nthì một đội ngũ cần bao nhiêu người?",
+    "size": 56
+   }
+  ]
+ },
+ "C5_BQ2": {
+  "kind": "quote",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "Nếu một startup nhỏ có thể sử dụng những năng lực từng chỉ thuộc về tập đoàn lớn…\nthì lợi thế của doanh nghiệp lớn còn nằm ở đâu?",
+    "size": 46
+   }
+  ]
+ },
+ "C5_BQ3": {
+  "kind": "quote",
+  "ch": "C5",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "Và nếu tất cả mọi người đều có AI…\nthứ gì sẽ trở thành lợi thế tiếp theo?",
+    "size": 56
+   }
+  ]
+ },
+ "C6_OPEN": {
+  "kind": "open",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN LỤC",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Đến đây…"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "cuộc cách mạng thật sự mới bắt đầu.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C6_A": {
+  "kind": "line",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Bởi khi AI trở nên phổ biến,",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "biết dùng AI không còn là lợi thế đặc biệt.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C6_B": {
+  "kind": "line",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó dần trở thành…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "một kỹ năng cơ bản.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C6_C": {
+  "kind": "line",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Cũng giống như Internet từng vậy.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C6_T1": {
+  "kind": "casc",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Ngày trước, biết sử dụng Internet là lợi thế.",
+    "size": 50
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Sau này, không biết sử dụng Internet mới là bất lợi.",
+    "size": 50
+   }
+  ]
+ },
+ "C6_D": {
+  "kind": "line",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "AI đang bắt đầu đi theo con đường tương tự.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C6_ST1": {
+  "kind": "stat",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "statline",
+    "key": "s_0",
+    "t": "Stanford ghi nhận tỷ lệ tổ chức báo cáo sử dụng AI đã tăng lên 88% trong năm 2025,",
+    "nums": [
+     "88%",
+     "2025"
+    ],
+    "size": 42
+   },
+   {
+    "k": "statline",
+    "key": "s_1",
+    "t": "trong khi generative AI tiếp tục mở rộng rất nhanh.",
+    "nums": [],
+    "size": 42
+   }
+  ]
+ },
+ "C6_SCARY": {
+  "kind": "big",
+  "ch": "C6",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "đây mới là lúc câu chuyện trở nên đáng sợ.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C7_OPEN": {
+  "kind": "open",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN THẤT",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Bởi khi tất cả đều có cùng một Thiên Cơ…"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "ai sẽ mạnh hơn?",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C7_A": {
+  "kind": "line",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Câu trả lời…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "không còn đơn giản là người có AI.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C7_B": {
+  "kind": "big",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Mà là người…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "biết dùng AI tốt hơn.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C7_K1": {
+  "kind": "casc",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Biết đặt câu hỏi.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Biết kiểm chứng.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Biết chia nhỏ vấn đề.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Biết kết hợp nhiều công cụ.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Biết biến một câu trả lời thành hành động.",
+    "size": 42
+   }
+  ]
+ },
+ "C7_C": {
+  "kind": "line",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và quan trọng nhất…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "biết mình thực sự muốn đạt được điều gì.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C7_D": {
+  "kind": "line",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "AI bắt đầu thay đổi giá trị của kỹ năng.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C7_E": {
+  "kind": "line",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Trước đây,",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "một người có giá trị vì họ biết cách làm.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C7_F": {
+  "kind": "line",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng khi máy móc ngày càng biết cách làm…",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C7_WHAT": {
+  "kind": "big",
+  "ch": "C7",
+  "els": [
+   {
+    "k": "big",
+    "key": "big",
+    "t": "giá trị dần dịch chuyển sang người biết phải làm gì.",
+    "size": 54,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C8_OPEN": {
+  "kind": "open",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN BÁT",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Và chính nhu cầu đó…"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "đã đẩy cuộc chiến AI sang một tầng hoàn toàn khác.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C8_A": {
+  "kind": "line",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Bởi nếu AI trở thành hạ tầng mới của thế giới…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "thì không một đại thế lực công nghệ nào muốn đứng ngoài cuộc.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C8_S1": {
+  "kind": "sect",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "sectrow",
+    "key": "s_0",
+    "org": "OpenAI",
+    "rest": "có ChatGPT.",
+    "size": 42
+   },
+   {
+    "k": "sectrow",
+    "key": "s_1",
+    "org": "Google",
+    "rest": "có Gemini.",
+    "size": 42
+   },
+   {
+    "k": "sectrow",
+    "key": "s_2",
+    "org": "Anthropic",
+    "rest": "có Claude.",
+    "size": 42
+   },
+   {
+    "k": "sectrow",
+    "key": "s_3",
+    "org": "Meta",
+    "rest": "phát triển dòng Llama.",
+    "size": 42
+   },
+   {
+    "k": "sectrow",
+    "key": "s_4",
+    "org": "DeepSeek",
+    "rest": "xuất hiện với những mô hình reasoning gây chấn động thị trường.",
+    "size": 42
+   }
+  ]
+ },
+ "C8_B": {
+  "kind": "line",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Các thế lực không còn chỉ tranh nhau xem…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "“AI nào thông minh hơn?”",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C8_C": {
+  "kind": "line",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Họ bắt đầu tranh nhau:",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C8_W1": {
+  "kind": "casc",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Ai có model tốt hơn?",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Ai có chip?",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Ai có data center?",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Ai có năng lượng?",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Ai có dữ liệu?",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_5",
+    "t": "Ai có người dùng?",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_6",
+    "t": "Ai có hệ sinh thái?",
+    "size": 38
+   }
+  ]
+ },
+ "C8_GATE": {
+  "kind": "big",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và quan trọng nhất…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "ai sẽ trở thành cánh cổng để con người bước vào kỷ nguyên AI?",
+    "size": 54,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C8_ST1": {
+  "kind": "stat",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "statline",
+    "key": "s_0",
+    "t": "Stanford cho thấy Mỹ vẫn dẫn đầu về số lượng các mô hình AI đáng chú ý,",
+    "nums": [],
+    "size": 46
+   },
+   {
+    "k": "statline",
+    "key": "s_1",
+    "t": "trong khi Trung Quốc đã thu hẹp đáng kể khoảng cách về hiệu năng.",
+    "nums": [],
+    "size": 46
+   }
+  ]
+ },
+ "C8_WAR": {
+  "kind": "big",
+  "ch": "C8",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Đại chiến…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "đã thật sự bắt đầu.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C9_OPEN": {
+  "kind": "open",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN CỬU",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Nhưng nếu chỉ nhìn vào cuộc chiến giữa OpenAI, Google, Anthropic, Meta hay DeepSeek…"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "chúng ta sẽ bỏ qua điều quan trọng nhất.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C9_A": {
+  "kind": "line",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Người thay đổi lớn nhất trong cuộc chiến này…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "không phải các công ty.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C9_HUMAN": {
+  "kind": "big",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Mà là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "con người.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "C9_B": {
+  "kind": "line",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Bởi chỉ trong vài năm,",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "chúng ta đã đi từ việc…",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "C9_F1": {
+  "kind": "shift",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "shiftbox",
+    "key": "s0",
+    "t": "Google để tìm thông tin",
+    "side": 0
+   },
+   {
+    "k": "arrow",
+    "key": "a1",
+    "t": "sang"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s2",
+    "t": "hỏi AI để hiểu thông tin.",
+    "side": 2
+   }
+  ]
+ },
+ "C9_F2": {
+  "kind": "shift",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Từ…",
+    "size": 42,
+    "color": "MUTE"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s0",
+    "t": "tự viết",
+    "side": 0
+   },
+   {
+    "k": "arrow",
+    "key": "a1",
+    "t": "sang"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s2",
+    "t": "cùng AI viết.",
+    "side": 2
+   }
+  ]
+ },
+ "C9_F3": {
+  "kind": "shift",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Từ…",
+    "size": 42,
+    "color": "MUTE"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s0",
+    "t": "tự học một kỹ năng",
+    "side": 0
+   },
+   {
+    "k": "arrow",
+    "key": "a1",
+    "t": "sang"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s2",
+    "t": "có một gia sư riêng bên cạnh.",
+    "side": 2
+   }
+  ]
+ },
+ "C9_F4": {
+  "kind": "shift",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Từ…",
+    "size": 42,
+    "color": "MUTE"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s0",
+    "t": "một người chỉ có thể làm một số việc",
+    "side": 0
+   },
+   {
+    "k": "arrow",
+    "key": "a1",
+    "t": "sang"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s2",
+    "t": "một người có thể triệu hồi cả một đạo tràng công cụ.",
+    "side": 2
+   }
+  ]
+ },
+ "C9_F5": {
+  "kind": "shift",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và từ…",
+    "size": 42,
+    "color": "MUTE"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s0",
+    "t": "AI trả lời câu hỏi",
+    "side": 0
+   },
+   {
+    "k": "arrow",
+    "key": "a1",
+    "t": "đang dần tiến tới…"
+   },
+   {
+    "k": "shiftbox",
+    "key": "s2",
+    "t": "AI nhận nhiệm vụ và thực hiện công việc.",
+    "side": 2
+   }
+  ]
+ },
+ "C9_ST1": {
+  "kind": "stat",
+  "ch": "C9",
+  "els": [
+   {
+    "k": "statline",
+    "key": "s_0",
+    "t": "Các nghiên cứu gần đây cũng cho thấy AI đang chuyển từ giai đoạn thử nghiệm sang việc được tích hợp vào quy trình,",
+    "nums": [],
+    "size": 42
+   },
+   {
+    "k": "statline",
+    "key": "s_1",
+    "t": "dù phần lớn doanh nghiệp vẫn chưa thực sự triển khai AI ở quy mô toàn tổ chức.",
+    "nums": [],
+    "size": 42
+   }
+  ]
+ },
+ "CA_OPEN": {
+  "kind": "open",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN THẬP",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Vậy nên…"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "nếu hỏi:",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CA_Q": {
+  "kind": "quote",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "AI đã thay đổi thế giới như thế nào?",
+    "size": 56
+   }
+  ]
+ },
+ "CA_A": {
+  "kind": "line",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "thì câu trả lời không phải…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "AI đã cướp đi bao nhiêu công việc.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CA_B": {
+  "kind": "line",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Cũng không phải…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "AI đã tạo ra bao nhiêu mô hình.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CA_CORE": {
+  "kind": "big",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Mà là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "AI đã thay đổi cách con người tiếp cận năng lực.",
+    "size": 54,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "CA_G1": {
+  "kind": "casc",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Một người bình thường… giờ có thể tiếp cận tri thức nhanh hơn.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Một nhân viên… có thể có thêm một trợ lý.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Một lập trình viên… có thêm một cộng sự.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Một nhà sáng tạo… có thêm cả một xưởng sản xuất.",
+    "size": 38
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Một doanh nghiệp nhỏ… có thể tiếp cận những năng lực trước đây rất đắt đỏ.",
+    "size": 38
+   }
+  ]
+ },
+ "CA_C": {
+  "kind": "line",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và hàng tỷ con người…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "đang lần đầu tiên học cách…",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CA_END": {
+  "kind": "big",
+  "ch": "CA",
+  "els": [
+   {
+    "k": "big",
+    "key": "big",
+    "t": "làm việc cùng một trí tuệ không phải con người.",
+    "size": 54,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "CB_OPEN": {
+  "kind": "open",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "chnum",
+    "key": "num",
+    "t": "QUYỂN CHUNG",
+    "noanchor": true
+   },
+   {
+    "k": "openline",
+    "key": "l0",
+    "t": "Chúng ta đang sống trong một thời kỳ rất kỳ lạ."
+   }
+  ]
+ },
+ "CB_E1": {
+  "kind": "casc",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "Lịch sử từng có thời đại của máy hơi nước.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "Rồi điện.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "Rồi máy tính.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "Rồi Internet.",
+    "size": 42
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Và giờ… trí tuệ nhân tạo.",
+    "size": 42
+   }
+  ]
+ },
+ "CB_A": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Không ai biết chính xác…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "kỷ nguyên này sẽ kết thúc ở đâu.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_B": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Có thể AI chỉ trở thành một công cụ phổ biến như Internet.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_C": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Có thể nó sẽ trở thành lớp hạ tầng mới của toàn bộ nền kinh tế.",
+    "size": 42,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_D": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Cũng có thể…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "những AI agent trong tương lai sẽ đảm nhận những chuỗi công việc mà hôm nay chúng ta vẫn đang tự làm.",
+    "size": 42,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_E": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng có một điều…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "chúng ta đã biết.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_DATE": {
+  "kind": "date",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "stamp",
+    "key": "st0",
+    "anchor_src": "Ngày 30 tháng 11 năm 2022…",
+    "t": "30 · 11 · 2022"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "thế giới chưa thay đổi ngay lập tức.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_F": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng kể từ ngày ấy,",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_V1": {
+  "kind": "casc",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "row",
+    "key": "r_0",
+    "t": "mỗi năm…",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_1",
+    "t": "mỗi tháng…",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_2",
+    "t": "mỗi ngày…",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_3",
+    "t": "con người lại thay đổi cách học.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_4",
+    "t": "Cách làm việc.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_5",
+    "t": "Cách sáng tạo.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_6",
+    "t": "Cách cạnh tranh.",
+    "size": 34
+   },
+   {
+    "k": "row",
+    "key": "r_7",
+    "t": "Và cách nhìn về chính năng lực của mình.",
+    "size": 34
+   }
+  ]
+ },
+ "CB_G": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Có lẽ…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "đó mới là ảnh hưởng lớn nhất của Thiên Cơ.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_H": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó không đơn giản là…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "một cỗ máy thông minh hơn.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_I": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó khiến con người phải đặt lại câu hỏi:",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_FQ": {
+  "kind": "quote",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "quote",
+    "key": "q",
+    "t": "Nếu máy móc có thể làm ngày càng nhiều việc…\nthì rốt cuộc…\nđiều gì còn thực sự thuộc về con người?",
+    "size": 46
+   }
+  ]
+ },
+ "CB_J": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Và câu hỏi đó…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "có lẽ…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l2",
+    "t": "mới là chương đầu tiên của lịch sử AI.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_K1": {
+  "kind": "big",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Thiên Cơ đã xuất thế.",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "Các đại tông môn đã nhập cuộc.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "CB_K2": {
+  "kind": "line",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nhưng cuộc đại chiến này…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "l",
+    "key": "l1",
+    "t": "không chỉ quyết định AI sẽ trở thành gì.",
+    "size": 46,
+    "color": "TEXT"
+   }
+  ]
+ },
+ "CB_LAST": {
+  "kind": "big",
+  "ch": "CB",
+  "els": [
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "Nó sẽ quyết định…",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "con người sẽ trở thành gì.",
+    "size": 68,
+    "color": "GOLD"
+   }
+  ]
+ },
+ "CTA": {
+  "kind": "cta",
+  "ch": "CT",
+  "els": [
+   {
+    "k": "ctabtn",
+    "key": "btn",
+    "t": "▶ FOLLOW BẦN ĐẠO"
+   },
+   {
+    "k": "l",
+    "key": "l0",
+    "t": "để nghe tiếp",
+    "size": 46,
+    "color": "SEC"
+   },
+   {
+    "k": "big",
+    "key": "big",
+    "t": "LƯỢC SỬ THIÊN CƠ",
+    "size": 66,
+    "color": "GOLD"
+   }
+  ]
+ }
+}

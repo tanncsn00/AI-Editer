@@ -46,7 +46,7 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 |---|---|---|
 | AGI | **ây di ai** | A gờ y |
 | GPT | **gi pi ti** | Gờ Pê Tê |
-| ChatGPT | **Chat gi pi ti** (không viết thẳng "ChatGPT") | Chát Gờ Pờ Tê |
+| ChatGPT | **`Chat GPT`** — hai chữ, cách nhau dấu cách (đo `luoc-su-ai` 2026-09-05) | ❌ `ChatGPT` liền → **"Chappie"/"ChatPay"**; ⚠️ "Chat gi pi ti" → "ChatPT" (primed mới ra đúng); ❌ "Chát Gi-Pi-Ti" → "Jack Spiti" |
 | JSON | **jay sờn** | Jê Sờ Ô Ên |
 | NPM | **en pi em** | Nờ pi em |
 | API | **ây pi ai** (3 chữ) | Ây Pi (2 chữ) |
@@ -68,11 +68,16 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 | .xlsx / .docx / .pdf / .pptx | **file Excel / file Word / file PDF / file PowerPoint** | ích xờ lưu / đốc xơ |
 | ARC-AGI | **Ác ây di ai** | — |
 | GitHub | **gít hấp** | — |
-| Claude | **Cờ lau** (/klɔːd/) | Cờ-lốt |
+| Claude | **giữ literal `Claude`** (đo `luoc-su-ai` 2026-09-05) | ❌ **"Cờ lau" → nghe ra "Cloud"** (sai hẳn sang khái niệm khác); ❌ Cờ-lốt → "close"; ❌ Cờ-lô-đơ → "Cocker Loader" |
 | Opus / Sonnet / Haiku | **Ô pớt / Sô nét / Hai cu** | — |
 | token | **tâu cân** / giữ "token" | — |
-| OpenAI / Anthropic / Gemini | **Ô-pen Ây-Ai / An-thrô-pic / Giê-mi-nai** | — |
+| OpenAI / Gemini | **Ô-pen Ây-Ai / Giê-mi-nai** | — |
+| **Anthropic** | **giữ literal `Anthropic`** (đo `luoc-su-ai` 2026-09-05) | ⚠️ "An-thrô-pic" lúc đúng lúc ra **"Adopit"** — literal ổn định hơn |
 | Netflix / Facebook / Google | **Nét-flíc / Phây-buc / Gu-gồ** | — |
+| **Meta / Llama / Microsoft / LinkedIn / Stanford / Internet** | **giữ literal** — đọc sạch, đã đo | — |
+| **DeepSeek** | **Đíp-Xíc** (đo `luoc-su-ai` 2026-09-05) | ❌ literal `DeepSeek` → **"Deep Sea"** (rụng hẳn âm /k/) |
+| **model** | **mô-đeo** | ❌ literal `model` → **"modern"** (thành từ English khác hẳn) |
+| **chip / data center / reasoning / generative / knowledge workers / startup / agent** | **giữ literal** — đo 2026-09-05, đọc sạch | ❌ "ây-giơn" cho agent → **"Asian"**; ❌ "nô-lít-giơ uốc-cơ" → "knowledge the worker" |
 | NVIDIA / CUDA | **En-vi-đi-a / Cu-đa** (CUDA cần buffer "Đó là" nếu cuối câu) | — |
 | PreToolUse / PostToolUse | **pri tu húc / pót tu húc** (bỏ "Use") | Pri Tu Úc Húc |
 | apiKeyHelper | **API key helper** (giữ English) | Ây Pi Ky Hép Pờ |
@@ -172,6 +177,14 @@ Display VẪN hiện English (dev đọc), audio Việt (đọc êm). Chỉ gi�
 
 Whisper KHÔNG bắt được glitch này → phải isolate-transcribe `word_timestamps` vùng nghi để soi rác.
 
+### Biến thể thứ hai: list DANH TỪ thuần → NUỐT HẲN một món
+
+Đo ở `no-dao` (2026-09-07). List sáu danh từ ngăn bằng dấu chấm — `"Tiền. Cơ hội. Kiến thức. Thời gian. Tình nghĩa. Lời hứa."` — EverAI **bỏ hẳn "Thời gian"**, đọc còn 5 món. Khác glitch trên ở chỗ: lần này không chèn rác mà **mất nội dung**, và list đã là danh từ thuần rồi nên fix "liệt kê danh từ" ở trên không cứu được.
+
+**Fix:** hạ dấu chấm xuống **dấu phẩy** cho cả cụm — `"Tiền, cơ hội, kiến thức, thời gian, tình nghĩa, lời hứa."` → đọc đủ 6/6. Cùng họ với luật "ngắt câu mạnh sinh lỗi": dấu chấm giữa các danh từ ngắn là ngắt quá mạnh.
+
+⚠️ **Whisper primed cũng KHÔNG khôi phục món bị nuốt** — prime bằng đúng cả 6 danh từ vẫn ra 5. Nên với list đọc nhanh, phải **đếm số món trong transcript**, đừng chỉ đọc lướt thấy "nghe xuôi là được".
+
 ---
 
 ## Nguyên tắc chọn phonetic
@@ -197,6 +210,11 @@ Whisper KHÔNG bắt được glitch này → phải isolate-transcribe `word_ti
 | **assignment** — "ơ-sai-mần" → *"ơ Simon"* | **laptop** → "láp-tóp" ✅ |
 | **Director** — "Đi Rếc Tơ" → *"digester" / "Dezeter"* | **form** → "phom" ✅ |
 | **Team Lead** — "Tim Lít" → whisper ghi *"tim lít"*, để literal thì ra *"Team Lead"* | **upload** → "úp-lôt" ✅ |
+| — | **Ctrl Z** → "Control **Zét**" ✅ (xem dưới) |
+
+⚠️ **`Control Z` để literal là SAI NGHĨA, không chỉ sai âm.** Đo ở `no-dao` (2026-09-07): viết `Control Z` → EverAI đọc ra **"Ctrl S"**. Primed-flip bằng đúng chữ `Ctrl Z` vẫn ra `S` ⇒ lỗi TTS thật. Câu đùa là về *undo*, đọc thành *save* là hỏng hẳn ý. Viết **`Control Zét`** thì whisper ghi lại đúng `Ctrl Z`.
+
+→ Bài học rộng hơn: chữ cái English đứng cuối cụm rất dễ bị nhầm sang chữ cái khác. **Acronym/phím tắt kết thúc bằng một chữ cái đơn thì phiên âm chữ cái đó ra tiếng Việt** (`Z`→"Zét", `S`→"Ét-xì"), đừng để trần.
 
 → **Quy trình đúng: viết bản đầu bằng phán đoán, rồi GATE 3 đo, rồi lật những từ sai sang phương án còn lại.** Đừng tin một luật chung nào cả. Từ nào lặp nhiều lần trong bài (Recruiter 9 lần) thì phải ưu tiên đo trước.
 
@@ -270,3 +288,28 @@ Trả giá ở `rbac-dao` (2026-08-26). Viết **RBAC → "A Bi Ây Xi"** vì t�
 ## Verify
 
 Whisper diff post-TTS là bắt buộc, **nhưng whisper VN không reliable cho tech term** — ưu tiên user feedback. Whisper cũng không bắt được nuốt/rụt âm; xem quy trình isolate-transcribe trong memory TTS pitfalls.
+
+## 🔢 Số trong lời đọc — viết bằng CHỮ, hiện bằng SỐ
+
+Đo ở `luoc-su-ai` (2026-09-05): viết số bằng chữ trong `text_phonetic` thì EverAI đọc đúng và whisper ghi lại thành chữ số chuẩn.
+
+| Viết trong phonetic | Whisper ghi lại |
+|---|---|
+| `ba mươi tháng mười một năm hai nghìn không trăm hai hai` | `30 tháng 11 năm 2022` ✅ |
+| `ba mươi mốt nghìn` / `ba mươi mốt quốc gia` | `31.000` / `31` ✅ |
+| `bảy mươi lăm phần trăm` / `tám mươi tám phần trăm` | `75%` / `88%` ✅ |
+| `năm hai nghìn không trăm hai lăm` | `năm 2025` ✅ |
+
+→ `text_display` vẫn giữ chữ số. **Nhưng anchor TUYỆT ĐỐI không neo vào chữ số viết chữ** — whisper ghi ra digit nên `nghin`/`tram`/`muoi` luôn MISS. Cho hết nhóm từ chỉ số vào STOP list của bộ sinh anchor.
+
+## 🎼 Nhạc nền phải LẶP — bẫy đuôi fade-out
+
+Video dài hơn track nhạc (`luoc-su-ai` 594s vs track 306s) thì phải lặp. **Nối thẳng 2 bản là chết nhạc**: track gốc có ~2s fade-out im lặng ở đuôi, nối xong thành khoảng câm giữa video — đo được **−91.0 dB tại giây 297**, đúng chỗ nối.
+
+→ Cắt track TRƯỚC đoạn fade (`-t 303`) rồi nối bằng `acrossfade=d=5`:
+
+```
+ffmpeg -t 303 -i SRC -t 303 -i SRC -t 303 -i SRC   -filter_complex "[0][1]acrossfade=d=5[a];[a][2]acrossfade=d=5[o]" -map "[o]" loop.mp3
+```
+
+→ Và **luôn đo mốc quanh chỗ nối** (`t = len_track − offset_cut`), không chỉ đo đầu/giữa/cuối.

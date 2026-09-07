@@ -1,0 +1,287 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "TRIG1",
+   "start": 0.0,
+   "duration": 4.542
+  },
+  {
+   "index": 2,
+   "name": "TRIG2",
+   "start": 4.542,
+   "duration": 3.211
+  },
+  {
+   "index": 3,
+   "name": "TRIG3",
+   "start": 7.753,
+   "duration": 3.752
+  },
+  {
+   "index": 4,
+   "name": "TRIG4",
+   "start": 11.505,
+   "duration": 3.189
+  },
+  {
+   "index": 5,
+   "name": "ATT1",
+   "start": 14.695,
+   "duration": 4.544
+  },
+  {
+   "index": 6,
+   "name": "ATT2",
+   "start": 19.239,
+   "duration": 4.3
+  },
+  {
+   "index": 7,
+   "name": "ATT3",
+   "start": 23.539,
+   "duration": 5.042
+  },
+  {
+   "index": 8,
+   "name": "C1_HEAD",
+   "start": 28.581,
+   "duration": 2.757
+  },
+  {
+   "index": 9,
+   "name": "C1_A",
+   "start": 31.338,
+   "duration": 12.919
+  },
+  {
+   "index": 13,
+   "name": "C1_E",
+   "start": 44.257,
+   "duration": 2.733
+  },
+  {
+   "index": 14,
+   "name": "C1_F",
+   "start": 46.991,
+   "duration": 3.869
+  },
+  {
+   "index": 15,
+   "name": "C2_HEAD",
+   "start": 50.859,
+   "duration": 3.217
+  },
+  {
+   "index": 16,
+   "name": "C2_A",
+   "start": 54.076,
+   "duration": 9.876
+  },
+  {
+   "index": 19,
+   "name": "C2_D",
+   "start": 63.952,
+   "duration": 3.455
+  },
+  {
+   "index": 20,
+   "name": "C2_E",
+   "start": 67.407,
+   "duration": 4.955
+  },
+  {
+   "index": 21,
+   "name": "C3_HEAD",
+   "start": 72.362,
+   "duration": 2.73
+  },
+  {
+   "index": 22,
+   "name": "C3_A",
+   "start": 75.092,
+   "duration": 8.936
+  },
+  {
+   "index": 25,
+   "name": "C3_D",
+   "start": 84.029,
+   "duration": 1.912
+  },
+  {
+   "index": 26,
+   "name": "C3_E",
+   "start": 85.941,
+   "duration": 2.88
+  },
+  {
+   "index": 27,
+   "name": "C3_F",
+   "start": 88.822,
+   "duration": 3.882
+  },
+  {
+   "index": 28,
+   "name": "C4_HEAD",
+   "start": 92.703,
+   "duration": 3.063
+  },
+  {
+   "index": 29,
+   "name": "C4_A",
+   "start": 95.766,
+   "duration": 7.628
+  },
+  {
+   "index": 31,
+   "name": "C4_C",
+   "start": 103.393,
+   "duration": 4.273
+  },
+  {
+   "index": 32,
+   "name": "C4_D",
+   "start": 107.667,
+   "duration": 3.273
+  },
+  {
+   "index": 33,
+   "name": "C4_E",
+   "start": 110.939,
+   "duration": 4.744
+  },
+  {
+   "index": 34,
+   "name": "C4_F",
+   "start": 115.683,
+   "duration": 4.564
+  },
+  {
+   "index": 35,
+   "name": "C4_G",
+   "start": 120.248,
+   "duration": 4.289
+  },
+  {
+   "index": 36,
+   "name": "C5_HEAD",
+   "start": 124.537,
+   "duration": 2.684
+  },
+  {
+   "index": 37,
+   "name": "C5_A",
+   "start": 127.221,
+   "duration": 3.977
+  },
+  {
+   "index": 38,
+   "name": "C5_B",
+   "start": 131.199,
+   "duration": 3.646
+  },
+  {
+   "index": 39,
+   "name": "C5_C",
+   "start": 134.845,
+   "duration": 4.491
+  },
+  {
+   "index": 40,
+   "name": "C5_D",
+   "start": 139.336,
+   "duration": 13.006
+  },
+  {
+   "index": 44,
+   "name": "C5_H",
+   "start": 152.341,
+   "duration": 2.688
+  },
+  {
+   "index": 45,
+   "name": "C5_I",
+   "start": 155.029,
+   "duration": 2.948
+  },
+  {
+   "index": 46,
+   "name": "C5_J",
+   "start": 157.977,
+   "duration": 5.351
+  },
+  {
+   "index": 47,
+   "name": "PAY1",
+   "start": 163.327,
+   "duration": 3.758
+  },
+  {
+   "index": 48,
+   "name": "PAY2",
+   "start": 167.086,
+   "duration": 5.16
+  },
+  {
+   "index": 49,
+   "name": "PAY3",
+   "start": 172.246,
+   "duration": 4.334
+  },
+  {
+   "index": 50,
+   "name": "PAY4",
+   "start": 176.579,
+   "duration": 3.838
+  },
+  {
+   "index": 51,
+   "name": "PAY5",
+   "start": 180.418,
+   "duration": 2.748
+  },
+  {
+   "index": 52,
+   "name": "SOC1",
+   "start": 183.166,
+   "duration": 2.348
+  },
+  {
+   "index": 53,
+   "name": "SOC2",
+   "start": 185.514,
+   "duration": 5.139
+  },
+  {
+   "index": 54,
+   "name": "SOC3",
+   "start": 190.653,
+   "duration": 3.633
+  },
+  {
+   "index": 55,
+   "name": "SOC4",
+   "start": 194.287,
+   "duration": 2.178
+  },
+  {
+   "index": 56,
+   "name": "SOC5",
+   "start": 196.465,
+   "duration": 2.699
+  },
+  {
+   "index": 57,
+   "name": "SOC6",
+   "start": 199.163,
+   "duration": 2.903
+  },
+  {
+   "index": 58,
+   "name": "CTA",
+   "start": 202.067,
+   "duration": 3.074
+  }
+ ],
+ "total_duration": 205.138
+}

@@ -1,0 +1,133 @@
+{
+ "TRIGGER": {
+  "think": 13,
+  "wrong": 60,
+  "n0": 131,
+  "n1": 166,
+  "n2": 209,
+  "remember": 291
+ },
+ "ATTENTION": {
+  "called": 71,
+  "nodao": 88,
+  "open": 155,
+  "first": 236,
+  "exp": 304
+ },
+ "CG1GAG": {
+  "title": 17,
+  "borrow": 73,
+  "when": 112,
+  "month": 173,
+  "year": 298,
+  "punch": 410
+ },
+ "CG1LES": {
+  "pay": 55,
+  "say": 68,
+  "silence": 110
+ },
+ "CG2GAG": {
+  "title": 22,
+  "bottom": 106,
+  "help": 185,
+  "promise": 321,
+  "msg": 430,
+  "punch": 478
+ },
+ "CG2LES": {
+  "money": 142,
+  "remember": 193
+ },
+ "CG3GAG": {
+  "title": 28,
+  "teach": 91,
+  "earn": 176,
+  "ask": 277,
+  "punch": 307
+ },
+ "CG3LES": {
+  "src": 88,
+  "thanks": 103,
+  "pay": 133,
+  "cost": 280
+ },
+ "CG4GAG": {
+  "title": 22,
+  "parent": 159,
+  "friend": 249,
+  "lover": 364,
+  "cultivate": 397,
+  "punch": 479
+ },
+ "CG4LES": {
+  "time": 11,
+  "undo": 94,
+  "who": 266
+ },
+ "CG5GAG": {
+  "title": 19,
+  "p0": 44,
+  "p1": 106,
+  "tally": 254,
+  "book": 501,
+  "punch": 628
+ },
+ "CG5LES": {
+  "trust": 70,
+  "do": 163,
+  "straight": 228
+ },
+ "CG6GAG": {
+  "title": 19,
+  "group": 92,
+  "rich": 159,
+  "need": 251,
+  "trouble": 305,
+  "punch": 382
+ },
+ "CG6LES": {
+  "friend": 115,
+  "only": 185
+ },
+ "CG7GAG": {
+  "title": 22,
+  "last": 84,
+  "a0": 114,
+  "a1": 137,
+  "a2": 185,
+  "excuse": 248,
+  "punch": 296
+ },
+ "CG7LES": {
+  "conseq": 184,
+  "lose": 215,
+  "become": 375,
+  "karma": 420
+ },
+ "PAYOFF1": {
+  "q1": 39,
+  "q2": 136,
+  "i0": 157,
+  "i1": 173,
+  "i2": 190,
+  "i3": 209,
+  "i4": 227,
+  "i5": 245,
+  "forgive": 316
+ },
+ "PAYOFF2": {
+  "strong": 27,
+  "know": 117
+ },
+ "TRANSMIT": {
+  "name": 66,
+  "dont": 80,
+  "why": 121,
+  "ask": 203
+ },
+ "CTA": {
+  "follow": 4,
+  "cta": 39
+ }
+}
