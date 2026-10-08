@@ -1,0 +1,377 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "TRIG1",
+   "start": 0.0,
+   "duration": 3.72
+  },
+  {
+   "index": 2,
+   "name": "TRIG2",
+   "start": 3.72,
+   "duration": 2.927
+  },
+  {
+   "index": 3,
+   "name": "TRIG3",
+   "start": 6.647,
+   "duration": 2.819
+  },
+  {
+   "index": 4,
+   "name": "TRIG4",
+   "start": 9.466,
+   "duration": 6.14
+  },
+  {
+   "index": 5,
+   "name": "ATT1",
+   "start": 15.606,
+   "duration": 4.622
+  },
+  {
+   "index": 6,
+   "name": "ATT2",
+   "start": 20.228,
+   "duration": 4.12
+  },
+  {
+   "index": 7,
+   "name": "ATT3",
+   "start": 24.348,
+   "duration": 3.782
+  },
+  {
+   "index": 8,
+   "name": "ATT4",
+   "start": 28.13,
+   "duration": 4.188
+  },
+  {
+   "index": 9,
+   "name": "CUR1",
+   "start": 32.318,
+   "duration": 3.258
+  },
+  {
+   "index": 10,
+   "name": "CUR2",
+   "start": 35.575,
+   "duration": 3.181
+  },
+  {
+   "index": 11,
+   "name": "M1_HEAD",
+   "start": 38.756,
+   "duration": 2.761
+  },
+  {
+   "index": 12,
+   "name": "M1_A",
+   "start": 41.517,
+   "duration": 4.725
+  },
+  {
+   "index": 13,
+   "name": "M1_B",
+   "start": 46.242,
+   "duration": 3.401
+  },
+  {
+   "index": 14,
+   "name": "M1_GIAIMA",
+   "start": 49.643,
+   "duration": 6.436
+  },
+  {
+   "index": 15,
+   "name": "M1_LUC",
+   "start": 56.078,
+   "duration": 6.794
+  },
+  {
+   "index": 16,
+   "name": "M1_TOIQUA",
+   "start": 62.872,
+   "duration": 4.253
+  },
+  {
+   "index": 17,
+   "name": "M1_RAN",
+   "start": 67.126,
+   "duration": 5.185
+  },
+  {
+   "index": 18,
+   "name": "M1_NGO",
+   "start": 72.31,
+   "duration": 7.216
+  },
+  {
+   "index": 19,
+   "name": "M1_DAPAN",
+   "start": 79.526,
+   "duration": 5.582
+  },
+  {
+   "index": 20,
+   "name": "M2_HEAD",
+   "start": 85.108,
+   "duration": 2.55
+  },
+  {
+   "index": 21,
+   "name": "M2_HOOK",
+   "start": 87.659,
+   "duration": 4.628
+  },
+  {
+   "index": 22,
+   "name": "M2_B",
+   "start": 92.286,
+   "duration": 3.844
+  },
+  {
+   "index": 23,
+   "name": "M2_GIAIMA",
+   "start": 96.13,
+   "duration": 5.793
+  },
+  {
+   "index": 24,
+   "name": "M2_THOAI",
+   "start": 101.923,
+   "duration": 7.025
+  },
+  {
+   "index": 25,
+   "name": "M2_VONG",
+   "start": 108.948,
+   "duration": 4.423
+  },
+  {
+   "index": 26,
+   "name": "M2_CHOT",
+   "start": 113.371,
+   "duration": 5.543
+  },
+  {
+   "index": 27,
+   "name": "M2_NGO",
+   "start": 118.914,
+   "duration": 7.637
+  },
+  {
+   "index": 28,
+   "name": "M3_HEAD",
+   "start": 126.551,
+   "duration": 3.032
+  },
+  {
+   "index": 29,
+   "name": "M3_HOOK",
+   "start": 129.583,
+   "duration": 4.478
+  },
+  {
+   "index": 30,
+   "name": "M3_B",
+   "start": 134.061,
+   "duration": 3.821
+  },
+  {
+   "index": 31,
+   "name": "M3_GIAIMA",
+   "start": 137.881,
+   "duration": 5.219
+  },
+  {
+   "index": 32,
+   "name": "M3_TIMELINE",
+   "start": 143.1,
+   "duration": 8.415
+  },
+  {
+   "index": 33,
+   "name": "M3_XUATHIEN",
+   "start": 151.516,
+   "duration": 3.843
+  },
+  {
+   "index": 34,
+   "name": "M3_GUONG",
+   "start": 155.358,
+   "duration": 5.677
+  },
+  {
+   "index": 35,
+   "name": "M3_NGO",
+   "start": 161.035,
+   "duration": 6.115
+  },
+  {
+   "index": 36,
+   "name": "M4_HEAD",
+   "start": 167.15,
+   "duration": 3.299
+  },
+  {
+   "index": 37,
+   "name": "M4_HOOK",
+   "start": 170.449,
+   "duration": 2.348
+  },
+  {
+   "index": 38,
+   "name": "M4_DETHI",
+   "start": 172.797,
+   "duration": 4.311
+  },
+  {
+   "index": 39,
+   "name": "M4_GIAIMA",
+   "start": 177.108,
+   "duration": 5.832
+  },
+  {
+   "index": 40,
+   "name": "M4_THOAI",
+   "start": 182.941,
+   "duration": 7.763
+  },
+  {
+   "index": 41,
+   "name": "M4_HOA",
+   "start": 190.704,
+   "duration": 5.336
+  },
+  {
+   "index": 42,
+   "name": "M4_NGO",
+   "start": 196.04,
+   "duration": 5.431
+  },
+  {
+   "index": 43,
+   "name": "M5_HEAD",
+   "start": 201.471,
+   "duration": 3.31
+  },
+  {
+   "index": 44,
+   "name": "M5_HOOK",
+   "start": 204.781,
+   "duration": 5.074
+  },
+  {
+   "index": 45,
+   "name": "M5_B",
+   "start": 209.855,
+   "duration": 3.398
+  },
+  {
+   "index": 46,
+   "name": "M5_GIAIMA",
+   "start": 213.253,
+   "duration": 6.338
+  },
+  {
+   "index": 47,
+   "name": "M5_SOAN",
+   "start": 219.591,
+   "duration": 4.552
+  },
+  {
+   "index": 48,
+   "name": "M5_RA",
+   "start": 224.143,
+   "duration": 7.421
+  },
+  {
+   "index": 49,
+   "name": "M5_KHI",
+   "start": 231.564,
+   "duration": 3.091
+  },
+  {
+   "index": 50,
+   "name": "M5_TIN",
+   "start": 234.654,
+   "duration": 4.884
+  },
+  {
+   "index": 51,
+   "name": "M5_LUOT",
+   "start": 239.538,
+   "duration": 2.485
+  },
+  {
+   "index": 52,
+   "name": "M5_NGO",
+   "start": 242.023,
+   "duration": 5.632
+  },
+  {
+   "index": 53,
+   "name": "PAY1",
+   "start": 247.655,
+   "duration": 4.329
+  },
+  {
+   "index": 54,
+   "name": "PAY2",
+   "start": 251.985,
+   "duration": 7.631
+  },
+  {
+   "index": 55,
+   "name": "PAY3",
+   "start": 259.615,
+   "duration": 4.859
+  },
+  {
+   "index": 56,
+   "name": "SOC1",
+   "start": 264.474,
+   "duration": 3.427
+  },
+  {
+   "index": 57,
+   "name": "SOC2",
+   "start": 267.901,
+   "duration": 4.481
+  },
+  {
+   "index": 58,
+   "name": "SOC3",
+   "start": 272.382,
+   "duration": 6.837
+  },
+  {
+   "index": 59,
+   "name": "SOC4",
+   "start": 279.219,
+   "duration": 7.925
+  },
+  {
+   "index": 60,
+   "name": "EXP1",
+   "start": 287.144,
+   "duration": 4.742
+  },
+  {
+   "index": 61,
+   "name": "EXP2",
+   "start": 291.886,
+   "duration": 5.868
+  },
+  {
+   "index": 62,
+   "name": "CTA",
+   "start": 297.754,
+   "duration": 2.932
+  }
+ ],
+ "total_duration": 300.689
+}

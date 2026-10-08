@@ -1,0 +1,1580 @@
+{
+ "MODAU": {
+  "els": [
+   {
+    "type": "big",
+    "k": "q",
+    "a": "con",
+    "t": "“CÒN 5 PHÚT.”",
+    "s": 96,
+    "c": "RED"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "neu",
+    "t": "Nếu ngươi từng đi học…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "biet",
+    "t": "ngươi sẽ biết…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "day",
+    "t": "đây không phải\nthông báo thời gian.",
+    "s": 60,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "MODAU2": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "boi",
+    "t": "Bởi vì ngay sau câu này…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "nua",
+    "t": "một nửa lớp bắt đầu viết\nnhư NHẬP MA.",
+    "s": 56,
+    "c": "RED"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "con",
+    "t": "Một nửa còn lại…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "nhin",
+    "t": "nhìn bài như\nnhìn THIÊN THƯ.",
+    "s": 64,
+    "c": "JADE"
+   }
+  ]
+ },
+ "MODAU3": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "dua",
+    "t": "Có đứa quay sang bạn:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "s1",
+    "a": "cau",
+    "who": "ĐỨA BÊN CẠNH",
+    "t": "“Ê câu 4 làm sao?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "s2",
+    "a": "khong",
+    "who": "BẠN",
+    "t": "“Không biết.”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "s3",
+    "a": "the",
+    "who": "ĐỨA BÊN CẠNH",
+    "t": "“Thế câu 5?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "s4",
+    "a": "khong",
+    "who": "BẠN",
+    "t": "“Không biết.”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "s5",
+    "a": "the",
+    "who": "ĐỨA BÊN CẠNH",
+    "t": "“Thế mày làm được câu nào?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "ten",
+    "t": "“CÂU TÊN.”",
+    "s": 80,
+    "c": "RED"
+   },
+   {
+    "type": "skull",
+    "k": "sk",
+    "a": "ten"
+   }
+  ]
+ },
+ "MODAU4": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "nhung",
+    "t": "Nhưng đó mới chỉ là…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "trong",
+    "t": "một trong những mật ngôn\nđáng sợ nhất của",
+    "s": 50,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "giao",
+    "t": "GIÁO DỤC GIỚI.",
+    "s": 80,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "MODAU5": {
+  "els": [
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "co cau",
+    "t": "Có câu… nghe như giáo viên\nđang thông báo.",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "co cau",
+    "t": "Có câu… nghe như\nđang nhắc nhẹ.",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "co cau",
+    "t": "Có câu… nghe xong phải lập tức\nkiểm tra NHÓM LỚP.",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "gap",
+    "h": 8
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "va co",
+    "t": "Và có câu… chỉ cần\ngiáo viên nói ra…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "lop",
+    "t": "cả lớp tự động\nIM LẶNG.",
+    "s": 70,
+    "c": "RED"
+   }
+  ]
+ },
+ "MODAU6": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "goi",
+    "t": "Giáo Dục Giới gọi chúng là…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "mat",
+    "t": "📜"
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "mat",
+    "t": "MẬT NGÔN\nGIÁO VIÊN.",
+    "s": 88,
+    "c": "GOLD"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "hay",
+    "t": "Và hãy xem… ngươi đã từng nghe\nbao nhiêu câu.",
+    "s": 44,
+    "c": "TEXT",
+    "w": 600
+   }
+  ]
+ },
+ "M1_HEAD": {
+  "head": {
+   "num": "ĐỆ NHẤT MẬT NGÔN",
+   "q": "“CÒN 5 PHÚT.”"
+  },
+  "els": [
+   {
+    "type": "anchor",
+    "k": "dot",
+    "a": "nhat"
+   },
+   {
+    "type": "anchor",
+    "k": "q",
+    "a": "con"
+   }
+  ]
+ },
+ "M1_PAIR": {
+  "els": [
+   {
+    "type": "says",
+    "k": "a",
+    "a": "giao",
+    "who": "GIÁO VIÊN",
+    "t": "“Các em còn 5 phút nhé.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "moi",
+    "who": "HỌC SINH MỚI",
+    "t": "“Dạ, còn 5 phút.”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "lau",
+    "who": "HỌC SINH LÂU NĂM",
+    "t": "“ĐẠI KIẾP ĐÃ TỚI.”",
+    "c": "RED",
+    "s": 62,
+    "right": false
+   },
+   {
+    "type": "skull",
+    "k": "sk",
+    "a": "kiep"
+   }
+  ]
+ },
+ "M1_TIME": {
+  "els": [
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "3",
+    "t": "3 phút đầu… vẫn còn bình tĩnh.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "2",
+    "t": "2 phút cuối… bắt đầu viết.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "1",
+    "t": "1 phút cuối… không còn viết nữa.",
+    "s": 46,
+    "c": "RED"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "ma",
+    "t": "Mà là…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "khac",
+    "t": "KHẮC CHỮ LÊN GIẤY\nBẰNG Ý CHÍ.",
+    "s": 64,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "M1_REVEAL": {
+  "els": [
+   {
+    "type": "says",
+    "k": "a",
+    "a": "giao",
+    "who": "GIÁO VIÊN",
+    "t": "“Hết giờ.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "lop",
+    "who": "CẢ LỚP",
+    "t": "“CÔ ƠI CHO EM\nTHÊM 1 PHÚT.”",
+    "c": "RED",
+    "s": 56,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "giao",
+    "who": "GIÁO VIÊN",
+    "t": "“Cô đã cho 5 phút rồi mà.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "big",
+    "k": "big",
+    "a": "thien",
+    "t": "THIÊN ĐẠO\nVÔ TÌNH.",
+    "s": 84,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "M2_HEAD": {
+  "head": {
+   "num": "ĐỆ NHỊ MẬT NGÔN",
+   "q": "“CÔ ĐÃ GỬI BÀI\nTRÊN NHÓM RỒI NHÉ.”"
+  },
+  "els": [
+   {
+    "type": "anchor",
+    "k": "dot",
+    "a": "nhi"
+   },
+   {
+    "type": "anchor",
+    "k": "q",
+    "a": "gui"
+   }
+  ]
+ },
+ "M2_PAIR": {
+  "els": [
+   {
+    "type": "says",
+    "k": "a",
+    "a": "ngoai",
+    "who": "NGƯỜI NGOÀI NGHE",
+    "t": "“À, cô gửi tài liệu.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "hoc",
+    "who": "HỌC SINH NGHE",
+    "t": "“NHIỆM VỤ ĐÃ ĐƯỢC\nTRIỆU HỒI.”",
+    "c": "RED",
+    "s": 58,
+    "right": true
+   },
+   {
+    "type": "skull",
+    "k": "sk",
+    "a": "trieu"
+   }
+  ]
+ },
+ "M2_KEO": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "lap",
+    "t": "Lập tức mở nhóm lớp.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 800
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "big",
+    "k": "k1",
+    "a": "len",
+    "t": "↑ Kéo lên.",
+    "s": 66,
+    "c": "JADE"
+   },
+   {
+    "type": "big",
+    "k": "k2",
+    "a": "xuong",
+    "t": "↓ Kéo xuống.",
+    "s": 66,
+    "c": "JADE"
+   },
+   {
+    "type": "big",
+    "k": "k3",
+    "a": "tiep",
+    "t": "↓↓ Kéo tiếp.",
+    "s": 72,
+    "c": "RED"
+   }
+  ]
+ },
+ "M2_CHAT": {
+  "els": [
+   {
+    "type": "says",
+    "k": "c1",
+    "a": "ua",
+    "who": "ĐỆ TỬ",
+    "t": "“Ủa…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "c2",
+    "a": "gui",
+    "who": "ĐỆ TỬ",
+    "t": "“Cô gửi từ tối qua à?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "c3",
+    "a": "ban",
+    "who": "BẠN",
+    "t": "“Ừ.”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "c4",
+    "a": "sao",
+    "who": "ĐỆ TỬ",
+    "t": "“Thế sao tao không thấy?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "c5",
+    "a": "tai",
+    "who": "BẠN",
+    "t": "“Tại mày chưa đọc.”",
+    "c": "RED",
+    "s": 50,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "c6",
+    "a": "de",
+    "who": "ĐỆ TỬ",
+    "t": "“…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   }
+  ]
+ },
+ "M2_REVEAL": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "dung",
+    "t": "Đúng là…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "doc",
+    "t": "đọc tin nhắn trong nhóm lớp\ncũng cần CẢNH GIỚI.",
+    "s": 56,
+    "c": "JADE"
+   }
+  ]
+ },
+ "M3_HEAD": {
+  "head": {
+   "num": "ĐỆ TAM MẬT NGÔN",
+   "q": "“CÔ ĐÃ CÓ\nBÀI GIẢNG RỒI.”"
+  },
+  "els": [
+   {
+    "type": "anchor",
+    "k": "dot",
+    "a": "tam"
+   },
+   {
+    "type": "anchor",
+    "k": "q",
+    "a": "bai"
+   }
+  ]
+ },
+ "M3_AD1": {
+  "panel": [
+   {
+    "k": "p0",
+    "a": "neu",
+    "src": "mngv/c_import.mp4",
+    "focus": "50% 40%"
+   },
+   {
+    "k": "p1",
+    "a": "giong",
+    "src": "mngv/c_subs.mp4",
+    "focus": "45% 55%"
+   },
+   {
+    "k": "p2",
+    "a": "mien",
+    "src": "mngv/c_result.mp4",
+    "focus": "50% 45%"
+   }
+  ],
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "giao",
+    "t": "Mà nếu giáo viên hoặc người làm video…",
+    "s": 38,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "bien",
+    "t": "muốn biến PowerPoint hay kịch bản…",
+    "s": 40,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "giong",
+    "t": "thành video có\nGIỌNG ĐỌC + PHỤ ĐỀ",
+    "s": 54,
+    "c": "JADE"
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "nhu",
+    "t": "như của bần đạo…",
+    "s": 38,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "mien",
+    "t": "PHÁP KHÍ MIỄN PHÍ.",
+    "s": 60,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "M3_AD2": {
+  "panel": [
+   {
+    "k": "p0",
+    "a": "dua",
+    "src": "mngv/c_paste.mp4",
+    "focus": "50% 45%"
+   },
+   {
+    "k": "p1",
+    "a": "hinh",
+    "src": "mngv/c_effect2.mp4",
+    "focus": "70% 50%"
+   }
+  ],
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "dua",
+    "t": "Đưa PowerPoint vào,",
+    "s": 44,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dan",
+    "t": "hoặc dán kịch bản của mình,",
+    "s": 44,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "gap",
+    "h": 6
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "hinh",
+    "t": "hình ảnh và hiệu ứng\nxuất hiện ĐÚNG LÚC\nlời đọc tới.",
+    "s": 54,
+    "c": "JADE"
+   }
+  ]
+ },
+ "M3_AD3": {
+  "panel": [
+   {
+    "k": "p0",
+    "a": "giao",
+    "src": "mngv/c_result.mp4",
+    "focus": "50% 45%"
+   },
+   {
+    "k": "p1",
+    "a": "creator",
+    "src": "mngv/img_result_vertical.png",
+    "focus": "50% 45%"
+   }
+  ],
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "giao",
+    "t": "Giáo viên làm bài giảng,",
+    "s": 44,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "creator",
+    "t": "creator làm video ngắn…",
+    "s": 44,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "deu",
+    "t": "ĐỀU DÙNG ĐƯỢC.",
+    "s": 66,
+    "c": "GOLD"
+   },
+   {
+    "type": "gap",
+    "h": 6
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "khong",
+    "t": "Không cần ngồi vật nhau với timeline.",
+    "s": 40,
+    "c": "SEC",
+    "w": 600
+   }
+  ]
+ },
+ "M3_CTA": {
+  "panel": [
+   {
+    "k": "p0",
+    "a": "muon",
+    "src": "mngv/c_result.mp4",
+    "focus": "50% 45%"
+   }
+  ],
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "muon",
+    "t": "Muốn thử thì…",
+    "s": 42,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "link",
+    "t": "👇"
+   },
+   {
+    "type": "btn",
+    "k": "b",
+    "a": "link",
+    "t": "LINK TẢI\nNHÓM ZALO Ở BIO",
+    "c": "JADE"
+   }
+  ]
+ },
+ "M4_HEAD": {
+  "head": {
+   "num": "ĐỆ TỨ MẬT NGÔN",
+   "q": "“EM VỀ NHỚ\nLÀM BÀI NHÉ.”"
+  },
+  "els": [
+   {
+    "type": "anchor",
+    "k": "dot",
+    "a": "tu"
+   },
+   {
+    "type": "anchor",
+    "k": "q",
+    "a": "nho"
+   }
+  ]
+ },
+ "M4_NHE": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "nhang",
+    "t": "Nghe rất nhẹ nhàng.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "tinh",
+    "t": "Rất tình cảm.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "rat",
+    "t": "Rất…",
+    "s": 46,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "binh",
+    "t": "BÌNH THƯỜNG.",
+    "s": 84,
+    "c": "JADE"
+   }
+  ]
+ },
+ "M4_AN": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "biet",
+    "t": "Nhưng đệ tử lâu năm biết:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "loi",
+    "t": "Đây không phải lời chúc.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "day la",
+    "t": "Đây là…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "an",
+    "t": "ẤN KÝ\nNHIỆM VỤ.",
+    "s": 92,
+    "c": "RED"
+   }
+  ]
+ },
+ "M4_LAT": {
+  "els": [
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "ve",
+    "t": "Về đến nhà: “Để lát làm.”",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "com",
+    "t": "Ăn cơm. “Lát làm.”",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "game",
+    "t": "Chơi game. “Trận này xong làm.”",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r4",
+    "a": "tiktok",
+    "t": "Lướt TikTok. “Video này xong làm.”",
+    "s": 44,
+    "c": "TEXT"
+   }
+  ]
+ },
+ "M4_REVEAL": {
+  "els": [
+   {
+    "type": "clock",
+    "k": "c",
+    "a": "11",
+    "t": "23:47",
+    "c": "RED"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "mo",
+    "t": "mở cặp.",
+    "s": 50,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "bai",
+    "t": "“BÀI GÌ NHỈ?”",
+    "s": 86,
+    "c": "RED"
+   },
+   {
+    "type": "skull",
+    "k": "sk",
+    "a": "nhi"
+   }
+  ]
+ },
+ "M5_HEAD": {
+  "head": {
+   "num": "ĐỆ NGŨ MẬT NGÔN",
+   "q": "“CÔ NHỜ PHỤ HUYNH\nPHỐI HỢP.”"
+  },
+  "els": [
+   {
+    "type": "anchor",
+    "k": "dot",
+    "a": "ngu"
+   },
+   {
+    "type": "anchor",
+    "k": "q",
+    "a": "nho"
+   }
+  ]
+ },
+ "M5_CANH": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "canh",
+    "t": "Đây… là cảnh giới mà học sinh\nkhông muốn nhìn thấy nhất.",
+    "s": 44,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "boi",
+    "t": "Bởi vì khi giáo viên nói:",
+    "s": 42,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "quote",
+    "k": "q",
+    "a": "nho",
+    "t": "“Cô nhờ phụ huynh phối hợp…”",
+    "s": 50,
+    "c": "GOLD"
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "nhiem",
+    "t": "thì nhiệm vụ…",
+    "s": 44,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "khong",
+    "t": "đã KHÔNG CÒN\nnằm trong tay đệ tử.",
+    "s": 60,
+    "c": "RED"
+   }
+  ]
+ },
+ "M5_GIATOC": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "gia",
+    "t": "🏯"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "gia",
+    "t": "Gia Tộc Hộ Đạo…",
+    "s": 68,
+    "c": "GOLD",
+    "w": 800
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "trieu",
+    "t": "ĐÃ ĐƯỢC\nTRIỆU HỒI.",
+    "s": 90,
+    "c": "RED"
+   }
+  ]
+ },
+ "M5_CHAT": {
+  "els": [
+   {
+    "type": "says",
+    "k": "p1",
+    "a": "con",
+    "who": "PHỤ HUYNH",
+    "t": "“Con.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "p2",
+    "a": "bao",
+    "who": "PHỤ HUYNH",
+    "t": "“Cô giáo bảo…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "h1",
+    "a": "hoc",
+    "who": "HỌC SINH",
+    "t": "“…”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "h2",
+    "a": "giai",
+    "who": "HỌC SINH",
+    "t": "“Con giải thích được.”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "p3",
+    "a": "chua",
+    "who": "PHỤ HUYNH",
+    "t": "“Mẹ chưa hỏi.”",
+    "c": "RED",
+    "s": 54,
+    "right": false
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "dao",
+    "t": "ĐẠO TÂM\nbắt đầu lung lay.",
+    "s": 58,
+    "c": "JADE"
+   }
+  ]
+ },
+ "M6_HEAD": {
+  "head": {
+   "num": "ĐỆ LỤC MẬT NGÔN",
+   "q": "“CÔ CHỈ NHẮC\nNHẸ THÔI NHÉ.”"
+  },
+  "els": [
+   {
+    "type": "anchor",
+    "k": "dot",
+    "a": "luc"
+   },
+   {
+    "type": "anchor",
+    "k": "q",
+    "a": "nhac"
+   }
+  ]
+ },
+ "M6_PAIR": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "cao",
+    "t": "Đây mới là cảnh giới cao nhất.",
+    "s": 50,
+    "c": "GOLD",
+    "w": 800
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "moi",
+    "who": "NGƯỜI MỚI NGHE",
+    "t": "“À, cô chỉ nhắc thôi.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "tu",
+    "who": "NGƯỜI TU LUYỆN LÂU NĂM",
+    "t": "“ĐÂY LÀ\nLẦN NHẮC CUỐI.”",
+    "c": "RED",
+    "s": 60,
+    "right": true
+   }
+  ]
+ },
+ "M6_KHONG": {
+  "els": [
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "la",
+    "t": "Không cần la.",
+    "s": 52,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "mang",
+    "t": "Không cần mắng.",
+    "s": 52,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "dap",
+    "t": "Không cần đập bàn.",
+    "s": 52,
+    "c": "TEXT"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "chi",
+    "t": "Chỉ một câu:",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "quote",
+    "k": "q",
+    "a": "nhac",
+    "t": "“Cô chỉ nhắc nhẹ thôi nhé.”",
+    "s": 54,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "M6_REVEAL": {
+  "els": [
+   {
+    "type": "says",
+    "k": "a",
+    "a": "lop",
+    "who": "CẢ LỚP",
+    "t": "“Dạ.”",
+    "c": "TEXT",
+    "s": 54,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "long",
+    "who": "TRONG LÒNG",
+    "t": "“CHÚNG CON\nHIỂU RỒI Ạ.”",
+    "c": "RED",
+    "s": 66,
+    "right": true
+   },
+   {
+    "type": "skull",
+    "k": "sk",
+    "a": "hieu"
+   }
+  ]
+ },
+ "KET": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "thu",
+    "t": "Nhưng điều thú vị là…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "giao",
+    "t": "giáo viên không cần nói\nnhững câu quá đáng sợ.",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "gap",
+    "h": 8
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "boi",
+    "t": "Bởi trong Giáo Dục Giới…",
+    "s": 42,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l3",
+    "a": "binh",
+    "t": "những câu BÌNH THƯỜNG NHẤT…",
+    "s": 50,
+    "c": "JADE",
+    "w": 800
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "chua",
+    "t": "lại thường chứa\nNHIỀU NHÂN QUẢ NHẤT.",
+    "s": 58,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "KET_LIST": {
+  "els": [
+   {
+    "type": "item",
+    "k": "i1",
+    "a": "con",
+    "t": "“Còn 5 phút.”",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "i2",
+    "a": "gui",
+    "t": "“Cô đã gửi trên nhóm.”",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "i3",
+    "a": "ve",
+    "t": "“Về nhớ làm bài.”",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "i4",
+    "a": "phu",
+    "t": "“Cô nhờ phụ huynh phối hợp.”",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "i5",
+    "a": "nhac",
+    "t": "“Cô chỉ nhắc nhẹ thôi.”",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "5 cau",
+    "t": "Năm câu.",
+    "s": 50,
+    "c": "TEXT",
+    "w": 800
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "tang",
+    "t": "NĂM TẦNG\nCẢNH GIỚI.",
+    "s": 80,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "KET2": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "ngoai",
+    "t": "Người ngoài nghe…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "thay",
+    "t": "chỉ thấy giáo viên đang nói chuyện.",
+    "s": 46,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "de",
+    "t": "Còn đệ tử nghe…",
+    "s": 50,
+    "c": "JADE",
+    "w": 800
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "da tu",
+    "t": "đã TỰ ĐỘNG HIỂU\nphần còn lại.",
+    "s": 64,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "CMT": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "dau",
+    "t": "Nếu trong đầu ngươi vừa hiện lên…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "cau",
+    "t": "một câu giáo viên\nHAY NÓI NHẤT…",
+    "s": 62,
+    "c": "GOLD"
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "giu",
+    "t": "thì đừng giữ bí mật.",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "binh",
+    "t": "💬"
+   },
+   {
+    "type": "btn",
+    "k": "b2",
+    "a": "binh",
+    "t": "Để nó xuất hiện\nở PHẦN BÌNH LUẬN",
+    "c": "JADE"
+   }
+  ]
+ },
+ "KET3": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "biet",
+    "t": "Biết đâu…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "giao",
+    "t": "cả Giáo Dục Giới…",
+    "s": 50,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "tu",
+    "t": "đang cùng tu một bộ Mật Ngôn.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "gap",
+    "h": 14
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "chinh",
+    "t": "Đây chính là…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "mat",
+    "t": "📜"
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "mat",
+    "t": "MẬT NGÔN\nGIÁO VIÊN.",
+    "s": 90,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "CTA": {
+  "els": [
+   {
+    "type": "btn",
+    "k": "b",
+    "a": "follow",
+    "t": "▶ FOLLOW BẦN ĐẠO",
+    "c": "GOLD"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "moi",
+    "t": "để mỗi ngày…",
+    "s": 44,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "nghe",
+    "t": "lại nghe thêm một bộ mật ngôn.",
+    "s": 48,
+    "c": "JADE",
+    "w": 700
+   }
+  ]
+ }
+}

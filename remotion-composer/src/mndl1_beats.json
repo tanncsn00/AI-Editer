@@ -1,0 +1,65 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "HOOK_NANG",
+   "start": 0.0,
+   "duration": 2.657
+  },
+  {
+   "index": 2,
+   "name": "HOOK_NGUOI",
+   "start": 2.657,
+   "duration": 2.595
+  },
+  {
+   "index": 3,
+   "name": "HEAD",
+   "start": 5.253,
+   "duration": 4.284
+  },
+  {
+   "index": 4,
+   "name": "GIAIMA",
+   "start": 9.537,
+   "duration": 6.436
+  },
+  {
+   "index": 5,
+   "name": "LUC",
+   "start": 15.973,
+   "duration": 6.794
+  },
+  {
+   "index": 6,
+   "name": "TOIQUA",
+   "start": 22.767,
+   "duration": 4.253
+  },
+  {
+   "index": 7,
+   "name": "RAN",
+   "start": 27.02,
+   "duration": 5.185
+  },
+  {
+   "index": 8,
+   "name": "NGO",
+   "start": 32.205,
+   "duration": 7.216
+  },
+  {
+   "index": 9,
+   "name": "DAPAN",
+   "start": 39.421,
+   "duration": 5.582
+  },
+  {
+   "index": 10,
+   "name": "CTA",
+   "start": 45.002,
+   "duration": 5.068
+  }
+ ],
+ "total_duration": 50.07
+}

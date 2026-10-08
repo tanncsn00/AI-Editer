@@ -1,0 +1,11 @@
+- main [ref=f256e33]:
+  - generic [ref=f256e38]:
+    - button "Top" [ref=f256e41] [cursor=pointer]
+    - button "Users" [ref=f256e47] [cursor=pointer]
+    - button "Videos" [ref=f256e53] [cursor=pointer]
+    - button "LIVE" [ref=f256e59] [cursor=pointer]
+    - button "Photo" [ref=f256e65] [cursor=pointer]
+  - generic [ref=f256e170]:
+    - button [ref=f256e173] [cursor=pointer]
+    - button [ref=f256e180] [cursor=pointer]
+    - button "Log in" [ref=f256e187] [cursor=pointer]

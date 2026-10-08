@@ -1,0 +1,116 @@
+{
+ "hook": {
+  "gv": 17,
+  "cr": 33,
+  "vp": 66,
+  "ppt": 119,
+  "kb": 163,
+  "khong": 194
+ },
+ "free": {
+  "mp": 8,
+  "nem": 47,
+  "con": 105
+ },
+ "pain": {
+  "xuat": 89,
+  "thu": 127,
+  "cat": 141,
+  "canh": 159,
+  "them": 182,
+  "keo": 222,
+  "p30": 287,
+  "buoi": 331
+ },
+ "turn": {
+  "ppt": 44,
+  "khac": 89
+ },
+ "gv1": {
+  "slide": 134,
+  "canh": 167,
+  "ghichu": 191,
+  "loi": 245
+ },
+ "gv2": {
+  "notes": 122,
+  "nem": 134,
+  "xong": 195
+ },
+ "gv3": {
+  "phong": 22,
+  "anim": 48,
+  "loidoc": 193
+ },
+ "sync1": {
+  "hinh": 77,
+  "dung": 126,
+  "keo": 202,
+  "soi": 252
+ },
+ "sync2": {
+  "cau": 54,
+  "giong": 104,
+  "hinh": 135,
+  "nhin": 180,
+  "thucte": 275
+ },
+ "subs": {
+  "cau": 52,
+  "tungtu": 82,
+  "kara": 102,
+  "go": 156
+ },
+ "voices": {
+  "nn": 104,
+  "gt": 119,
+  "md": 135,
+  "nb": 193
+ },
+ "creator": {
+  "cr": 24,
+  "code": 108,
+  "ai": 118,
+  "review": 144,
+  "top": 172,
+  "bm": 197,
+  "tut": 248
+ },
+ "ratio": {
+  "tiktok": 141,
+  "doc": 195,
+  "yt": 267,
+  "ngang": 291
+ },
+ "queue": {
+  "hd": 119,
+  "nen": 186,
+  "mp4": 303
+ },
+ "brand": {
+  "font": 15,
+  "theme": 75,
+  "logo": 123,
+  "tpl": 158
+ },
+ "sum": {
+  "s1": 32,
+  "s2": 82,
+  "s3": 138,
+  "s4": 194,
+  "tl": 301
+ },
+ "who": {
+  "ed": 39,
+  "gv": 182,
+  "cr": 227,
+  "tut": 286,
+  "vp": 315
+ },
+ "cta": {
+  "mp": 7,
+  "zalo": 66,
+  "bio": 123,
+  "follow": 308
+ }
+}

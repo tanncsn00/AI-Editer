@@ -1,0 +1,176 @@
+- generic [ref=f128e1]:
+  - generic [ref=f128e2]:
+    - region "Notifications alt+T"
+    - generic [ref=f128e3]:
+      - generic [ref=f128e5]:
+        - generic [ref=f128e7]:
+          - link "Go to TikTok For You feed" [ref=f128e9] [cursor=pointer]:
+            - /url: /
+            - strong: TikTok
+          - searchbox "Search" [ref=f128e15] [cursor=pointer]
+        - generic [ref=f128e21]:
+          - generic [ref=f128e22]:
+            - heading [level=2] [ref=f128e23]:
+              - link [ref=f128e25] [cursor=pointer]:
+                - /url: /
+                - listitem "For You" [ref=f128e26]
+            - heading [level=2] [ref=f128e32]:
+              - link [ref=f128e34] [cursor=pointer]:
+                - /url: /explore
+                - listitem "Explore" [ref=f128e35]
+            - heading [level=2] [ref=f128e42]:
+              - link [ref=f128e44] [cursor=pointer]:
+                - /url: /following
+                - listitem "Following" [ref=f128e45]
+            - heading [level=2] [ref=f128e52]:
+              - link [ref=f128e55] [cursor=pointer]:
+                - /url: /live
+                - listitem "LIVE" [ref=f128e56]
+            - link [ref=f128e65] [cursor=pointer]:
+              - /url: /tiktokstudio/upload?from=webapp&tab=video
+              - listitem "Upload" [ref=f128e66]
+            - heading [level=2] [ref=f128e73]:
+              - link [ref=f128e75] [cursor=pointer]:
+                - /url: /@
+                - listitem "Profile" [ref=f128e76]
+            - listitem "More" [ref=f128e83] [cursor=pointer]
+          - button "Log in" [ref=f128e95] [cursor=pointer]
+      - main [ref=f128e103]:
+        - generic [ref=f128e104]:
+          - article [ref=f128e105]:
+            - generic [ref=f128e106]:
+              - region "Watch in full screen" [ref=f128e107] [cursor=pointer]:
+                - generic [ref=f128e108]:
+                  - 'img "Larva never fails to make me laugh. 😂🐛#larva #Trending #hoathinh #larvacartoon #funny" [ref=f128e112]'
+                  - generic [ref=f128e115]:
+                    - generic [ref=f128e116]:
+                      - button "Volume" [pressed] [ref=f128e119]
+                      - button [ref=f128e127]
+                    - generic [ref=f128e134]:
+                      - link [ref=f128e136]:
+                        - /url: /@lloyoouhy
+                        - paragraph [ref=f128e138]: nvoldfnn
+                      - generic [ref=f128e142]:
+                        - generic [ref=f128e143]: Larva never fails to make me laugh. 😂🐛
+                        - link "Watch more videos of the larva category" [ref=f128e144]:
+                          - /url: /tag/larva
+                          - paragraph [ref=f128e145]: "#larva"
+                        - link "Watch more videos of the Trending category" [ref=f128e147]:
+                          - /url: /tag/trending
+                          - paragraph [ref=f128e148]: "#Trending"
+                        - link "Watch more videos of the hoathinh category" [ref=f128e150]:
+                          - /url: /tag/hoathinh
+                          - paragraph [ref=f128e151]: "#hoathinh"
+                        - link "Watch more videos of the larvacartoon category" [ref=f128e153]:
+                          - /url: /tag/larvacartoon
+                          - paragraph [ref=f128e154]: "#larvacartoon"
+                        - link "Watch more videos of the funny category" [ref=f128e156]:
+                          - /url: /tag/funny
+                          - paragraph [ref=f128e157]: "#funny"
+                  - generic [ref=f128e159]:
+                    - paragraph: 00:00 / 03:25
+                    - slider "Video progress" [ref=f128e163]
+              - generic [ref=f128e165]:
+                - generic [ref=f128e166]:
+                  - link [ref=f128e167] [cursor=pointer]:
+                    - /url: /@lloyoouhy
+                    - img "lloyoouhy" [ref=f128e171]
+                  - button [ref=f128e172] [cursor=pointer]
+                - button "Like video 1.1M likes" [ref=f128e177] [cursor=pointer]:
+                  - button [ref=f128e180]
+                  - strong [ref=f128e186]: 1.1M
+                - button "Read or add comments 5824 comments" [ref=f128e187] [cursor=pointer]:
+                  - button [ref=f128e190]
+                  - strong [ref=f128e195]: "5824"
+                - button "Add to Favorites. 63.6K added to Favorites" [ref=f128e198] [cursor=pointer]:
+                  - button [ref=f128e201]
+                  - strong [ref=f128e207]: 63.6K
+                - button "Share video 157.6K shares" [ref=f128e209] [cursor=pointer]:
+                  - button [ref=f128e212]
+                  - strong [ref=f128e217]: 157.6K
+                - link "Watch more videos with music original sound - nvoldfnn" [ref=f128e218] [cursor=pointer]:
+                  - /url: /music/original-sound-7661073893116922638
+          - article [ref=f128e220]:
+            - generic [ref=f128e221]:
+              - region "Watch in full screen" [ref=f128e222] [cursor=pointer]:
+                - generic [ref=f128e223]:
+                  - 'img "Lỡ tay 🤡#freefire #ff #xuhuong #garenafreefire" [ref=f128e227]'
+                  - generic [ref=f128e230]:
+                    - generic [ref=f128e231]:
+                      - button "Volume" [pressed] [ref=f128e234]
+                      - button [ref=f128e242]
+                    - generic [ref=f128e249]:
+                      - link [ref=f128e251]:
+                        - /url: /@cadeptrai_hehe
+                        - paragraph [ref=f128e253]: Cá Mê Gái
+                      - generic [ref=f128e254]:
+                        - generic [ref=f128e257]:
+                          - generic [ref=f128e258]: Lỡ tay 🤡
+                          - link "Watch more videos of the freefire category" [ref=f128e259]:
+                            - /url: /tag/freefire
+                            - paragraph [ref=f128e260]: "#freefire"
+                          - link "Watch more videos of the ff category" [ref=f128e262]:
+                            - /url: /tag/ff
+                            - paragraph [ref=f128e263]: "#ff"
+                          - link "Watch more videos of the xuhuong category" [ref=f128e265]:
+                            - /url: /tag/xuhuong
+                            - paragraph [ref=f128e266]: "#xuhuong"
+                          - link "Watch more videos of the garenafreefire category" [ref=f128e268]:
+                            - /url: /tag/garenafreefire
+                            - paragraph [ref=f128e269]: "#garenafreefire"
+                        - paragraph [ref=f128e271]: See translation
+                  - generic [ref=f128e272]:
+                    - paragraph: 00:00 / 00:00
+                    - generic [ref=f128e275]:
+                      - slider "Video progress"
+              - generic [ref=f128e277]:
+                - generic [ref=f128e278]:
+                  - link [ref=f128e279] [cursor=pointer]:
+                    - /url: /@cadeptrai_hehe
+                    - img "cadeptrai_hehe" [ref=f128e283]
+                  - button [ref=f128e284] [cursor=pointer]
+                - button "Like video 125.4K likes" [ref=f128e289] [cursor=pointer]:
+                  - button [ref=f128e292]
+                  - strong [ref=f128e298]: 125.4K
+                - button "Read or add comments 2000 comments" [ref=f128e299] [cursor=pointer]:
+                  - button [ref=f128e302]
+                  - strong [ref=f128e307]: "2000"
+                - button "Add to Favorites. 7828 added to Favorites" [ref=f128e310] [cursor=pointer]:
+                  - button [ref=f128e313]
+                  - strong [ref=f128e319]: "7828"
+                - button "Share video 32.6K shares" [ref=f128e321] [cursor=pointer]:
+                  - button [ref=f128e324]
+                  - strong [ref=f128e329]: 32.6K
+                - link "Watch more videos with music âm thanh gốc - Cá Mê Gái" [ref=f128e330] [cursor=pointer]:
+                  - /url: /music/âm-thanh-gốc-Cá-Mê-Gái-7675169792945031943
+          - article [ref=f128e332]
+        - complementary:
+          - generic [ref=f128e337]:
+            - button [disabled] [ref=f128e339]
+            - button [ref=f128e345] [cursor=pointer]
+        - generic [ref=f128e352]:
+          - button [ref=f128e355] [cursor=pointer]
+          - button [ref=f128e362] [cursor=pointer]
+          - button "Log in" [ref=f128e369] [cursor=pointer]
+  - dialog [ref=f128e376]:
+    - generic [ref=f128e377]:
+      - generic [ref=f128e378]:
+        - heading "Captions" [level=2] [ref=f128e379]
+        - button "Close_button" [active] [ref=f128e380] [cursor=pointer]
+      - generic [ref=f128e383]:
+        - generic [ref=f128e385]:
+          - generic [ref=f128e386]:
+            - generic [ref=f128e387]: Show captions (unavailable)
+            - generic [ref=f128e388]: Speech not recognized
+          - switch [disabled] [ref=f128e392]
+        - generic [ref=f128e393]:
+          - generic [ref=f128e394]:
+            - generic [ref=f128e395]: Always translate posts
+            - switch [ref=f128e400] [cursor=pointer]
+          - generic [ref=f128e401]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=f128e403] [cursor=pointer]:
+          - generic [ref=f128e404]: Do not translate
+          - generic [ref=f128e405]: Select language
+        - button "Translate into English" [ref=f128e410] [cursor=pointer]:
+          - generic [ref=f128e411]: Translate into
+          - generic [ref=f128e412]: English

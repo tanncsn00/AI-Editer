@@ -1,0 +1,728 @@
+- generic [active] [ref=f434e1]:
+  - generic [ref=f434e4]:
+    - generic [ref=f434e6]:
+      - link "首页" [ref=f434e8] [cursor=pointer]:
+        - /url: //www.bilibili.com
+      - link "番剧" [ref=f434e17] [cursor=pointer]:
+        - /url: //www.bilibili.com/anime/
+      - link "直播" [ref=f434e20] [cursor=pointer]:
+        - /url: //live.bilibili.com
+      - link "游戏中心" [ref=f434e24] [cursor=pointer]:
+        - /url: //game.bilibili.com/platform
+      - link "会员购" [ref=f434e27] [cursor=pointer]:
+        - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+      - link "漫画" [ref=f434e30] [cursor=pointer]:
+        - /url: //manga.bilibili.com?from=bill_top_mnav
+      - link "赛事" [ref=f434e33] [cursor=pointer]:
+        - /url: //www.bilibili.com/match/home/
+      - link "下载客户端" [ref=f434e36] [cursor=pointer]:
+        - /url: //app.bilibili.com/
+    - generic [ref=f434e42]:
+      - generic [ref=f434e43]: 登录
+      - link [ref=f434e49] [cursor=pointer]:
+        - /url: //account.bilibili.com/big
+      - generic [ref=f434e56] [cursor=pointer]
+      - generic [ref=f434e61] [cursor=pointer]
+      - generic [ref=f434e69] [cursor=pointer]
+      - generic [ref=f434e74] [cursor=pointer]
+      - generic [ref=f434e78] [cursor=pointer]
+      - generic [ref=f434e85] [cursor=pointer]
+  - generic [ref=f434e91]:
+    - generic [ref=f434e92]:
+      - generic [ref=f434e96]:
+        - img [ref=f434e100] [cursor=pointer]
+        - textbox "输入关键字搜索" [ref=f434e102]: 女生说没事的意思
+        - button "搜索" [ref=f434e103] [cursor=pointer]
+      - navigation [ref=f434e106]:
+        - list [ref=f434e107]:
+          - listitem [ref=f434e108]:
+            - generic [ref=f434e109] [cursor=pointer]: 综合
+          - listitem [ref=f434e111]:
+            - generic [ref=f434e112] [cursor=pointer]:
+              - generic [ref=f434e113]: 视频
+              - generic [ref=f434e114]: 99+
+          - listitem [ref=f434e115]:
+            - generic [ref=f434e116] [cursor=pointer]:
+              - generic [ref=f434e117]: 番剧
+              - generic [ref=f434e118]: "0"
+          - listitem [ref=f434e119]:
+            - generic [ref=f434e120] [cursor=pointer]:
+              - generic [ref=f434e121]: 影视
+              - generic [ref=f434e122]: "0"
+          - listitem [ref=f434e123]:
+            - generic [ref=f434e124] [cursor=pointer]:
+              - generic [ref=f434e125]: 直播
+              - generic [ref=f434e126]: "0"
+          - listitem [ref=f434e127]:
+            - generic [ref=f434e128] [cursor=pointer]:
+              - generic [ref=f434e129]: 专栏
+              - generic [ref=f434e130]: 99+
+          - listitem [ref=f434e131]:
+            - generic [ref=f434e132] [cursor=pointer]:
+              - generic [ref=f434e133]: 用户
+              - generic [ref=f434e134]: "0"
+      - separator [ref=f434e136]
+      - generic [ref=f434e139]:
+        - generic [ref=f434e140]:
+          - button "综合排序" [ref=f434e141] [cursor=pointer]
+          - button "最多播放" [ref=f434e142] [cursor=pointer]
+          - button "最新发布" [ref=f434e143] [cursor=pointer]
+          - button "最多弹幕" [ref=f434e144] [cursor=pointer]
+          - button "最多收藏" [ref=f434e145] [cursor=pointer]
+        - button "更多筛选" [ref=f434e146] [cursor=pointer]
+    - generic [ref=f434e152]:
+      - generic [ref=f434e155]:
+        - link [ref=f434e156] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1bs4y1x7kn/
+          - generic [ref=f434e157]:
+            - img "【极速版】哪些事女生不好意思说，但是想让男生知道的？（男女慎入）" [ref=f434e160]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 24.4万
+                  - generic: "212"
+                - generic: 01:37
+        - generic [ref=f434e162]:
+          - link [ref=f434e163] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1bs4y1x7kn/
+            - heading [level=3] [ref=f434e164]:
+              - text: 【极速版】哪些事女生不好
+              - emphasis [ref=f434e165]: 意思说
+              - text: ，但是想让男生知道的？（男女慎入）
+          - link "欧空阿 · 2023年1月22日" [ref=f434e167] [cursor=pointer]:
+            - /url: //space.bilibili.com/524146880
+            - generic [ref=f434e172]: 欧空阿
+            - generic [ref=f434e173]: · 2023年1月22日
+      - generic [ref=f434e176]:
+        - link [ref=f434e177] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV12yQgY5EVQ/
+          - generic [ref=f434e178]:
+            - img "关于第一次！老师不会教，妈妈不好意思说的这几件事！" [ref=f434e181]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 18.5万
+                  - generic: "18"
+                - generic: 03:00
+        - generic [ref=f434e183]:
+          - link [ref=f434e184] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV12yQgY5EVQ/
+            - heading [level=3] [ref=f434e185]:
+              - text: 关于第一次！老师不会教，妈妈不好
+              - emphasis [ref=f434e186]: 意思说的
+              - text: 这几件事！
+          - link "机智朱马马 · 2025年3月14日" [ref=f434e188] [cursor=pointer]:
+            - /url: //space.bilibili.com/1263990139
+            - generic [ref=f434e193]: 机智朱马马
+            - generic [ref=f434e194]: · 2025年3月14日
+      - generic [ref=f434e197]:
+        - link [ref=f434e198] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV13R4y1P7qT/
+          - generic [ref=f434e199]:
+            - img "女生说没事是什么意思？" [ref=f434e202]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 15.3万
+                  - generic: "93"
+                - generic: 00:50
+        - generic [ref=f434e204]:
+          - link [ref=f434e205] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV13R4y1P7qT/
+            - heading [level=3] [ref=f434e206]:
+              - emphasis [ref=f434e207]: 女生说没事
+              - text: 是什么
+              - emphasis [ref=f434e208]: 意思
+              - text: ？
+          - link "管春哇 · 2022年4月27日" [ref=f434e210] [cursor=pointer]:
+            - /url: //space.bilibili.com/639855783
+            - generic [ref=f434e215]: 管春哇
+            - generic [ref=f434e216]: · 2022年4月27日
+      - generic [ref=f434e219]:
+        - link [ref=f434e220] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1qQ4y1H76E/
+          - generic [ref=f434e221]:
+            - img "女生不好意思说但想让男朋友知道的事...." [ref=f434e224]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 8.5万
+                  - generic: "12"
+                - generic: 01:53
+        - generic [ref=f434e226]:
+          - link [ref=f434e227] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1qQ4y1H76E/
+            - heading [level=3] [ref=f434e228]:
+              - text: 女生不好
+              - emphasis [ref=f434e229]: 意思说
+              - text: 但想让男朋友知道
+              - emphasis [ref=f434e230]: 的事
+              - text: ....
+          - link "有故事的菲同学 · 2023年10月30日" [ref=f434e232] [cursor=pointer]:
+            - /url: //space.bilibili.com/2006992702
+            - generic [ref=f434e237]: 有故事的菲同学
+            - generic [ref=f434e238]: · 2023年10月30日
+      - generic [ref=f434e241]:
+        - link [ref=f434e242] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1RG4y1k76U/
+          - generic [ref=f434e243]:
+            - img "评论区聊一聊女生不好意思说但想让男生知道 的事" [ref=f434e246]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 6.5万
+                  - generic: "142"
+                - generic: 01:01
+        - generic [ref=f434e248]:
+          - link [ref=f434e249] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1RG4y1k76U/
+            - heading [level=3] [ref=f434e250]:
+              - text: 评论区聊一聊女生不好
+              - emphasis [ref=f434e251]: 意思说
+              - text: 但想让男生知道
+              - emphasis [ref=f434e252]: 的事
+          - link "每日解忧杂货铺 · 2023年1月14日" [ref=f434e254] [cursor=pointer]:
+            - /url: //space.bilibili.com/1094583335
+            - generic [ref=f434e259]: 每日解忧杂货铺
+            - generic [ref=f434e260]: · 2023年1月14日
+      - generic [ref=f434e263]:
+        - link [ref=f434e264] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1hC41177gi/
+          - generic [ref=f434e265]:
+            - img "女生不好意思说但希望男生秒懂的事" [ref=f434e268]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 5.2万
+                  - generic: "9"
+                - generic: 01:13
+        - generic [ref=f434e270]:
+          - link [ref=f434e271] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1hC41177gi/
+            - heading [level=3] [ref=f434e272]:
+              - text: 女生不好
+              - emphasis [ref=f434e273]: 意思说
+              - text: 但希望男生秒懂
+              - emphasis [ref=f434e274]: 的事
+          - link "CGG果果- · 2024年5月17日" [ref=f434e276] [cursor=pointer]:
+            - /url: //space.bilibili.com/390622971
+            - generic [ref=f434e281]: CGG果果-
+            - generic [ref=f434e282]: · 2024年5月17日
+      - generic [ref=f434e285]:
+        - link [ref=f434e286] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV15qSdBuEP6/
+          - generic [ref=f434e287]:
+            - img "男生不好意思说但是希望女朋友能懂的事…" [ref=f434e290]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 3.9万
+                  - generic: "19"
+                - generic: 00:42
+        - generic [ref=f434e292]:
+          - link [ref=f434e293] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV15qSdBuEP6/
+            - heading [level=3] [ref=f434e294]:
+              - text: 男生不好
+              - emphasis [ref=f434e295]: 意思说
+              - text: 但是希望女朋友能懂
+              - emphasis [ref=f434e296]: 的事
+              - text: …
+          - link "是子规-Zigui · 4月6日" [ref=f434e298] [cursor=pointer]:
+            - /url: //space.bilibili.com/452065607
+            - generic [ref=f434e303]: 是子规-Zigui
+            - generic [ref=f434e304]: · 4月6日
+      - generic [ref=f434e307]:
+        - link [ref=f434e308] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV157GJ62EiT/
+          - generic [ref=f434e309]:
+            - img "【九古爽完】你的意思是，本宫堂堂将军府嫡女，皇上亲封的贵妃。一不为了将军府兴衰布局，二不争皇帝恩宠，三不为自己谋权。我整日里没事刁难个小丫鬟，抢的还是个太监？" [ref=f434e312]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 2.1万
+                  - generic: "20"
+                - generic: 03:13:04
+        - generic [ref=f434e314]:
+          - link [ref=f434e315] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV157GJ62EiT/
+            - heading [level=3] [ref=f434e316]:
+              - text: 【九古爽完】你
+              - emphasis [ref=f434e317]: 的意思
+              - text: 是，本宫堂堂将军府嫡女，皇上亲封的贵妃。一不为了将军府兴衰布局，二不争皇帝恩宠，三不为自己谋权。我整日里
+              - emphasis [ref=f434e318]: 没事
+              - text: 刁难个小丫鬟，抢的还是个太监？
+          - link "心动喵喵呀 · 5月25日" [ref=f434e320] [cursor=pointer]:
+            - /url: //space.bilibili.com/3546373886577326
+            - generic [ref=f434e325]: 心动喵喵呀
+            - generic [ref=f434e326]: · 5月25日
+      - generic [ref=f434e329]:
+        - link [ref=f434e330] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1uW41167pr/
+          - generic [ref=f434e331]:
+            - img "女生口是心非第一招牌技能，男生如何反套路？" [ref=f434e334]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 1.4万
+                  - generic: "139"
+                - generic: 05:11
+        - generic [ref=f434e336]:
+          - link [ref=f434e337] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1uW41167pr/
+            - heading "女生口是心非第一招牌技能，男生如何反套路？" [level=3] [ref=f434e338]
+          - link "晨哥真有料 · 2018年9月25日" [ref=f434e340] [cursor=pointer]:
+            - /url: //space.bilibili.com/300932080
+            - generic [ref=f434e345]: 晨哥真有料
+            - generic [ref=f434e346]: · 2018年9月25日
+      - generic [ref=f434e349]:
+        - link [ref=f434e350] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV18eYQ62ECv/
+          - generic [ref=f434e351]:
+            - img "【完结文】春日宴上小郡王醉酒赌气求娶我，圣上赐婚，我家退了原定亲事。婚礼当晚他竟说一年后安排我假死和离！笑话，我萧意思吃进口的东西，从来没往外吐过！" [ref=f434e354]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: 1.1万
+                  - generic: "8"
+                - generic: 20:25
+        - generic [ref=f434e356]:
+          - link [ref=f434e357] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV18eYQ62ECv/
+            - heading [level=3] [ref=f434e358]:
+              - text: 【完结文】春日宴上小郡王醉酒赌气求娶我，圣上赐婚，我家退了原定亲事。婚礼当晚他竟说一年后安排我假死和离！笑话，我萧
+              - emphasis [ref=f434e359]: 意思
+              - text: 吃进口的东西，从来没往外吐过！
+          - link "橙橙子oi · 9月13日" [ref=f434e361] [cursor=pointer]:
+            - /url: //space.bilibili.com/3546887812549578
+            - generic [ref=f434e366]: 橙橙子oi
+            - generic [ref=f434e367]: · 9月13日
+      - generic [ref=f434e370]:
+        - link [ref=f434e371] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1Hsjw6QEWo/
+          - generic [ref=f434e372]:
+            - img "90%女生都有？这件事真没什么不好意思的" [ref=f434e375]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "9353"
+                  - generic: "4"
+                - generic: 02:29
+        - generic [ref=f434e377]:
+          - link [ref=f434e378] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Hsjw6QEWo/
+            - heading [level=3] [ref=f434e379]:
+              - text: 90%女生都有？这件事真没什么不好
+              - emphasis [ref=f434e380]: 意思的
+          - link "爱的更持久 · 6月18日" [ref=f434e382] [cursor=pointer]:
+            - /url: //space.bilibili.com/3546893653117048
+            - generic [ref=f434e387]: 爱的更持久
+            - generic [ref=f434e388]: · 6月18日
+      - generic [ref=f434e391]:
+        - link [ref=f434e392] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1fqx9eBEF7/
+          - generic [ref=f434e393]:
+            - img "今天这家有点意思，90后单身男青年把家装成了温柔治愈的奶油风，一人独享两室两厅，还有大厨房和大吧台，说真的男生精致起来还真没女孩子什么事儿了！#奶油风#老房改造" [ref=f434e396]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "2632"
+                  - generic: "0"
+                - generic: 02:39
+        - generic [ref=f434e398]:
+          - link [ref=f434e399] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1fqx9eBEF7/
+            - heading [level=3] [ref=f434e400]:
+              - text: 今天这家有点
+              - emphasis [ref=f434e401]: 意思
+              - text: ，90后单身男青年把家装成了温柔治愈的奶油风，一人独享两室两厅，还有大厨房和大吧台，说真的男生精致起来还真
+              - emphasis [ref=f434e402]: 没女
+              - text: 孩子什么事儿了！#奶油风#老房改造
+          - link "设计师_小七 · 2024年10月3日" [ref=f434e404] [cursor=pointer]:
+            - /url: //space.bilibili.com/1854760475
+            - generic [ref=f434e409]: 设计师_小七
+            - generic [ref=f434e410]: · 2024年10月3日
+      - generic [ref=f434e413]:
+        - link [ref=f434e414] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1aqhwz9EVi/
+          - generic [ref=f434e415]:
+            - img "女生说“没事”到底是什么意思？（什么时候是真没事 什么时候是假没事）" [ref=f434e418]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "1949"
+                  - generic: "1"
+                - generic: 02:31
+        - generic [ref=f434e420]:
+          - link [ref=f434e421] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1aqhwz9EVi/
+            - heading [level=3] [ref=f434e422]:
+              - emphasis [ref=f434e423]: 女生说
+              - text: “
+              - emphasis [ref=f434e424]: 没事
+              - text: ”到底是什么
+              - emphasis [ref=f434e425]: 意思
+              - text: ？（什么时候是真
+              - emphasis [ref=f434e426]: 没事
+              - text: 什么时候是假
+              - emphasis [ref=f434e427]: 没事
+              - text: ）
+          - link "后台女友 · 2025年7月30日" [ref=f434e429] [cursor=pointer]:
+            - /url: //space.bilibili.com/547260133
+            - generic [ref=f434e434]: 后台女友
+            - generic [ref=f434e435]: · 2025年7月30日
+      - generic [ref=f434e438]:
+        - link [ref=f434e439] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV16C4y1P7z6/
+          - generic [ref=f434e440]:
+            - img "【课堂录像】认知共情：为什么女生觉得说清楚就没意思了而要让男友猜？有些事介于不讲难受和讲了矫情之间" [ref=f434e443]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "462"
+                  - generic: "0"
+                - generic: 07:39
+        - generic [ref=f434e445]:
+          - link [ref=f434e446] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV16C4y1P7z6/
+            - heading [level=3] [ref=f434e447]:
+              - text: 【课堂录像】认知共情：为什么女生觉得说清楚就
+              - emphasis [ref=f434e448]: 没意思
+              - text: 了而要让男友猜？有些事介于不讲难受和讲了矫情之间
+          - link "峨眉山月几轮秋 · 2023年11月23日" [ref=f434e450] [cursor=pointer]:
+            - /url: //space.bilibili.com/2027167
+            - generic [ref=f434e455]: 峨眉山月几轮秋
+            - generic [ref=f434e456]: · 2023年11月23日
+      - generic [ref=f434e459]:
+        - link [ref=f434e460] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1Z7YJ6MEzK/
+          - generic [ref=f434e461]:
+            - img "【全文完结】到底绿茶是什么意思，如果没有意思，请你们不要说这些有没有的，不然的话大家也没事好不好" [ref=f434e464]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "326"
+                  - generic: "0"
+                - generic: 33:11
+        - generic [ref=f434e466]:
+          - link [ref=f434e467] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Z7YJ6MEzK/
+            - heading [level=3] [ref=f434e468]:
+              - text: 【全文完结】到底绿茶是什么
+              - emphasis [ref=f434e469]: 意思
+              - text: ，如果没有
+              - emphasis [ref=f434e470]: 意思
+              - text: ，请你们不要说这些有没有的，不然的话大家也
+              - emphasis [ref=f434e471]: 没事
+              - text: 好不好
+          - link "青青_芒果酱 · 9月8日" [ref=f434e473] [cursor=pointer]:
+            - /url: //space.bilibili.com/25514713
+            - generic [ref=f434e478]: 青青_芒果酱
+            - generic [ref=f434e479]: · 9月8日
+      - generic [ref=f434e482]:
+        - link [ref=f434e483] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1fT4y147HM/
+          - generic [ref=f434e484]:
+            - img "陆东辰再一次撇下我，和乔苒复合时。《清醒梦婷》我终于觉得没意思透了。离开时他说，「沐沐，去谈个男朋友吧，我不会再找你了。」我笑着点头应了：「好……" [ref=f434e487]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "287"
+                  - generic: "0"
+                - generic: 16:24
+        - generic [ref=f434e489]:
+          - link [ref=f434e490] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1fT4y147HM/
+            - heading [level=3] [ref=f434e491]:
+              - text: 陆东辰再一次撇下我，和乔苒复合时。《清醒梦婷》我终于觉得
+              - emphasis [ref=f434e492]: 没意思
+              - text: 透了。离开时他说，「沐沐，去谈个男朋友吧，我不会再找你了。」我笑着点头应了：「好……
+          - link "术峃 · 2024年1月27日" [ref=f434e494] [cursor=pointer]:
+            - /url: //space.bilibili.com/3546585078172089
+            - generic [ref=f434e499]: 术峃
+            - generic [ref=f434e500]: · 2024年1月27日
+      - generic [ref=f434e503]:
+        - link [ref=f434e504] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1FvvLeZEdL/
+          - generic [ref=f434e505]:
+            - img "老师，请回答:3课堂录像认知共情：为什么女生觉得说清楚就没意思了而要让男友猜有些事介于不讲难受和讲了矫情之间" [ref=f434e508]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "229"
+                  - generic: "0"
+                - generic: 00:39
+        - generic [ref=f434e510]:
+          - link [ref=f434e511] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1FvvLeZEdL/
+            - heading [level=3] [ref=f434e512]:
+              - text: 老师，请回答:3课堂录像认知共情：为什么女生觉得说清楚就
+              - emphasis [ref=f434e513]: 没意思
+              - text: 了而要让男友猜有些事介于不讲难受和讲了矫情之间
+          - link "妙妙惟 · 2024年7月27日" [ref=f434e515] [cursor=pointer]:
+            - /url: //space.bilibili.com/3494380476304171
+            - generic [ref=f434e520]: 妙妙惟
+            - generic [ref=f434e521]: · 2024年7月27日
+      - generic [ref=f434e524]:
+        - link [ref=f434e525] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1yuvjeeETM/
+          - generic [ref=f434e526]:
+            - img "老师，请回答:2课堂录像认知共情：为什么女生觉得说清楚就没意思了而要让男友猜有些事介于不讲难受和讲了矫情之间" [ref=f434e529]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "229"
+                  - generic: "0"
+                - generic: 00:39
+        - generic [ref=f434e531]:
+          - link [ref=f434e532] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1yuvjeeETM/
+            - heading [level=3] [ref=f434e533]:
+              - text: 老师，请回答:2课堂录像认知共情：为什么女生觉得说清楚就
+              - emphasis [ref=f434e534]: 没意思
+              - text: 了而要让男友猜有些事介于不讲难受和讲了矫情之间
+          - link "妙妙惟 · 2024年7月27日" [ref=f434e536] [cursor=pointer]:
+            - /url: //space.bilibili.com/3494380476304171
+            - generic [ref=f434e541]: 妙妙惟
+            - generic [ref=f434e542]: · 2024年7月27日
+      - generic [ref=f434e545]:
+        - link [ref=f434e546] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1r5vjecEyd/
+          - generic [ref=f434e547]:
+            - img "老师，请回答:1课堂录像认知共情：为什么女生觉得说清楚就没意思了而要让男友猜有些事介于不讲难受和讲了矫情之间" [ref=f434e550]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "227"
+                  - generic: "0"
+                - generic: 00:36
+        - generic [ref=f434e552]:
+          - link [ref=f434e553] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1r5vjecEyd/
+            - heading [level=3] [ref=f434e554]:
+              - text: 老师，请回答:1课堂录像认知共情：为什么女生觉得说清楚就
+              - emphasis [ref=f434e555]: 没意思
+              - text: 了而要让男友猜有些事介于不讲难受和讲了矫情之间
+          - link "妙妙惟 · 2024年7月27日" [ref=f434e557] [cursor=pointer]:
+            - /url: //space.bilibili.com/3494380476304171
+            - generic [ref=f434e562]: 妙妙惟
+            - generic [ref=f434e563]: · 2024年7月27日
+      - generic [ref=f434e566]:
+        - link [ref=f434e567] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV158411t7dQ/
+          - generic [ref=f434e568]:
+            - img "相亲女生说的没感觉是什么意思" [ref=f434e571]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "187"
+                  - generic: "7"
+                - generic: 03:32
+        - generic [ref=f434e573]:
+          - link [ref=f434e574] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV158411t7dQ/
+            - heading [level=3] [ref=f434e575]:
+              - text: 相亲
+              - emphasis [ref=f434e576]: 女生说的没
+              - text: 感觉是什么
+              - emphasis [ref=f434e577]: 意思
+          - link "人间清醒德哥 · 2022年9月30日" [ref=f434e579] [cursor=pointer]:
+            - /url: //space.bilibili.com/1007549113
+            - generic [ref=f434e584]: 人间清醒德哥
+            - generic [ref=f434e585]: · 2022年9月30日
+      - generic [ref=f434e588]:
+        - link [ref=f434e589] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1pa4y1k77j/
+          - generic [ref=f434e590]:
+            - img "跨年也要好好学习吖:课堂录像认知共情：为什么女生觉得说清楚就没意思了而要让男友猜有些事介于不讲难受和讲了矫情之间" [ref=f434e593]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "159"
+                  - generic: "0"
+                - generic: 00:36
+        - generic [ref=f434e595]:
+          - link [ref=f434e596] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1pa4y1k77j/
+            - heading [level=3] [ref=f434e597]:
+              - text: 跨年也要好好学习吖:课堂录像认知共情：为什么女生觉得说清楚就
+              - emphasis [ref=f434e598]: 没意思
+              - text: 了而要让男友猜有些事介于不讲难受和讲了矫情之间
+          - link "账号已注销 · 2024年1月24日" [ref=f434e600] [cursor=pointer]:
+            - /url: //space.bilibili.com/3494357839645601
+            - generic [ref=f434e605]: 账号已注销
+            - generic [ref=f434e606]: · 2024年1月24日
+      - generic [ref=f434e609]:
+        - link [ref=f434e610] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1fhtb6QEWX/
+          - generic [ref=f434e611]:
+            - img "女生说“没事”到底是什么意思？" [ref=f434e614]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "130"
+                  - generic: "0"
+                - generic: 00:11
+        - generic [ref=f434e616]:
+          - link [ref=f434e617] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1fhtb6QEWX/
+            - heading [level=3] [ref=f434e618]:
+              - emphasis [ref=f434e619]: 女生说
+              - text: “
+              - emphasis [ref=f434e620]: 没事
+              - text: ”到底是什么
+              - emphasis [ref=f434e621]: 意思
+              - text: ？
+          - link "Aimix_videos · 8月31日" [ref=f434e623] [cursor=pointer]:
+            - /url: //space.bilibili.com/3745026047741416
+            - generic [ref=f434e628]: Aimix_videos
+            - generic [ref=f434e629]: · 8月31日
+      - generic [ref=f434e632]:
+        - link [ref=f434e633] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1FmoUYsEap/
+          - generic [ref=f434e634]:
+            - img "我对万兆兰爱从没变过，太像长的和，所以做一件自己不后悔事，2019年，回忆下当时对这个女生说的话，只有当时做，那下明白意思，不用后悔" [ref=f434e637]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "129"
+                  - generic: "0"
+                - generic: 01:20
+        - generic [ref=f434e639]:
+          - link [ref=f434e640] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1FmoUYsEap/
+            - heading [level=3] [ref=f434e641]:
+              - text: 我对万兆兰爱从没变过，太像长的和，所以做一件自己不后悔事，2019年，回忆下当时对这个
+              - emphasis [ref=f434e642]: 女生说的
+              - text: 话，只有当时做，那下明白
+              - emphasis [ref=f434e643]: 意思
+              - text: ，不用后悔
+          - link "醎鱼梦想家vlog · 2025年3月24日" [ref=f434e645] [cursor=pointer]:
+            - /url: //space.bilibili.com/1138106219
+            - generic [ref=f434e650]: 醎鱼梦想家vlog
+            - generic [ref=f434e651]: · 2025年3月24日
+      - generic [ref=f434e654]:
+        - link [ref=f434e655] [cursor=pointer]:
+          - /url: //www.bilibili.com/video/BV1Tq4y1w7d1/
+          - generic [ref=f434e656]:
+            - img "（女生帅起来就真的没男生什么事了（｡◕‿◕｡）一见钟情易，一生相伴难，在这个世界上最幸福的就是，你说的话有人听，你所表达的意思有人懂，你爱一个人，一爱就爱了一生" [ref=f434e659]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "111"
+                  - generic: "0"
+                - generic: 11:40
+        - generic [ref=f434e661]:
+          - link [ref=f434e662] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Tq4y1w7d1/
+            - heading [level=3] [ref=f434e663]:
+              - text: （女生帅起来就真
+              - emphasis [ref=f434e664]: 的没
+              - text: 男生什么事了（｡◕‿◕｡）一见钟情易，一生相伴难，在这个世界上最幸福的就是，你
+              - emphasis [ref=f434e665]: 说的
+              - text: 话有人听，你所表达
+              - emphasis [ref=f434e666]: 的意思
+              - text: 有人懂，你爱一个人，一爱就爱了一生
+          - link "薄情凉心的女子 · 2022年1月27日" [ref=f434e668] [cursor=pointer]:
+            - /url: //space.bilibili.com/62001012
+            - generic [ref=f434e673]: 薄情凉心的女子
+            - generic [ref=f434e674]: · 2022年1月27日
+  - generic [ref=f434e679]:
+    - generic [ref=f434e680]:
+      - generic [ref=f434e681]:
+        - generic [ref=f434e682]: bilibili
+        - generic [ref=f434e683]:
+          - link "关于我们" [ref=f434e684] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/aboutUs.html
+          - link "联系我们" [ref=f434e685] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/contact.html
+          - link "用户协议" [ref=f434e686] [cursor=pointer]:
+            - /url: //www.bilibili.com/protocal/licence.html
+          - link "加入我们" [ref=f434e687] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/join.html
+          - link "隐私协议" [ref=f434e688] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/privacy-pc.html
+          - link "bilibili认证" [ref=f434e689] [cursor=pointer]:
+            - /url: //account.bilibili.com/account/official/home
+          - link "Investor Relations" [ref=f434e690] [cursor=pointer]:
+            - /url: //ir.bilibili.com/
+      - generic [ref=f434e691]:
+        - generic [ref=f434e692]: 传送门
+        - generic [ref=f434e693]:
+          - link "协议汇总" [ref=f434e694] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic/activity-cn8bxPLzz.html
+          - link "活动中心" [ref=f434e695] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-list.html
+          - link "活动专题页" [ref=f434e696] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic_list.html
+          - link "侵权申诉" [ref=f434e697] [cursor=pointer]:
+            - /url: //www.bilibili.com/v/copyright/intro/
+          - link "帮助中心" [ref=f434e698] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/help.html
+          - link "社区中心" [ref=f434e699] [cursor=pointer]:
+            - /url: https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html
+          - link "壁纸站" [ref=f434e700] [cursor=pointer]:
+            - /url: //space.bilibili.com/6823116#/album
+          - link "广告合作" [ref=f434e701] [cursor=pointer]:
+            - /url: //e.bilibili.com/
+          - link "名人堂" [ref=f434e702] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-S1jfy69Jz.html
+          - link "MCN管理中心" [ref=f434e703] [cursor=pointer]:
+            - /url: //mcn.bilibili.com/studio/mcn/entry
+          - link "高级弹幕" [ref=f434e704] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Xx411c7cH/
+          - link "品牌号官网" [ref=f434e705] [cursor=pointer]:
+            - /url: //b.bilibili.com/
+      - generic [ref=f434e706]:
+        - link [ref=f434e708] [cursor=pointer]:
+          - /url: //app.bilibili.com/
+          - paragraph [ref=f434e712]: 下载APP
+        - link [ref=f434e714] [cursor=pointer]:
+          - /url: //love.bilibili.com/
+          - paragraph [ref=f434e721]: 公益
+        - link [ref=f434e723] [cursor=pointer]:
+          - /url: //weibo.com/bilibiliweb
+          - paragraph [ref=f434e727]: 官方微博
+        - paragraph [ref=f434e733]: 官方微信
+    - generic [ref=f434e736]:
+      - generic [ref=f434e737]:
+        - link "营业执照" [ref=f434e738] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/gd85E6tDco.jpg
+        - text: 信息网络传播视听节目许可证：0910417
+        - link "网络文化经营许可证 沪网文【2025】0258-085号" [ref=f434e739] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20260209/3b3c5705bda98d50983f6f47df360fef/K4t52YryBV.jpeg
+        - text: 广播电视节目制作经营许可证：（沪）字第01248号增值电信业务经营许可证 沪B2-20100043
+      - generic [ref=f434e740]:
+        - link "互联网ICP备案：沪ICP备13002172号-3" [ref=f434e741] [cursor=pointer]:
+          - /url: //beian.miit.gov.cn/
+        - link "出版物经营许可证 沪批字第U6699 号" [ref=f434e742] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/4ainzbFKao.jpg
+        - text: 互联网药品信息服务资格证 沪-非经营性-2022-0011营业性演出许可证 沪市文演（经）00-2253 |
+      - generic [ref=f434e743]:
+        - link "不良信息举报邮箱：help@bilibili.com" [ref=f434e744] [cursor=pointer]:
+          - /url: mailto:help@bilibili.com
+        - link "涉未成年举报邮箱：teenprotect@bilibili.com" [ref=f434e745] [cursor=pointer]:
+          - /url: mailto:teenprotect@bilibili.com
+        - text: 不良信息举报电话：4006262233转3
+        - link "上海互联网举报中心 |" [ref=f434e747] [cursor=pointer]:
+          - /url: http://www.shjbzx.cn/
+        - link "12345政务服务便民热线 |" [ref=f434e748] [cursor=pointer]:
+          - /url: http://www.sh12345.gov.cn/
+      - generic [ref=f434e749]:
+        - link "沪公网安备31011002002436号 |" [ref=f434e751] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002002436
+        - link "儿童色情信息举报专区 |" [ref=f434e752] [cursor=pointer]:
+          - /url: mailto:userreport@bilibili.com
+        - link "扫黄打非举报" [ref=f434e753] [cursor=pointer]:
+          - /url: https://bzpt.shdf.gov.cn/www/shouye/gzfw/wsjb/index.shtml
+      - generic [ref=f434e754]:
+        - link "网信算备310110764385705230011号" [ref=f434e755] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_6185ea2c-c84c-404a-9280-c5465af05948.pdf
+        - link "网信算备310110764385702230013号" [ref=f434e756] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_e03e6855-76a6-43fb-b799-d090e7fce25d.pdf
+      - generic [ref=f434e757]:
+        - text: 网上有害信息举报专区：
+        - link "中国互联网违法和不良信息举报中心" [ref=f434e759] [cursor=pointer]:
+          - /url: https://www.12377.cn/
+        - text: 亲爱的市民朋友，上海警方反诈劝阻电话"96110"系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。
+      - generic [ref=f434e760]: 公司名称：上海宽娱数码科技有限公司 |公司地址：上海市杨浦区政立路489号 |电话：021-25099888

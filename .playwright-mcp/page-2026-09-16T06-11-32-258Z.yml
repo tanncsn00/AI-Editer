@@ -1,0 +1,118 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - region "Notifications alt+T"
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e7]:
+          - link "Go to TikTok For You feed" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - strong: TikTok
+          - searchbox "Search" [ref=e15] [cursor=pointer]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - link [ref=e24] [cursor=pointer]:
+              - /url: /
+              - listitem "For You" [ref=e25]
+            - link [ref=e32] [cursor=pointer]:
+              - /url: /explore
+              - listitem "Explore" [ref=e33]
+            - link [ref=e41] [cursor=pointer]:
+              - /url: /following
+              - listitem "Following" [ref=e42]
+            - link [ref=e51] [cursor=pointer]:
+              - /url: /live
+              - listitem "LIVE" [ref=e52]
+            - link [ref=e61] [cursor=pointer]:
+              - /url: /tiktokstudio/upload?from=webapp&tab=video
+              - listitem "Upload" [ref=e62]
+            - link [ref=e70] [cursor=pointer]:
+              - /url: /@
+              - listitem "Profile" [ref=e71]
+            - listitem "More" [ref=e78] [cursor=pointer]
+          - button "Log in" [ref=e90] [cursor=pointer]
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - article [ref=e103]:
+            - generic [ref=e104]:
+              - region "Watch in full screen" [ref=e105] [cursor=pointer]:
+                - generic [ref=e106]:
+                  - 'img "Đường Tăng Giảng Pháp #duongtang #tayduky #meme" [ref=e110]'
+                  - generic [ref=e113]:
+                    - generic [ref=e114]:
+                      - button "Volume" [pressed] [ref=e117]
+                      - button [ref=e125]
+                    - generic [ref=e132]:
+                      - link [ref=e135]:
+                        - /url: https://www.capcut.com/tools/desktop-video-editor?channel=capcutpc_ttweb_anchor_edit1&download_channel=capcutpc_ttweb_anchor_edit1&enter_from=capcutpc_ttweb_anchor_edit1&force_dp=1&from_page=capcutpc_ttweb_anchor_edit1&type=tools
+                        - paragraph [ref=e140]: CapCut · Editing made easy
+                      - generic [ref=e141]:
+                        - link [ref=e142]:
+                          - /url: /@duongtanggiangphap
+                          - paragraph [ref=e144]: Đường Tăng Giảng Pháp
+                        - generic [ref=e145]: · 2025-12-16
+                      - generic [ref=e146]:
+                        - generic [ref=e147]:
+                          - generic [ref=e149]:
+                            - generic [ref=e150]: Đường Tăng Giảng Pháp
+                            - link "Watch more videos of the duongtang category" [ref=e151]:
+                              - /url: /tag/duongtang
+                              - paragraph [ref=e152]: "#duongtang"
+                            - link "Watch more videos of the tayduky category" [ref=e154]:
+                              - /url: /tag/tayduky
+                              - paragraph [ref=e155]: "#tayduky"
+                            - link "Watch more videos of the meme category" [ref=e157]:
+                              - /url: /tag/meme
+                              - paragraph [ref=e158]: "#meme"
+                          - button "more" [ref=e159]
+                        - paragraph [ref=e160]: See translation
+                  - generic [ref=e161]:
+                    - paragraph: 00:00 / 01:04
+                    - slider "Video progress" [ref=e165]
+              - generic [ref=e167]:
+                - generic [ref=e168]:
+                  - link [ref=e169] [cursor=pointer]:
+                    - /url: /@duongtanggiangphap
+                    - img "duongtanggiangphap" [ref=e173]
+                  - button [ref=e174] [cursor=pointer]
+                - button "Like video 201.7K likes" [ref=e179] [cursor=pointer]:
+                  - button [ref=e182]
+                  - strong [ref=e188]: 201.7K
+                - button "Read or add comments 2435 comments" [ref=e189] [cursor=pointer]:
+                  - button [ref=e192]
+                  - strong [ref=e197]: "2435"
+                - button "Add to Favorites. 30.2K added to Favorites" [ref=e200] [cursor=pointer]:
+                  - button [ref=e203]
+                  - strong [ref=e209]: 30.2K
+                - button "Share video 117.2K shares" [ref=e211] [cursor=pointer]:
+                  - button [ref=e214]
+                  - strong [ref=e219]: 117.2K
+                - link "Watch more videos with music nhạc nền - Đường Tăng Giảng Pháp" [ref=e220] [cursor=pointer]:
+                  - /url: /music/nhạc-nền-Đường-Tăng-Giảng-Pháp-7584317178736921345
+          - complementary
+        - generic [ref=e232]:
+          - button "Comments" [ref=e235] [cursor=pointer]
+          - button "You may like" [ref=e241] [cursor=pointer]
+      - generic [ref=e258]:
+        - button [ref=e261] [cursor=pointer]
+        - button [ref=e268] [cursor=pointer]
+        - button "Log in" [ref=e275] [cursor=pointer]
+  - dialog [ref=e282]:
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - heading "Captions" [level=2] [ref=e285]
+        - button "Close_button" [active] [ref=e286] [cursor=pointer]
+      - generic [ref=e289]:
+        - generic [ref=e291]:
+          - generic [ref=e292]: Captions (auto-generated)
+          - switch [ref=e297] [cursor=pointer]
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - generic [ref=e300]: Always translate posts
+            - switch [ref=e305] [cursor=pointer]
+          - generic [ref=e306]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=e308] [cursor=pointer]:
+          - generic [ref=e309]: Do not translate
+          - generic [ref=e310]: Select language
+        - button "Translate into English" [ref=e315] [cursor=pointer]:
+          - generic [ref=e316]: Translate into
+          - generic [ref=e317]: English

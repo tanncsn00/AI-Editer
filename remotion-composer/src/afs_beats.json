@@ -1,0 +1,113 @@
+{
+ "beats": [
+  {
+   "index": 0,
+   "name": "hook",
+   "start": 0.0,
+   "duration": 9.314
+  },
+  {
+   "index": 1,
+   "name": "free",
+   "start": 9.314,
+   "duration": 4.991
+  },
+  {
+   "index": 2,
+   "name": "pain",
+   "start": 14.305,
+   "duration": 12.458
+  },
+  {
+   "index": 3,
+   "name": "turn",
+   "start": 26.763,
+   "duration": 4.5
+  },
+  {
+   "index": 4,
+   "name": "gv1",
+   "start": 31.263,
+   "duration": 9.76
+  },
+  {
+   "index": 5,
+   "name": "gv2",
+   "start": 41.023,
+   "duration": 8.074
+  },
+  {
+   "index": 6,
+   "name": "gv3",
+   "start": 49.097,
+   "duration": 8.305
+  },
+  {
+   "index": 7,
+   "name": "sync1",
+   "start": 57.402,
+   "duration": 10.5
+  },
+  {
+   "index": 8,
+   "name": "sync2",
+   "start": 67.902,
+   "duration": 12.468
+  },
+  {
+   "index": 9,
+   "name": "subs",
+   "start": 80.37,
+   "duration": 9.802
+  },
+  {
+   "index": 10,
+   "name": "voices",
+   "start": 90.173,
+   "duration": 8.516
+  },
+  {
+   "index": 11,
+   "name": "creator",
+   "start": 98.689,
+   "duration": 11.474
+  },
+  {
+   "index": 12,
+   "name": "ratio",
+   "start": 110.163,
+   "duration": 11.515
+  },
+  {
+   "index": 13,
+   "name": "queue",
+   "start": 121.677,
+   "duration": 11.763
+  },
+  {
+   "index": 14,
+   "name": "brand",
+   "start": 133.441,
+   "duration": 8.933
+  },
+  {
+   "index": 15,
+   "name": "sum",
+   "start": 142.374,
+   "duration": 12.61
+  },
+  {
+   "index": 16,
+   "name": "who",
+   "start": 154.984,
+   "duration": 16.643
+  },
+  {
+   "index": 17,
+   "name": "cta",
+   "start": 171.627,
+   "duration": 12.061
+  }
+ ],
+ "total_duration": 183.687
+}

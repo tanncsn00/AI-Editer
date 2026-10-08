@@ -1,4 +1,8 @@
 import { Composition, CalculateMetadataFunction } from "remotion";
+import { NgayDauNhapTongMon } from "./NgayDauNhapTongMon";
+import { NgayDauNhapTongMonThumbnail } from "./NgayDauNhapTongMonThumbnail";
+import { ChanLyCongSoGioi } from "./ChanLyCongSoGioi";
+import { ChanLyCongSoGioiThumbnail } from "./ChanLyCongSoGioiThumbnail";
 import { Explainer, ExplainerProps } from "./Explainer";
 import {
   CinematicRenderer,
@@ -338,6 +342,22 @@ import { MatNgonChieuMo } from "./MatNgonChieuMo";
 import { MatNgonChieuMoThumbnail } from "./MatNgonChieuMoThumbnail";
 import { ThaTamThong } from "./ThaTamThong";
 import { ThaTamThongThumbnail } from "./ThaTamThongThumbnail";
+import { MatNgonChuyenNghiep } from "./MatNgonChuyenNghiep";
+import { MatNgonChuyenNghiepThumbnail } from "./MatNgonChuyenNghiepThumbnail";
+import { MatNgonDaoLu1 } from "./MatNgonDaoLu1";
+import { MatNgonDaoLu1Thumbnail } from "./MatNgonDaoLu1Thumbnail";
+import { MatNgonDaoLuFull } from "./MatNgonDaoLuFull";
+import { MatNgonDaoLuFullThumbnail } from "./MatNgonDaoLuFullThumbnail";
+import { GenZVsTheHeCu } from "./GenZVsTheHeCu";
+import { GenZVsTheHeCuThumbnail } from "./GenZVsTheHeCuThumbnail";
+import { XKiroGateway } from "./XKiroGateway";
+import { XKiroGatewayThumbnail } from "./XKiroGatewayThumbnail";
+import { AppFree60stech } from "./AppFree60stech";
+import { MatNgonGiaoVien } from "./MatNgonGiaoVien";
+import { VoDongChanNhan } from "./VoDongChanNhan";
+import { VoDongChanNhanThumbnail } from "./VoDongChanNhanThumbnail";
+import { MatNgonGiaoVienThumbnail } from "./MatNgonGiaoVienThumbnail";
+import { AppFree60stechThumbnail } from "./AppFree60stechThumbnail";
 import { MatNgonThienLao } from "./MatNgonThienLao";
 import { MatNgonThienLaoThumbnail } from "./MatNgonThienLaoThumbnail";
 import { LuocSuAi } from "./LuocSuAi";
@@ -2942,6 +2962,214 @@ export const Root: React.FC = () => {
         defaultProps={{ bgm: false }}
       />
       <Composition
+        id="MatNgonDaoLuFullThumbnail"
+        component={MatNgonDaoLuFullThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonDaoLuFull"
+        component={MatNgonDaoLuFull}
+        durationInFrames={9039}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonDaoLuFullNoBgm"
+        component={MatNgonDaoLuFull}
+        durationInFrames={9039}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonDaoLu1Thumbnail"
+        component={MatNgonDaoLu1Thumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonDaoLu1"
+        component={MatNgonDaoLu1}
+        durationInFrames={1520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonDaoLu1NoBgm"
+        component={MatNgonDaoLu1}
+        durationInFrames={1520}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonChuyenNghiepThumbnail"
+        component={MatNgonChuyenNghiepThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonChuyenNghiep"
+        component={MatNgonChuyenNghiep}
+        durationInFrames={3965}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonChuyenNghiepNoBgm"
+        component={MatNgonChuyenNghiep}
+        durationInFrames={3965}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="GenZVsTheHeCuThumbnail"
+        component={GenZVsTheHeCuThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GenZVsTheHeCu"
+        component={GenZVsTheHeCu}
+        durationInFrames={8985}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="GenZVsTheHeCuNoBgm"
+        component={GenZVsTheHeCu}
+        durationInFrames={8985}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="VoDongChanNhanThumbnail"
+        component={VoDongChanNhanThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="VoDongChanNhan"
+        component={VoDongChanNhan}
+        durationInFrames={6437}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="VoDongChanNhanNoBgm"
+        component={VoDongChanNhan}
+        durationInFrames={6437}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonGiaoVienThumbnail"
+        component={MatNgonGiaoVienThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonGiaoVien"
+        component={MatNgonGiaoVien}
+        durationInFrames={7164}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonGiaoVienNoBgm"
+        component={MatNgonGiaoVien}
+        durationInFrames={7164}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="AppFree60stechThumbnail"
+        component={AppFree60stechThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="AppFree60stech"
+        component={AppFree60stech}
+        durationInFrames={5511}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="AppFree60stechNoBgm"
+        component={AppFree60stech}
+        durationInFrames={5511}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="XKiroGatewayThumbnail"
+        component={XKiroGatewayThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="XKiroGateway"
+        component={XKiroGateway}
+        durationInFrames={3665}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="XKiroGatewayNoBgm"
+        component={XKiroGateway}
+        durationInFrames={3665}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
         id="MatNgonThienLaoThumbnail"
         component={MatNgonThienLaoThumbnail}
         durationInFrames={1}
@@ -3606,6 +3834,58 @@ export const Root: React.FC = () => {
           fontSize: 52,
           highlightColor: "#22D3EE",
         }}
+      />
+      <Composition
+        id="NgayDauNhapTongMon"
+        component={NgayDauNhapTongMon}
+        durationInFrames={5730}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="NgayDauNhapTongMonNoBgm"
+        component={NgayDauNhapTongMon}
+        durationInFrames={5730}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="NgayDauNhapTongMonThumbnail"
+        component={NgayDauNhapTongMonThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ChanLyCongSoGioi"
+        component={ChanLyCongSoGioi}
+        durationInFrames={2216}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="ChanLyCongSoGioiNoBgm"
+        component={ChanLyCongSoGioi}
+        durationInFrames={2216}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="ChanLyCongSoGioiThumbnail"
+        component={ChanLyCongSoGioiThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
       />
     </>
   );

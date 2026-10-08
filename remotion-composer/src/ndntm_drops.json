@@ -1,0 +1,123 @@
+[
+ {
+  "key": "TITLE",
+  "text": "Ngày đầu\nnhập tông môn",
+  "size": 132,
+  "start": 0.0,
+  "end": 2.108,
+  "sub": "truyện tu tiên chốn công sở"
+ },
+ {
+  "key": "S1_NHUNG",
+  "text": "Đéo phải\ncái gì cũng nhận",
+  "size": 126,
+  "start": 10.187,
+  "end": 12.898
+ },
+ {
+  "key": "S2_HAITIENG",
+  "text": "Ta đéo hiểu\nmình đang làm\ncái gì",
+  "size": 108,
+  "start": 39.576,
+  "end": 42.516
+ },
+ {
+  "key": "S2_HOI",
+  "text": "Hỏi",
+  "size": 300,
+  "start": 46.102,
+  "end": 47.854
+ },
+ {
+  "key": "S2_TANOI",
+  "text": "Còn hơn\nem làm nhiều",
+  "size": 138,
+  "start": 55.964,
+  "end": 58.4
+ },
+ {
+  "key": "S3_BA",
+  "text": "Đừng tự tiện làm",
+  "size": 120,
+  "start": 67.936,
+  "end": 70.358
+ },
+ {
+  "key": "S3_TAUHOA",
+  "text": "Tẩu hỏa\nnhập ma",
+  "size": 176,
+  "start": 85.774,
+  "end": 88.205
+ },
+ {
+  "key": "S4_CANNGUOI",
+  "text": "Mày sẽ\ncần người",
+  "size": 160,
+  "start": 93.137,
+  "end": 95.487
+ },
+ {
+  "key": "S4_HETHONG",
+  "text": "Vị tiền bối nào",
+  "size": 124,
+  "start": 103.267,
+  "end": 105.385
+ },
+ {
+  "key": "S4_CAUCUU",
+  "text": "Biết cầu cứu\nđúng người",
+  "size": 128,
+  "start": 116.789,
+  "end": 119.108
+ },
+ {
+  "key": "S5_CHUADUNGU",
+  "text": "Ngươi chưa đủ ngu\nđể hiểu tại sao\nnó tồn tại",
+  "size": 92,
+  "start": 129.614,
+  "end": 133.072
+ },
+ {
+  "key": "S5_NHANQUA",
+  "text": "Ba đời\nnhân quả",
+  "size": 160,
+  "start": 138.079,
+  "end": 140.763
+ },
+ {
+  "key": "S5_GROUPCHAT",
+  "text": "Đừng phán\ntrong group chat",
+  "size": 116,
+  "start": 146.331,
+  "end": 149.033
+ },
+ {
+  "key": "S6_GIAOVIEC",
+  "text": "Giao việc cho ta\nkhông phải là một\nquyết định sai lầm",
+  "size": 88,
+  "start": 161.82,
+  "end": 165.511
+ },
+ {
+  "key": "S6_DEONOI",
+  "text": "Đéo nói",
+  "size": 228,
+  "start": 176.674,
+  "end": 178.913
+ },
+ {
+  "key": "S6_MAITINH",
+  "text": "Để mai tính",
+  "size": 186,
+  "start": 183.49,
+  "end": 185.775
+ },
+ {
+  "key": "CTA",
+  "text": "Theo dõi",
+  "size": 168,
+  "start": 187.278,
+  "end": 190.59,
+  "sub": "nghe tiếp chuyện tông môn"
+ }
+]

@@ -1,0 +1,1616 @@
+{
+ "MODAU": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "tuong",
+    "t": "🏯"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "tuong",
+    "t": "TƯƠNG TRUYỀN TRONG\nTU TIÊN GIỚI…",
+    "s": 56,
+    "c": "GOLD",
+    "w": 800
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "loai",
+    "t": "có một loại đệ tử…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "hao",
+    "t": "thà hao tổn\n10 NĂM TU VI…",
+    "s": 64,
+    "c": "RED"
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "chiu",
+    "t": "cũng không chịu…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "dung",
+    "t": "ĐỨNG DẬY\nlấy cái điện thoại.",
+    "s": 62,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C1_PIN": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "ngay",
+    "t": "📜"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "ngay",
+    "t": "Một ngày nọ.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dien",
+    "t": "Điện thoại của hắn…",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "phan",
+    "t": "chỉ còn\n1% LINH LỰC.",
+    "s": 76,
+    "c": "RED"
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "phap",
+    "t": "Pháp khí tụ linh…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "nam",
+    "t": "đang nằm\nNGAY DƯỚI CHÂN.",
+    "s": 60,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "C1_NHIN": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "cui",
+    "t": "Hắn cúi xuống nhìn.",
+    "s": 54,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "phap",
+    "t": "Pháp khí nhìn hắn.",
+    "s": 54,
+    "c": "GOLD",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "lai",
+    "t": "Hắn nhìn lại.",
+    "s": 54,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "lai",
+    "t": "👀"
+   }
+  ]
+ },
+ "C1_CHAT": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "truyen",
+    "t": "Rồi truyền âm cho đồng môn:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "huynh",
+    "who": "HẮN",
+    "t": "“Huynh đệ…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "cam",
+    "who": "HẮN",
+    "t": "“Cắm sạc hộ ta.”",
+    "c": "GOLD",
+    "s": 50,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "phap",
+    "who": "ĐỒNG MÔN",
+    "t": "“Pháp khí ngay dưới chân ngươi mà?”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "d",
+    "a": "biet",
+    "who": "HẮN",
+    "t": "“Ta biết.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "e2",
+    "a": "vay",
+    "who": "ĐỒNG MÔN",
+    "t": "“Vậy sao không tự cắm?”",
+    "c": "RED",
+    "s": 48,
+    "right": true
+   }
+  ]
+ },
+ "C1_DINH": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "han",
+    "t": "Hắn trầm mặc.",
+    "s": 50,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "ta",
+    "t": "🧘"
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "ta",
+    "t": "“TA ĐANG\nNHẬP ĐỊNH.”",
+    "s": 86,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "C1_REVEAL": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "day",
+    "t": "🏯"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "day",
+    "t": "Đây chính là cảnh giới đầu tiên.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "toa",
+    "t": "TỌA THIỀN.",
+    "s": 96,
+    "c": "GOLD"
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "than",
+    "t": "Thân bất động.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "tam",
+    "t": "Tâm bất động.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "chi",
+    "t": "Chỉ có…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "wifi",
+    "t": "WI-FI\nVẪN ĐỘNG.",
+    "s": 88,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C2_HEAD": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "nhung",
+    "t": "📜"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "nhung",
+    "t": "Nhưng tu luyện lâu ngày…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "ke",
+    "t": "kẻ này bắt đầu ngộ ra\nmột chân lý.",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "gap",
+    "h": 8
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "neu",
+    "t": "Nếu có thể dùng pháp khí…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "tai",
+    "t": "thì tại sao phải dùng\nTHÂN THỂ?",
+    "s": 62,
+    "c": "RED"
+   }
+  ]
+ },
+ "C2_DIEUHOA": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "ngay",
+    "t": "Một ngày.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dieu",
+    "t": "Điều hòa trong động phủ\nđang ở cảnh giới",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "clock",
+    "k": "c",
+    "a": "25",
+    "t": "25°C",
+    "c": "JADE"
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "linh",
+    "t": "Linh khí hơi nóng.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l3",
+    "a": "phap",
+    "t": "Pháp khí điều khiển…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "cach",
+    "t": "cách hắn\nBỐN GANG TAY.",
+    "s": 64,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "C2_THUONG": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "binh",
+    "t": "Một đệ tử bình thường:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "dua",
+    "who": "ĐỆ TỬ BÌNH THƯỜNG",
+    "t": "“Đưa tay ra.”",
+    "c": "TEXT",
+    "s": 54,
+    "right": false
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "bam",
+    "t": "Bấm.",
+    "s": 76,
+    "c": "JADE"
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "xong",
+    "t": "Xong.",
+    "s": 92,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C2_HAN": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "nhung",
+    "t": "Nhưng hắn…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "khong",
+    "t": "KHÔNG ĐỘNG.",
+    "s": 82,
+    "c": "RED"
+   },
+   {
+    "type": "gap",
+    "h": 8
+   },
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "lay",
+    "t": "📱 Hắn lấy điện thoại.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "mo",
+    "t": "Mở trận pháp điều khiển.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "bam",
+    "t": "Bấm một cái.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "clock",
+    "k": "c",
+    "a": "24",
+    "t": "24°C",
+    "c": "GOLD"
+   }
+  ]
+ },
+ "C2_CHAT": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "dong",
+    "t": "Đồng môn đứng bên cạnh\nnhìn mà kinh hãi.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "nguoi",
+    "who": "ĐỒNG MÔN",
+    "t": "“Ngươi…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "chi",
+    "who": "ĐỒNG MÔN",
+    "t": "“Chỉ vì không muốn với tay?”",
+    "c": "TEXT",
+    "s": 48,
+    "right": false
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "binh",
+    "t": "Hắn bình thản đáp:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "goi",
+    "t": "“ĐÂY GỌI LÀ\nTHUẬT PHÁP.”",
+    "s": 70,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "C2_REVEAL": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "khong",
+    "t": "🏯"
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "khong",
+    "t": "KHÔNG.",
+    "s": 110,
+    "c": "RED"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "day",
+    "t": "Đây gọi là…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "chuyen",
+    "t": "CHUYỂN ĐỔI SỐ\ncủa Tu Tiên Giới.",
+    "s": 68,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C3_HEAD": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "sau",
+    "t": "📜"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "sau",
+    "t": "Sau đó…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dao",
+    "t": "đạo tâm của hắn\ntiếp tục THA HÓA.",
+    "s": 50,
+    "c": "RED",
+    "w": 800
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "hom",
+    "t": "Một hôm.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "doi",
+    "t": "Hắn đói.",
+    "s": 76,
+    "c": "GOLD"
+   },
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "mi",
+    "t": "🍜 Có mì.",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "nuoc",
+    "t": "💧 Có nước.",
+    "s": 44,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "nau",
+    "t": "🔥 Có cả pháp khí nấu ăn.",
+    "s": 44,
+    "c": "TEXT"
+   }
+  ]
+ },
+ "C3_7M": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "van",
+    "t": "Chỉ có một vấn đề.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "tat",
+    "t": "Tất cả nằm ở…",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "7",
+    "t": "7 MÉT\nphía trước.",
+    "s": 92,
+    "c": "RED"
+   },
+   {
+    "type": "gap",
+    "h": 8
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "duong",
+    "t": "Hắn nhìn bảy mét đường đi.",
+    "s": 46,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "giuong",
+    "t": "Rồi nhìn\nCHIẾC GIƯỜNG.",
+    "s": 66,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C3_DAO": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "dai",
+    "t": "Trong đầu hắn hiện lên\nvô số đại đạo.",
+    "s": 50,
+    "c": "GOLD",
+    "w": 800
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "lay",
+    "who": "HẮN",
+    "t": "“Đi lấy…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "khong",
+    "who": "HẮN",
+    "t": "“Hay không đi?”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "nam",
+    "who": "HẮN",
+    "t": "“Đi… hay nằm?”",
+    "c": "JADE",
+    "s": 56,
+    "right": false
+   }
+  ]
+ },
+ "C3_SHIP": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "canh",
+    "t": "Sau một canh giờ ngộ đạo…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "trieu",
+    "t": "hắn quyết định triệu hồi",
+    "s": 46,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "ngoai",
+    "t": "🛵"
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "ngoai",
+    "t": "NGOẠI MÔN ĐỆ TỬ\nGIAO HÀNG.",
+    "s": 64,
+    "c": "JADE"
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "tien",
+    "who": "ĐỆ TỬ GIAO HÀNG",
+    "t": "“Tiền bối, xuống nhận linh thực ạ.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "duoc",
+    "who": "HẮN",
+    "t": "“Được.”",
+    "c": "GOLD",
+    "s": 52,
+    "right": true
+   }
+  ]
+ },
+ "C3_CHO": {
+  "els": [
+   {
+    "type": "big",
+    "k": "b",
+    "a": "muoi",
+    "t": "Mười phút.",
+    "s": 64,
+    "c": "MUTE"
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "tien",
+    "who": "ĐỆ TỬ GIAO HÀNG",
+    "t": "“Tiền bối?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b2",
+    "a": "da",
+    "who": "HẮN",
+    "t": "“Dạ.”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "xuong",
+    "who": "ĐỆ TỬ GIAO HÀNG",
+    "t": "“Ngài xuống chưa ạ?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "gap",
+    "h": 8
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "cua",
+    "t": "Hắn nhìn cửa động phủ.",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "giuong",
+    "t": "Nhìn chiếc giường.",
+    "s": 52,
+    "c": "JADE",
+    "w": 800
+   }
+  ]
+ },
+ "C3_HUY": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "roi",
+    "t": "Rồi…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "huy",
+    "t": "HỦY ĐƠN.",
+    "s": 100,
+    "c": "RED"
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "ly",
+    "t": "Lý do:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "quote",
+    "k": "q",
+    "a": "ban",
+    "t": "“Bần đạo đã đạt\ncảnh giới TỊCH CỐC.”",
+    "s": 56,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "C3_REVEAL": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "doi",
+    "t": "🏯"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "doi",
+    "t": "Đói vẫn đói.",
+    "s": 54,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "mi",
+    "t": "Mì vẫn còn.",
+    "s": 54,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "nhung",
+    "t": "Nhưng…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "dao",
+    "t": "ĐẠO TÂM\nĐÃ THẮNG.",
+    "s": 88,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C4_HEAD": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "den",
+    "t": "📜"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "den",
+    "t": "Đến cảnh giới thứ tư…",
+    "s": 54,
+    "c": "GOLD",
+    "w": 800
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dieu",
+    "t": "hắn đã có thể điều khiển người khác\nbằng một loại",
+    "s": 42,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "than",
+    "t": "THẦN THÔNG\nCỔ XƯA.",
+    "s": 80,
+    "c": "RED"
+   }
+  ]
+ },
+ "C4_CHAT": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "buoi",
+    "t": "Một buổi sáng.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "xuong",
+    "who": "MẪU THÂN",
+    "t": "“Xuống lấy đồ ăn.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "da",
+    "who": "HẮN",
+    "t": "“Dạ!”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "5",
+    "t": "Năm phút sau.",
+    "s": 42,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "xuong",
+    "who": "MẪU THÂN",
+    "t": "“Xuống chưa?”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "d",
+    "a": "da",
+    "who": "HẮN",
+    "t": "“Dạ xuống rồi!”",
+    "c": "GOLD",
+    "s": 52,
+    "right": true
+   }
+  ]
+ },
+ "C4_DAU": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "muoi",
+    "t": "Mười phút.",
+    "s": 50,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "nguoi",
+    "who": "MẪU THÂN",
+    "t": "“NGƯƠI ĐANG Ở ĐÂU?!”",
+    "c": "RED",
+    "s": 58,
+    "right": false
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "nam",
+    "t": "Hắn vẫn nằm\nTRÊN GIƯỜNG.",
+    "s": 68,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C4_REVEAL": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "lan",
+    "t": "Nhưng lần này…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "noi",
+    "t": "hắn không nói dối.",
+    "s": 52,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "than",
+    "t": "Trong thần thức của hắn…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "xuong",
+    "t": "hắn ĐÃ XUỐNG RỒI.",
+    "s": 64,
+    "c": "GOLD"
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "chi",
+    "t": "Chỉ là…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "xac",
+    "t": "thân xác\nCHƯA PHI THĂNG THEO.",
+    "s": 58,
+    "c": "RED"
+   }
+  ]
+ },
+ "C5_HEAD": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "toi",
+    "t": "🏯"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "toi",
+    "t": "Nhưng cảnh giới tối cao…",
+    "s": 54,
+    "c": "GOLD",
+    "w": 800
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dem",
+    "t": "là vào một đêm.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "khat",
+    "t": "Đệ tử này khát nước.",
+    "s": 50,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l3",
+    "a": "tra",
+    "t": "Một chén linh trà…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l4",
+    "a": "canh",
+    "t": "đang đặt ngay bên cạnh.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l5",
+    "a": "chi",
+    "t": "Chỉ cần đưa tay.",
+    "s": 48,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "gang",
+    "t": "MỘT GANG.",
+    "s": 96,
+    "c": "JADE"
+   }
+  ]
+ },
+ "C5_NHIN": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "nhin",
+    "t": "Hắn nhìn chén trà.",
+    "s": 54,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "tra nhin",
+    "t": "Chén trà nhìn hắn.",
+    "s": 54,
+    "c": "GOLD",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "hai",
+    "t": "Hai bên…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "bat",
+    "t": "BẤT ĐỘNG.",
+    "s": 90,
+    "c": "RED"
+   },
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "mot khac",
+    "t": "⏳ Một khắc.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "hai khac",
+    "t": "⏳ Hai khắc.",
+    "s": 46,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "ba",
+    "t": "⏳ Ba khắc.",
+    "s": 46,
+    "c": "TEXT"
+   }
+  ]
+ },
+ "C5_CHAT": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "cuoi",
+    "t": "Cuối cùng… hắn truyền âm\ncho mẫu thân:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "me",
+    "who": "HẮN",
+    "t": "“Mẹ…”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "b",
+    "a": "lay",
+    "who": "HẮN",
+    "t": "“Lấy hộ con chén nước.”",
+    "c": "GOLD",
+    "s": 48,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "c",
+    "a": "me chen",
+    "who": "MẸ",
+    "t": "“Chén nước ngay cạnh mày mà?”",
+    "c": "TEXT",
+    "s": 44,
+    "right": true
+   },
+   {
+    "type": "says",
+    "k": "d",
+    "a": "biet",
+    "who": "HẮN",
+    "t": "“Con biết.”",
+    "c": "SEC",
+    "s": 44,
+    "right": false
+   },
+   {
+    "type": "says",
+    "k": "e2",
+    "a": "the",
+    "who": "MẸ",
+    "t": "“Thế sao không tự lấy?”",
+    "c": "RED",
+    "s": 48,
+    "right": true
+   }
+  ]
+ },
+ "C5_DAO": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "im",
+    "t": "Hắn im lặng hồi lâu.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "sau",
+    "t": "Sau đó… chậm rãi nói:",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "quote",
+    "k": "q",
+    "a": "con dang",
+    "t": "“Con đang tu luyện\nmột ĐẠI ĐẠO.”",
+    "s": 56,
+    "c": "GOLD"
+   },
+   {
+    "type": "says",
+    "k": "a",
+    "a": "dao gi",
+    "who": "MẸ",
+    "t": "“Đạo gì?”",
+    "c": "TEXT",
+    "s": 50,
+    "right": true
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "khong dung",
+    "t": "“ĐẠO\nKHÔNG ĐỨNG DẬY.”",
+    "s": 76,
+    "c": "RED"
+   }
+  ]
+ },
+ "C5_PHI": {
+  "els": [
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "thien",
+    "t": "Thiên địa chấn động.",
+    "s": 50,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "dao tam",
+    "t": "Đạo tâm viên mãn.",
+    "s": 50,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "linh",
+    "t": "Linh khí nghịch chuyển.",
+    "s": 50,
+    "c": "TEXT"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "mid",
+    "a": "ke",
+    "t": "Kẻ này…",
+    "s": 46,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "phi",
+    "t": "PHI THĂNG.",
+    "s": 112,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "KET": {
+  "els": [
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "do",
+    "t": "🏯"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "do",
+    "t": "Từ đó…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "tu",
+    "t": "Tu Tiên Giới lưu truyền\nmột truyền thuyết.",
+    "s": 50,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "nguoi",
+    "t": "Người đời gọi hắn là…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "vo",
+    "t": "VÔ ĐỘNG\nCHÂN NHÂN.",
+    "s": 100,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "KET2": {
+  "els": [
+   {
+    "type": "item",
+    "k": "r1",
+    "a": "phap",
+    "t": "Không cần pháp khí.",
+    "s": 48,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r2",
+    "a": "cong",
+    "t": "Không cần công pháp.",
+    "s": 48,
+    "c": "TEXT"
+   },
+   {
+    "type": "item",
+    "k": "r3",
+    "a": "kiem",
+    "t": "Không cần phi kiếm.",
+    "s": 48,
+    "c": "TEXT"
+   },
+   {
+    "type": "gap",
+    "h": 10
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "boi",
+    "t": "Bởi vì… thứ duy nhất\nhắn luyện thành công…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "kha",
+    "t": "là khả năng…",
+    "s": 44,
+    "c": "MUTE",
+    "w": 500
+   },
+   {
+    "type": "big",
+    "k": "b",
+    "a": "nam",
+    "t": "NẰM THẲNG\ntrong mọi tình huống.",
+    "s": 70,
+    "c": "JADE"
+   }
+  ]
+ },
+ "KET3": {
+  "els": [
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "mon",
+    "t": "Và nếu trong môn phái ngươi…",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "dao",
+    "t": "cũng có một vị đạo hữu như vậy…",
+    "s": 46,
+    "c": "TEXT",
+    "w": 700
+   },
+   {
+    "type": "big",
+    "k": "b1",
+    "a": "dung",
+    "t": "ĐỪNG TAG HẮN\nVÀO ĐÂY…",
+    "s": 68,
+    "c": "RED"
+   },
+   {
+    "type": "line",
+    "k": "l2",
+    "a": "tra",
+    "t": "Hắn không trả lời đâu.",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "emoji",
+    "k": "e",
+    "a": "boi",
+    "t": "🧘"
+   },
+   {
+    "type": "big",
+    "k": "b2",
+    "a": "boi",
+    "t": "Bởi vì\nĐANG NHẬP ĐỊNH.",
+    "s": 72,
+    "c": "GOLD"
+   }
+  ]
+ },
+ "CTA": {
+  "els": [
+   {
+    "type": "btn",
+    "k": "b",
+    "a": "follow",
+    "t": "▶ FOLLOW BẦN ĐẠO",
+    "c": "GOLD"
+   },
+   {
+    "type": "line",
+    "k": "l0",
+    "a": "nghe",
+    "t": "để nghe tiếp những truyền thuyết",
+    "s": 46,
+    "c": "SEC",
+    "w": 500
+   },
+   {
+    "type": "line",
+    "k": "l1",
+    "a": "tu",
+    "t": "của TU TIÊN GIỚI.",
+    "s": 52,
+    "c": "JADE",
+    "w": 800
+   }
+  ]
+ }
+}

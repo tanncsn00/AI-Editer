@@ -1,0 +1,741 @@
+- generic [active] [ref=f437e1]:
+  - generic [ref=f437e4]:
+    - generic [ref=f437e6]:
+      - link "首页" [ref=f437e8] [cursor=pointer]:
+        - /url: //www.bilibili.com
+      - link "番剧" [ref=f437e17] [cursor=pointer]:
+        - /url: //www.bilibili.com/anime/
+      - link "直播" [ref=f437e20] [cursor=pointer]:
+        - /url: //live.bilibili.com
+      - link "游戏中心" [ref=f437e24] [cursor=pointer]:
+        - /url: //game.bilibili.com/platform
+      - link "会员购" [ref=f437e27] [cursor=pointer]:
+        - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+      - link "漫画" [ref=f437e30] [cursor=pointer]:
+        - /url: //manga.bilibili.com?from=bill_top_mnav
+      - link "赛事" [ref=f437e33] [cursor=pointer]:
+        - /url: //www.bilibili.com/match/home/
+      - link "下载客户端" [ref=f437e36] [cursor=pointer]:
+        - /url: //app.bilibili.com/
+    - generic [ref=f437e42]:
+      - generic [ref=f437e43]: 登录
+      - link [ref=f437e49] [cursor=pointer]:
+        - /url: //account.bilibili.com/big
+      - generic [ref=f437e56] [cursor=pointer]
+      - generic [ref=f437e61] [cursor=pointer]
+      - generic [ref=f437e69] [cursor=pointer]
+      - generic [ref=f437e74] [cursor=pointer]
+      - generic [ref=f437e78] [cursor=pointer]
+      - generic [ref=f437e85] [cursor=pointer]
+  - generic [ref=f437e91]:
+    - generic [ref=f437e92]:
+      - generic [ref=f437e96]:
+        - img [ref=f437e100] [cursor=pointer]
+        - textbox "输入关键字搜索" [ref=f437e102]: 女朋友说随便
+        - button "搜索" [ref=f437e103] [cursor=pointer]
+      - navigation [ref=f437e106]:
+        - list [ref=f437e107]:
+          - listitem [ref=f437e108]:
+            - generic [ref=f437e109] [cursor=pointer]: 综合
+          - listitem [ref=f437e111]:
+            - generic [ref=f437e112] [cursor=pointer]:
+              - generic [ref=f437e113]: 视频
+              - generic [ref=f437e114]: 99+
+          - listitem [ref=f437e115]:
+            - generic [ref=f437e116] [cursor=pointer]:
+              - generic [ref=f437e117]: 番剧
+              - generic [ref=f437e118]: "0"
+          - listitem [ref=f437e119]:
+            - generic [ref=f437e120] [cursor=pointer]:
+              - generic [ref=f437e121]: 影视
+              - generic [ref=f437e122]: "0"
+          - listitem [ref=f437e123]:
+            - generic [ref=f437e124] [cursor=pointer]:
+              - generic [ref=f437e125]: 直播
+              - generic [ref=f437e126]: "0"
+          - listitem [ref=f437e127]:
+            - generic [ref=f437e128] [cursor=pointer]:
+              - generic [ref=f437e129]: 专栏
+              - generic [ref=f437e130]: 99+
+          - listitem [ref=f437e131]:
+            - generic [ref=f437e132] [cursor=pointer]:
+              - generic [ref=f437e133]: 用户
+              - generic [ref=f437e134]: "0"
+      - separator [ref=f437e136]
+      - generic [ref=f437e139]:
+        - generic [ref=f437e140]:
+          - button "综合排序" [ref=f437e141] [cursor=pointer]
+          - button "最多播放" [ref=f437e142] [cursor=pointer]
+          - button "最新发布" [ref=f437e143] [cursor=pointer]
+          - button "最多弹幕" [ref=f437e144] [cursor=pointer]
+          - button "最多收藏" [ref=f437e145] [cursor=pointer]
+        - button "更多筛选" [ref=f437e146] [cursor=pointer]
+    - generic [ref=f437e151]:
+      - generic [ref=f437e152]:
+        - generic [ref=f437e155]:
+          - link [ref=f437e156] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1zW4y1k7ou/
+            - generic [ref=f437e157]:
+              - img "千万不要随便当学长的“女朋友”" [ref=f437e160]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 567.5万
+                    - generic: "4469"
+                  - generic: 06:10
+          - generic [ref=f437e162]:
+            - link [ref=f437e163] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1zW4y1k7ou/
+              - heading [level=3] [ref=f437e164]:
+                - text: 千万不要
+                - emphasis [ref=f437e165]: 随便
+                - text: 当学长的“
+                - emphasis [ref=f437e166]: 女朋友
+                - text: ”
+            - link "姜峰真的苟 · 2022年6月17日" [ref=f437e168] [cursor=pointer]:
+              - /url: //space.bilibili.com/44688866
+              - generic [ref=f437e173]: 姜峰真的苟
+              - generic [ref=f437e174]: · 2022年6月17日
+        - generic [ref=f437e177]:
+          - link [ref=f437e178] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1pt411s7At/
+            - generic [ref=f437e179]:
+              - img "女朋友随便丢一个币，就tm下来这么多" [ref=f437e182]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 321.4万
+                    - generic: "741"
+                  - generic: 02:12
+          - generic [ref=f437e184]:
+            - link [ref=f437e185] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1pt411s7At/
+              - heading [level=3] [ref=f437e186]:
+                - emphasis [ref=f437e187]: 女朋友随便
+                - text: 丢一个币，就tm下来这么多
+            - link "太阳时事 · 2019年1月8日" [ref=f437e189] [cursor=pointer]:
+              - /url: //space.bilibili.com/12579481
+              - generic [ref=f437e194]: 太阳时事
+              - generic [ref=f437e195]: · 2019年1月8日
+        - generic [ref=f437e198]:
+          - link [ref=f437e199] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1xK41127Dk/
+            - generic [ref=f437e200]:
+              - img "吵架期间千万不要随便收女朋友送的东西…" [ref=f437e203]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 170万
+                    - generic: "71"
+                  - generic: 00:11
+          - generic [ref=f437e205]:
+            - link [ref=f437e206] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1xK41127Dk/
+              - heading [level=3] [ref=f437e207]:
+                - text: 吵架期间千万不要
+                - emphasis [ref=f437e208]: 随便
+                - text: 收
+                - emphasis [ref=f437e209]: 女朋友
+                - text: 送的东西…
+            - link "礼物小魔女 · 2023年1月2日" [ref=f437e211] [cursor=pointer]:
+              - /url: //space.bilibili.com/3461575719521178
+              - generic [ref=f437e216]: 礼物小魔女
+              - generic [ref=f437e217]: · 2023年1月2日
+        - generic [ref=f437e220]:
+          - link [ref=f437e221] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1ir42157L5/
+            - generic [ref=f437e222]:
+              - img "不要随便给女朋友推荐餐厅！！" [ref=f437e225]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 124.7万
+                    - generic: "84"
+                  - generic: 00:48
+          - generic [ref=f437e227]:
+            - link [ref=f437e228] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1ir42157L5/
+              - heading [level=3] [ref=f437e229]:
+                - text: 不要
+                - emphasis [ref=f437e230]: 随便
+                - text: 给
+                - emphasis [ref=f437e231]: 女朋友
+                - text: 推荐餐厅！！
+            - link "胜彬和玛雅 · 2024年5月21日" [ref=f437e233] [cursor=pointer]:
+              - /url: //space.bilibili.com/3546669201230402
+              - generic [ref=f437e238]: 胜彬和玛雅
+              - generic [ref=f437e239]: · 2024年5月21日
+        - generic [ref=f437e242]:
+          - link [ref=f437e243] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1tr4y1g7wT/
+            - generic [ref=f437e244]:
+              - img "来我家，让我的女朋友帮你拧瓶盖" [ref=f437e247]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 101.8万
+                    - generic: "98"
+                  - generic: 00:32
+          - generic [ref=f437e249]:
+            - link [ref=f437e250] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1tr4y1g7wT/
+              - heading [level=3] [ref=f437e251]:
+                - text: 来我家，让我的
+                - emphasis [ref=f437e252]: 女朋友
+                - text: 帮你拧瓶盖
+            - link "初九大羊 · 2022年6月24日" [ref=f437e254] [cursor=pointer]:
+              - /url: //space.bilibili.com/1525071213
+              - generic [ref=f437e259]: 初九大羊
+              - generic [ref=f437e260]: · 2022年6月24日
+        - generic [ref=f437e263]:
+          - link [ref=f437e264] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV13Sk5BeEwP/
+            - generic [ref=f437e265]:
+              - img "女孩子千万不要随便和男友玩跷跷板…" [ref=f437e268]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 98.2万
+                    - generic: "77"
+                  - generic: 00:16
+          - generic [ref=f437e270]:
+            - link [ref=f437e271] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV13Sk5BeEwP/
+              - heading [level=3] [ref=f437e272]:
+                - text: 女孩子千万不要
+                - emphasis [ref=f437e273]: 随便
+                - text: 和男友玩跷跷板…
+            - link "铭牌小葵 · 1月20日" [ref=f437e275] [cursor=pointer]:
+              - /url: //space.bilibili.com/345823919
+              - generic [ref=f437e280]: 铭牌小葵
+              - generic [ref=f437e281]: · 1月20日
+        - generic [ref=f437e284]:
+          - link [ref=f437e285] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1CYg5zpEak/
+            - generic [ref=f437e286]:
+              - img "不要随便吃女朋友生气时给的东西……" [ref=f437e289]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 86.1万
+                    - generic: "28"
+                  - generic: 00:13
+          - generic [ref=f437e291]:
+            - link [ref=f437e292] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1CYg5zpEak/
+              - heading [level=3] [ref=f437e293]:
+                - text: 不要
+                - emphasis [ref=f437e294]: 随便
+                - text: 吃
+                - emphasis [ref=f437e295]: 女朋友
+                - text: 生气时给的东西……
+            - link "超级崽崽吖 · 2025年7月21日" [ref=f437e297] [cursor=pointer]:
+              - /url: //space.bilibili.com/1252331173
+              - generic [ref=f437e302]: 超级崽崽吖
+              - generic [ref=f437e303]: · 2025年7月21日
+        - generic [ref=f437e306]:
+          - link [ref=f437e307] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1M5411b7uf/
+            - generic [ref=f437e308]:
+              - img "万万不该随便去找女朋友" [ref=f437e311]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 68.3万
+                    - generic: "223"
+                  - generic: 01:31
+          - generic [ref=f437e313]:
+            - link [ref=f437e314] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1M5411b7uf/
+              - heading [level=3] [ref=f437e315]:
+                - text: 万万不该
+                - emphasis [ref=f437e316]: 随便
+                - text: 去找
+                - emphasis [ref=f437e317]: 女朋友
+            - link "邻居家的小猫咪哇 · 2020年8月26日" [ref=f437e319] [cursor=pointer]:
+              - /url: //space.bilibili.com/337376429
+              - generic [ref=f437e324]: 邻居家的小猫咪哇
+              - generic [ref=f437e325]: · 2020年8月26日
+        - generic [ref=f437e328]:
+          - link [ref=f437e329] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1jq421A7eE/
+            - generic [ref=f437e330]:
+              - img "问你打哪 你说随便 那都别玩了" [ref=f437e333]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 64.6万
+                    - generic: "66"
+                  - generic: 00:12
+          - generic [ref=f437e335]:
+            - link [ref=f437e336] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1jq421A7eE/
+              - heading [level=3] [ref=f437e337]:
+                - text: 问你打哪 你
+                - emphasis [ref=f437e338]: 说随便
+                - text: 那都别玩了
+            - link "我有一张绝版的海报 · 2024年3月26日" [ref=f437e340] [cursor=pointer]:
+              - /url: //space.bilibili.com/240529973
+              - generic [ref=f437e345]: 我有一张绝版的海报
+              - generic [ref=f437e346]: · 2024年3月26日
+        - generic [ref=f437e349]:
+          - link [ref=f437e350] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1QT411M7Qc/
+            - generic [ref=f437e351]:
+              - img "千万不要随便使唤男朋友" [ref=f437e354]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 55.9万
+                    - generic: "268"
+                  - generic: 02:37
+          - generic [ref=f437e356]:
+            - link [ref=f437e357] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1QT411M7Qc/
+              - heading [level=3] [ref=f437e358]:
+                - text: 千万不要
+                - emphasis [ref=f437e359]: 随便
+                - text: 使唤男
+                - emphasis [ref=f437e360]: 朋友
+            - link "神经酋长 · 2022年9月16日" [ref=f437e362] [cursor=pointer]:
+              - /url: //space.bilibili.com/1095810839
+              - generic [ref=f437e367]: 神经酋长
+              - generic [ref=f437e368]: · 2022年9月16日
+        - generic [ref=f437e371]:
+          - link [ref=f437e372] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1eM4y197xv/
+            - generic [ref=f437e373]:
+              - img "我已经不敢随便和有女朋友的异性朋友说话了……" [ref=f437e376]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 51.1万
+                    - generic: "77"
+                  - generic: 00:33
+          - generic [ref=f437e378]:
+            - link [ref=f437e379] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1eM4y197xv/
+              - heading [level=3] [ref=f437e380]:
+                - text: 我已经不敢
+                - emphasis [ref=f437e381]: 随便
+                - text: 和有
+                - emphasis [ref=f437e382]: 女朋友
+                - text: 的异性
+                - emphasis [ref=f437e383]: 朋友
+                - text: 说话了……
+            - link "顾蚊子 · 2023年1月29日" [ref=f437e385] [cursor=pointer]:
+              - /url: //space.bilibili.com/510070
+              - generic [ref=f437e390]: 顾蚊子
+              - generic [ref=f437e391]: · 2023年1月29日
+        - generic [ref=f437e394]:
+          - link [ref=f437e395] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1iLmdBiED3/
+            - generic [ref=f437e396]:
+              - img "67. 盘点乱用女朋友东西的男人，千万不要随便乱用女生的东西" [ref=f437e399]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 50.2万
+                    - generic: "0"
+                  - generic: 05:53
+          - generic [ref=f437e401]:
+            - link [ref=f437e402] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1iLmdBiED3/
+              - heading [level=3] [ref=f437e403]:
+                - text: 67. 盘点乱用
+                - emphasis [ref=f437e404]: 女朋友
+                - text: 东西的男人，千万不要
+                - emphasis [ref=f437e405]: 随便
+                - text: 乱用女生的东西
+            - link "搞笑君FunnyGuy · 2025年12月14日" [ref=f437e407] [cursor=pointer]:
+              - /url: //space.bilibili.com/179763562
+              - generic [ref=f437e412]: 搞笑君FunnyGuy
+              - generic [ref=f437e413]: · 2025年12月14日
+        - generic [ref=f437e416]:
+          - link [ref=f437e417] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1pf4y1f738/
+            - generic [ref=f437e418]:
+              - img "每个男生都有偷拍女朋友的丑照作表情包的爱好吗" [ref=f437e421]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 49.3万
+                    - generic: "65"
+                  - generic: 00:34
+          - generic [ref=f437e423]:
+            - link [ref=f437e424] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1pf4y1f738/
+              - heading [level=3] [ref=f437e425]:
+                - text: 每个男生都有偷拍
+                - emphasis [ref=f437e426]: 女朋友
+                - text: 的丑照作表情包的爱好吗
+            - link "初九大羊 · 2022年6月21日" [ref=f437e428] [cursor=pointer]:
+              - /url: //space.bilibili.com/1525071213
+              - generic [ref=f437e433]: 初九大羊
+              - generic [ref=f437e434]: · 2022年6月21日
+        - generic [ref=f437e437]:
+          - link [ref=f437e438] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Yq4y1g7HD/
+            - generic [ref=f437e439]:
+              - img "女朋友喜欢用脚打球，虽然操作犯规但很刺激，我该如何回应？雨哥:你俩的事随便你们玩！" [ref=f437e442]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 43.2万
+                    - generic: "133"
+                  - generic: 01:28
+          - generic [ref=f437e444]:
+            - link [ref=f437e445] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Yq4y1g7HD/
+              - heading [level=3] [ref=f437e446]:
+                - emphasis [ref=f437e447]: 女朋友
+                - text: 喜欢用脚打球，虽然操作犯规但很刺激，我该如何回应？雨哥:你俩的事
+                - emphasis [ref=f437e448]: 随便
+                - text: 你们玩！
+            - link "小泉Hikigaya · 2021年11月25日" [ref=f437e450] [cursor=pointer]:
+              - /url: //space.bilibili.com/22003753
+              - generic [ref=f437e455]: 小泉Hikigaya
+              - generic [ref=f437e456]: · 2021年11月25日
+        - generic [ref=f437e459]:
+          - link [ref=f437e460] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1hvwjznEAj/
+            - generic [ref=f437e461]:
+              - img "第一次带女朋友回家 随便炒了几个菜 结果网友炸了#女朋友#回老家" [ref=f437e464]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 39.2万
+                    - generic: "184"
+                  - generic: 00:15
+          - generic [ref=f437e466]:
+            - link [ref=f437e467] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1hvwjznEAj/
+              - heading [level=3] [ref=f437e468]:
+                - text: 第一次带
+                - emphasis [ref=f437e469]: 女朋友
+                - text: 回家
+                - emphasis [ref=f437e470]: 随便
+                - text: 炒了几个菜 结果网友炸了#
+                - emphasis [ref=f437e471]: 女朋友
+                - text: "#回老家"
+            - link "河南公共频道 · 3月16日" [ref=f437e473] [cursor=pointer]:
+              - /url: //space.bilibili.com/486484354
+              - generic [ref=f437e478]: 河南公共频道
+              - generic [ref=f437e479]: · 3月16日
+        - generic [ref=f437e482]:
+          - link [ref=f437e483] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1UY4y1J7RF/
+            - generic [ref=f437e484]:
+              - img "有一个会猪叫的女朋友超酷的好吗" [ref=f437e487]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 37.7万
+                    - generic: "21"
+                  - generic: 00:29
+          - generic [ref=f437e489]:
+            - link [ref=f437e490] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1UY4y1J7RF/
+              - heading [level=3] [ref=f437e491]:
+                - text: 有一个会猪叫的
+                - emphasis [ref=f437e492]: 女朋友
+                - text: 超酷的好吗
+            - link "初九大羊 · 2022年6月27日" [ref=f437e494] [cursor=pointer]:
+              - /url: //space.bilibili.com/1525071213
+              - generic [ref=f437e499]: 初九大羊
+              - generic [ref=f437e500]: · 2022年6月27日
+        - generic [ref=f437e503]:
+          - link [ref=f437e504] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1su4y1P7Uv/
+            - generic [ref=f437e505]:
+              - img "【极速版】为什么说男生不能随便，打女朋友的屁屁呢？（男女慎入）" [ref=f437e508]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 33.7万
+                    - generic: "72"
+                  - generic: 01:23
+          - generic [ref=f437e510]:
+            - link [ref=f437e511] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1su4y1P7Uv/
+              - heading [level=3] [ref=f437e512]:
+                - text: 【极速版】为什么说男生不能
+                - emphasis [ref=f437e513]: 随便
+                - text: ，打
+                - emphasis [ref=f437e514]: 女朋友
+                - text: 的屁屁呢？（男女慎入）
+            - link "欧空阿 · 2023年11月22日" [ref=f437e516] [cursor=pointer]:
+              - /url: //space.bilibili.com/524146880
+              - generic [ref=f437e521]: 欧空阿
+              - generic [ref=f437e522]: · 2023年11月22日
+        - generic [ref=f437e525]:
+          - link [ref=f437e526] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1fS4y1E7FA/
+            - generic [ref=f437e527]:
+              - img "不会真有人能认错自己女朋友吧" [ref=f437e530]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 31.1万
+                    - generic: "80"
+                  - generic: 00:56
+          - generic [ref=f437e532]:
+            - link [ref=f437e533] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1fS4y1E7FA/
+              - heading [level=3] [ref=f437e534]:
+                - text: 不会真有人能认错自己
+                - emphasis [ref=f437e535]: 女朋友
+                - text: 吧
+            - link "初九大羊 · 2022年7月11日" [ref=f437e537] [cursor=pointer]:
+              - /url: //space.bilibili.com/1525071213
+              - generic [ref=f437e542]: 初九大羊
+              - generic [ref=f437e543]: · 2022年7月11日
+        - generic [ref=f437e546]:
+          - link [ref=f437e547] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Ei42197Fj/
+            - generic [ref=f437e548]:
+              - img "不要随便惹你的女朋友 不然她就会…？" [ref=f437e551]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 28.5万
+                    - generic: "31"
+                  - generic: 00:24
+          - generic [ref=f437e553]:
+            - link [ref=f437e554] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Ei42197Fj/
+              - heading [level=3] [ref=f437e555]:
+                - text: 不要
+                - emphasis [ref=f437e556]: 随便
+                - text: 惹你的
+                - emphasis [ref=f437e557]: 女朋友
+                - text: 不然她就会…？
+            - link "小暮mumu · 2024年3月25日" [ref=f437e559] [cursor=pointer]:
+              - /url: //space.bilibili.com/5128039
+              - generic [ref=f437e564]: 小暮mumu
+              - generic [ref=f437e565]: · 2024年3月25日
+        - generic [ref=f437e568]:
+          - link [ref=f437e569] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Jw41167tr/
+            - generic [ref=f437e570]:
+              - img "什么?你女朋友脾气也不好?" [ref=f437e573]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 27.3万
+                    - generic: "55"
+                  - generic: 01:15
+          - generic [ref=f437e575]:
+            - link [ref=f437e576] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Jw41167tr/
+              - heading [level=3] [ref=f437e577]:
+                - text: 什么?你
+                - emphasis [ref=f437e578]: 女朋友
+                - text: 脾气也不好?
+            - link "小熊侍卫77 · 2023年10月17日" [ref=f437e580] [cursor=pointer]:
+              - /url: //space.bilibili.com/478559919
+              - generic [ref=f437e585]: 小熊侍卫77
+              - generic [ref=f437e586]: · 2023年10月17日
+        - generic [ref=f437e589]:
+          - link [ref=f437e590] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV148tQepEzZ/
+            - generic [ref=f437e591]:
+              - img "广告我只看泰国的：当女朋友说随便时......" [ref=f437e594]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 26.6万
+                    - generic: "741"
+                  - generic: 05:25
+          - generic [ref=f437e596]:
+            - link [ref=f437e597] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV148tQepEzZ/
+              - heading [level=3] [ref=f437e598]:
+                - text: 广告我只看泰国的：当
+                - emphasis [ref=f437e599]: 女朋友说随便
+                - text: 时......
+            - link "4A广告提案网 · 2024年9月21日" [ref=f437e601] [cursor=pointer]:
+              - /url: //space.bilibili.com/43707221
+              - generic [ref=f437e606]: 4A广告提案网
+              - generic [ref=f437e607]: · 2024年9月21日
+        - generic [ref=f437e610]:
+          - link [ref=f437e611] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Bk4y1m7Bu/
+            - generic [ref=f437e612]:
+              - img "当女生给你说“随便”是什么意思？" [ref=f437e615]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 26.1万
+                    - generic: "379"
+                  - generic: 01:39
+          - generic [ref=f437e617]:
+            - link [ref=f437e618] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Bk4y1m7Bu/
+              - heading [level=3] [ref=f437e619]:
+                - text: 当女生给你说“
+                - emphasis [ref=f437e620]: 随便
+                - text: ”是什么意思？
+            - link "你们的宋老师 · 2020年8月6日" [ref=f437e622] [cursor=pointer]:
+              - /url: //space.bilibili.com/479450657
+              - generic [ref=f437e627]: 你们的宋老师
+              - generic [ref=f437e628]: · 2020年8月6日
+        - generic [ref=f437e631]:
+          - link [ref=f437e632] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1EG4y1i7Vw/
+            - generic [ref=f437e633]:
+              - img "女朋友今天随便吃点～" [ref=f437e636]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 23.3万
+                    - generic: "256"
+                  - generic: 05:18
+          - generic [ref=f437e638]:
+            - link [ref=f437e639] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1EG4y1i7Vw/
+              - heading [level=3] [ref=f437e640]:
+                - emphasis [ref=f437e641]: 女朋友
+                - text: 今天
+                - emphasis [ref=f437e642]: 随便
+                - text: 吃点～
+            - link "女朋友今天吃什么 · 2022年7月24日" [ref=f437e644] [cursor=pointer]:
+              - /url: //space.bilibili.com/1887782145
+              - generic [ref=f437e649]: 女朋友今天吃什么
+              - generic [ref=f437e650]: · 2022年7月24日
+        - generic [ref=f437e653]:
+          - link [ref=f437e654] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Tx411v7Kg/
+            - generic [ref=f437e655]:
+              - img "变声器！核能注意！还需要女朋友？感觉好随便啊。" [ref=f437e658]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: 23万
+                    - generic: "2557"
+                  - generic: 05:06
+          - generic [ref=f437e660]:
+            - link [ref=f437e661] [cursor=pointer]:
+              - /url: //www.bilibili.com/video/BV1Tx411v7Kg/
+              - heading [level=3] [ref=f437e662]:
+                - text: 变声器！核能注意！还需要
+                - emphasis [ref=f437e663]: 女朋友
+                - text: ？感觉好
+                - emphasis [ref=f437e664]: 随便
+                - text: 啊。
+            - link "夏天夏总攻 · 2017年5月16日" [ref=f437e666] [cursor=pointer]:
+              - /url: //space.bilibili.com/11704697
+              - generic [ref=f437e671]: 夏天夏总攻
+              - generic [ref=f437e672]: · 2017年5月16日
+      - navigation "分页" [ref=f437e674]:
+        - generic [ref=f437e675]:
+          - button "上一页" [disabled] [ref=f437e676]
+          - button "第 1 页，当前页" [ref=f437e677] [cursor=pointer]: "1"
+          - button "第 2 页" [ref=f437e678] [cursor=pointer]: "2"
+          - button "第 3 页" [ref=f437e679] [cursor=pointer]: "3"
+          - button "第 4 页" [ref=f437e680] [cursor=pointer]: "4"
+          - button "第 5 页" [ref=f437e681] [cursor=pointer]: "5"
+          - button "第 6 页" [ref=f437e682] [cursor=pointer]: "6"
+          - button "第 7 页" [ref=f437e683] [cursor=pointer]: "7"
+          - generic [aria-hidden] [ref=f437e684]: ...
+          - button "第 26 页" [ref=f437e685] [cursor=pointer]: "26"
+          - button "下一页" [ref=f437e686] [cursor=pointer]
+  - generic [ref=f437e691]:
+    - generic [ref=f437e692]:
+      - generic [ref=f437e693]:
+        - generic [ref=f437e694]: bilibili
+        - generic [ref=f437e695]:
+          - link "关于我们" [ref=f437e696] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/aboutUs.html
+          - link "联系我们" [ref=f437e697] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/contact.html
+          - link "用户协议" [ref=f437e698] [cursor=pointer]:
+            - /url: //www.bilibili.com/protocal/licence.html
+          - link "加入我们" [ref=f437e699] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/join.html
+          - link "隐私协议" [ref=f437e700] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/privacy-pc.html
+          - link "bilibili认证" [ref=f437e701] [cursor=pointer]:
+            - /url: //account.bilibili.com/account/official/home
+          - link "Investor Relations" [ref=f437e702] [cursor=pointer]:
+            - /url: //ir.bilibili.com/
+      - generic [ref=f437e703]:
+        - generic [ref=f437e704]: 传送门
+        - generic [ref=f437e705]:
+          - link "协议汇总" [ref=f437e706] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic/activity-cn8bxPLzz.html
+          - link "活动中心" [ref=f437e707] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-list.html
+          - link "活动专题页" [ref=f437e708] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/topic_list.html
+          - link "侵权申诉" [ref=f437e709] [cursor=pointer]:
+            - /url: //www.bilibili.com/v/copyright/intro/
+          - link "帮助中心" [ref=f437e710] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/help.html
+          - link "社区中心" [ref=f437e711] [cursor=pointer]:
+            - /url: https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html
+          - link "壁纸站" [ref=f437e712] [cursor=pointer]:
+            - /url: //space.bilibili.com/6823116#/album
+          - link "广告合作" [ref=f437e713] [cursor=pointer]:
+            - /url: //e.bilibili.com/
+          - link "名人堂" [ref=f437e714] [cursor=pointer]:
+            - /url: //www.bilibili.com/blackboard/activity-S1jfy69Jz.html
+          - link "MCN管理中心" [ref=f437e715] [cursor=pointer]:
+            - /url: //mcn.bilibili.com/studio/mcn/entry
+          - link "高级弹幕" [ref=f437e716] [cursor=pointer]:
+            - /url: //www.bilibili.com/video/BV1Xx411c7cH/
+          - link "品牌号官网" [ref=f437e717] [cursor=pointer]:
+            - /url: //b.bilibili.com/
+      - generic [ref=f437e718]:
+        - link [ref=f437e720] [cursor=pointer]:
+          - /url: //app.bilibili.com/
+          - paragraph [ref=f437e724]: 下载APP
+        - link [ref=f437e726] [cursor=pointer]:
+          - /url: //love.bilibili.com/
+          - paragraph [ref=f437e733]: 公益
+        - link [ref=f437e735] [cursor=pointer]:
+          - /url: //weibo.com/bilibiliweb
+          - paragraph [ref=f437e739]: 官方微博
+        - paragraph [ref=f437e745]: 官方微信
+    - generic [ref=f437e748]:
+      - generic [ref=f437e749]:
+        - link "营业执照" [ref=f437e750] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/gd85E6tDco.jpg
+        - text: 信息网络传播视听节目许可证：0910417
+        - link "网络文化经营许可证 沪网文【2025】0258-085号" [ref=f437e751] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20260209/3b3c5705bda98d50983f6f47df360fef/K4t52YryBV.jpeg
+        - text: 广播电视节目制作经营许可证：（沪）字第01248号增值电信业务经营许可证 沪B2-20100043
+      - generic [ref=f437e752]:
+        - link "互联网ICP备案：沪ICP备13002172号-3" [ref=f437e753] [cursor=pointer]:
+          - /url: //beian.miit.gov.cn/
+        - link "出版物经营许可证 沪批字第U6699 号" [ref=f437e754] [cursor=pointer]:
+          - /url: //i0.hdslb.com/bfs/activity-plat/static/20240516/9ccf041718e5d6d6dfaebc91b85c791c/4ainzbFKao.jpg
+        - text: 互联网药品信息服务资格证 沪-非经营性-2022-0011营业性演出许可证 沪市文演（经）00-2253 |
+      - generic [ref=f437e755]:
+        - link "不良信息举报邮箱：help@bilibili.com" [ref=f437e756] [cursor=pointer]:
+          - /url: mailto:help@bilibili.com
+        - link "涉未成年举报邮箱：teenprotect@bilibili.com" [ref=f437e757] [cursor=pointer]:
+          - /url: mailto:teenprotect@bilibili.com
+        - text: 不良信息举报电话：4006262233转3
+        - link "上海互联网举报中心 |" [ref=f437e759] [cursor=pointer]:
+          - /url: http://www.shjbzx.cn/
+        - link "12345政务服务便民热线 |" [ref=f437e760] [cursor=pointer]:
+          - /url: http://www.sh12345.gov.cn/
+      - generic [ref=f437e761]:
+        - link "沪公网安备31011002002436号 |" [ref=f437e763] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002002436
+        - link "儿童色情信息举报专区 |" [ref=f437e764] [cursor=pointer]:
+          - /url: mailto:userreport@bilibili.com
+        - link "扫黄打非举报" [ref=f437e765] [cursor=pointer]:
+          - /url: https://bzpt.shdf.gov.cn/www/shouye/gzfw/wsjb/index.shtml
+      - generic [ref=f437e766]:
+        - link "网信算备310110764385705230011号" [ref=f437e767] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_6185ea2c-c84c-404a-9280-c5465af05948.pdf
+        - link "网信算备310110764385702230013号" [ref=f437e768] [cursor=pointer]:
+          - /url: https://beian.cac.gov.cn/api/static/fileUpload/principalOrithm/additional/user_699bbd78-36f4-459c-aeb0-bf98a2a562d8_e03e6855-76a6-43fb-b799-d090e7fce25d.pdf
+      - generic [ref=f437e769]:
+        - text: 网上有害信息举报专区：
+        - link "中国互联网违法和不良信息举报中心" [ref=f437e771] [cursor=pointer]:
+          - /url: https://www.12377.cn/
+        - text: 亲爱的市民朋友，上海警方反诈劝阻电话"96110"系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。
+      - generic [ref=f437e772]: 公司名称：上海宽娱数码科技有限公司 |公司地址：上海市杨浦区政立路489号 |电话：021-25099888

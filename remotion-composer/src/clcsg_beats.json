@@ -1,0 +1,131 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "TITLE",
+   "start": 0.0,
+   "duration": 3.23
+  },
+  {
+   "index": 4,
+   "name": "HOOK_SO",
+   "start": 3.23,
+   "duration": 3.539
+  },
+  {
+   "index": 5,
+   "name": "L_DIRIENG",
+   "start": 6.769,
+   "duration": 2.7
+  },
+  {
+   "index": 6,
+   "name": "L_DICHUNG",
+   "start": 9.47,
+   "duration": 2.769
+  },
+  {
+   "index": 7,
+   "name": "L_DEADLINE",
+   "start": 12.238,
+   "duration": 3.427
+  },
+  {
+   "index": 8,
+   "name": "L_TRUOCHAN",
+   "start": 15.666,
+   "duration": 3.798
+  },
+  {
+   "index": 9,
+   "name": "L_BANNHAT",
+   "start": 19.463,
+   "duration": 3.821
+  },
+  {
+   "index": 10,
+   "name": "L_GIAOTHEM",
+   "start": 23.284,
+   "duration": 4.578
+  },
+  {
+   "index": 11,
+   "name": "L_XONGCHUA",
+   "start": 27.862,
+   "duration": 2.817
+  },
+  {
+   "index": 12,
+   "name": "L_XONGTRUOC",
+   "start": 30.679,
+   "duration": 2.612
+  },
+  {
+   "index": 13,
+   "name": "L_CHUYENGIA",
+   "start": 33.291,
+   "duration": 5.665
+  },
+  {
+   "index": 14,
+   "name": "L_DUNGGIO",
+   "start": 38.956,
+   "duration": 2.786
+  },
+  {
+   "index": 15,
+   "name": "L_CUNGVAY",
+   "start": 41.742,
+   "duration": 1.946
+  },
+  {
+   "index": 16,
+   "name": "L_LAMNGAY",
+   "start": 43.688,
+   "duration": 4.261
+  },
+  {
+   "index": 17,
+   "name": "L_BATDAU",
+   "start": 47.949,
+   "duration": 4.009
+  },
+  {
+   "index": 18,
+   "name": "L_HOANTHANH",
+   "start": 51.958,
+   "duration": 4.276
+  },
+  {
+   "index": 19,
+   "name": "DAIDAO",
+   "start": 56.234,
+   "duration": 2.737
+  },
+  {
+   "index": 20,
+   "name": "VODUNG",
+   "start": 58.971,
+   "duration": 4.515
+  },
+  {
+   "index": 21,
+   "name": "KET_THANHCONG",
+   "start": 63.486,
+   "duration": 4.653
+  },
+  {
+   "index": 22,
+   "name": "KET_DUNG",
+   "start": 68.138,
+   "duration": 2.176
+  },
+  {
+   "index": 23,
+   "name": "CTA",
+   "start": 70.314,
+   "duration": 3.124
+  }
+ ],
+ "total_duration": 73.439
+}

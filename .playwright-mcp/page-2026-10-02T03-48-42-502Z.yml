@@ -1,0 +1,336 @@
+- generic [ref=f569e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f569e3]:
+    - generic [ref=f569e5]:
+      - generic [ref=f569e7]:
+        - link "Go to TikTok For You feed" [ref=f569e9] [cursor=pointer]:
+          - /url: /
+          - strong: TikTok
+        - searchbox "Search" [ref=f569e15] [cursor=pointer]
+      - generic [ref=f569e21]:
+        - generic [ref=f569e22]:
+          - link [ref=f569e24] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=f569e25]
+          - link [ref=f569e32] [cursor=pointer]:
+            - /url: /explore
+            - listitem "Explore" [ref=f569e33]
+          - link [ref=f569e41] [cursor=pointer]:
+            - /url: /following
+            - listitem "Following" [ref=f569e42]
+          - link [ref=f569e51] [cursor=pointer]:
+            - /url: /live
+            - listitem "LIVE" [ref=f569e52]
+          - link [ref=f569e61] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&tab=video
+            - listitem "Upload" [ref=f569e62]
+          - link [ref=f569e70] [cursor=pointer]:
+            - /url: /@
+            - listitem "Profile" [ref=f569e71]
+          - listitem "More" [ref=f569e78] [cursor=pointer]
+        - button "Log in" [ref=f569e90] [cursor=pointer]
+    - main [ref=f569e98]:
+      - generic [ref=f569e100]:
+        - generic [ref=f569e103]:
+          - button "Top" [ref=f569e106] [cursor=pointer]
+          - button "Users" [ref=f569e112] [cursor=pointer]
+          - button "Videos" [ref=f569e118] [cursor=pointer]
+          - button "LIVE" [ref=f569e124] [cursor=pointer]
+          - button "Photo" [ref=f569e130] [cursor=pointer]
+        - generic [ref=f569e137]:
+          - generic [ref=f569e138]:
+            - button "Watch in full screen" [ref=f569e139] [cursor=pointer]:
+              - link [ref=f569e142]:
+                - /url: https://www.tiktok.com/@huyseoul_idol/video/7615217040500018448
+                - generic [ref=f569e143]:
+                  - 'img "Ngôn ngữ đàn ông | Oppa Huy #oppahuy #huyseoul created by Oppa Huy IDol with Oppa Huy IDol’s âm thanh gốc - Oppa Huy IDol" [ref=f569e147]'
+                  - paragraph [ref=f569e151]: Top liked
+                  - strong [ref=f569e155]: 548.4K
+            - generic [ref=f569e157]:
+              - generic [ref=f569e159] [cursor=pointer]:
+                - text: Ngôn ngữ đàn ông | Oppa Huy
+                - 'link "Watch more videos of the #oppahuy category" [ref=f569e160]':
+                  - /url: /tag/oppahuy
+                  - strong [ref=f569e161]: "#oppahuy"
+                - 'link "Watch more videos of the #huyseoul category" [ref=f569e162]':
+                  - /url: /tag/huyseoul
+                  - strong [ref=f569e163]: "#huyseoul"
+              - generic [ref=f569e164]:
+                - link "Oppa Huy IDol’s profile" [ref=f569e165] [cursor=pointer]:
+                  - /url: /@huyseoul_idol
+                  - paragraph [ref=f569e168]: Oppa Huy IDol
+                - generic [ref=f569e172]: 3-10
+          - generic [ref=f569e174]:
+            - button "Watch in full screen" [ref=f569e175] [cursor=pointer]:
+              - link [ref=f569e178]:
+                - /url: https://www.tiktok.com/@beoxinhlao/video/7618602563457387783
+                - generic [ref=f569e179]:
+                  - 'img "Ngôn ngữ của đàn ông #huyseoul #lovetiktok💗 #tiktokviral #xuhuong created by Sê lốc Huy with Sê lốc Huy’s âm thanh gốc - Sê lốc Huy" [ref=f569e183]'
+                  - strong [ref=f569e187]: "768"
+            - generic [ref=f569e189]:
+              - generic [ref=f569e191] [cursor=pointer]:
+                - text: Ngôn ngữ của đàn ông
+                - 'link "Watch more videos of the #huyseoul category" [ref=f569e192]':
+                  - /url: /tag/huyseoul
+                  - strong [ref=f569e193]: "#huyseoul"
+                - 'link "Watch more videos of the #lovetiktok💗 category" [ref=f569e194]':
+                  - /url: /tag/lovetiktok%F0%9F%92%97
+                  - strong [ref=f569e195]: "#lovetiktok💗"
+                - 'link "Watch more videos of the #tiktokviral category" [ref=f569e196]':
+                  - /url: /tag/tiktokviral
+                  - strong [ref=f569e197]: "#tiktokviral"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e198]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e199]: "#xuhuong"
+              - generic [ref=f569e200]:
+                - link "Sê lốc Huy’s profile" [ref=f569e201] [cursor=pointer]:
+                  - /url: /@beoxinhlao
+                  - paragraph [ref=f569e204]: Sê lốc Huy
+                - generic [ref=f569e205]: 3-18
+          - generic [ref=f569e207]:
+            - button "Watch in full screen" [ref=f569e208] [cursor=pointer]:
+              - link [ref=f569e211]:
+                - /url: https://www.tiktok.com/@th.khane/video/7519867882528951559
+                - generic [ref=f569e212]:
+                  - 'img "Part cuối #thkhane #fyp #dcgr #7749hieuung created by Khaaa 👾 with Khaaa 👾’s nhạc nền - Khaaa 👾" [ref=f569e216]'
+                  - paragraph [ref=f569e218]: Top liked
+                  - strong [ref=f569e222]: 163.6K
+            - generic [ref=f569e224]:
+              - generic [ref=f569e226] [cursor=pointer]:
+                - text: Part cuối
+                - 'link "Watch more videos of the #thkhane category" [ref=f569e227]':
+                  - /url: /tag/thkhane
+                  - strong [ref=f569e228]: "#thkhane"
+                - 'link "Watch more videos of the #fyp category" [ref=f569e229]':
+                  - /url: /tag/fyp
+                  - strong [ref=f569e230]: "#fyp"
+                - 'link "Watch more videos of the #dcgr category" [ref=f569e231]':
+                  - /url: /tag/dcgr
+                  - strong [ref=f569e232]: "#dcgr"
+                - 'link "Watch more videos of the #7749hieuung category" [ref=f569e233]':
+                  - /url: /tag/7749hieuung
+                  - strong [ref=f569e234]: "#7749hieuung"
+              - generic [ref=f569e235]:
+                - link "Khaaa 👾’s profile" [ref=f569e236] [cursor=pointer]:
+                  - /url: /@th.khane
+                  - paragraph [ref=f569e239]: Khaaa 👾
+                - generic [ref=f569e240]: 2025-6-25
+          - generic [ref=f569e242]:
+            - button "Watch in full screen" [ref=f569e243] [cursor=pointer]:
+              - link [ref=f569e246]:
+                - /url: https://www.tiktok.com/@hanhtrinh_camxuc/video/7310209754113068290
+                - generic [ref=f569e247]:
+                  - 'img "Ngôn ngữ con trai | phần 1 #fyp #hanhtrinhcamxuc #facts #suthat #foryou #xuhuong created by Hành trình cảm xúc with Quả Dâu Tây’s nhạc nền - Quả Dâu Tây" [ref=f569e251]'
+                  - strong [ref=f569e255]: "6935"
+            - generic [ref=f569e257]:
+              - generic [ref=f569e259] [cursor=pointer]:
+                - text: Ngôn ngữ con trai | phần 1
+                - 'link "Watch more videos of the #fyp category" [ref=f569e260]':
+                  - /url: /tag/fyp
+                  - strong [ref=f569e261]: "#fyp"
+                - 'link "Watch more videos of the #hanhtrinhcamxuc category" [ref=f569e262]':
+                  - /url: /tag/hanhtrinhcamxuc
+                  - strong [ref=f569e263]: "#hanhtrinhcamxuc"
+                - 'link "Watch more videos of the #facts category" [ref=f569e264]':
+                  - /url: /tag/facts
+                  - strong [ref=f569e265]: "#facts"
+                - 'link "Watch more videos of the #suthat category" [ref=f569e266]':
+                  - /url: /tag/suthat
+                  - strong [ref=f569e267]: "#suthat"
+                - 'link "Watch more videos of the #foryou category" [ref=f569e268]':
+                  - /url: /tag/foryou
+                  - strong [ref=f569e269]: "#foryou"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e270]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e271]: "#xuhuong"
+              - generic [ref=f569e272]:
+                - link "Hành trình cảm xúc’s profile" [ref=f569e273] [cursor=pointer]:
+                  - /url: /@hanhtrinh_camxuc
+                  - paragraph [ref=f569e276]: Hành trình cảm xúc
+                - generic [ref=f569e277]: 2023-12-8
+          - generic [ref=f569e279]:
+            - button "Watch in full screen" [ref=f569e280] [cursor=pointer]:
+              - link [ref=f569e283]:
+                - /url: https://www.tiktok.com/@150k_freeship/video/7688703405614730514
+                - generic [ref=f569e284]:
+                  - 'img "Cập nhật ngôn ngữ giới trẻ #baobaocomatlanthun #viral #xuhuong #fyp #trend created by Bảo bảo có mặt lần thứ n with Bảo bảo có mặt lần thứ n’s âm thanh gốc - Bảo bảo có mặt lần thứ n" [ref=f569e288]'
+                  - paragraph [ref=f569e290]: Top liked
+                  - strong [ref=f569e294]: 72.5K
+            - generic [ref=f569e296]:
+              - generic [ref=f569e298] [cursor=pointer]:
+                - text: Cập nhật ngôn ngữ giới trẻ
+                - 'link "Watch more videos of the #baobaocomatlanthun category" [ref=f569e299]':
+                  - /url: /tag/baobaocomatlanthun
+                  - strong [ref=f569e300]: "#baobaocomatlanthun"
+                - 'link "Watch more videos of the #viral category" [ref=f569e301]':
+                  - /url: /tag/viral
+                  - strong [ref=f569e302]: "#viral"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e303]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e304]: "#xuhuong"
+                - 'link "Watch more videos of the #fyp category" [ref=f569e305]':
+                  - /url: /tag/fyp
+                  - strong [ref=f569e306]: "#fyp"
+                - 'link "Watch more videos of the #trend category" [ref=f569e307]':
+                  - /url: /tag/trend
+                  - strong [ref=f569e308]: "#trend"
+              - generic [ref=f569e309]:
+                - link "Bảo bảo có mặt lần thứ n’s profile" [ref=f569e310] [cursor=pointer]:
+                  - /url: /@150k_freeship
+                  - paragraph [ref=f569e313]: Bảo bảo có mặt lần thứ n
+                - generic [ref=f569e314]: 9-23
+          - generic [ref=f569e316]:
+            - button "Watch in full screen" [ref=f569e317] [cursor=pointer]:
+              - link [ref=f569e320]:
+                - /url: https://www.tiktok.com/@cong.hoang2408/video/7618747697108880661
+                - generic [ref=f569e321]:
+                  - 'img "\"Dịch thuật\" những câu nói của Con Trai \"#viralvideo #xuhuong #viraltiktok created by GócCảmXúc with GócCảmXúc’s âm thanh gốc - Góccảmxúc" [ref=f569e325]'
+                  - strong [ref=f569e329]: "22"
+            - generic [ref=f569e331]:
+              - generic [ref=f569e333] [cursor=pointer]:
+                - text: "\"Dịch thuật\" những câu nói của Con Trai \""
+                - 'link "Watch more videos of the #viralvideo category" [ref=f569e334]':
+                  - /url: /tag/viralvideo
+                  - strong [ref=f569e335]: "#viralvideo"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e336]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e337]: "#xuhuong"
+                - 'link "Watch more videos of the #viraltiktok category" [ref=f569e338]':
+                  - /url: /tag/viraltiktok
+                  - strong [ref=f569e339]: "#viraltiktok"
+              - generic [ref=f569e340]:
+                - link "GócCảmXúc’s profile" [ref=f569e341] [cursor=pointer]:
+                  - /url: /@cong.hoang2408
+                  - paragraph [ref=f569e344]: GócCảmXúc
+                - generic [ref=f569e345]: 3-19
+          - generic [ref=f569e347]:
+            - button "Watch in full screen" [ref=f569e348] [cursor=pointer]:
+              - link [ref=f569e351]:
+                - /url: https://www.tiktok.com/@hanhtrinh_camxuc/video/7351394636016962818
+                - generic [ref=f569e352]:
+                  - 'img "Sự thật | ngôn ngữ của con trai. Phần 3 #fyp #hanhtrinhcamxuc #facts #suthat #foryou #xuhuong created by Hành trình cảm xúc with Aurel Surya Lie’s Cute" [ref=f569e356]'
+                  - strong [ref=f569e360]: "797"
+            - generic [ref=f569e362]:
+              - generic [ref=f569e364] [cursor=pointer]:
+                - text: Sự thật | ngôn ngữ của con trai. Phần 3
+                - 'link "Watch more videos of the #fyp category" [ref=f569e365]':
+                  - /url: /tag/fyp
+                  - strong [ref=f569e366]: "#fyp"
+                - 'link "Watch more videos of the #hanhtrinhcamxuc category" [ref=f569e367]':
+                  - /url: /tag/hanhtrinhcamxuc
+                  - strong [ref=f569e368]: "#hanhtrinhcamxuc"
+                - 'link "Watch more videos of the #facts category" [ref=f569e369]':
+                  - /url: /tag/facts
+                  - strong [ref=f569e370]: "#facts"
+                - 'link "Watch more videos of the #suthat category" [ref=f569e371]':
+                  - /url: /tag/suthat
+                  - strong [ref=f569e372]: "#suthat"
+                - 'link "Watch more videos of the #foryou category" [ref=f569e373]':
+                  - /url: /tag/foryou
+                  - strong [ref=f569e374]: "#foryou"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e375]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e376]: "#xuhuong"
+              - generic [ref=f569e377]:
+                - link "Hành trình cảm xúc’s profile" [ref=f569e378] [cursor=pointer]:
+                  - /url: /@hanhtrinh_camxuc
+                  - paragraph [ref=f569e381]: Hành trình cảm xúc
+                - generic [ref=f569e382]: 2024-3-28
+          - generic [ref=f569e384]:
+            - button "Watch in full screen" [ref=f569e385] [cursor=pointer]:
+              - link [ref=f569e388]:
+                - /url: https://www.tiktok.com/@ongchulangman/video/7332761396834274568
+                - generic [ref=f569e389]:
+                  - 'img "Ngôn ngữ của con trai khi yêu là…? #ongchulangman #mrsaigon #tamsu #tamtrang #tinhyeu #thanhthoiluottet created by Mr.Saigon - Ông Chú Lãng Mạn with Mr.Saigon - Ông Chú Lãng Mạn’s nhạc nền" [ref=f569e393]'
+                  - strong [ref=f569e397]: "158"
+            - generic [ref=f569e399]:
+              - generic [ref=f569e400] [cursor=pointer]: Ngôn ngữ của con trai khi yêu là…?
+              - generic [ref=f569e402]:
+                - link "Mr.Saigon - Ông Chú Lãng Mạn’s profile" [ref=f569e403] [cursor=pointer]:
+                  - /url: /@ongchulangman
+                  - paragraph [ref=f569e406]: Mr.Saigon - Ông Chú Lãng Mạn
+                - generic [ref=f569e407]: 2024-2-7
+          - generic [ref=f569e409]:
+            - button "Watch in full screen" [ref=f569e410] [cursor=pointer]:
+              - link [ref=f569e413]:
+                - /url: https://www.tiktok.com/@tamlymindfit/video/7590387037908323604
+                - generic [ref=f569e414]:
+                  - 'img "Ngôn ngữ của đàn ông created by Tâm lý MindFit with Ysabelle Cuevas’s INS-REPLAY, Vol. 4: Creating Love" [ref=f569e418]'
+                  - strong [ref=f569e422]: "59"
+            - generic [ref=f569e424]:
+              - generic [ref=f569e425] [cursor=pointer]: Ngôn ngữ của đàn ông
+              - generic [ref=f569e427]:
+                - link "Tâm lý MindFit’s profile" [ref=f569e428] [cursor=pointer]:
+                  - /url: /@tamlymindfit
+                  - paragraph [ref=f569e431]: Tâm lý MindFit
+                - generic [ref=f569e432]: 1-1
+          - generic [ref=f569e434]:
+            - button "Watch in full screen" [ref=f569e435] [cursor=pointer]:
+              - link [ref=f569e438]:
+                - /url: https://www.tiktok.com/@_haiinamm/video/7686003612887108872
+                - generic [ref=f569e439]:
+                  - 'img "Hiểu nhe #xuhuong #_hainamm created by 𝐇𝐚̉𝐢𝐢 𝐍𝐚𝐦𝐦 with Bongo’s âm thanh gốc - Bongo" [ref=f569e443]'
+                  - strong [ref=f569e447]: "1894"
+            - generic [ref=f569e449]:
+              - generic [ref=f569e451] [cursor=pointer]:
+                - text: Hiểu nhe
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e452]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e453]: "#xuhuong"
+                - 'link "Watch more videos of the #_hainamm category" [ref=f569e454]':
+                  - /url: /tag/_hainamm
+                  - strong [ref=f569e455]: "#_hainamm"
+              - generic [ref=f569e456]:
+                - link "𝐇𝐚̉𝐢𝐢 𝐍𝐚𝐦𝐦’s profile" [ref=f569e457] [cursor=pointer]:
+                  - /url: /@_haiinamm
+                  - paragraph [ref=f569e460]: 𝐇𝐚̉𝐢𝐢 𝐍𝐚𝐦𝐦
+                - generic [ref=f569e461]: 9-16
+          - generic [ref=f569e463]:
+            - button "Watch in full screen" [ref=f569e464] [cursor=pointer]:
+              - link [ref=f569e467]:
+                - /url: https://www.tiktok.com/@thac.oscar/video/7053401972728286490
+                - generic [ref=f569e468]:
+                  - 'img "ngôn ngữ của CON TRAI :)) #xuhuong #fyp created by thác oscar'' 🐭 with Trendformusic’s son original" [ref=f569e472]'
+                  - strong [ref=f569e476]: 49.2K
+            - generic [ref=f569e478]:
+              - generic [ref=f569e480] [cursor=pointer]:
+                - text: ngôn ngữ của CON TRAI :))
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e481]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e482]: "#xuhuong"
+                - 'link "Watch more videos of the #fyp category" [ref=f569e483]':
+                  - /url: /tag/fyp
+                  - strong [ref=f569e484]: "#fyp"
+              - generic [ref=f569e485]:
+                - link "thác oscar' 🐭’s profile" [ref=f569e486] [cursor=pointer]:
+                  - /url: /@thac.oscar
+                  - paragraph [ref=f569e489]: thác oscar' 🐭
+                - generic [ref=f569e490]: 2022-1-15
+          - generic [ref=f569e492]:
+            - button "Watch in full screen" [ref=f569e493] [cursor=pointer]:
+              - link [ref=f569e496]:
+                - /url: https://www.tiktok.com/@butxinh83/video/7429184992254741778
+                - generic [ref=f569e497]:
+                  - 'img "Ngôn ngữ mới dành cho giới trẻ hiện nay 👍✌️🤗👽#xuhuong #viralvideo #hocsinh created by ⑧③ ⓢⓣⓞⓡⓔ with Hường Vy🍀37’s nhạc nền - Hường Vy🍀" [ref=f569e501]'
+                  - strong [ref=f569e505]: 12.4K
+            - generic [ref=f569e507]:
+              - generic [ref=f569e509] [cursor=pointer]:
+                - text: Ngôn ngữ mới dành cho giới trẻ hiện nay 👍✌️🤗👽
+                - 'link "Watch more videos of the #xuhuong category" [ref=f569e510]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f569e511]: "#xuhuong"
+                - 'link "Watch more videos of the #viralvideo category" [ref=f569e512]':
+                  - /url: /tag/viralvideo
+                  - strong [ref=f569e513]: "#viralvideo"
+                - 'link "Watch more videos of the #hocsinh category" [ref=f569e514]':
+                  - /url: /tag/hocsinh
+                  - strong [ref=f569e515]: "#hocsinh"
+              - generic [ref=f569e516]:
+                - link "⑧③ ⓢⓣⓞⓡⓔ’s profile" [ref=f569e517] [cursor=pointer]:
+                  - /url: /@butxinh83
+                  - paragraph [ref=f569e520]: ⑧③ ⓢⓣⓞⓡⓔ
+                - generic [ref=f569e521]: 2024-10-24
+      - generic [ref=f569e525]:
+        - button [ref=f569e528] [cursor=pointer]
+        - button [ref=f569e535] [cursor=pointer]
+        - button "Log in" [ref=f569e542] [cursor=pointer]

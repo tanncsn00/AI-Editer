@@ -1,0 +1,355 @@
+- generic [ref=f205e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f205e3]:
+    - generic [ref=f205e5]:
+      - generic [ref=f205e7]:
+        - link "Go to TikTok For You feed" [ref=f205e9] [cursor=pointer]:
+          - /url: /
+          - strong: TikTok
+        - searchbox "Search" [ref=f205e15] [cursor=pointer]
+      - generic [ref=f205e21]:
+        - generic [ref=f205e22]:
+          - link [ref=f205e24] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=f205e25]
+          - link [ref=f205e32] [cursor=pointer]:
+            - /url: /explore
+            - listitem "Explore" [ref=f205e33]
+          - link [ref=f205e41] [cursor=pointer]:
+            - /url: /following
+            - listitem "Following" [ref=f205e42]
+          - link [ref=f205e51] [cursor=pointer]:
+            - /url: /live
+            - listitem "LIVE" [ref=f205e52]
+          - link [ref=f205e61] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&tab=video
+            - listitem "Upload" [ref=f205e62]
+          - link [ref=f205e70] [cursor=pointer]:
+            - /url: /@
+            - listitem "Profile" [ref=f205e71]
+          - listitem "More" [ref=f205e78] [cursor=pointer]
+        - button "Log in" [ref=f205e90] [cursor=pointer]
+    - main [ref=f205e98]:
+      - generic [ref=f205e100]:
+        - generic [ref=f205e103]:
+          - button "Top" [ref=f205e106] [cursor=pointer]
+          - button "Users" [ref=f205e112] [cursor=pointer]
+          - button "Videos" [ref=f205e118] [cursor=pointer]
+          - button "LIVE" [ref=f205e124] [cursor=pointer]
+          - button "Photo" [ref=f205e130] [cursor=pointer]
+        - generic [ref=f205e137]:
+          - generic [ref=f205e138]:
+            - button "Watch in full screen" [ref=f205e139] [cursor=pointer]:
+              - link [ref=f205e142]:
+                - /url: https://www.tiktok.com/@wenthat/video/7625178534113316116
+                - generic [ref=f205e143]:
+                  - img "created by j4f with Sơn Tùng M-TP’s Chúng Ta Của Hiện Tại" [ref=f205e147]
+                  - strong [ref=f205e153]: "8953"
+            - generic [ref=f205e156]:
+              - link "j4f’s profile" [ref=f205e157] [cursor=pointer]:
+                - /url: /@wenthat
+                - paragraph [ref=f205e160]: j4f
+              - generic [ref=f205e161]: 4-5
+          - generic [ref=f205e163]:
+            - button "Watch in full screen" [ref=f205e164] [cursor=pointer]:
+              - link [ref=f205e167]:
+                - /url: https://www.tiktok.com/@loveyrfeeling/video/7548818787517189384
+                - generic [ref=f205e168]:
+                  - 'img "Tips trả lời bất bại cho các câu hỏi #viral #trending #love #loveyrfeeling #lovelanguage created by loveyrfeeling with loveyrfeeling’s nhạc nền - loveyrfeeling" [ref=f205e172]'
+                  - strong [ref=f205e176]: "21"
+            - generic [ref=f205e178]:
+              - generic [ref=f205e180] [cursor=pointer]:
+                - text: Tips trả lời bất bại cho các câu hỏi
+                - 'link "Watch more videos of the #viral category" [ref=f205e181]':
+                  - /url: /tag/viral
+                  - strong [ref=f205e182]: "#viral"
+                - 'link "Watch more videos of the #trending category" [ref=f205e183]':
+                  - /url: /tag/trending
+                  - strong [ref=f205e184]: "#trending"
+                - 'link "Watch more videos of the #love category" [ref=f205e185]':
+                  - /url: /tag/love
+                  - strong [ref=f205e186]: "#love"
+                - 'link "Watch more videos of the #loveyrfeeling category" [ref=f205e187]':
+                  - /url: /tag/loveyrfeeling
+                  - strong [ref=f205e188]: "#loveyrfeeling"
+                - 'link "Watch more videos of the #lovelanguage category" [ref=f205e189]':
+                  - /url: /tag/lovelanguage
+                  - strong [ref=f205e190]: "#lovelanguage"
+              - generic [ref=f205e191]:
+                - link "loveyrfeeling’s profile" [ref=f205e192] [cursor=pointer]:
+                  - /url: /@loveyrfeeling
+                  - paragraph [ref=f205e195]: loveyrfeeling
+                - generic [ref=f205e196]: 2025-9-11
+          - generic [ref=f205e198]:
+            - button "Watch in full screen" [ref=f205e199] [cursor=pointer]:
+              - link [ref=f205e202]:
+                - /url: https://www.tiktok.com/@want_sleep27/video/7653584151886499090
+                - generic [ref=f205e203]:
+                  - 'img "She was always muttering nonsense and wondering why Sanemi was angry with her. #sanemishinazugawa #fanart #myart #kny #ockny created by I wanna sleep with This is Mỏ Hỗn’s âm thanh gốc - This is Mỏ Hỗn" [ref=f205e207]'
+                  - paragraph [ref=f205e209]: Top liked
+                  - strong [ref=f205e213]: 21.6K
+            - generic [ref=f205e215]:
+              - generic [ref=f205e216] [cursor=pointer]: She was always muttering nonsense and wondering why Sanemi was angry with her.
+              - generic [ref=f205e218]:
+                - link "I wanna sleep’s profile" [ref=f205e219] [cursor=pointer]:
+                  - /url: /@want_sleep27
+                  - paragraph [ref=f205e222]: I wanna sleep
+                - generic [ref=f205e223]: 6-21
+          - generic [ref=f205e225]:
+            - button "Watch in full screen" [ref=f205e226] [cursor=pointer]:
+              - link [ref=f205e229]:
+                - /url: https://www.tiktok.com/@itswillandtina/video/7659758199834283271
+                - generic [ref=f205e230]:
+                  - 'img "thật ra đáp án cuối cũng ko sai 🤣 #thuthach #bantraitrongmo #phunusongtothon #willvatina #ngontinh created by Will và Tina with Will và Tina’s original sound - Will và Tina" [ref=f205e234]'
+                  - paragraph [ref=f205e236]: Top liked
+                  - strong [ref=f205e240]: 21.9K
+            - generic [ref=f205e242]:
+              - generic [ref=f205e244] [cursor=pointer]:
+                - text: thật ra đáp án cuối cũng ko sai 🤣
+                - 'link "Watch more videos of the #thuthach category" [ref=f205e245]':
+                  - /url: /tag/thuthach
+                  - strong [ref=f205e246]: "#thuthach"
+                - 'link "Watch more videos of the #bantraitrongmo category" [ref=f205e247]':
+                  - /url: /tag/bantraitrongmo
+                  - strong [ref=f205e248]: "#bantraitrongmo"
+                - 'link "Watch more videos of the #phunusongtothon category" [ref=f205e249]':
+                  - /url: /tag/phunusongtothon
+                  - strong [ref=f205e250]: "#phunusongtothon"
+                - 'link "Watch more videos of the #willvatina category" [ref=f205e251]':
+                  - /url: /tag/willvatina
+                  - strong [ref=f205e252]: "#willvatina"
+                - 'link "Watch more videos of the #ngontinh category" [ref=f205e253]':
+                  - /url: /tag/ngontinh
+                  - strong [ref=f205e254]: "#ngontinh"
+              - generic [ref=f205e255]:
+                - link "Will và Tina’s profile" [ref=f205e256] [cursor=pointer]:
+                  - /url: /@itswillandtina
+                  - paragraph [ref=f205e259]: Will và Tina
+                - generic [ref=f205e260]: 7-7
+          - generic [ref=f205e262]:
+            - button "Watch in full screen" [ref=f205e263] [cursor=pointer]:
+              - link [ref=f205e266]:
+                - /url: https://www.tiktok.com/@nammand1209/video/6986204916435946779
+                - generic [ref=f205e267]:
+                  - 'img "“Anh thấy em có gì khác không ?” thì cứ auto xinh ae nhé 😅 #nguoiyeucuaban #vtmgr #fyp created by Chồng em 💕 with Chồng em 💕’s nhạc nền - Người yêu của bạn" [ref=f205e271]'
+                  - paragraph [ref=f205e273]: Top liked
+                  - strong [ref=f205e277]: 100.7K
+            - generic [ref=f205e279]:
+              - generic [ref=f205e281] [cursor=pointer]:
+                - text: “Anh thấy em có gì khác không ?” thì cứ auto xinh ae nhé 😅
+                - 'link "Watch more videos of the #nguoiyeucuaban category" [ref=f205e282]':
+                  - /url: /tag/nguoiyeucuaban
+                  - strong [ref=f205e283]: "#nguoiyeucuaban"
+                - 'link "Watch more videos of the #vtmgr category" [ref=f205e284]':
+                  - /url: /tag/vtmgr
+                  - strong [ref=f205e285]: "#vtmgr"
+                - 'link "Watch more videos of the #fyp category" [ref=f205e286]':
+                  - /url: /tag/fyp
+                  - strong [ref=f205e287]: "#fyp"
+              - generic [ref=f205e288]:
+                - link "Chồng em 💕’s profile" [ref=f205e289] [cursor=pointer]:
+                  - /url: /@nammand1209
+                  - paragraph [ref=f205e292]: Chồng em 💕
+                - generic [ref=f205e293]: 2021-7-18
+          - generic [ref=f205e295]:
+            - button "Watch in full screen" [ref=f205e296] [cursor=pointer]:
+              - link [ref=f205e299]:
+                - /url: https://www.tiktok.com/@ongthibalong/video/7618612162554006804
+                - generic [ref=f205e300]:
+                  - 'img "trung bình mỗi lần ẻm muốn kiếm chuyện #ongthibalong #love #couple #foryou created by Ông Thỉ Bà Long 🌚 with Ông Thỉ Bà Long 🌚’s âm thanh gốc - Ông Thỉ Bà Long 🌚" [ref=f205e304]'
+                  - strong [ref=f205e308]: "5900"
+            - generic [ref=f205e310]:
+              - generic [ref=f205e312] [cursor=pointer]:
+                - text: trung bình mỗi lần ẻm muốn kiếm chuyện
+                - 'link "Watch more videos of the #ongthibalong category" [ref=f205e313]':
+                  - /url: /tag/ongthibalong
+                  - strong [ref=f205e314]: "#ongthibalong"
+                - 'link "Watch more videos of the #love category" [ref=f205e315]':
+                  - /url: /tag/love
+                  - strong [ref=f205e316]: "#love"
+                - 'link "Watch more videos of the #couple category" [ref=f205e317]':
+                  - /url: /tag/couple
+                  - strong [ref=f205e318]: "#couple"
+                - 'link "Watch more videos of the #foryou category" [ref=f205e319]':
+                  - /url: /tag/foryou
+                  - strong [ref=f205e320]: "#foryou"
+              - generic [ref=f205e321]:
+                - link "Ông Thỉ Bà Long 🌚’s profile" [ref=f205e322] [cursor=pointer]:
+                  - /url: /@ongthibalong
+                  - paragraph [ref=f205e325]: Ông Thỉ Bà Long 🌚
+                - generic [ref=f205e326]: 3-18
+          - generic [ref=f205e328]:
+            - button "Watch in full screen" [ref=f205e329] [cursor=pointer]:
+              - link [ref=f205e332]:
+                - /url: https://www.tiktok.com/@thinbui49/video/6961373272927767810
+                - generic [ref=f205e333]:
+                  - 'img "Anh có thương gì em đâu ?? #love #couple #xuhuong #pageforyou #tiktoker #thinbui #DamSongTroi #CameraLacLu #TVSHOWHAY created by Thìn Đức with Thìn Đức’s nhạc nền - Thìn Bùi" [ref=f205e337]'
+                  - strong [ref=f205e341]: 14.9K
+            - generic [ref=f205e343]:
+              - generic [ref=f205e345] [cursor=pointer]:
+                - text: Anh có thương gì em đâu ??
+                - 'link "Watch more videos of the #love category" [ref=f205e346]':
+                  - /url: /tag/love
+                  - strong [ref=f205e347]: "#love"
+                - 'link "Watch more videos of the #couple category" [ref=f205e348]':
+                  - /url: /tag/couple
+                  - strong [ref=f205e349]: "#couple"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f205e350]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f205e351]: "#xuhuong"
+                - 'link "Watch more videos of the #pageforyou category" [ref=f205e352]':
+                  - /url: /tag/pageforyou
+                  - strong [ref=f205e353]: "#pageforyou"
+                - 'link "Watch more videos of the #tiktoker category" [ref=f205e354]':
+                  - /url: /tag/tiktoker
+                  - strong [ref=f205e355]: "#tiktoker"
+                - 'link "Watch more videos of the #thinbui category" [ref=f205e356]':
+                  - /url: /tag/thinbui
+                  - strong [ref=f205e357]: "#thinbui"
+                - 'link "Watch more videos of the #DamSongTroi category" [ref=f205e358]':
+                  - /url: /tag/damsongtroi
+                  - strong [ref=f205e359]: "#DamSongTroi"
+                - 'link "Watch more videos of the #CameraLacLu category" [ref=f205e360]':
+                  - /url: /tag/cameralaclu
+                  - strong [ref=f205e361]: "#CameraLacLu"
+                - 'link "Watch more videos of the #TVSHOWHAY category" [ref=f205e362]':
+                  - /url: /tag/tvshowhay
+                  - strong [ref=f205e363]: "#TVSHOWHAY"
+              - generic [ref=f205e364]:
+                - link "Thìn Đức’s profile" [ref=f205e365] [cursor=pointer]:
+                  - /url: /@thinbui49
+                  - paragraph [ref=f205e368]: Thìn Đức
+                - generic [ref=f205e372]: 2021-5-12
+          - generic [ref=f205e374]:
+            - button "Watch in full screen" [ref=f205e375] [cursor=pointer]:
+              - link [ref=f205e378]:
+                - /url: https://www.tiktok.com/@yennguyenboutique93/video/7629596082770693383
+                - generic [ref=f205e379]:
+                  - 'img "#CapCut Anh có thấy em khác không? Khác ở chỗ là em thích anh rồi. 💕 #thathinh #yeuduong #xuhuong #fyp created by Yến nguyễn boutiques with Bơ’s nhạc nền - Binhpinky" [ref=f205e383]'
+                  - strong [ref=f205e387]: "29"
+            - generic [ref=f205e389]:
+              - generic [ref=f205e391] [cursor=pointer]:
+                - 'link "Watch more videos of the #CapCut category" [ref=f205e392]':
+                  - /url: /tag/capcut
+                  - strong [ref=f205e393]: "#CapCut"
+                - text: Anh có thấy em khác không? Khác ở chỗ là em thích anh rồi. 💕
+              - generic [ref=f205e394]:
+                - link "Yến nguyễn boutiques’s profile" [ref=f205e395] [cursor=pointer]:
+                  - /url: /@yennguyenboutique93
+                  - paragraph [ref=f205e398]: Yến nguyễn boutiques
+                - generic [ref=f205e399]: 4-17
+          - generic [ref=f205e401]:
+            - button "Watch in full screen" [ref=f205e402] [cursor=pointer]:
+              - link [ref=f205e405]:
+                - /url: https://www.tiktok.com/@goilahoangphuoc/video/7363210496784207124
+                - generic [ref=f205e406]:
+                  - 'img "Cộng đồng mạng cú tui chuyến này cái #lifestyle #entertainment #xuhuong #phuochoang #dct #fyp created by Phước Hoàng with Phước Hoàng’s nhạc nền - Phước Hoàng" [ref=f205e410]'
+                  - strong [ref=f205e414]: "53"
+            - generic [ref=f205e416]:
+              - generic [ref=f205e418] [cursor=pointer]:
+                - text: Cộng đồng mạng cú tui chuyến này cái
+                - 'link "Watch more videos of the #lifestyle category" [ref=f205e419]':
+                  - /url: /tag/lifestyle
+                  - strong [ref=f205e420]: "#lifestyle"
+                - 'link "Watch more videos of the #entertainment category" [ref=f205e421]':
+                  - /url: /tag/entertainment
+                  - strong [ref=f205e422]: "#entertainment"
+                - 'link "Watch more videos of the #xuhuong category" [ref=f205e423]':
+                  - /url: /tag/xuhuong
+                  - strong [ref=f205e424]: "#xuhuong"
+                - 'link "Watch more videos of the #phuochoang category" [ref=f205e425]':
+                  - /url: /tag/phuochoang
+                  - strong [ref=f205e426]: "#phuochoang"
+                - 'link "Watch more videos of the #dct category" [ref=f205e427]':
+                  - /url: /tag/dct
+                  - strong [ref=f205e428]: "#dct"
+                - 'link "Watch more videos of the #fyp category" [ref=f205e429]':
+                  - /url: /tag/fyp
+                  - strong [ref=f205e430]: "#fyp"
+              - generic [ref=f205e431]:
+                - link "Phước Hoàng’s profile" [ref=f205e432] [cursor=pointer]:
+                  - /url: /@goilahoangphuoc
+                  - paragraph [ref=f205e435]: Phước Hoàng
+                - generic [ref=f205e436]: 2024-4-29
+          - generic [ref=f205e438]:
+            - button "Watch in full screen" [ref=f205e439] [cursor=pointer]:
+              - link [ref=f205e442]:
+                - /url: https://www.tiktok.com/@rimtien.official/video/7254591177519942918
+                - generic [ref=f205e443]:
+                  - 'img "Rồi biết khác như nào đây mà nói nhỉ, anh em cẩn thận nhé không là ra đường như chơi đó🥲🥲#rimtien #couples #metub #vairal #fyp created by Rim&Tiến 🌻 with Rim&Tiến 🌻’s nhạc nền - Rim&Tiến 🌻" [ref=f205e447]'
+                  - strong [ref=f205e451]: "1683"
+            - generic [ref=f205e453]:
+              - generic [ref=f205e455] [cursor=pointer]:
+                - text: Rồi biết khác như nào đây mà nói nhỉ, anh em cẩn thận nhé không là ra đường như chơi đó🥲🥲
+                - 'link "Watch more videos of the #rimtien category" [ref=f205e456]':
+                  - /url: /tag/rimtien
+                  - strong [ref=f205e457]: "#rimtien"
+                - 'link "Watch more videos of the #couples category" [ref=f205e458]':
+                  - /url: /tag/couples
+                  - strong [ref=f205e459]: "#couples"
+                - 'link "Watch more videos of the #metub category" [ref=f205e460]':
+                  - /url: /tag/metub
+                  - strong [ref=f205e461]: "#metub"
+                - 'link "Watch more videos of the #vairal category" [ref=f205e462]':
+                  - /url: /tag/vairal
+                  - strong [ref=f205e463]: "#vairal"
+                - 'link "Watch more videos of the #fyp category" [ref=f205e464]':
+                  - /url: /tag/fyp
+                  - strong [ref=f205e465]: "#fyp"
+              - generic [ref=f205e466]:
+                - link "Rim&Tiến 🌻’s profile" [ref=f205e467] [cursor=pointer]:
+                  - /url: /@rimtien.official
+                  - paragraph [ref=f205e470]: Rim&Tiến 🌻
+                - generic [ref=f205e471]: 2023-7-11
+          - generic [ref=f205e473]:
+            - button "Watch in full screen" [ref=f205e474] [cursor=pointer]:
+              - link [ref=f205e477]:
+                - /url: https://www.tiktok.com/@ka.ly..nguyen/video/7588791220407782677
+                - generic [ref=f205e478]:
+                  - 'img "Anh thấy em khác nhiều ko anh#viralvideo #fyp #toiyeutiktok #xuhuongtiktok #CapCut created by Ka ly .Nguyen with 𝘽ô𝙣𝙜’s nhạc nền - 💝ttht💝" [ref=f205e482]'
+                  - strong [ref=f205e486]: "95"
+            - generic [ref=f205e488]:
+              - generic [ref=f205e490] [cursor=pointer]:
+                - text: Anh thấy em khác nhiều ko anh
+                - 'link "Watch more videos of the #viralvideo category" [ref=f205e491]':
+                  - /url: /tag/viralvideo
+                  - strong [ref=f205e492]: "#viralvideo"
+                - 'link "Watch more videos of the #fyp category" [ref=f205e493]':
+                  - /url: /tag/fyp
+                  - strong [ref=f205e494]: "#fyp"
+                - 'link "Watch more videos of the #toiyeutiktok category" [ref=f205e495]':
+                  - /url: /tag/toiyeutiktok
+                  - strong [ref=f205e496]: "#toiyeutiktok"
+                - 'link "Watch more videos of the #xuhuongtiktok category" [ref=f205e497]':
+                  - /url: /tag/xuhuongtiktok
+                  - strong [ref=f205e498]: "#xuhuongtiktok"
+                - 'link "Watch more videos of the #CapCut category" [ref=f205e499]':
+                  - /url: /tag/capcut
+                  - strong [ref=f205e500]: "#CapCut"
+              - generic [ref=f205e501]:
+                - link "Ka ly .Nguyen’s profile" [ref=f205e502] [cursor=pointer]:
+                  - /url: /@ka.ly..nguyen
+                  - paragraph [ref=f205e505]: Ka ly .Nguyen
+                - generic [ref=f205e506]: 2025-12-28
+          - generic [ref=f205e508]:
+            - button "Watch in full screen" [ref=f205e509] [cursor=pointer]:
+              - link [ref=f205e512]:
+                - /url: https://www.tiktok.com/@ng.b.qu.la.u50/video/7684663169016433940
+                - generic [ref=f205e513]:
+                  - 'img "Anh dạo này thấy em khác không #xuhướng created by Ông bà quê lúa U50 with Trevor Games’s original sound" [ref=f205e517]'
+                  - strong [ref=f205e521]: "1"
+            - generic [ref=f205e523]:
+              - generic [ref=f205e525] [cursor=pointer]:
+                - text: Anh dạo này thấy em khác không
+                - 'link "Watch more videos of the #xuhướng category" [ref=f205e526]':
+                  - /url: /tag/xuh%C6%B0%E1%BB%9Bng
+                  - strong [ref=f205e527]: "#xuhướng"
+              - generic [ref=f205e528]:
+                - link "Ông bà quê lúa U50’s profile" [ref=f205e529] [cursor=pointer]:
+                  - /url: /@ng.b.qu.la.u50
+                  - paragraph [ref=f205e532]: Ông bà quê lúa U50
+                - generic [ref=f205e533]: 9-12
+      - generic [ref=f205e537]:
+        - button [ref=f205e540] [cursor=pointer]
+        - button [ref=f205e547] [cursor=pointer]
+        - button "Log in" [ref=f205e554] [cursor=pointer]

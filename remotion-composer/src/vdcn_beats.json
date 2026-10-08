@@ -1,0 +1,197 @@
+{
+ "beats": [
+  {
+   "index": 0,
+   "name": "MODAU",
+   "start": 0.0,
+   "duration": 8.036
+  },
+  {
+   "index": 1,
+   "name": "C1_PIN",
+   "start": 8.036,
+   "duration": 7.243
+  },
+  {
+   "index": 2,
+   "name": "C1_NHIN",
+   "start": 15.279,
+   "duration": 4.147
+  },
+  {
+   "index": 3,
+   "name": "C1_CHAT",
+   "start": 19.426,
+   "duration": 9.414
+  },
+  {
+   "index": 4,
+   "name": "C1_DINH",
+   "start": 28.84,
+   "duration": 2.684
+  },
+  {
+   "index": 5,
+   "name": "C1_REVEAL",
+   "start": 31.524,
+   "duration": 7.037
+  },
+  {
+   "index": 6,
+   "name": "C2_HEAD",
+   "start": 38.561,
+   "duration": 7.636
+  },
+  {
+   "index": 7,
+   "name": "C2_DIEUHOA",
+   "start": 46.197,
+   "duration": 8.093
+  },
+  {
+   "index": 8,
+   "name": "C2_THUONG",
+   "start": 54.29,
+   "duration": 4.237
+  },
+  {
+   "index": 9,
+   "name": "C2_HAN",
+   "start": 58.527,
+   "duration": 6.304
+  },
+  {
+   "index": 10,
+   "name": "C2_CHAT",
+   "start": 64.831,
+   "duration": 7.19
+  },
+  {
+   "index": 11,
+   "name": "C2_REVEAL",
+   "start": 72.021,
+   "duration": 3.647
+  },
+  {
+   "index": 12,
+   "name": "C3_HEAD",
+   "start": 75.668,
+   "duration": 8.106
+  },
+  {
+   "index": 13,
+   "name": "C3_7M",
+   "start": 83.773,
+   "duration": 7.108
+  },
+  {
+   "index": 14,
+   "name": "C3_DAO",
+   "start": 90.881,
+   "duration": 5.71
+  },
+  {
+   "index": 15,
+   "name": "C3_SHIP",
+   "start": 96.592,
+   "duration": 9.734
+  },
+  {
+   "index": 16,
+   "name": "C3_CHO",
+   "start": 106.326,
+   "duration": 6.313
+  },
+  {
+   "index": 17,
+   "name": "C3_HUY",
+   "start": 112.639,
+   "duration": 4.463
+  },
+  {
+   "index": 18,
+   "name": "C3_REVEAL",
+   "start": 117.102,
+   "duration": 4.187
+  },
+  {
+   "index": 19,
+   "name": "C4_HEAD",
+   "start": 121.289,
+   "duration": 5.258
+  },
+  {
+   "index": 20,
+   "name": "C4_CHAT",
+   "start": 126.547,
+   "duration": 8.556
+  },
+  {
+   "index": 21,
+   "name": "C4_DAU",
+   "start": 135.102,
+   "duration": 3.909
+  },
+  {
+   "index": 22,
+   "name": "C4_REVEAL",
+   "start": 139.011,
+   "duration": 7.547
+  },
+  {
+   "index": 23,
+   "name": "C5_HEAD",
+   "start": 146.557,
+   "duration": 9.563
+  },
+  {
+   "index": 24,
+   "name": "C5_NHIN",
+   "start": 156.121,
+   "duration": 7.032
+  },
+  {
+   "index": 25,
+   "name": "C5_CHAT",
+   "start": 163.153,
+   "duration": 9.827
+  },
+  {
+   "index": 26,
+   "name": "C5_DAO",
+   "start": 172.98,
+   "duration": 8.403
+  },
+  {
+   "index": 27,
+   "name": "C5_PHI",
+   "start": 181.382,
+   "duration": 5.783
+  },
+  {
+   "index": 28,
+   "name": "KET",
+   "start": 187.165,
+   "duration": 5.835
+  },
+  {
+   "index": 29,
+   "name": "KET2",
+   "start": 193.0,
+   "duration": 9.683
+  },
+  {
+   "index": 30,
+   "name": "KET3",
+   "start": 202.683,
+   "duration": 7.919
+  },
+  {
+   "index": 31,
+   "name": "CTA",
+   "start": 210.601,
+   "duration": 3.953
+  }
+ ],
+ "total_duration": 214.557
+}

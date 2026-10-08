@@ -1,0 +1,11 @@
+- main [ref=f440e33]:
+  - generic [ref=f440e38]:
+    - button "Top" [ref=f440e41] [cursor=pointer]
+    - button "Users" [ref=f440e47] [cursor=pointer]
+    - button "Videos" [ref=f440e53] [cursor=pointer]
+    - button "LIVE" [ref=f440e59] [cursor=pointer]
+    - button "Photo" [ref=f440e65] [cursor=pointer]
+  - generic [ref=f440e170]:
+    - button [ref=f440e173] [cursor=pointer]
+    - button [ref=f440e180] [cursor=pointer]
+    - button "Log in" [ref=f440e187] [cursor=pointer]

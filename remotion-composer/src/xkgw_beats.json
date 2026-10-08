@@ -1,0 +1,167 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "HOOK",
+   "start": 0.0,
+   "duration": 4.276
+  },
+  {
+   "index": 2,
+   "name": "KHONG30K",
+   "start": 4.276,
+   "duration": 4.384
+  },
+  {
+   "index": 3,
+   "name": "MOTTHANG",
+   "start": 8.66,
+   "duration": 3.293
+  },
+  {
+   "index": 4,
+   "name": "COTHAT",
+   "start": 11.953,
+   "duration": 2.339
+  },
+  {
+   "index": 5,
+   "name": "REVEAL",
+   "start": 14.292,
+   "duration": 2.535
+  },
+  {
+   "index": 6,
+   "name": "THUVI",
+   "start": 16.828,
+   "duration": 5.143
+  },
+  {
+   "index": 7,
+   "name": "CANHCONG",
+   "start": 21.971,
+   "duration": 3.898
+  },
+  {
+   "index": 8,
+   "name": "MODELS",
+   "start": 25.869,
+   "duration": 5.684
+  },
+  {
+   "index": 9,
+   "name": "THAYVI",
+   "start": 31.552,
+   "duration": 6.581
+  },
+  {
+   "index": 10,
+   "name": "GOM",
+   "start": 38.133,
+   "duration": 5.17
+  },
+  {
+   "index": 11,
+   "name": "NAOLOAN",
+   "start": 43.303,
+   "duration": 5.22
+  },
+  {
+   "index": 12,
+   "name": "VAINGHIN",
+   "start": 48.523,
+   "duration": 4.069
+  },
+  {
+   "index": 13,
+   "name": "DUDE",
+   "start": 52.593,
+   "duration": 5.732
+  },
+  {
+   "index": 14,
+   "name": "CANHGIOILA",
+   "start": 58.325,
+   "duration": 7.26
+  },
+  {
+   "index": 15,
+   "name": "THOI",
+   "start": 65.585,
+   "duration": 2.358
+  },
+  {
+   "index": 16,
+   "name": "HETLINHTHACH",
+   "start": 67.943,
+   "duration": 3.406
+  },
+  {
+   "index": 17,
+   "name": "DANGNOI",
+   "start": 71.349,
+   "duration": 4.155
+  },
+  {
+   "index": 18,
+   "name": "MOTCHO",
+   "start": 75.504,
+   "duration": 5.246
+  },
+  {
+   "index": 19,
+   "name": "DOIMODEL",
+   "start": 80.75,
+   "duration": 4.725
+  },
+  {
+   "index": 20,
+   "name": "THU",
+   "start": 85.474,
+   "duration": 2.645
+  },
+  {
+   "index": 21,
+   "name": "AGENT",
+   "start": 88.119,
+   "duration": 6.02
+  },
+  {
+   "index": 22,
+   "name": "GOITHANGNAO",
+   "start": 94.139,
+   "duration": 3.496
+  },
+  {
+   "index": 23,
+   "name": "CANHGIOITHOIDAI",
+   "start": 97.635,
+   "duration": 6.677
+  },
+  {
+   "index": 24,
+   "name": "DANIT",
+   "start": 104.312,
+   "duration": 4.331
+  },
+  {
+   "index": 25,
+   "name": "DUNGSAN",
+   "start": 108.643,
+   "duration": 4.488
+  },
+  {
+   "index": 26,
+   "name": "BUOCVAO",
+   "start": 113.131,
+   "duration": 5.648
+  },
+  {
+   "index": 27,
+   "name": "CTA",
+   "start": 118.779,
+   "duration": 3.386
+  }
+ ],
+ "total_duration": 122.165
+}

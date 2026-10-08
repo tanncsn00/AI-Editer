@@ -69,6 +69,8 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 | ARC-AGI | **Ác ây di ai** | — |
 | GitHub | **gít hấp** | — |
 | Claude | **giữ literal `Claude`** (đo `luoc-su-ai` 2026-09-05) | ❌ **"Cờ lau" → nghe ra "Cloud"** (sai hẳn sang khái niệm khác); ❌ Cờ-lốt → "close"; ❌ Cờ-lô-đơ → "Cocker Loader" |
+| **xKiro** | **Ích-ki-rô** (đo 2026-09-23, user chốt) | ❌ literal `xKiro` → **"Skyro"**; `ích Ki-rô`→"Ikkiro", `ếch Ki-rô`→"ekiro", `ex Ki-rô`→"Exkiro" |
+| **Claude** (trong danh sách tên model) | **Cờ-lốt** + PHẢI có câu dài phía sau | đo 2026-09-23: `Cờ-lốt. … Muốn gọi vị nào, thì gọi vị đó.` → **"Claude"** ✅. ❌ `Cờ lau`→"Cloud"; ❌ `Clo-đơ`→"Cloder" + hỏng lây; ❌ `Clốt`→"Lốt"; ❌ `Cờ-lốt`+GPT ngay sau → **"Clopity"** (nuốt mất 1 tên) |
 | Opus / Sonnet / Haiku | **Ô pớt / Sô nét / Hai cu** | — |
 | token | **tâu cân** / giữ "token" | — |
 | OpenAI / Gemini | **Ô-pen Ây-Ai / Giê-mi-nai** | — |
@@ -144,6 +146,11 @@ Việt hóa **được phép** khi nó là **thủ pháp đặt tên**, không p
 | pixel | **pi-xeo** | — |
 | slide | **sờ-lai** | — |
 | laptop | **láp-tóp** | — |
+| **Gen Z** | **Gen Zi** (đo 2026-09-23, `genz-vs-the-he-cu`) | ❌ literal `Gen Z` → **"Zen Z"**; 1 lần nuốt hẳn "Gen" → *"Z lại muốn"*. `Gen Zét` cũng sạch, chọn "Gen Zi" |
+| **OT** | giữ literal **"OT"** | đọc sạch (đo 2026-09-23). "Ô Tê" cũng sạch |
+| **Requirement** | giữ literal **"Requirement"** | đọc sạch (đo 2026-09-23), literal lẫn "ri-quai-ơ-mần" đều ra đúng |
+| **context** | giữ literal **"context"** | ❌ "con-tếch" → **"contact"** — sai hẳn từ (đo 2026-09-23) |
+| **online** | giữ literal **"online"** | đọc sạch (đo 2026-09-23). "on-lai" cũng sạch |
 | Meeting | **Mít-tinh** | — |
 | golf | **gôn** | dev/biz VN gọi vậy |
 | All in | **Ôn-in** | — |
@@ -168,6 +175,10 @@ Display VẪN hiện English (dev đọc), audio Việt (đọc êm). Chỉ gi�
 **Câu/cụm English NHIỀU TỪ → viết LITERAL English.** EverAI v1.5 đọc nguyên câu tiếng Anh rất tự nhiên: *"I have no idea why this works"*, *"If this breaks, I'm sorry"*, *"Quick fix"*, *"Do not remove"* → whisper đọc lại chuẩn. Phonetic kiểu "goai đít gọc" / "Íp đít brếch" thì méo.
 
 **Từ đơn / acronym / tên riêng → PHẢI phonetic.** EverAI đọc từ đơn English hay sai: Cache→"cách", works đơn lẻ→"guạc". (Học 2026-06-06, comment-chan-dong)
+
+**Từ GHÉP English viết liền → TÁCH thành 2 từ.** Đo ở `mat-ngon-chuyen-nghiep` (2026-09-16): `Teamwork` viết liền đọc ra **"Thì work"** — primed-flip KHÔNG lật, tức lỗi đọc thật. Viết thành **`Team work`** (có dấu cách) thì đọc sạch, whisper ghi lại `Teamwork`. Cùng bài đó `Team` và `work` đứng riêng đều đọc đúng ngay từ đầu → lỗi nằm ở chỗ ghép, không phải ở từng từ.
+
+⚠️ **Không phải compound nào cũng dính** — cùng bài, `workload` viết liền whisper ghi "quốc lót" nhưng primed **lật về** `workload` ✅, tức audio đã đúng, không cần sửa. → Compound nghi ngờ thì **chạy primed-flip trước**, đừng tách bừa.
 
 ## ⚠️ Glitch: list staccato lặp cấu trúc
 
@@ -313,3 +324,28 @@ ffmpeg -t 303 -i SRC -t 303 -i SRC -t 303 -i SRC   -filter_complex "[0][1]across
 ```
 
 → Và **luôn đo mốc quanh chỗ nối** (`t = len_track − offset_cut`), không chỉ đo đầu/giữa/cuối.
+
+---
+
+## Đo 2026-09-16 · `ngay-dau-nhap-tong-mon` (Adam EverAI)
+
+**`task` — VIẾT HOA thì đọc đúng, viết thường thì hỏng.**
+
+| Viết | Whisper nghe | |
+|---|---|---|
+| `task` thường, giữa câu | "tát" / "Tass" | ❌ |
+| **`Task` viết hoa** | **"task"** | ✅ dùng cái này |
+| `tát-sờ-cờ` | "Tasker" | ❌ thêm âm tiết |
+| `tách` | "tách" | ❌ thành từ thuần Việt |
+
+→ Cùng luật với `Team Lead`: **viết hoa prime cho voice đọc kiểu English.**
+
+**Ngoại lệ: `Task` đứng trước `giao` vẫn hỏng.** `đã chờ Task giao` → "tác giao" (đuôi `-sk` bị nuốt trước phụ âm `gi`). Thử `Task Giao` → "tác giao", `Task-k giao` → "Tasker rào", `Task  giao` → "tát rào" — **đều tệ hơn, giữ nguyên `Task giao`**. Trước `phải` thì đọc sạch → lỗi nằm ở coarticulation, không nằm ở từ.
+
+**`tool` — KHÔNG chữa được, chấp nhận + ghi lại.**
+
+`tool` / `Tool` / `tul` / `Tuul` → **cả 4 đều ra "tu"**. Đuôi `-l` không tồn tại trong âm vị tiếng Việt. Ổn định qua nhiều lần gen = **lỗi cấu trúc**, cùng loại với `Chưởng`→"trưởng".
+
+→ Giữ `tool`, để display gánh chữ English. ⚠️ Trong script tu tiên, "tu" đụng nghĩa *tu* (tu hành) — cân nhắc đổi câu nếu chỗ đó cần rõ nghĩa bằng tai.
+
+**Đọc sạch ngay, không cần chỉnh:** `deadline` (viết `đét-lai` → whisper ghi lại `deadline`), `team` (→ "tim", đúng âm English), `group chat`.

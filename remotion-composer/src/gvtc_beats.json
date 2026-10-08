@@ -1,0 +1,449 @@
+{
+ "beats": [
+  {
+   "index": 1,
+   "name": "HOOK",
+   "start": 0.0,
+   "duration": 2.335
+  },
+  {
+   "index": 2,
+   "name": "LENH",
+   "start": 2.335,
+   "duration": 4.58
+  },
+  {
+   "index": 3,
+   "name": "DETU_CU",
+   "start": 6.915,
+   "duration": 2.365
+  },
+  {
+   "index": 4,
+   "name": "GENZ_DONG",
+   "start": 9.28,
+   "duration": 3.754
+  },
+  {
+   "index": 5,
+   "name": "AM1",
+   "start": 13.034,
+   "duration": 3.212
+  },
+  {
+   "index": 6,
+   "name": "TL_HOI",
+   "start": 16.246,
+   "duration": 2.824
+  },
+  {
+   "index": 7,
+   "name": "GENZ_TRA",
+   "start": 19.071,
+   "duration": 3.636
+  },
+  {
+   "index": 8,
+   "name": "TL_NGAYXUA",
+   "start": 22.707,
+   "duration": 2.572
+  },
+  {
+   "index": 9,
+   "name": "GENZ_DA",
+   "start": 25.278,
+   "duration": 2.491
+  },
+  {
+   "index": 10,
+   "name": "NGAYXUA_LA",
+   "start": 27.77,
+   "duration": 3.849
+  },
+  {
+   "index": 11,
+   "name": "KHOANHKHAC",
+   "start": 31.619,
+   "duration": 6.558
+  },
+  {
+   "index": 12,
+   "name": "HAI_DAO",
+   "start": 38.178,
+   "duration": 5.366
+  },
+  {
+   "index": 13,
+   "name": "KHONG_LUOI",
+   "start": 43.544,
+   "duration": 7.243
+  },
+  {
+   "index": 14,
+   "name": "CG1_HEAD",
+   "start": 50.786,
+   "duration": 2.795
+  },
+  {
+   "index": 15,
+   "name": "CG1_GAP",
+   "start": 53.581,
+   "duration": 4.059
+  },
+  {
+   "index": 16,
+   "name": "CG1_PHATSINH",
+   "start": 57.64,
+   "duration": 6.007
+  },
+  {
+   "index": 17,
+   "name": "CG1_CONKHONG",
+   "start": 63.647,
+   "duration": 3.609
+  },
+  {
+   "index": 18,
+   "name": "CG1_CHANDONG",
+   "start": 67.256,
+   "duration": 2.691
+  },
+  {
+   "index": 19,
+   "name": "CG1_NGAYTRUOC",
+   "start": 69.947,
+   "duration": 3.464
+  },
+  {
+   "index": 20,
+   "name": "CG1_HOI",
+   "start": 73.411,
+   "duration": 3.548
+  },
+  {
+   "index": 21,
+   "name": "CG1_TAISAO",
+   "start": 76.959,
+   "duration": 4.01
+  },
+  {
+   "index": 22,
+   "name": "CG1_RANHGIOI",
+   "start": 80.969,
+   "duration": 4.183
+  },
+  {
+   "index": 23,
+   "name": "CG1_CONGHIEN",
+   "start": 85.152,
+   "duration": 4.579
+  },
+  {
+   "index": 24,
+   "name": "CG1_ONLINE",
+   "start": 89.731,
+   "duration": 3.742
+  },
+  {
+   "index": 25,
+   "name": "CG1_IMLANG",
+   "start": 93.473,
+   "duration": 4.129
+  },
+  {
+   "index": 26,
+   "name": "CG2_HEAD",
+   "start": 97.603,
+   "duration": 2.55
+  },
+  {
+   "index": 27,
+   "name": "CG2_DOI",
+   "start": 100.153,
+   "duration": 5.349
+  },
+  {
+   "index": 28,
+   "name": "CG2_CULAM",
+   "start": 105.502,
+   "duration": 2.987
+  },
+  {
+   "index": 29,
+   "name": "CG2_REQ",
+   "start": 108.489,
+   "duration": 3.923
+  },
+  {
+   "index": 30,
+   "name": "CG2_NGAYXUA",
+   "start": 112.412,
+   "duration": 3.984
+  },
+  {
+   "index": 31,
+   "name": "CG2_EMHIEU",
+   "start": 116.396,
+   "duration": 4.145
+  },
+  {
+   "index": 32,
+   "name": "CG2_KHONGAICAN",
+   "start": 120.542,
+   "duration": 2.499
+  },
+  {
+   "index": 33,
+   "name": "CG2_CAITA",
+   "start": 123.04,
+   "duration": 3.303
+  },
+  {
+   "index": 34,
+   "name": "CG2_VANDE",
+   "start": 126.343,
+   "duration": 3.319
+  },
+  {
+   "index": 35,
+   "name": "CG2_VANHAU",
+   "start": 129.662,
+   "duration": 3.593
+  },
+  {
+   "index": 36,
+   "name": "CG2_QUEN",
+   "start": 133.255,
+   "duration": 3.145
+  },
+  {
+   "index": 37,
+   "name": "CG2_CONTEXT",
+   "start": 136.4,
+   "duration": 2.769
+  },
+  {
+   "index": 38,
+   "name": "CG2_TOANG",
+   "start": 139.169,
+   "duration": 5.058
+  },
+  {
+   "index": 39,
+   "name": "CG2_EMOI",
+   "start": 144.227,
+   "duration": 6.044
+  },
+  {
+   "index": 40,
+   "name": "CG2_5PHUT",
+   "start": 150.271,
+   "duration": 4.214
+  },
+  {
+   "index": 41,
+   "name": "CG2_7NGHIEP",
+   "start": 154.485,
+   "duration": 2.748
+  },
+  {
+   "index": 42,
+   "name": "CG2_TASKLIST",
+   "start": 157.233,
+   "duration": 5.134
+  },
+  {
+   "index": 43,
+   "name": "CG2_LINHDONG",
+   "start": 162.367,
+   "duration": 6.041
+  },
+  {
+   "index": 44,
+   "name": "CG2_AM",
+   "start": 168.408,
+   "duration": 3.11
+  },
+  {
+   "index": 45,
+   "name": "CG2_KHONGOM",
+   "start": 171.517,
+   "duration": 3.203
+  },
+  {
+   "index": 46,
+   "name": "CG2_HOITHANG",
+   "start": 174.72,
+   "duration": 4.369
+  },
+  {
+   "index": 47,
+   "name": "CG2_TRACHNHIEM",
+   "start": 179.089,
+   "duration": 5.793
+  },
+  {
+   "index": 48,
+   "name": "CG3_HEAD",
+   "start": 184.882,
+   "duration": 2.663
+  },
+  {
+   "index": 49,
+   "name": "CG3_LONNHAT",
+   "start": 187.545,
+   "duration": 6.458
+  },
+  {
+   "index": 50,
+   "name": "CG3_HOI",
+   "start": 194.003,
+   "duration": 3.033
+  },
+  {
+   "index": 51,
+   "name": "CG3_DETUCU",
+   "start": 197.036,
+   "duration": 3.621
+  },
+  {
+   "index": 52,
+   "name": "CG3_CHACLA",
+   "start": 200.657,
+   "duration": 4.087
+  },
+  {
+   "index": 53,
+   "name": "CG3_DEOON",
+   "start": 204.744,
+   "duration": 2.934
+  },
+  {
+   "index": 54,
+   "name": "CG3_GENZVAO",
+   "start": 207.678,
+   "duration": 4.343
+  },
+  {
+   "index": 55,
+   "name": "CG3_COVANDE",
+   "start": 212.021,
+   "duration": 4.184
+  },
+  {
+   "index": 56,
+   "name": "CG3_LIETKE",
+   "start": 216.204,
+   "duration": 3.772
+  },
+  {
+   "index": 57,
+   "name": "CG3_CATSCOPE",
+   "start": 219.976,
+   "duration": 2.802
+  },
+  {
+   "index": 58,
+   "name": "CG3_PHANDOI",
+   "start": 222.778,
+   "duration": 5.773
+  },
+  {
+   "index": 59,
+   "name": "CG3_BUM",
+   "start": 228.552,
+   "duration": 2.998
+  },
+  {
+   "index": 60,
+   "name": "CG3_KHACBIET",
+   "start": 231.55,
+   "duration": 5.256
+  },
+  {
+   "index": 61,
+   "name": "CG3_CHUYENNGHIEP",
+   "start": 236.806,
+   "duration": 3.475
+  },
+  {
+   "index": 62,
+   "name": "CG3_NGU",
+   "start": 240.281,
+   "duration": 5.353
+  },
+  {
+   "index": 63,
+   "name": "CG3_THANGLA",
+   "start": 245.635,
+   "duration": 6.675
+  },
+  {
+   "index": 64,
+   "name": "CG3_NOIVAOVIEC",
+   "start": 252.31,
+   "duration": 2.623
+  },
+  {
+   "index": 65,
+   "name": "KET_BATRAN",
+   "start": 254.932,
+   "duration": 3.348
+  },
+  {
+   "index": 66,
+   "name": "KET_KINHNGHIEM",
+   "start": 258.28,
+   "duration": 4.181
+  },
+  {
+   "index": 67,
+   "name": "KET_CHIUDUNG",
+   "start": 262.462,
+   "duration": 4.362
+  },
+  {
+   "index": 68,
+   "name": "KET_HAIBEN",
+   "start": 266.823,
+   "duration": 6.292
+  },
+  {
+   "index": 69,
+   "name": "KET_DAIKIEP",
+   "start": 273.115,
+   "duration": 2.884
+  },
+  {
+   "index": 70,
+   "name": "KET_KHONGAITHANG",
+   "start": 275.999,
+   "duration": 4.445
+  },
+  {
+   "index": 71,
+   "name": "KET_CONGPHAP",
+   "start": 280.444,
+   "duration": 5.198
+  },
+  {
+   "index": 72,
+   "name": "KET_CHAPTAY",
+   "start": 285.642,
+   "duration": 6.412
+  },
+  {
+   "index": 73,
+   "name": "KET_FINAL",
+   "start": 292.054,
+   "duration": 4.154
+  },
+  {
+   "index": 74,
+   "name": "CTA",
+   "start": 296.207,
+   "duration": 3.284
+  }
+ ],
+ "total_duration": 299.491
+}

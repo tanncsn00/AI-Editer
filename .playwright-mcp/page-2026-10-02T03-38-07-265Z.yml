@@ -1,0 +1,10 @@
+- generic [ref=f26e3]:
+  - generic [ref=f26e36]:
+    - article [ref=f26e38]:
+      - region "Watch in full screen" [ref=f26e40] [cursor=pointer]:
+        - 'img "part 2. take notes #fyp" [ref=f26e45]'
+    - complementary
+  - generic [ref=f26e72]:
+    - button [ref=f26e75] [cursor=pointer]
+    - button [ref=f26e82] [cursor=pointer]
+    - button "Log in" [ref=f26e89] [cursor=pointer]

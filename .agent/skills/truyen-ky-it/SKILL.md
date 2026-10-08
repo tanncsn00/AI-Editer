@@ -29,6 +29,7 @@ Skill này là **bộ công thức VIẾT SCRIPT** — biến kiến thức côn
 **KHÔNG dùng cho:**
 - Kể tiểu sử nhân vật AI thật (chuyển công ty, drama) → `truyen-ky-tu-tien`.
 - Triết lý nhân sinh thuần → `tinh-dao-video`.
+- Series Thiên Cơ Mật Ngôn (giải mã câu nói sếp/người yêu/mẹ...) → `mat-ngon-script`.
 - Comedy stick figure, POV đồ vật, reup → skill riêng.
 
 **Quan hệ:** skill này lo **CHỮ** (script). Dựng **HÌNH** dùng `blueprint-tech-video` (navy+grid+amber). Sync slide-voice dùng `feedback_video_sync_workflow`.
