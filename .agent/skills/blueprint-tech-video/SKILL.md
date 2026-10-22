@@ -11,6 +11,7 @@ Skill dựng video **vibe bản vẽ kỹ thuật** (engineering blueprint): n�
 - `remotion-composer/src/ClaudeOpus48Blueprint.tsx` — truyền kỳ tech-release (Claude Opus 4.8), 8 fig animated
 - `remotion-composer/src/CodingTangThapNhat.tsx` — explainer (coding tầng thấp nhất SE), nguồn gốc style
 - `remotion-composer/src/EngineerSongSotAi.tsx` — listicle engineer types (thêm green/purple/orange accent)
+- `remotion-composer/src/PovBds.tsx` — **data-driven** POV truyền kỳ: đọc `pov_bds_timeline.json`, tự dựng trang/dòng, không gõ entry tay (mẫu cho pipeline per-line)
 
 ---
 
@@ -75,15 +76,9 @@ const useFade    = (entry, dur=14) => opacity only              // line, group n
 ```
 
 ### Cách sync với lời thoại
-1. Đọc `beats.json` lấy `duration` mỗi beat → `frames = duration * 30`.
-2. Map từng câu/cụm trong narration → vị trí frame trong beat (ước lượng theo char offset hoặc nghe).
-3. Đặt `entryFrame` cho element khớp lúc câu đó được đọc. **Comment timeline ngay trong code** (xem golden ref):
-```tsx
-// 0-90: "câu A" → title
-// 150-195: "câu B" → big word
-// 270: "thành thật hơn" → trait 1
-```
-4. Stagger list item cách nhau ~30-60 frame để "gõ" ra lần lượt khớp giọng.
+1. Import `<slug>_timeline.json` (sinh bởi `tts_lines.py`): beat → page → line, mỗi line có `start`/`end` tuyệt đối.
+2. Mỗi beat một `<Sequence>`; trong đó mỗi line reveal tại `round((line.start − seq_start)×30) − LEAD`.
+3. KHÔNG gõ entry frame tay, KHÔNG ước lượng theo char offset — xem `PovBds.tsx`.
 
 ---
 
@@ -121,9 +116,9 @@ Số fig linh hoạt 6-8 theo số beat. Mỗi fig: SectionHeader trên + FigFoo
 ## ⚙️ PRODUCTION PIPELINE
 
 1. **Script** → `projects/<slug>/script.json` (8 beat, `text_phonetic` + `text_display`). Nếu user gửi script → VERBATIM (rule `feedback_user_script_verbatim`). Gate user duyệt trước TTS.
-2. **TTS — BẮT BUỘC TÁCH TỪNG BEAT** (`tts_everai.py` per-beat, KHÔNG one-shot full script). Adam EverAI `voice-739e9501-c06f-4cbf` **speed 0.95**. Mỗi beat POST `text_phonetic` riêng → `tts/beat_NN.mp3`; concat với **gap 0.3s** → `voice_full.mp3` + ghi `segments.json`. CLI: `tts_everai.py all` (gen hết) · `tts_everai.py 4` (chỉ re-gen beat 4 khi lỗi). ⇒ hết whisper subscribe-hallucination, lỗi beat nào chỉ re-gen beat đó, biên slide chính xác tuyệt đối. Template chuẩn ở `projects/moigioi-dao/{tts_everai,whisper_words,gen_sync}.py` — COPY từ đó. Tech term → phonetic đúng dev VN (rule `feedback_tts_tech_phonetic`); dấu chấm vụn nhiều → smooth bằng phẩy trong `text_phonetic`. Chi tiết: rule `feedback_tts_per_beat_pipeline`.
-3. **Whisper + Timing** `whisper_words.py` (whisper TỪNG beat mp3, sạch) → `gen_sync.py`: boundary lấy TỪ `segments.json` (chính xác, không đoán anchor), item = word-timestamp + LEAD 8f (rule `feedback_reveal_sync_voice`). **ISOLATE/nghe từng beat** bắt nuốt-lắp; sau mỗi re-gen beat phải re-check anchor NONE (whisper ghi term khác mỗi lần: Call Margin→margin/maxine, "ba hôm"↔"3 hôm").
-4. **Stage** copy `voice_full.mp3` → `public/<slug>/voice.mp3`; `beats.json` → `src/<slug>_beats.json`; `timings.json` → `src/<slug>_timings.json`.
+2. **TTS per-LINE** (từ 2026-10-19): script ở `projects/<slug>/script.md` (một dòng = một câu = một reveal, emoji = style, dòng trống = trang) → `python ../_shared/tts_lines.py <public_slug>`. EverAI **everai-v1.6** + Adam `voice-739e9501-c06f-4cbf` speed 1.0, gen song song, tự copy `voice.mp3` + `<slug>_timeline.json` sang Remotion. Chi tiết + checklist: `video-production-gate` GATE 1–4.
+3. **Timing** = `timeline.json` (start/end tuyệt đối mỗi dòng). **Không whisper, không gen_sync, không entry frame gõ tay.** `entry = round((line.start − seq_start)×30) − LEAD`, LEAD 4 + fadeUp 8f / pop 10f (fade dài hơn thì onset−5 lộ bóng).
+4. **Nghe kiểm** dòng English + dòng pace flag → sửa `phonetic.json` → chạy lại (chỉ dòng đổi bị gen lại).
 5. **Slides** copy 1 golden ref `.tsx`, đổi content + entry frame + màu. Giữ nguyên BlueprintBG/SectionHeader/FigFooter/TechBox/hook anim.
 6. **Register** 2 composition trong `Root.tsx`: main (fps=30, durationInFrames=ceil(total*30)) + Thumbnail (fps=30, frames=1).
 7. **Audit** render still cuối mỗi beat → check overlap + bug transform. Sửa hết TRƯỚC khi render mp4 (rule: audit chủ động mọi slide, không đợi user chỉ).
@@ -134,7 +129,7 @@ Số fig linh hoạt 6-8 theo số beat. Mỗi fig: SectionHeader trên + FigFoo
 ---
 
 ## 🚨 CẤM
-- ❌ **TTS one-shot full script** — PHẢI tách từng beat (`tts_everai.py` per-beat + concat gap). One-shot đọc bài dài lỗi nhiều + sinh whisper subscribe-hallucination.
+- ❌ **TTS one-shot full script** — dùng `tts_lines.py` per-line. One-shot đọc bài dài lỗi nhiều, mất timing.
 - ❌ Mix `transform` attr + `style` transform trên cùng `<g>` (bug ở trên)
 - ❌ PNG slide tĩnh — style này PHẢI animated voice-synced
 - ❌ Render bằng Node <16 (Remotion fail)
@@ -146,4 +141,4 @@ Số fig linh hoạt 6-8 theo số beat. Mỗi fig: SectionHeader trên + FigFoo
 - ✓ Thêm JADE/VIOLET/ORANGE accent cho variety (như EngineerSongSotAi)
 - ✓ 6-8 fig tuỳ độ dài
 - ✓ Diagram tuỳ nội dung (fan-out, radial node, timeline, bar chart)
-- ✓ Voice Adam/Tào Tháo, speed 0.90-0.95
+- ✓ Voice Adam/Tào Tháo, speed 1.0 (thơ 0.95)

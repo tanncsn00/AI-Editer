@@ -397,6 +397,18 @@ import { CodingTangThapNhat } from "./CodingTangThapNhat";
 import { CodingTangThapNhatThumbnail } from "./CodingTangThapNhatThumbnail";
 import { EngineerSongSotAi } from "./EngineerSongSotAi";
 import { EngineerSongSotAiThumbnail } from "./EngineerSongSotAiThumbnail";
+import { PovBds, POV_BDS_FRAMES } from "./PovBds";
+import { PovBdsThumbnail } from "./PovBdsThumbnail";
+import { MatNgonDiaOc, MAT_NGON_DIA_OC_FRAMES } from "./MatNgonDiaOc";
+import { MatNgonDiaOcThumbnail } from "./MatNgonDiaOcThumbnail";
+import { MatNgonMe, MAT_NGON_ME_FRAMES } from "./MatNgonMe";
+import { MatNgonMeThumbnail } from "./MatNgonMeThumbnail";
+import { LopWhiteboard, LOP_FRAMES } from "./LopWhiteboard";
+import { LopWhiteboardThumbnail } from "./LopWhiteboardThumbnail";
+import { HoHangWhiteboard, HOHANG_FRAMES } from "./HoHangWhiteboard";
+import { HoHangWhiteboardThumbnail } from "./HoHangWhiteboardThumbnail";
+import { ElonEdit, ELON_FRAMES } from "./ElonEdit";
+import { ElonEditThumbnail } from "./ElonEditThumbnail";
 
 const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
   props,
@@ -3886,6 +3898,162 @@ export const Root: React.FC = () => {
         fps={30}
         width={1080}
         height={1920}
+      />
+      <Composition
+        id="PovBdsThumbnail"
+        component={PovBdsThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PovBds"
+        component={PovBds}
+        durationInFrames={POV_BDS_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="PovBdsNoBgm"
+        component={PovBds}
+        durationInFrames={POV_BDS_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonDiaOcThumbnail"
+        component={MatNgonDiaOcThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonDiaOc"
+        component={MatNgonDiaOc}
+        durationInFrames={MAT_NGON_DIA_OC_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonDiaOcNoBgm"
+        component={MatNgonDiaOc}
+        durationInFrames={MAT_NGON_DIA_OC_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="MatNgonMeThumbnail"
+        component={MatNgonMeThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="MatNgonMe"
+        component={MatNgonMe}
+        durationInFrames={MAT_NGON_ME_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="MatNgonMeNoBgm"
+        component={MatNgonMe}
+        durationInFrames={MAT_NGON_ME_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="LopWhiteboardThumbnail"
+        component={LopWhiteboardThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="LopWhiteboard"
+        component={LopWhiteboard}
+        durationInFrames={LOP_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="LopWhiteboardNoBgm"
+        component={LopWhiteboard}
+        durationInFrames={LOP_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="HoHangWhiteboardThumbnail"
+        component={HoHangWhiteboardThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="HoHangWhiteboard"
+        component={HoHangWhiteboard}
+        durationInFrames={HOHANG_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="HoHangWhiteboardNoBgm"
+        component={HoHangWhiteboard}
+        durationInFrames={HOHANG_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="ElonEditThumbnail"
+        component={ElonEditThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ElonEdit"
+        component={ElonEdit}
+        durationInFrames={ELON_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="ElonEditNoBgm"
+        component={ElonEdit}
+        durationInFrames={ELON_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
       />
     </>
   );

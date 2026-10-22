@@ -1,6 +1,6 @@
 ---
 name: video-production-gate
-description: CỔNG BẮT BUỘC cho MỌI video TikTok/Reels/Shorts trong repo này. Dùng NGAY khi user yêu cầu làm video, dựng video, làm clip, render video, hoặc đưa script để làm thành video — BẤT KỂ format nào (quảng cáo, thơ, hài, explainer, reup, truyền kỳ). Không phải preset hình ảnh; đây là checklist quy trình chặn từng bước, ép chạy đúng pipeline TTS → whisper → sync word-timestamp → verify cặp frame → deliverables. Gọi TRƯỚC mọi skill format (the-review / blueprint-tech-video / tinh-dao-video / comedy-animation...), không thay thế chúng.
+description: CỔNG BẮT BUỘC cho MỌI video TikTok/Reels/Shorts trong repo này. Dùng NGAY khi user yêu cầu làm video, dựng video, làm clip, render video, hoặc đưa script để làm thành video — BẤT KỂ format nào (quảng cáo, thơ, hài, explainer, reup, truyền kỳ). Không phải preset hình ảnh; đây là checklist quy trình chặn từng bước, ép chạy đúng pipeline script.md → TTS per-line (tts_lines.py, không whisper) → sync từ timeline.json → verify cặp frame → deliverables. Gọi TRƯỚC mọi skill format (the-review / blueprint-tech-video / tinh-dao-video / comedy-animation...), không thay thế chúng.
 metadata:
   openclaw:
     emoji: "🚦"
@@ -24,68 +24,69 @@ Skill này **không dạy làm đẹp**. Nó chặn những lỗi đã lặp l�
 
 ---
 
-## GATE 1 · script.json + phiên âm
+## GATE 1 · script.md + phiên âm
 
+- [ ] Script nằm ở **`projects/<slug>/script.md`** — nguồn DUY NHẤT cho cả voice lẫn chữ trên hình:
+  - `# Tiêu đề` · `## TÊN_BEAT | Header hiển thị` mỗi beat
+  - **mỗi dòng = một câu đọc = một reveal**, bắt đầu bằng emoji chỉ đạo: 🏯 dẫn · 💀 đau/nguy · 🤣 punchline · 🔥 cao trào · 🙏 trầm · 🔔 CTA · 📜 tiêu đề chương / thẻ câu mật ngôn (có ngoặc kép → thẻ lớn)
+  - **dòng trống = sang trang** (một màn hình chữ), mỗi trang 2–5 dòng
+  - dòng ngay sau dòng bắt đầu bằng `Người đời gọi nó là` hoặc `Người đời gọi chiêu này là` tự thành ô reveal thuật ngữ — viết 2 dòng riêng
+- [ ] Chữ trên hình = chữ đọc (bỏ emoji) → GATE 0 tự khớp, không còn `text_display` lệch `text_phonetic`.
 - [ ] `speed: 1.0` mặc định. **Ngoại lệ duy nhất: video THƠ → 0.95.**
-- [ ] Mỗi beat có `text_phonetic` (cho TTS) và `text_display` (cho hình).
-- [ ] **Tra `docs/PHONETIC_DICT.md` cho MỌI thuật ngữ tiếng Anh.** Không tự bịa phiên âm.
-- [ ] Quy tắc phiên âm: đọc âm tiếng Anh, **cấm dịch nghĩa để né** (`bug` → "bấc", KHÔNG phải "lỗi").
-- [ ] Ngoại lệ: thuật ngữ **UI/Design** thì đọc tiếng Việt, chữ hiện vẫn English (`font` → đọc "phông chữ", hiện "font"). Chỉ giữ phiên âm cho Figma / React / pixel / Frontend / Designer.
-- [ ] Thuật ngữ không có trong dict và không chắc → **hỏi user**, đừng đoán.
+- [ ] Model **`everai-v1.6`** — đọc tiếng Anh chuẩn hơn v1.5 và CHẠY ĐƯỢC với giọng clone Adam (đã thử 2026-10-19). Thử **viết literal English trước**; chỉ khi nghe sai mới thêm `phonetic.json` `{"chữ hiển thị": "cách đọc"}` — chữ trên hình vẫn giữ nguyên.
+- [ ] Phiên âm (khi cần): tra `docs/PHONETIC_DICT.md`, **cấm dịch nghĩa để né** (`bug` → "bấc", KHÔNG phải "lỗi"). Thuật ngữ UI/Design đọc tiếng Việt. Không chắc → **hỏi user**.
 
 ---
 
-## GATE 2 · TTS per-beat
+## GATE 2 · TTS per-LINE — `tts_lines.py`
 
-- [ ] **Copy script từ `projects/_shared/`**, KHÔNG copy từ project cũ. Bản `_shared` là bản đã vá.
-- [ ] Chạy `tts_everai.py` — mỗi beat 1 file mp3, concat gap 0.3s.
-- [ ] Re-gen được từng beat riêng (`python tts_everai.py 3 6`), không phải render lại cả bài.
-- [ ] Ghi lại `total` để đối chiếu về sau.
+```
+cd projects/<slug>
+python ../_shared/tts_lines.py <public_slug>           # gen dòng mới/đổi, dựng lại timeline
+python ../_shared/tts_lines.py <public_slug> --force   # gen lại tất cả
+```
 
-### ⚠️ Bẫy TTS giữ file cũ — đã cắn một lần
+- [ ] Mỗi dòng 1 clip, **song song 8 luồng** (107 dòng ≈ 1 phút). Clip đặt tên theo hash `voice|model|speed|câu đọc` → sửa câu nào chỉ gen lại câu đó, **không thể dính bẫy giữ mp3 cũ**.
+- [ ] Script tự: cắt lặng đầu/đuôi từng clip (silencedetect), chèn gap chuẩn (dòng 0.22s · trang 0.34s · beat 0.55s), concat → `tts/voice_full.mp3`, ghi `timeline.json`, **copy thẳng** sang `remotion-composer/public/<slug>/voice.mp3` và `src/<slug>_timeline.json`, và **chết ngay** nếu voice lệch timeline > 0.05s.
+- [ ] Đọc báo cáo cuối: tổng thời lượng + danh sách **pace flag** (dòng có tốc độ lệch > 40% so với median của chính video → nghi nuốt chữ / ngắc). Có flag → nghe dòng đó, sửa câu hoặc `phonetic.json`, chạy lại.
+- [ ] Tổng thời lượng dài hơn dự tính → báo user TRƯỚC khi render (đếm ~0.1s/chữ + gap).
 
-`tts_everai.py` **bỏ qua beat đã có mp3**. Nếu script đổi mà tên beat giữ nguyên, nó im lặng giữ giọng cũ, log vẫn báo `DONE N beats`, tổng thời lượng vẫn ra con số trông hợp lý. Đã xảy ra thật: 7/13 beat đọc nội dung của script cũ, chỉ transcript mới lộ ra.
-
-- [ ] Bản `_shared` đã vá bằng **chữ ký nội dung** (`tts/_sig.json`, hash của `voice|speed|text_phonetic`). Đổi chữ / đổi giọng / đổi speed đều buộc re-gen, in ra `noi dung DA DOI`.
-- [ ] Nếu dùng bản chưa vá, hoặc script thay đổi lớn → **`rm -rf tts` trước khi chạy**.
-- [ ] Bị ngắt giữa chừng (Ctrl-C, user dừng) → coi như tts bẩn, xoá rồi chạy lại. File sinh dở vẫn được tính là "đã có".
-
----
-
-## GATE 3 · Whisper verify — TRƯỚC khi dựng hình
-
-- [ ] Chạy `whisper_words.py` (`word_timestamps=True`, `condition_on_previous_text=False`).
-- [ ] **In transcript theo từng beat và ĐỌC bằng mắt.** Không tin cờ boolean.
-- [ ] Soi 4 loại lỗi:
-  - **Nuốt/gộp chữ** — whisper KHÔNG bắt được, phải nghe/soi từng beat cô lập
-  - **Lặp chữ (DUP)**
-  - **Thuật ngữ English đọc sai**
-  - **Hallucination** — whisper hay chèn spam kiểu "đăng ký kênh", thường ở beat gần cuối. Audio vẫn sạch → patch transcript, ĐỪNG re-TTS.
-- [ ] Có lỗi phát âm → sửa phonetic → re-TTS beat đó → **quay lại GATE 3**.
+> **Không whisper, không gen_sync.** Mỗi dòng là một clip riêng nên onset của nó = vị trí trong concat, chính xác tuyệt đối. EverAI `generate_srt` chỉ trả timing CỤM ƯỚC LƯỢNG (lệch 0.4–1s so với pause thật, đo 2026-10-19) — KHÔNG dùng để sync.
 
 ---
 
-## GATE 4 · 🔴 SYNC WORD-TIMESTAMP — chỗ hay bị bỏ nhất
+## GATE 3 · Nghe kiểm — thay cho whisper
 
-> Đây là gate bị vi phạm nhiều nhất. Đọc kỹ `feedback_sync_voice_workflow.md` trong memory TRƯỚC khi viết dòng code Remotion đầu tiên.
+- [ ] Nghe `tts/voice_full.mp3`, ưu tiên: các dòng có **English**, các dòng bị **pace flag**, các dòng **thoại**.
+- [ ] Lỗi phát âm → sửa `phonetic.json` (hoặc câu trong script.md nếu user cho phép) → chạy lại `tts_lines.py` (chỉ dòng đổi bị gen lại) → nghe lại dòng đó.
+- [ ] Whisper chỉ còn dùng khi cần **transcript** (reup/dub footage có sẵn) — không dùng cho video tự TTS.
 
-- [ ] **TUYỆT ĐỐI KHÔNG ước lượng timing.** Cấm `base + i*step`. Cấm rải đều. Cấm char-proportional. Mọi cách đoán đều lệch 1–6 giây.
-- [ ] Viết `gen_sync.py`: dò anchor **tuần tự** (mỗi anchor tìm SAU vị trí anchor trước) → xuất `timings.json` là mảng entry tường minh.
-- [ ] `entry = max(0, round((word_start − beat_start) × 30) − LEAD)`
-- [ ] **LEAD theo tốc độ animation:** fade nhanh 5–6f → LEAD 0. Pop/scale 12–15f → LEAD ≈ 8f.
-- [ ] Anchor neo vào **chữ nhấn đơn** của nội dung box, không neo vào câu tóm/câu chốt, không neo vào cụm có filler đứng trước.
-- [ ] **THOẠI QUA LẠI → đo TỪNG câu riêng.** Mỗi bong bóng một key. Đây chính là lỗi đã xảy ra ở `designer-vs-fe` và lặp lại ở `hoa-ngon`.
-- [ ] **LIST/cascade → đo TỪNG item.** 7 dòng file = 7 anchor, không phải 1 anchor rồi cộng dồn.
-- [ ] Guard `entry < beat_dur × 30` kẻo dòng không kịp hiện.
-- [ ] Chạy gen_sync, **đọc báo cáo MISS**. Còn MISS → sửa anchor, chạy lại. Cụm nhiều MISS cùng vùng = dấu hiệu whisper nuốt đoạn đó.
+---
 
-### ⚠️ Bẫy asset cũ trong `public/` — đã cắn một lần
+## GATE 4 · 🔴 SYNC — đọc thẳng `timeline.json`
 
-`tts_everai.py` ghi ra `tts/voice_full.mp3` **trong thư mục project**, còn Remotion đọc `remotion-composer/public/<slug>/voice.mp3`. Hai chỗ khác nhau. Sửa script → re-TTS → quên copy → **render ra video có giọng cũ, lệch tiếng vài giây, mà mọi gate khác vẫn xanh** (verify frame chỉ soi hình, không soi tiếng). Đã xảy ra thật khi bỏ 1 beat: giọng lệch 2.93s.
+- [ ] Remotion import `<slug>_timeline.json`; mỗi dòng có `start`/`end` tuyệt đối (giây). **Cấm** tự gõ entry frame, cấm `base + i*step`, cấm ước lượng.
+- [ ] `entry = round((line.start − seq_start) × 30) − LEAD`. **LEAD 4 + fadeUp 8f / pop 10f** → onset hiện ~50%, onset−5 vắng hẳn. (Thử LEAD 6 + fade 12f: onset−5 đã lộ bóng mờ → rớt GATE 5, 2026-10-19.)
+- [ ] `durationInFrames` lấy từ `timeline.total` (export hằng số từ component, Root dùng lại) — đổi script không phải sửa Root.
+- [ ] Một dòng chứa cả nhãn lẫn thứ cần reveal riêng → **tách thành 2 dòng** trong script.md (chữ giữ nguyên), không đo trong dòng.
+- [ ] Render still/video dùng **`--public-dir` tối giản** (thư mục tạm chỉ chứa `<slug>/`) — `public/` thật 2.3 GB, copy mỗi lần render mất cả phút.
 
-- [ ] Bản `_shared/gen_sync.py.template` đã vá: `sync_voice()` tự copy khi khác nội dung và **chết ngay** nếu `voice.mp3` lệch `beats total` quá 0.05s. Đặt `SLUG` đúng tên thư mục trong `public/`.
-- [ ] Sau mỗi lần re-TTS, đọc dòng `voice.mp3 ... — <giây>` và đối chiếu với `total_duration`.
-- [ ] Đổi số beat → **phải đổi `durationInFrames` trong Root.tsx và cắt lại nhạc nền** cho khớp độ dài mới.
+### Pipeline cũ (per-beat + whisper) — chỉ còn cho project cũ
+
+`tts_everai.py` (đã lên v1.6) + `whisper_words.py` + `gen_sync.py.template` vẫn ở `_shared/` để re-render project cũ. Project mới **không** dùng.
+
+---
+
+## GATE 4b · 🎨 HÌNH VẼ TAY + SFX TÌNH HUỐNG (bước dựng hình mặc định, từ 2026-10-20)
+
+> Video script (Mật Ngôn, truyền kỳ, POV, top N) dựng bằng skill **`whiteboard-doodle`** trừ khi user chọn style khác. Chi tiết từng bước ở skill đó.
+
+- [ ] Bảng cảnh: mỗi page/dòng ghi rõ **hình gì** (đúng tình huống câu nói) + **SFX** nếu có. Dòng cue không vẽ, term → `"box"`, tên 📜 → `"banner"`.
+- [ ] Người / đồ vật / cảm xúc lấy từ thư viện open-source (`find_doodles.py` → `doodles.txt` → `build_doodles.py <slug>`). **Cấm** tự vẽ người que, **cấm** AI sinh ảnh.
+- [ ] Engine dùng chung `src/whiteboard/WhiteboardVideo.tsx` — component video chỉ chứa `SCENES` + `SFX` + helper đặc thù đề tài.
+- [ ] SFX neo theo dòng `{ line: "BEAT:page:line", offset, src: "sfx/<nhóm>/<tên>.mp3" }` — **cấm** gõ giây tuyệt đối. Tiếng bút vẽ engine tự phát.
+- [ ] Nền tối kênh `#0B0A12`, font Pangolin. Soi **contact sheet frame cuối mỗi page** + 1 frame giữa lúc vẽ TRƯỚC khi render dài.
+- [ ] `--public-dir` tạm phải chứa cả `<slug>/` lẫn `sfx/`.
 
 ---
 
@@ -147,6 +148,8 @@ Skill này **không dạy làm đẹp**. Nó chặn những lỗi đã lặp l�
 | Lỗi | Hậu quả thật |
 |---|---|
 | Ước lượng timing thay vì đo | Chữ lệch tiếng 1–6s, user bắt được nhiều lần |
+| Dùng whisper để đo timing cho TTS tự sinh | Chậm, hallucination, anchor trượt — thay bằng TTS per-line (2026-10-19) |
+| Dùng `srt_link` của EverAI để sync | Timing ước lượng, lệch 0.4–1s |
 | TTS giữ mp3 cũ khi script đổi | 7/13 beat đọc nội dung cũ, log vẫn báo DONE bình thường |
 | Anchor neo theo chữ trong script | Whisper ghi khác hẳn (`42` dạng số, `banner`→`ba`+`nơ`) → anchor trượt |
 | Verify khi asset đang bị ghi đè | Whisper đọc file dở, timing sai mà không biết |
@@ -163,6 +166,6 @@ Skill này **không dạy làm đẹp**. Nó chặn những lỗi đã lặp l�
 
 ## Liên quan
 
-Gọi **kèm** skill format phù hợp, không thay thế: `the-review` · `blueprint-tech-video` · `tinh-dao-video` · `comedy-animation` · `truyen-ky-it` · `truyen-ky-tu-tien` · `loi-thu-nhan-vat` · `reup-comedy-dub` · `viral-hook`.
+Gọi **kèm** skill format phù hợp, không thay thế: `whiteboard-doodle` (mặc định cho video script) · `the-review` · `blueprint-tech-video` · `tinh-dao-video` · `comedy-animation` · `truyen-ky-it` · `truyen-ky-tu-tien` · `loi-thu-nhan-vat` · `reup-comedy-dub` · `viral-hook`.
 
 Memory nền: `feedback_sync_voice_workflow` · `feedback_tts_per_beat_pipeline` · `feedback_tts_pronunciation_pitfalls` · `feedback_tts_tech_phonetic` · `feedback_export_nobgm_tiktok` · `feedback_general_deliverables` · `feedback_user_script_verbatim`.

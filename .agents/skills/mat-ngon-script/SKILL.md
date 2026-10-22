@@ -5,7 +5,7 @@ description: "Công thức VIẾT SCRIPT series Thiên Cơ Mật Ngôn — giả
 
 # Thiên Cơ Mật Ngôn · công thức viết script
 
-Skill này lo **CHỮ**. Thủ pháp văn tu tiên (nhịp câu ngắn, emoji chỉ đạo cảm xúc, phản ứng đạo tâm, lặp ba + đảo ngược, mốc giờ chính xác) lấy từ `truyen-ky-it` — đọc phần "KỸ THUẬT VÀNG" ở đó, KHÔNG chép lại ở đây. Hook audit chạy `viral-hook`. Pipeline dựng/TTS/sync đi qua `video-production-gate`.
+Skill này lo **CHỮ**. Thủ pháp văn tu tiên (nhịp câu ngắn, emoji chỉ đạo cảm xúc, phản ứng đạo tâm, lặp ba + đảo ngược, mốc giờ chính xác) lấy từ `truyen-ky-it` — đọc phần "KỸ THUẬT VÀNG" ở đó, KHÔNG chép lại ở đây. Hook audit chạy `viral-hook`. Pipeline dựng/TTS/sync đi qua `video-production-gate`; dựng hình mặc định bằng `whiteboard-doodle` (tay vẽ doodle + SFX tình huống, nền tối kênh).
 
 **Golden refs:** `projects/thien-co-mat-ngon/` (Quyển I — sếp, video tốt nhất kênh ~700k) · `projects/mat-ngon-bang-huu/` · `projects/mat-ngon-dao-lu/` (bản short lẻ đầu tiên).
 

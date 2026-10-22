@@ -8,6 +8,8 @@ metadata:
   modified: 2026-08-13T04:25:57.553Z
 ---
 
+> ⚡ **Video tự TTS từ 2026-10-19:** timing lấy thẳng từ `timeline.json` của [[feedback_tts_per_line_pipeline]] — bước 1–3 (whisper, anchor, gen_sync) bỏ. Nguyên tắc KHÔNG ước lượng + LEAD + verify cặp frame vẫn giữ. Quy trình whisper bên dưới chỉ còn cho footage/voice có sẵn.
+
 **BẮT BUỘC cho MỌI video** (user ra lệnh 2026-06-20: "làm video BẮT BUỘC chạy như nãy làm chuẩn slide cho voice"): đo word-timestamp thật, **KHÔNG ước lượng / đoán / char-proportional**.
 
 **Why:** User chửi nhiều lần vì lệch. Mọi cách đoán đều SAI: char-proportional lệch tích luỹ 2-3.4s; rải-đều-theo-câu lệch 3-6s vì lead-in mỗi beat dài ngắn khác nhau; `base + i*step` lệch tới 1s. Tai-mắt cực nhạy với **hình hiện TRƯỚC tiếng** — đó là cảm giác "lệch ngố" rõ nhất.

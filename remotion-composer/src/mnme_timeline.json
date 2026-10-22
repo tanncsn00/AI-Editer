@@ -1,0 +1,643 @@
+{
+ "title": "Thiên Cơ Mật Ngôn · Từ Mẫu Mật Ngôn",
+ "total": 186.963,
+ "beats": [
+  {
+   "name": "MODAU",
+   "header": "TỪ MẪU MẬT NGÔN",
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Tương truyền…",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 0.848
+      },
+      {
+       "t": "trong GIA TỘC GIỚI, có một vị đại năng không ai đánh bại được.",
+       "kind": "narr",
+       "start": 1.188,
+       "end": 4.061
+      },
+      {
+       "t": "Bà không cần nói nhiều. Chỉ cần MỘT CÂU.",
+       "kind": "narr",
+       "start": 4.401,
+       "end": 6.443
+      },
+      {
+       "t": "Đứa con phía dưới… phải mất hai mươi năm mới hiểu hết.",
+       "kind": "red",
+       "start": 6.783,
+       "end": 9.179
+      }
+     ]
+    },
+    {
+     "start": 9.639,
+     "lines": [
+      {
+       "t": "Vị đại năng ấy… chính là MẸ.",
+       "kind": "narr",
+       "start": 9.639,
+       "end": 11.343
+      },
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 11.683,
+       "end": 12.677
+      },
+      {
+       "t": "TỪ MẪU MẬT NGÔN.",
+       "kind": "term",
+       "start": 13.017,
+       "end": 13.869
+      }
+     ]
+    },
+    {
+     "start": 14.329,
+     "lines": [
+      {
+       "t": "Nhân ngày hai mươi tháng mười, bần đạo giải mã năm câu mẹ hay nói nhất… và để dành câu cuối cùng cho ngươi.",
+       "kind": "amber",
+       "start": 14.329,
+       "end": 19.587
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 20.217
+  },
+  {
+   "name": "M1",
+   "header": "ĐỆ NHẤT MẬT NGÔN",
+   "pages": [
+    {
+     "start": 20.257,
+     "lines": [
+      {
+       "t": "Đệ nhất mật ngôn.",
+       "kind": "scroll",
+       "start": 20.257,
+       "end": 21.142
+      },
+      {
+       "t": "\"Con ăn gì chưa?\"",
+       "kind": "scroll",
+       "start": 21.482,
+       "end": 22.265
+      }
+     ]
+    },
+    {
+     "start": 22.725,
+     "lines": [
+      {
+       "t": "Người ngoài nghe: một câu hỏi han.",
+       "kind": "narr",
+       "start": 22.725,
+       "end": 24.456
+      },
+      {
+       "t": "Đứa con lâu năm nghe: LỆNH TRIỆU HỒI ĐỒ ĂN.",
+       "kind": "red",
+       "start": 24.796,
+       "end": 27.004
+      }
+     ]
+    },
+    {
+     "start": 27.464,
+     "lines": [
+      {
+       "t": "Ngươi nói: \"Con ăn rồi.\" Một bát cơm xuất hiện.",
+       "kind": "narr",
+       "start": 27.464,
+       "end": 30.184
+      },
+      {
+       "t": "Ngươi nói: \"Con no thật mà.\" Một đĩa thịt xuất hiện.",
+       "kind": "narr",
+       "start": 30.524,
+       "end": 33.139
+      },
+      {
+       "t": "Ngươi nói: \"Mẹ ơi, con sắp nổ.\"",
+       "kind": "narr",
+       "start": 33.479,
+       "end": 35.503
+      },
+      {
+       "t": "Nửa con gà xuất hiện.",
+       "kind": "gold",
+       "start": 35.843,
+       "end": 36.951
+      }
+     ]
+    },
+    {
+     "start": 37.411,
+     "lines": [
+      {
+       "t": "Hai tiếng sau, mẹ nhìn ngươi, thở dài: \"Sao dạo này gầy thế con?\"",
+       "kind": "narr",
+       "start": 37.411,
+       "end": 41.134
+      },
+      {
+       "t": "Ở nhà mẹ, \"no\"… không phải trạng thái. Mà là ý kiến cá nhân.",
+       "kind": "jade",
+       "start": 41.474,
+       "end": 45.089
+      }
+     ]
+    }
+   ],
+   "start": 20.217,
+   "end": 45.719
+  },
+  {
+   "name": "M2",
+   "header": "ĐỆ NHỊ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 45.759,
+     "lines": [
+      {
+       "t": "Đệ nhị mật ngôn.",
+       "kind": "scroll",
+       "start": 45.759,
+       "end": 46.644
+      },
+      {
+       "t": "\"Mẹ không cần gì đâu.\"",
+       "kind": "scroll",
+       "start": 46.984,
+       "end": 48.045
+      }
+     ]
+    },
+    {
+     "start": 48.505,
+     "lines": [
+      {
+       "t": "Ngươi hỏi: \"Sinh nhật mẹ muốn quà gì?\"",
+       "kind": "narr",
+       "start": 48.505,
+       "end": 50.589
+      },
+      {
+       "t": "Người ngoài nghe: mẹ không cần gì thật.",
+       "kind": "narr",
+       "start": 50.929,
+       "end": 52.818
+      },
+      {
+       "t": "Đứa con lâu năm nghe: \"Mẹ cần. Nhưng con phải TỰ ĐOÁN RA.\"",
+       "kind": "red",
+       "start": 53.158,
+       "end": 56.502
+      }
+     ]
+    },
+    {
+     "start": 56.962,
+     "lines": [
+      {
+       "t": "Ngươi tin. Ngươi không mua gì.",
+       "kind": "narr",
+       "start": 56.962,
+       "end": 58.584
+      },
+      {
+       "t": "Ba ngày sau, mẹ đăng một tấm ảnh lên Facebook.",
+       "kind": "red",
+       "start": 58.924,
+       "end": 61.295
+      },
+      {
+       "t": "Nồi chiên không dầu. Con bác Hai tặng mẹ nó.",
+       "kind": "narr",
+       "start": 61.635,
+       "end": 64.007
+      },
+      {
+       "t": "Caption: \"Có đứa con như này thì tốt quá.\"",
+       "kind": "gold",
+       "start": 64.347,
+       "end": 66.682
+      }
+     ]
+    },
+    {
+     "start": 67.142,
+     "lines": [
+      {
+       "t": "Đạo tâm ngươi nghe rõ một tiếng \"tách\", như nắp nồi chiên vừa bật.",
+       "kind": "red",
+       "start": 67.142,
+       "end": 70.287
+      },
+      {
+       "t": "Mẹ không cần gì cả. Mẹ chỉ cần con… biết mẹ cần gì.",
+       "kind": "jade",
+       "start": 70.627,
+       "end": 74.045
+      }
+     ]
+    }
+   ],
+   "start": 45.719,
+   "end": 74.675
+  },
+  {
+   "name": "M3",
+   "header": "ĐỆ TAM MẬT NGÔN",
+   "pages": [
+    {
+     "start": 74.715,
+     "lines": [
+      {
+       "t": "Đệ tam mật ngôn.",
+       "kind": "scroll",
+       "start": 74.715,
+       "end": 75.645
+      },
+      {
+       "t": "\"Ngồi đây, mẹ nói một câu thôi.\"",
+       "kind": "scroll",
+       "start": 75.985,
+       "end": 77.681
+      }
+     ]
+    },
+    {
+     "start": 78.141,
+     "lines": [
+      {
+       "t": "Người ngoài nghe: một câu.",
+       "kind": "narr",
+       "start": 78.141,
+       "end": 79.239
+      },
+      {
+       "t": "Đứa con lâu năm nghe: \"Hủy hết lịch tối nay.\"",
+       "kind": "red",
+       "start": 79.579,
+       "end": 81.939
+      }
+     ]
+    },
+    {
+     "start": 82.399,
+     "lines": [
+      {
+       "t": "Chín giờ. Chuyện ngươi về muộn.",
+       "kind": "narr",
+       "start": 82.399,
+       "end": 84.135
+      },
+      {
+       "t": "Chín giờ rưỡi. Chuyện điểm thi năm lớp ba.",
+       "kind": "narr",
+       "start": 84.475,
+       "end": 86.791
+      },
+      {
+       "t": "Mười giờ. Chuyện con nhà bác Hai.",
+       "kind": "narr",
+       "start": 87.131,
+       "end": 88.63
+      }
+     ]
+    },
+    {
+     "start": 89.09,
+     "lines": [
+      {
+       "t": "Mười giờ rưỡi, mẹ dừng lại.",
+       "kind": "narr",
+       "start": 89.09,
+       "end": 90.447
+      },
+      {
+       "t": "\"Ơ… mẹ định nói gì nhỉ?\"",
+       "kind": "gold",
+       "start": 90.787,
+       "end": 92.096
+      },
+      {
+       "t": "\"Một câu\" của mẹ… không có dấu chấm.",
+       "kind": "jade",
+       "start": 92.436,
+       "end": 93.997
+      }
+     ]
+    }
+   ],
+   "start": 74.675,
+   "end": 94.627
+  },
+  {
+   "name": "M4",
+   "header": "ĐỆ TỨ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 94.667,
+     "lines": [
+      {
+       "t": "Đệ tứ mật ngôn.",
+       "kind": "scroll",
+       "start": 94.667,
+       "end": 95.598
+      },
+      {
+       "t": "\"Để đó mẹ làm.\"",
+       "kind": "scroll",
+       "start": 95.938,
+       "end": 96.744
+      }
+     ]
+    },
+    {
+     "start": 97.204,
+     "lines": [
+      {
+       "t": "Người ngoài nghe: mẹ thương con.",
+       "kind": "narr",
+       "start": 97.204,
+       "end": 98.824
+      },
+      {
+       "t": "Đứa con lâu năm nghe: BÀI KIỂM TRA BẮT ĐẦU.",
+       "kind": "red",
+       "start": 99.164,
+       "end": 101.407
+      }
+     ]
+    },
+    {
+     "start": 101.867,
+     "lines": [
+      {
+       "t": "Ngươi để đó thật.",
+       "kind": "narr",
+       "start": 101.867,
+       "end": 102.639
+      },
+      {
+       "t": "Mười phút sau, tiếng bát đĩa vang khắp nhà như sấm sét độ kiếp.",
+       "kind": "red",
+       "start": 102.979,
+       "end": 105.939
+      },
+      {
+       "t": "\"Cái nhà này không ai động tay vào việc gì!\"",
+       "kind": "gold",
+       "start": 106.279,
+       "end": 108.118
+      }
+     ]
+    },
+    {
+     "start": 108.578,
+     "lines": [
+      {
+       "t": "Lần sau, ngươi xông vào rửa luôn.",
+       "kind": "narr",
+       "start": 108.578,
+       "end": 110.371
+      },
+      {
+       "t": "\"Rửa thế này à? Tránh ra để mẹ làm!\"",
+       "kind": "gold",
+       "start": 110.711,
+       "end": 112.727
+      },
+      {
+       "t": "Mệnh lệnh của mẹ luôn có hai đáp án. Và cả hai… đều sai.",
+       "kind": "jade",
+       "start": 113.067,
+       "end": 116.399
+      }
+     ]
+    }
+   ],
+   "start": 94.627,
+   "end": 117.029
+  },
+  {
+   "name": "M5",
+   "header": "ĐỆ NGŨ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 117.069,
+     "lines": [
+      {
+       "t": "Đệ ngũ mật ngôn.",
+       "kind": "scroll",
+       "start": 117.069,
+       "end": 117.967
+      },
+      {
+       "t": "\"Mẹ hỏi mẹ Tuấn rồi.\"",
+       "kind": "scroll",
+       "start": 118.307,
+       "end": 119.292
+      }
+     ]
+    },
+    {
+     "start": 119.752,
+     "lines": [
+      {
+       "t": "Tối qua ngươi nói: \"Con ngủ nhà Tuấn.\"",
+       "kind": "narr",
+       "start": 119.752,
+       "end": 121.636
+      },
+      {
+       "t": "Sáng nay, mẹ đặt cốc trà xuống, nói nhẹ một câu.",
+       "kind": "narr",
+       "start": 121.976,
+       "end": 124.769
+      },
+      {
+       "t": "Nguyên thần ngươi lập tức xuất khiếu.",
+       "kind": "red",
+       "start": 125.109,
+       "end": 126.794
+      }
+     ]
+    },
+    {
+     "start": 127.254,
+     "lines": [
+      {
+       "t": "Bởi mạng lưới của mẹ gồm: hội phụ huynh lớp. Bác tổ trưởng dân phố. Và cô bán xôi đầu ngõ.",
+       "kind": "narr",
+       "start": 127.254,
+       "end": 132.53
+      },
+      {
+       "t": "Cô bán xôi biết ngươi về lúc hai giờ sáng. Trước cả mẹ Tuấn.",
+       "kind": "gold",
+       "start": 132.87,
+       "end": 136.203
+      }
+     ]
+    },
+    {
+     "start": 136.663,
+     "lines": [
+      {
+       "t": "Trên đời có ba thứ không giấu được: cơn ho, cái nghèo… và lịch trình của ngươi trước mặt mẹ.",
+       "kind": "jade",
+       "start": 136.663,
+       "end": 141.512
+      }
+     ]
+    }
+   ],
+   "start": 117.029,
+   "end": 142.142
+  },
+  {
+   "name": "KET",
+   "header": "KẾT",
+   "pages": [
+    {
+     "start": 142.182,
+     "lines": [
+      {
+       "t": "Năm câu. Năm mật ngôn.",
+       "kind": "narr",
+       "start": 142.182,
+       "end": 143.473
+      },
+      {
+       "t": "Người ngoài nghe… tưởng là lời cằn nhằn.",
+       "kind": "narr",
+       "start": 143.813,
+       "end": 145.795
+      },
+      {
+       "t": "Nhưng đứa con lâu năm mới hiểu.",
+       "kind": "narr",
+       "start": 146.135,
+       "end": 147.571
+      }
+     ]
+    },
+    {
+     "start": 148.031,
+     "lines": [
+      {
+       "t": "\"Con ăn gì chưa\"… là thương. \"Mẹ không cần gì\"… là thương. Ngồi nghe mẹ nói một câu… cũng là thương.",
+       "kind": "amber",
+       "start": 148.031,
+       "end": 154.554
+      },
+      {
+       "t": "Chỉ là mẹ chưa bao giờ nói thẳng ra thôi.",
+       "kind": "amber",
+       "start": 154.894,
+       "end": 156.913
+      }
+     ]
+    }
+   ],
+   "start": 142.142,
+   "end": 157.543
+  },
+  {
+   "name": "LOICHUC",
+   "header": "LỜI CHÚC 20/10",
+   "pages": [
+    {
+     "start": 157.583,
+     "lines": [
+      {
+       "t": "Và câu cuối cùng ấy…",
+       "kind": "narr",
+       "start": 157.583,
+       "end": 158.655
+      },
+      {
+       "t": "Bần đạo xin kính chúc những người phụ nữ Việt Nam… luôn bình an, luôn rạng rỡ, và được thương nhiều như cách các nàng vẫn thương người khác.",
+       "kind": "amber",
+       "start": 158.995,
+       "end": 165.838
+      }
+     ]
+    },
+    {
+     "start": 166.298,
+     "lines": [
+      {
+       "t": "Đặc biệt là những người mẹ Việt Nam.",
+       "kind": "amber",
+       "start": 166.298,
+       "end": 167.836
+      },
+      {
+       "t": "Những vị đại năng cả đời tu luyện… chỉ để con mình được no, được ấm, được bình yên.",
+       "kind": "amber",
+       "start": 168.176,
+       "end": 172.611
+      }
+     ]
+    },
+    {
+     "start": 173.071,
+     "lines": [
+      {
+       "t": "Mẹ chưa bao giờ nói thẳng. Vậy nhân ngày này… ngươi nói trước đi.",
+       "kind": "jade",
+       "start": 173.071,
+       "end": 176.476
+      },
+      {
+       "t": "\"Con thương mẹ.\" Ba chữ thôi. Ngắn hơn mọi câu mật ngôn của mẹ.",
+       "kind": "jade",
+       "start": 176.816,
+       "end": 180.266
+      }
+     ]
+    }
+   ],
+   "start": 157.543,
+   "end": 180.896
+  },
+  {
+   "name": "CTA",
+   "header": "THEO DÕI",
+   "pages": [
+    {
+     "start": 180.936,
+     "lines": [
+      {
+       "t": "Gửi video này cho mẹ ngươi. Hoặc comment câu mẹ ngươi hay nói nhất 👇",
+       "kind": "cta",
+       "start": 180.936,
+       "end": 184.346
+      },
+      {
+       "t": "Follow bần đạo để độ kiếp mỗi ngày.",
+       "kind": "cta",
+       "start": 184.686,
+       "end": 186.333
+      }
+     ]
+    }
+   ],
+   "start": 180.896,
+   "end": 186.963
+  }
+ ]
+}

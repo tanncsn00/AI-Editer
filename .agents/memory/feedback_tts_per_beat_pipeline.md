@@ -8,6 +8,8 @@ metadata:
   modified: 2026-08-14T04:49:26.893Z
 ---
 
+> ⛔ **ĐÃ THAY bởi [[feedback_tts_per_line_pipeline]] từ 2026-10-19** — chỉ còn dùng khi re-render project cũ.
+
 **Từ 2026-07-03 (moigioi-dao): TTS mỗi BEAT thành 1 file mp3 riêng, KHÔNG gen full script 1 lần.** User đề xuất ("tách ra thành từng chunk... slide 1 chunk 1 chứ ko full mp3") sau khi chán EverAI lỗi liên miên ở bài dài.
 
 **Why (lợi ích lớn):**

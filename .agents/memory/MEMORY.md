@@ -25,7 +25,8 @@
 
 ## 3. Voice & TTS
 
-- [⭐ TTS per-beat pipeline](feedback_tts_per_beat_pipeline.md) — mỗi beat 1 mp3 + concat gap 0.3s; hết hallucination, re-gen isolate 1 beat
+- [⭐⭐ TTS per-LINE pipeline](feedback_tts_per_line_pipeline.md) — từ 2026-10-19: script.md → `tts_lines.py` (EverAI v1.6, mỗi dòng 1 clip) → timeline.json; BỎ whisper/gen_sync
+- [TTS per-beat pipeline (cũ)](feedback_tts_per_beat_pipeline.md) — ⛔ đã thay bởi per-line; chỉ cho project cũ
 - [⭐ Catalog lỗi phát âm EverAI](feedback_tts_pronunciation_pitfalls.md) — nuốt chữ/cụm, lắp chữ, rớt dấu, "bug"→"lỗi", lehoang nuốt "nghìn"; whisper KHÔNG bắt được nuốt → phải isolate-transcribe
 - [⭐ RULE phonetic tech](feedback_tts_tech_phonetic.md) — ĐỌC âm tiếng Anh, cấm dịch nghĩa để né phát âm (bug→"bấc" KHÔNG phải "lỗi"); ngoại lệ: tên pháp bảo truyền kỳ có reveal English kèm. Bảng ~90 term tra ở `docs/PHONETIC_DICT.md`
 - [⭐ Speed = 1.0](feedback_tts_speed_1x.md) — mặc định `"speed": 1.0` trong script.json từ 2026-08-14 (bỏ 0.95); tự set, đừng hỏi lại
@@ -40,7 +41,7 @@
 
 ## 5. Dựng hình & sync
 
-- [⭐⭐ QUY TRÌNH SYNC BẮT BUỘC](feedback_sync_voice_workflow.md) — 6 bước word-timestamp cho MỌI video; LEAD theo animation; bẫy whisper hallucination + chọn anchor + list/thoại; verify cặp frame
+- [⭐⭐ QUY TRÌNH SYNC BẮT BUỘC](feedback_sync_voice_workflow.md) — video tự TTS: đọc timeline.json (per-line); 6 bước word-timestamp chỉ còn cho footage/voice có sẵn; LEAD theo animation; bẫy whisper hallucination + chọn anchor + list/thoại; verify cặp frame
 - [Mouth sync theo word timings](feedback_comedy_mouth_sync.md) — parabolic per-word, không sine độc lập; nhân vật cần action mỗi beat
 - [Nhân vật phải động](feedback_comedy_stick_animate.md) — mouth sync + eye blink + body bob khi nói, không đứng im
 - [Background continuity](feedback_general_bg_continuity.md) — footage trong 1 video phải cùng environment/mood

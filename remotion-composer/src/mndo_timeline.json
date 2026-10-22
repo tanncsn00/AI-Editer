@@ -1,0 +1,601 @@
+{
+ "title": "Thiên Cơ Mật Ngôn · Địa Ốc Giới",
+ "total": 153.385,
+ "beats": [
+  {
+   "name": "MODAU",
+   "header": "THIÊN CƠ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Tương truyền…",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 0.818
+      },
+      {
+       "t": "trong ĐỊA ỐC GIỚI, có một loại ngôn ngữ…",
+       "kind": "narr",
+       "start": 1.158,
+       "end": 3.098
+      }
+     ]
+    },
+    {
+     "start": 3.558,
+     "lines": [
+      {
+       "t": "Môi giới bất động sản chỉ cần nói MỘT CÂU.",
+       "kind": "narr",
+       "start": 3.558,
+       "end": 5.472
+      },
+      {
+       "t": "Người mua phía dưới… phải mất BA NĂM mới hiểu hết.",
+       "kind": "red",
+       "start": 5.812,
+       "end": 8.146
+      }
+     ]
+    },
+    {
+     "start": 8.606,
+     "lines": [
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 8.606,
+       "end": 9.591
+      },
+      {
+       "t": "THIÊN CƠ MẬT NGÔN.",
+       "kind": "term",
+       "start": 9.931,
+       "end": 10.788
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 11.418
+  },
+  {
+   "name": "M1",
+   "header": "ĐỆ NHẤT MẬT NGÔN",
+   "pages": [
+    {
+     "start": 11.458,
+     "lines": [
+      {
+       "t": "Đệ nhất mật ngôn.",
+       "kind": "scroll",
+       "start": 11.458,
+       "end": 12.399
+      },
+      {
+       "t": "\"Chủ đang kẹt tiền, bán gấp.\"",
+       "kind": "scroll",
+       "start": 12.739,
+       "end": 14.178
+      }
+     ]
+    },
+    {
+     "start": 14.638,
+     "lines": [
+      {
+       "t": "Người mới đi mua nhà nghe: \"Cơ hội ngàn năm có một.\"",
+       "kind": "narr",
+       "start": 14.638,
+       "end": 17.106
+      },
+      {
+       "t": "Người mua lâu năm nghe: \"Căn này… đã bán gấp được bốn cái Tết.\"",
+       "kind": "red",
+       "start": 17.446,
+       "end": 20.621
+      }
+     ]
+    },
+    {
+     "start": 21.081,
+     "lines": [
+      {
+       "t": "Ngươi hỏi: \"Chủ kẹt tiền lâu chưa em?\"",
+       "kind": "narr",
+       "start": 21.081,
+       "end": 23.061
+      },
+      {
+       "t": "Môi giới đáp: \"Dạ… cũng mới thôi anh.\"",
+       "kind": "narr",
+       "start": 23.401,
+       "end": 25.527
+      },
+      {
+       "t": "Ngươi lật lại tin đăng cũ. \"Bán gấp.\" Năm hai nghìn không trăm hai mươi hai.",
+       "kind": "red",
+       "start": 25.867,
+       "end": 29.497
+      },
+      {
+       "t": "Giá chưa giảm một đồng.",
+       "kind": "gold",
+       "start": 29.837,
+       "end": 31.014
+      }
+     ]
+    },
+    {
+     "start": 31.474,
+     "lines": [
+      {
+       "t": "Khoảnh khắc ấy ngươi lĩnh ngộ.",
+       "kind": "narr",
+       "start": 31.474,
+       "end": 32.749
+      },
+      {
+       "t": "\"Gấp\"… là trạng thái của tin đăng. Không phải của chủ nhà.",
+       "kind": "jade",
+       "start": 33.089,
+       "end": 36.366
+      }
+     ]
+    }
+   ],
+   "start": 11.418,
+   "end": 36.996
+  },
+  {
+   "name": "M2",
+   "header": "ĐỆ NHỊ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 37.036,
+     "lines": [
+      {
+       "t": "Đệ nhị mật ngôn.",
+       "kind": "scroll",
+       "start": 37.036,
+       "end": 37.92
+      },
+      {
+       "t": "\"View sông, cách trung tâm mười lăm phút.\"",
+       "kind": "scroll",
+       "start": 38.26,
+       "end": 40.032
+      }
+     ]
+    },
+    {
+     "start": 40.492,
+     "lines": [
+      {
+       "t": "Mười lăm phút.",
+       "kind": "narr",
+       "start": 40.492,
+       "end": 41.041
+      },
+      {
+       "t": "Nếu đi lúc ba giờ sáng.",
+       "kind": "narr",
+       "start": 41.381,
+       "end": 42.694
+      },
+      {
+       "t": "Không gặp đèn đỏ.",
+       "kind": "narr",
+       "start": 43.034,
+       "end": 43.866
+      },
+      {
+       "t": "Và ngươi là xe cứu thương.",
+       "kind": "gold",
+       "start": 44.206,
+       "end": 45.494
+      }
+     ]
+    },
+    {
+     "start": 45.954,
+     "lines": [
+      {
+       "t": "Tới nơi, ngươi tìm con sông.",
+       "kind": "narr",
+       "start": 45.954,
+       "end": 47.618
+      },
+      {
+       "t": "Khách nhìn con mương.",
+       "kind": "narr",
+       "start": 47.958,
+       "end": 48.917
+      },
+      {
+       "t": "Rồi nhìn môi giới.",
+       "kind": "narr",
+       "start": 49.257,
+       "end": 50.181
+      },
+      {
+       "t": "Môi giới nhìn con mương.",
+       "kind": "narr",
+       "start": 50.521,
+       "end": 51.649
+      },
+      {
+       "t": "Con mương không nói gì.",
+       "kind": "gold",
+       "start": 51.989,
+       "end": 52.993
+      }
+     ]
+    },
+    {
+     "start": 53.453,
+     "lines": [
+      {
+       "t": "Thiên linh cái ngươi bốc khói giữa trưa.",
+       "kind": "red",
+       "start": 53.453,
+       "end": 55.266
+      },
+      {
+       "t": "Trong Địa Ốc Giới, khoảng cách không đo bằng cây số. Mà đo bằng độ tự tin của người viết tin.",
+       "kind": "jade",
+       "start": 55.606,
+       "end": 60.49
+      }
+     ]
+    }
+   ],
+   "start": 36.996,
+   "end": 61.12
+  },
+  {
+   "name": "M3",
+   "header": "ĐỆ TAM MẬT NGÔN",
+   "pages": [
+    {
+     "start": 61.16,
+     "lines": [
+      {
+       "t": "Đệ tam mật ngôn.",
+       "kind": "scroll",
+       "start": 61.16,
+       "end": 62.097
+      },
+      {
+       "t": "\"Giá chỉ từ một tỷ chín.\"",
+       "kind": "scroll",
+       "start": 62.437,
+       "end": 63.719
+      }
+     ]
+    },
+    {
+     "start": 64.179,
+     "lines": [
+      {
+       "t": "Người ngoài nghe: \"Một tỷ chín.\"",
+       "kind": "narr",
+       "start": 64.179,
+       "end": 65.782
+      },
+      {
+       "t": "Người trong nghề nghe: \"Căn một tỷ chín… đã bán từ hôm mở bán. Cho người nhà chủ đầu tư.\"",
+       "kind": "red",
+       "start": 66.122,
+       "end": 70.903
+      }
+     ]
+    },
+    {
+     "start": 71.363,
+     "lines": [
+      {
+       "t": "Ngươi tới nơi.",
+       "kind": "narr",
+       "start": 71.363,
+       "end": 72.041
+      },
+      {
+       "t": "Căn còn lại: hai tỷ tám.",
+       "kind": "narr",
+       "start": 72.381,
+       "end": 73.707
+      },
+      {
+       "t": "Hướng tây.",
+       "kind": "narr",
+       "start": 74.047,
+       "end": 74.533
+      },
+      {
+       "t": "Cạnh trạm biến áp.",
+       "kind": "narr",
+       "start": 74.873,
+       "end": 75.701
+      },
+      {
+       "t": "Cửa sổ nhìn thẳng vào… căn một tỷ chín.",
+       "kind": "gold",
+       "start": 76.041,
+       "end": 78.265
+      }
+     ]
+    },
+    {
+     "start": 78.725,
+     "lines": [
+      {
+       "t": "Kinh mạch ngươi chạy ngược ba vòng, tìm không ra lối thoát.",
+       "kind": "red",
+       "start": 78.725,
+       "end": 81.493
+      },
+      {
+       "t": "\"Chỉ từ\"… không phải là giá. \"Chỉ từ\"… là MỒI CÂU.",
+       "kind": "jade",
+       "start": 81.833,
+       "end": 85.374
+      }
+     ]
+    }
+   ],
+   "start": 61.12,
+   "end": 86.004
+  },
+  {
+   "name": "M4",
+   "header": "ĐỆ TỨ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 86.044,
+     "lines": [
+      {
+       "t": "Đệ tứ mật ngôn.",
+       "kind": "scroll",
+       "start": 86.044,
+       "end": 86.978
+      },
+      {
+       "t": "\"Anh cọc luôn đi, mai có người xuống tiền rồi.\"",
+       "kind": "scroll",
+       "start": 87.318,
+       "end": 89.624
+      }
+     ]
+    },
+    {
+     "start": 90.084,
+     "lines": [
+      {
+       "t": "Câu này vừa truyền xuống… tim người mua đập loạn nhịp.",
+       "kind": "narr",
+       "start": 90.084,
+       "end": 92.728
+      },
+      {
+       "t": "Nhưng tu sĩ lâu năm đều biết.",
+       "kind": "red",
+       "start": 93.068,
+       "end": 94.548
+      },
+      {
+       "t": "\"Người mai xuống tiền\"… là một nhân vật huyền thoại.",
+       "kind": "narr",
+       "start": 94.888,
+       "end": 97.195
+      }
+     ]
+    },
+    {
+     "start": 97.655,
+     "lines": [
+      {
+       "t": "Tương truyền hắn đã định xuống tiền… ở mọi căn nhà trên khắp Việt Nam.",
+       "kind": "narr",
+       "start": 97.655,
+       "end": 101.026
+      },
+      {
+       "t": "Nhưng chưa từng mua căn nào.",
+       "kind": "gold",
+       "start": 101.366,
+       "end": 102.67
+      }
+     ]
+    },
+    {
+     "start": 103.13,
+     "lines": [
+      {
+       "t": "Ngươi do dự một tuần. Quay lại.",
+       "kind": "narr",
+       "start": 103.13,
+       "end": 104.864
+      },
+      {
+       "t": "Căn nhà vẫn còn.",
+       "kind": "narr",
+       "start": 105.204,
+       "end": 106.04
+      },
+      {
+       "t": "\"Người mai xuống tiền\"… vẫn chưa xuống.",
+       "kind": "gold",
+       "start": 106.38,
+       "end": 108.181
+      },
+      {
+       "t": "Đối thủ đáng sợ nhất Địa Ốc Giới… là đối thủ KHÔNG TỒN TẠI.",
+       "kind": "jade",
+       "start": 108.521,
+       "end": 111.516
+      }
+     ]
+    }
+   ],
+   "start": 86.004,
+   "end": 112.146
+  },
+  {
+   "name": "M5",
+   "header": "ĐỆ NGŨ MẬT NGÔN",
+   "pages": [
+    {
+     "start": 112.186,
+     "lines": [
+      {
+       "t": "Đệ ngũ mật ngôn.",
+       "kind": "scroll",
+       "start": 112.186,
+       "end": 113.09
+      },
+      {
+       "t": "\"Để anh xem thêm vài căn nữa rồi báo em.\"",
+       "kind": "scroll",
+       "start": 113.43,
+       "end": 115.433
+      }
+     ]
+    },
+    {
+     "start": 115.893,
+     "lines": [
+      {
+       "t": "Mật ngôn cuối cùng… không phải của môi giới.",
+       "kind": "narr",
+       "start": 115.893,
+       "end": 117.923
+      },
+      {
+       "t": "Mà là của KHÁCH.",
+       "kind": "red",
+       "start": 118.263,
+       "end": 118.951
+      },
+      {
+       "t": "Môi giới mới nghe: \"Dạ, anh cứ thong thả.\"",
+       "kind": "narr",
+       "start": 119.291,
+       "end": 121.756
+      },
+      {
+       "t": "Môi giới lâu năm nghe: \"Anh chốt rồi. Chỉ là… không chốt với em.\"",
+       "kind": "red",
+       "start": 122.096,
+       "end": 125.91
+      }
+     ]
+    },
+    {
+     "start": 126.37,
+     "lines": [
+      {
+       "t": "Một tháng sau, môi giới đi ngang qua.",
+       "kind": "narr",
+       "start": 126.37,
+       "end": 128.326
+      },
+      {
+       "t": "Khách đang khiêng tủ lạnh vào đúng căn nhà ấy.",
+       "kind": "narr",
+       "start": 128.666,
+       "end": 130.754
+      },
+      {
+       "t": "Khách vẫy tay: \"Ơ em! Nhà đẹp không?\"",
+       "kind": "gold",
+       "start": 131.094,
+       "end": 133.512
+      }
+     ]
+    },
+    {
+     "start": 133.972,
+     "lines": [
+      {
+       "t": "Đêm đó, tu vi ba năm của môi giới tan thành mây khói.",
+       "kind": "red",
+       "start": 133.972,
+       "end": 136.772
+      },
+      {
+       "t": "Người đời gọi chiêu này là…",
+       "kind": "cue",
+       "start": 137.112,
+       "end": 138.357
+      },
+      {
+       "t": "CẮT LÁI.",
+       "kind": "term",
+       "start": 138.697,
+       "end": 139.174
+      }
+     ]
+    }
+   ],
+   "start": 112.146,
+   "end": 139.804
+  },
+  {
+   "name": "KET",
+   "header": "KẾT",
+   "pages": [
+    {
+     "start": 139.844,
+     "lines": [
+      {
+       "t": "Năm câu. Năm mật ngôn.",
+       "kind": "narr",
+       "start": 139.844,
+       "end": 141.155
+      },
+      {
+       "t": "Người mua nghe… tưởng là cơ hội.",
+       "kind": "narr",
+       "start": 141.495,
+       "end": 143.159
+      },
+      {
+       "t": "Môi giới nghe… biết là chiến trường.",
+       "kind": "narr",
+       "start": 143.499,
+       "end": 145.36
+      },
+      {
+       "t": "Chỉ có căn nhà là đứng yên. Nhìn cả hai bên độ kiếp.",
+       "kind": "red",
+       "start": 145.7,
+       "end": 148.513
+      }
+     ]
+    },
+    {
+     "start": 148.973,
+     "lines": [
+      {
+       "t": "Ngươi từng nghe câu nào rồi? Comment 👇",
+       "kind": "cta",
+       "start": 148.973,
+       "end": 150.758
+      },
+      {
+       "t": "Follow bần đạo để độ kiếp mỗi ngày.",
+       "kind": "cta",
+       "start": 151.098,
+       "end": 152.755
+      }
+     ]
+    }
+   ],
+   "start": 139.804,
+   "end": 153.385
+  }
+ ]
+}

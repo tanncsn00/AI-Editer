@@ -1,0 +1,600 @@
+{
+ "title": "Truyền Kỳ Luân Tông · Ngũ Đại Cảnh Giới Lốp",
+ "total": 191.652,
+ "beats": [
+  {
+   "name": "MODAU",
+   "header": "LUÂN TÔNG",
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Năm ấy, ngươi yêu thầm một người.",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 2.024
+      },
+      {
+       "t": "Ba năm. Một nghìn tin nhắn. Bốn trăm cốc trà sữa.",
+       "kind": "narr",
+       "start": 2.364,
+       "end": 4.947
+      },
+      {
+       "t": "Và đúng một danh phận.",
+       "kind": "red",
+       "start": 5.287,
+       "end": 6.312
+      },
+      {
+       "t": "Lốp.",
+       "kind": "gold",
+       "start": 6.652,
+       "end": 6.934
+      }
+     ]
+    },
+    {
+     "start": 7.394,
+     "lines": [
+      {
+       "t": "Tình Trường Giới có luật: mỗi cỗ xe chỉ có bốn bánh chính.",
+       "kind": "narr",
+       "start": 7.394,
+       "end": 10.429
+      },
+      {
+       "t": "Bánh thứ năm… nằm trong cốp.",
+       "kind": "narr",
+       "start": 10.769,
+       "end": 12.38
+      },
+      {
+       "t": "Và chiếc lốp ấy cũng có năm cảnh giới tu luyện.",
+       "kind": "jade",
+       "start": 12.72,
+       "end": 14.921
+      },
+      {
+       "t": "Hôm nay bần đạo soi cho ngươi xem. Ngươi đang kẹt ở cảnh giới nào… tự biết.",
+       "kind": "amber",
+       "start": 15.261,
+       "end": 19.433
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 20.063
+  },
+  {
+   "name": "L1",
+   "header": "CẢNH GIỚI THỨ NHẤT",
+   "pages": [
+    {
+     "start": 20.103,
+     "lines": [
+      {
+       "t": "Cảnh giới thứ nhất.",
+       "kind": "scroll",
+       "start": 20.103,
+       "end": 20.784
+      },
+      {
+       "t": "\"Cốp Xe Tán Nhân.\"",
+       "kind": "scroll",
+       "start": 21.124,
+       "end": 21.992
+      }
+     ]
+    },
+    {
+     "start": 22.452,
+     "lines": [
+      {
+       "t": "Mười một giờ đêm. Nàng nhắn: \"Anh ngủ chưa?\"",
+       "kind": "narr",
+       "start": 22.452,
+       "end": 25.091
+      },
+      {
+       "t": "Ba chữ. Nhưng là triệu hồi chú.",
+       "kind": "red",
+       "start": 25.431,
+       "end": 27.227
+      }
+     ]
+    },
+    {
+     "start": 27.687,
+     "lines": [
+      {
+       "t": "Bốn phút sau, ngươi có mặt dưới nhà nàng.",
+       "kind": "narr",
+       "start": 27.687,
+       "end": 29.551
+      },
+      {
+       "t": "Dép tổ ong. Một chiếc bên trái. Chiếc kia… cũng bên trái.",
+       "kind": "gold",
+       "start": 29.891,
+       "end": 33.686
+      },
+      {
+       "t": "Nàng khóc ba tiếng về người yêu. Ngươi gật đầu ba tiếng.",
+       "kind": "narr",
+       "start": 34.026,
+       "end": 36.928
+      }
+     ]
+    },
+    {
+     "start": 37.388,
+     "lines": [
+      {
+       "t": "Sáng hôm sau, nàng đăng story: hai người đã làm lành. Caption: \"Cảm ơn vũ trụ.\"",
+       "kind": "narr",
+       "start": 37.388,
+       "end": 42.314
+      },
+      {
+       "t": "Vũ trụ được cảm ơn. Còn ngươi… được cất lại vào cốp.",
+       "kind": "gold",
+       "start": 42.654,
+       "end": 45.687
+      },
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 46.027,
+       "end": 47.001
+      },
+      {
+       "t": "LỐP DỰ PHÒNG.",
+       "kind": "term",
+       "start": 47.341,
+       "end": 48.112
+      }
+     ]
+    }
+   ],
+   "start": 20.063,
+   "end": 48.742
+  },
+  {
+   "name": "L2",
+   "header": "CẢNH GIỚI THỨ HAI",
+   "pages": [
+    {
+     "start": 48.782,
+     "lines": [
+      {
+       "t": "Cảnh giới thứ hai.",
+       "kind": "scroll",
+       "start": 48.782,
+       "end": 49.645
+      },
+      {
+       "t": "\"Dự Bị Thủ Tọa.\"",
+       "kind": "scroll",
+       "start": 49.985,
+       "end": 50.853
+      }
+     ]
+    },
+    {
+     "start": 51.313,
+     "lines": [
+      {
+       "t": "Ngươi tu luyện chăm chỉ. Cuối cùng cũng được thăng cấp.",
+       "kind": "narr",
+       "start": 51.313,
+       "end": 53.744
+      },
+      {
+       "t": "Nàng buồn: gọi ngươi đầu tiên.",
+       "kind": "narr",
+       "start": 54.084,
+       "end": 55.59
+      },
+      {
+       "t": "Nàng đói: gọi ngươi đầu tiên.",
+       "kind": "narr",
+       "start": 55.93,
+       "end": 57.544
+      },
+      {
+       "t": "Nàng hỏng xe giữa trời mưa: vẫn gọi ngươi đầu tiên.",
+       "kind": "narr",
+       "start": 57.884,
+       "end": 60.637
+      },
+      {
+       "t": "Nàng có người yêu mới: ngươi cũng là người đầu tiên được khoe. \"Anh xem, người yêu em đẹp trai không?\"",
+       "kind": "gold",
+       "start": 60.977,
+       "end": 66.193
+      }
+     ]
+    },
+    {
+     "start": 66.653,
+     "lines": [
+      {
+       "t": "Miệng ngươi: \"Đẹp.\"",
+       "kind": "red",
+       "start": 66.653,
+       "end": 67.577
+      },
+      {
+       "t": "Trong lòng: kinh mạch xì hơi từng chút một, như lốp cán phải đinh.",
+       "kind": "red",
+       "start": 67.917,
+       "end": 71.144
+      },
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 71.484,
+       "end": 72.457
+      },
+      {
+       "t": "LỐP TRƯỞNG.",
+       "kind": "term",
+       "start": 72.797,
+       "end": 73.313
+      },
+      {
+       "t": "Đứng đầu lớp thật. Nhưng lớp này… không bao giờ được lên lớp.",
+       "kind": "gold",
+       "start": 73.653,
+       "end": 76.709
+      }
+     ]
+    }
+   ],
+   "start": 48.742,
+   "end": 77.339
+  },
+  {
+   "name": "L3",
+   "header": "CẢNH GIỚI THỨ BA",
+   "pages": [
+    {
+     "start": 77.379,
+     "lines": [
+      {
+       "t": "Cảnh giới thứ ba.",
+       "kind": "scroll",
+       "start": 77.379,
+       "end": 78.15
+      },
+      {
+       "t": "\"Kim Luân Thượng Nhân.\"",
+       "kind": "scroll",
+       "start": 78.49,
+       "end": 79.438
+      }
+     ]
+    },
+    {
+     "start": 79.898,
+     "lines": [
+      {
+       "t": "Ngươi nghĩ: chắc tại mình chưa đủ tốt.",
+       "kind": "narr",
+       "start": 79.898,
+       "end": 81.686
+      },
+      {
+       "t": "Ngươi nâng cấp lên hàng hiệu. Đưa đón tận nơi. Bao mọi bữa. Sinh nhật tặng nước hoa. Valentine tặng túi.",
+       "kind": "narr",
+       "start": 82.026,
+       "end": 88.266
+      },
+      {
+       "t": "Tháng đó, ngươi ăn mì tôm hai mươi tám ngày.",
+       "kind": "gold",
+       "start": 88.606,
+       "end": 90.83
+      }
+     ]
+    },
+    {
+     "start": 91.29,
+     "lines": [
+      {
+       "t": "Nàng ôm chiếc túi, nhìn ngươi, nói: \"Anh tốt quá… anh như anh trai em vậy.\"",
+       "kind": "narr",
+       "start": 91.29,
+       "end": 95.524
+      },
+      {
+       "t": "Hai chữ \"anh trai\". Tu vi tụt ba tầng.",
+       "kind": "red",
+       "start": 95.864,
+       "end": 98.162
+      },
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 98.502,
+       "end": 99.476
+      },
+      {
+       "t": "MICHELIN BOY.",
+       "kind": "term",
+       "start": 99.816,
+       "end": 100.616
+      },
+      {
+       "t": "Đặt theo linh vật hãng lốp: một người làm toàn bằng lốp. Lúc nào cũng cười. Vì không còn cách nào khác.",
+       "kind": "gold",
+       "start": 100.956,
+       "end": 106.058
+      }
+     ]
+    }
+   ],
+   "start": 77.339,
+   "end": 106.688
+  },
+  {
+   "name": "L4",
+   "header": "CẢNH GIỚI THỨ TƯ",
+   "pages": [
+    {
+     "start": 106.728,
+     "lines": [
+      {
+       "t": "Cảnh giới thứ tư.",
+       "kind": "scroll",
+       "start": 106.728,
+       "end": 107.657
+      },
+      {
+       "t": "\"Tự Bơm Chân Nhân.\"",
+       "kind": "scroll",
+       "start": 107.997,
+       "end": 108.883
+      }
+     ]
+    },
+    {
+     "start": 109.343,
+     "lines": [
+      {
+       "t": "Bạn ngươi nói: \"Mày là lốp.\" Mẹ ngươi nói: \"Con là lốp.\"",
+       "kind": "narr",
+       "start": 109.343,
+       "end": 112.245
+      },
+      {
+       "t": "Con mèo nhà ngươi nhìn ngươi… cũng như nhìn một chiếc lốp.",
+       "kind": "gold",
+       "start": 112.585,
+       "end": 115.235
+      }
+     ]
+    },
+    {
+     "start": 115.695,
+     "lines": [
+      {
+       "t": "Nhưng nàng thả tim story: ngươi bơm thêm một chút hy vọng.",
+       "kind": "narr",
+       "start": 115.695,
+       "end": 118.663
+      },
+      {
+       "t": "Nàng trả lời sau sáu tiếng: bơm thêm một chút.",
+       "kind": "narr",
+       "start": 119.003,
+       "end": 121.328
+      },
+      {
+       "t": "Nàng gửi một sticker con mèo: bơm căng hết cỡ.",
+       "kind": "narr",
+       "start": 121.668,
+       "end": 124.343
+      }
+     ]
+    },
+    {
+     "start": 124.803,
+     "lines": [
+      {
+       "t": "Rồi một sáng, Facebook báo: nàng đã đính hôn.",
+       "kind": "red",
+       "start": 124.803,
+       "end": 127.45
+      },
+      {
+       "t": "Chiếc lốp căng nhất Tình Trường Giới… nổ cái bụp. Ba năm tu vi tan thành khói cao su.",
+       "kind": "red",
+       "start": 127.79,
+       "end": 132.765
+      },
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 133.105,
+       "end": 134.079
+      },
+      {
+       "t": "LỐP TỰ BƠM HƠI.",
+       "kind": "term",
+       "start": 134.419,
+       "end": 135.268
+      },
+      {
+       "t": "Không ai nhốt ngươi trong cốp. Ngươi tự chui vào. Còn tự khóa cốp lại.",
+       "kind": "gold",
+       "start": 135.608,
+       "end": 139.601
+      }
+     ]
+    }
+   ],
+   "start": 106.688,
+   "end": 140.231
+  },
+  {
+   "name": "L5",
+   "header": "CẢNH GIỚI CUỐI CÙNG",
+   "pages": [
+    {
+     "start": 140.271,
+     "lines": [
+      {
+       "t": "Cảnh giới cuối cùng.",
+       "kind": "scroll",
+       "start": 140.271,
+       "end": 141.255
+      },
+      {
+       "t": "\"Nghịch Thiên Hóa Luân.\"",
+       "kind": "scroll",
+       "start": 141.595,
+       "end": 142.59
+      }
+     ]
+    },
+    {
+     "start": 143.05,
+     "lines": [
+      {
+       "t": "Một năm sau. Mười một giờ đêm. Triệu hồi chú lại vang lên: \"Anh ngủ chưa?\"",
+       "kind": "narr",
+       "start": 143.05,
+       "end": 146.586
+      },
+      {
+       "t": "Lần này, ngươi không trả lời.",
+       "kind": "narr",
+       "start": 146.926,
+       "end": 148.406
+      },
+      {
+       "t": "Không phải vì giận. Mà vì ngươi ngủ thật. Từ mười giờ.",
+       "kind": "gold",
+       "start": 148.746,
+       "end": 151.956
+      }
+     ]
+    },
+    {
+     "start": 152.416,
+     "lines": [
+      {
+       "t": "Ngươi đi tập. Học thêm một nghề. Chơi với những người nhắn cho ngươi cả lúc vui.",
+       "kind": "narr",
+       "start": 152.416,
+       "end": 156.269
+      },
+      {
+       "t": "Ba tháng sau, nàng nhắn: \"Dạo này anh khác quá.\"",
+       "kind": "narr",
+       "start": 156.609,
+       "end": 159.131
+      },
+      {
+       "t": "Đúng. Ngươi đã là bánh chính. Của một cỗ xe khác.",
+       "kind": "gold",
+       "start": 159.471,
+       "end": 162.416
+      },
+      {
+       "t": "Người đời gọi nó là…",
+       "kind": "cue",
+       "start": 162.756,
+       "end": 163.73
+      },
+      {
+       "t": "LỐP NGHỊCH THIÊN.",
+       "kind": "term",
+       "start": 164.07,
+       "end": 164.865
+      }
+     ]
+    }
+   ],
+   "start": 140.231,
+   "end": 165.495
+  },
+  {
+   "name": "KET",
+   "header": "KẾT",
+   "pages": [
+    {
+     "start": 165.535,
+     "lines": [
+      {
+       "t": "Năm cảnh giới. Bần đạo đã soi đủ cả năm.",
+       "kind": "narr",
+       "start": 165.535,
+       "end": 167.888
+      },
+      {
+       "t": "Hạ phẩm nằm trong cốp. Trung phẩm đứng đầu hàng chờ. Thượng phẩm ăn mì tôm để mua túi.",
+       "kind": "narr",
+       "start": 168.228,
+       "end": 172.977
+      },
+      {
+       "t": "Còn cực phẩm… biết tự lăn ra khỏi cốp.",
+       "kind": "jade",
+       "start": 173.317,
+       "end": 175.577
+      }
+     ]
+    },
+    {
+     "start": 176.037,
+     "lines": [
+      {
+       "t": "Bởi \"lốp\" là một danh từ. Không phải một danh phận.",
+       "kind": "amber",
+       "start": 176.037,
+       "end": 178.612
+      },
+      {
+       "t": "Người thương ngươi thật sẽ nhắn cả lúc vui. Không chỉ lúc nổ bánh.",
+       "kind": "jade",
+       "start": 178.952,
+       "end": 182.3
+      }
+     ]
+    }
+   ],
+   "start": 165.495,
+   "end": 182.93
+  },
+  {
+   "name": "CTA",
+   "header": "THEO DÕI",
+   "pages": [
+    {
+     "start": 182.97,
+     "lines": [
+      {
+       "t": "Tag đứa bạn đang kẹt ở cảnh giới thứ tư vào đây. Nó cần được cứu. Hoặc comment xem ngươi đang ở cảnh giới mấy 👇",
+       "kind": "cta",
+       "start": 182.97,
+       "end": 188.999
+      },
+      {
+       "t": "Follow bần đạo để độ kiếp mỗi ngày.",
+       "kind": "cta",
+       "start": 189.339,
+       "end": 191.022
+      }
+     ]
+    }
+   ],
+   "start": 182.93,
+   "end": 191.652
+  }
+ ]
+}

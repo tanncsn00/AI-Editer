@@ -1,6 +1,6 @@
 ---
 name: truyen-ky-it
-description: "Công thức VIẾT SCRIPT biến kiến thức công nghệ khô khan (network, HTTP, TCP, DB, cache, queue, QA, PM, PO, DevOps...) thành truyền kỳ tu tiên giang hồ. Người xem nghe như kể chuyện mà vẫn hiểu IT. Bài toán→hỗn loạn→đại năng→pháp môn→meme→nhân quả. Pair với blueprint-tech-video để dựng hình."
+description: "Công thức VIẾT SCRIPT biến kiến thức công nghệ khô khan (network, HTTP, TCP, DB, cache, queue, QA, PM, PO, DevOps...) thành truyền kỳ tu tiên giang hồ. Người xem nghe như kể chuyện mà vẫn hiểu IT. Bài toán→hỗn loạn→đại năng→pháp môn→meme→nhân quả. Dựng hình mặc định bằng whiteboard-doodle (tay vẽ + SFX tình huống); blueprint-tech-video khi user chọn."
 ---
 
 # Truyền Kỳ Giới IT · công thức viết content vibe tu tiên
@@ -32,7 +32,7 @@ Skill này là **bộ công thức VIẾT SCRIPT** — biến kiến thức côn
 - Series Thiên Cơ Mật Ngôn (giải mã câu nói sếp/người yêu/mẹ...) → `mat-ngon-script`.
 - Comedy stick figure, POV đồ vật, reup → skill riêng.
 
-**Quan hệ:** skill này lo **CHỮ** (script). Dựng **HÌNH** dùng `blueprint-tech-video` (navy+grid+amber). Sync slide-voice dùng `feedback_video_sync_workflow`.
+**Quan hệ:** skill này lo **CHỮ** (script). Dựng **HÌNH** mặc định dùng `whiteboard-doodle` (tay vẽ + SFX tình huống); `blueprint-tech-video` (navy+grid+amber) khi user chọn. Sync slide-voice dùng `feedback_video_sync_workflow`.
 
 ---
 
@@ -265,10 +265,10 @@ Network Đạo · HTTP Đạo · TCP vs UDP · QA Đạo · PM Đạo · PO Đ�
 
 ## ⚙️ TỪ SCRIPT → VIDEO (pipeline tích hợp)
 
-1. **Viết script** theo công thức trên → user duyệt VERBATIM (rule `feedback_user_script_verbatim` · `feedback_general_approve_script`). Nếu user gửi sẵn script → dùng nguyên văn, chỉ chỉnh `text_phonetic` cho TTS.
-2. **Dựng hình** bằng `blueprint-tech-video` (navy+grid+amber, animated voice-synced).
-3. **Sync slide↔voice** BẮT BUỘC theo `feedback_video_sync_workflow` (word-timestamp beat boundary, entry offset-0, anchor chữ ĐẦU của nội dung box hiển thị).
-4. **TTS — TÁCH TỪNG BEAT** (BẮT BUỘC, không one-shot full): `tts_everai.py` per-beat → concat gap 0.3s; Adam EverAI **speed 0.95**; whisper từng beat (sạch, hết hallucination); lỗi beat nào chỉ `tts_everai.py <index>` re-gen beat đó. Rule `feedback_tts_per_beat_pipeline` · `feedback_tts_tech_phonetic` · `feedback_tts_bug_stutter`. Template scripts copy từ `projects/moigioi-dao/`.
+1. **Viết script** theo công thức trên → user duyệt VERBATIM (rule `feedback_user_script_verbatim` · `feedback_general_approve_script`). Lưu thành `projects/<slug>/script.md` — đúng nhịp #13 của skill này: **một câu = một dòng = một reveal**, emoji đầu dòng = style, dòng trống = sang trang. Format chi tiết ở `video-production-gate` GATE 1.
+2. **TTS per-LINE**: `python ../_shared/tts_lines.py <public_slug>` — EverAI **v1.6**, Adam, speed 1.0, mỗi dòng 1 clip song song → `timeline.json` timing chính xác. **Không whisper, không gen_sync.**
+3. **Dựng hình** mặc định bằng `whiteboard-doodle` (tay vẽ doodle từng nét + SFX tình huống, nền tối kênh — ref `remotion-composer/src/LopWhiteboard.tsx`). Chỉ dùng `blueprint-tech-video` khi user chọn style bản vẽ kỹ thuật (ref `PovBds.tsx`).
+4. **Nghe kiểm** dòng English + dòng bị pace flag; sửa bằng `phonetic.json`, chạy lại chỉ gen dòng đổi.
 5. **Deliverables** mỗi video: `final.mp4` + thumbnail designed + `caption.md` (rule `feedback_general_deliverables`).
 
 ---

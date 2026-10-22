@@ -1,0 +1,520 @@
+{
+ "title": "Gia Tộc Giới · Ngũ Đại Thần Chưởng Của Họ Hàng Ngày Tết",
+ "total": 165.075,
+ "beats": [
+  {
+   "name": "MODAU",
+   "header": "GIA TỘC GIỚI",
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Mùng hai Tết. Ngươi vừa gắp miếng giò.",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 2.257
+      },
+      {
+       "t": "Mười hai đôi mắt cùng quay sang.",
+       "kind": "red",
+       "start": 2.597,
+       "end": 4.071
+      },
+      {
+       "t": "Bác cả đặt chén rượu xuống. Chậm rãi.",
+       "kind": "narr",
+       "start": 4.411,
+       "end": 6.49
+      },
+      {
+       "t": "\"Cháu năm nay… bao nhiêu tuổi rồi nhỉ?\"",
+       "kind": "red",
+       "start": 6.83,
+       "end": 8.772
+      },
+      {
+       "t": "Đũa ngươi dừng giữa không trung. Miếng giò cũng biết sợ.",
+       "kind": "gold",
+       "start": 9.112,
+       "end": 11.9
+      }
+     ]
+    },
+    {
+     "start": 12.36,
+     "lines": [
+      {
+       "t": "Bởi đó mới là chiêu dạo đầu.",
+       "kind": "narr",
+       "start": 12.36,
+       "end": 13.824
+      },
+      {
+       "t": "Có chiêu khiến ngươi phải bịa ra một người yêu.",
+       "kind": "narr",
+       "start": 14.164,
+       "end": 16.215
+      },
+      {
+       "t": "Có chiêu khiến ngươi thua một đứa chưa từng gặp suốt hai mươi năm.",
+       "kind": "narr",
+       "start": 16.555,
+       "end": 19.369
+      },
+      {
+       "t": "Và có chiêu… lấy sạch tiền thưởng cả năm của ngươi trong một buổi sáng.",
+       "kind": "narr",
+       "start": 19.709,
+       "end": 23.489
+      },
+      {
+       "t": "Ngũ Đại Thần Chưởng của họ hàng ngày Tết.",
+       "kind": "jade",
+       "start": 23.829,
+       "end": 25.464
+      },
+      {
+       "t": "Xem năm nay ngươi đỡ được mấy chiêu.",
+       "kind": "amber",
+       "start": 25.804,
+       "end": 27.629
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 28.259
+  },
+  {
+   "name": "C1",
+   "header": "CHIÊU THỨ NHẤT",
+   "pages": [
+    {
+     "start": 28.299,
+     "lines": [
+      {
+       "t": "Chiêu thứ nhất.",
+       "kind": "scroll",
+       "start": 28.299,
+       "end": 28.879
+      },
+      {
+       "t": "\"Thúc Hôn Liên Hoàn Chưởng.\"",
+       "kind": "scroll",
+       "start": 29.219,
+       "end": 30.419
+      }
+     ]
+    },
+    {
+     "start": 30.879,
+     "lines": [
+      {
+       "t": "\"Có người yêu chưa?\" Ngươi nói chưa. \"Kén vừa thôi.\"",
+       "kind": "narr",
+       "start": 30.879,
+       "end": 33.704
+      },
+      {
+       "t": "Ngươi có người yêu. \"Bao giờ cưới?\"",
+       "kind": "narr",
+       "start": 34.044,
+       "end": 35.841
+      },
+      {
+       "t": "Ngươi cưới. \"Bao giờ đẻ?\"",
+       "kind": "narr",
+       "start": 36.181,
+       "end": 37.702
+      },
+      {
+       "t": "Ngươi đẻ. \"Bao giờ đẻ đứa nữa?\"",
+       "kind": "narr",
+       "start": 38.042,
+       "end": 39.683
+      },
+      {
+       "t": "Ngươi đẻ đứa nữa. \"Sao không cố đứa con trai?\"",
+       "kind": "gold",
+       "start": 40.023,
+       "end": 42.426
+      },
+      {
+       "t": "Chiêu này không có đáp án. Chỉ có câu tiếp theo.",
+       "kind": "red",
+       "start": 42.766,
+       "end": 45.297
+      }
+     ]
+    },
+    {
+     "start": 45.757,
+     "lines": [
+      {
+       "t": "Miệng ngươi: \"Dạ. Năm sau ạ.\"",
+       "kind": "red",
+       "start": 45.757,
+       "end": 47.411
+      },
+      {
+       "t": "Trong lòng: kinh mạch thắt nút như dây lạt gói bánh chưng.",
+       "kind": "red",
+       "start": 47.751,
+       "end": 50.519
+      }
+     ]
+    }
+   ],
+   "start": 28.259,
+   "end": 51.149
+  },
+  {
+   "name": "C2",
+   "header": "CHIÊU THỨ HAI",
+   "pages": [
+    {
+     "start": 51.189,
+     "lines": [
+      {
+       "t": "Chiêu thứ hai.",
+       "kind": "scroll",
+       "start": 51.189,
+       "end": 51.89
+      },
+      {
+       "t": "\"Thiên Nhãn Tra Lương.\"",
+       "kind": "scroll",
+       "start": 52.23,
+       "end": 53.176
+      }
+     ]
+    },
+    {
+     "start": 53.636,
+     "lines": [
+      {
+       "t": "\"Thế giờ lương được bao nhiêu?\"",
+       "kind": "narr",
+       "start": 53.636,
+       "end": 54.855
+      },
+      {
+       "t": "Ngươi nói thấp: \"Thế thì về quê cho xong.\"",
+       "kind": "narr",
+       "start": 55.195,
+       "end": 57.024
+      },
+      {
+       "t": "Ngươi nói cao: \"Thế cho bác vay ít.\"",
+       "kind": "narr",
+       "start": 57.364,
+       "end": 59.173
+      },
+      {
+       "t": "Ngươi nói: \"Cũng đủ sống ạ.\" — \"Đủ là bao nhiêu?\"",
+       "kind": "gold",
+       "start": 59.513,
+       "end": 61.692
+      },
+      {
+       "t": "Không có đường lui. Chiêu này khóa cả ba ngả.",
+       "kind": "red",
+       "start": 62.032,
+       "end": 64.45
+      },
+      {
+       "t": "Chiều hôm đó, cả họ biết lương ngươi. Trước cả mẹ ngươi.",
+       "kind": "gold",
+       "start": 64.79,
+       "end": 67.896
+      }
+     ]
+    }
+   ],
+   "start": 51.149,
+   "end": 68.526
+  },
+  {
+   "name": "C3",
+   "header": "CHIÊU THỨ BA",
+   "pages": [
+    {
+     "start": 68.566,
+     "lines": [
+      {
+       "t": "Chiêu thứ ba.",
+       "kind": "scroll",
+       "start": 68.566,
+       "end": 69.267
+      },
+      {
+       "t": "\"Biệt Nhân Gia Tử Đại Pháp.\"",
+       "kind": "scroll",
+       "start": 69.607,
+       "end": 70.79
+      }
+     ]
+    },
+    {
+     "start": 71.25,
+     "lines": [
+      {
+       "t": "\"Con nhà bác Tư đấy. Thủ khoa. Lương nghìn đô. Vừa mua nhà.\"",
+       "kind": "narr",
+       "start": 71.25,
+       "end": 74.347
+      },
+      {
+       "t": "Hai mươi năm nay, ngươi chưa từng gặp nó.",
+       "kind": "narr",
+       "start": 74.687,
+       "end": 76.742
+      },
+      {
+       "t": "Nhưng ngươi đã thua nó hai mươi năm.",
+       "kind": "red",
+       "start": 77.082,
+       "end": 78.571
+      }
+     ]
+    },
+    {
+     "start": 79.031,
+     "lines": [
+      {
+       "t": "Tết năm nay, cuối cùng ngươi cũng gặp nó. Ở góc sân.",
+       "kind": "narr",
+       "start": 79.031,
+       "end": 82.084
+      },
+      {
+       "t": "Ngươi nhìn nó. Nó nhìn ngươi.",
+       "kind": "narr",
+       "start": 82.424,
+       "end": 83.979
+      },
+      {
+       "t": "Rồi bác Tư quay sang nó: \"Nhìn anh kia kìa. Học người ta đi.\"",
+       "kind": "gold",
+       "start": 84.319,
+       "end": 87.764
+      },
+      {
+       "t": "Hóa ra… ngươi cũng là \"con nhà người ta\". Của một nhà khác.",
+       "kind": "jade",
+       "start": 88.104,
+       "end": 91.231
+      }
+     ]
+    }
+   ],
+   "start": 68.526,
+   "end": 91.861
+  },
+  {
+   "name": "C4",
+   "header": "CHIÊU THỨ TƯ",
+   "pages": [
+    {
+     "start": 91.901,
+     "lines": [
+      {
+       "t": "Chiêu thứ tư.",
+       "kind": "scroll",
+       "start": 91.901,
+       "end": 92.613
+      },
+      {
+       "t": "\"Âm Dương Hình Thể Quyết.\"",
+       "kind": "scroll",
+       "start": 92.953,
+       "end": 93.963
+      }
+     ]
+    },
+    {
+     "start": 94.423,
+     "lines": [
+      {
+       "t": "Mùng một. Bà nhìn ngươi: \"Sao gầy thế con? Ăn đi.\"",
+       "kind": "narr",
+       "start": 94.423,
+       "end": 97.249
+      },
+      {
+       "t": "Bà gắp. Bác gắp. Dì gắp. Bát ngươi thành núi Thái Sơn.",
+       "kind": "narr",
+       "start": 97.589,
+       "end": 100.762
+      },
+      {
+       "t": "Mùng bốn. Vẫn bà ấy. Vẫn nhìn ngươi ấy: \"Ơ, béo lên nhỉ.\"",
+       "kind": "gold",
+       "start": 101.102,
+       "end": 104.605
+      },
+      {
+       "t": "Cùng một người. Cùng một cái Tết. Ba ngày, ngươi đi hết cả âm lẫn dương.",
+       "kind": "red",
+       "start": 104.945,
+       "end": 108.689
+      }
+     ]
+    }
+   ],
+   "start": 91.861,
+   "end": 109.319
+  },
+  {
+   "name": "C5",
+   "header": "CHIÊU CUỐI CÙNG",
+   "pages": [
+    {
+     "start": 109.359,
+     "lines": [
+      {
+       "t": "Chiêu cuối cùng. Nhưng tàn độc nhất.",
+       "kind": "scroll",
+       "start": 109.359,
+       "end": 111.343
+      },
+      {
+       "t": "\"Nhân Quả Hồng Bao Trận.\"",
+       "kind": "scroll",
+       "start": 111.683,
+       "end": 112.719
+      }
+     ]
+    },
+    {
+     "start": 113.179,
+     "lines": [
+      {
+       "t": "Ngày xưa, ngươi khoanh tay: \"Con chúc bác năm mới…\" Rồi chìa tay ra nhận.",
+       "kind": "narr",
+       "start": 113.179,
+       "end": 116.993
+      },
+      {
+       "t": "Năm nay, ngươi đi làm rồi.",
+       "kind": "narr",
+       "start": 117.333,
+       "end": 118.759
+      }
+     ]
+    },
+    {
+     "start": 119.219,
+     "lines": [
+      {
+       "t": "Ngươi vừa bước vào cổng. Ba mươi đứa trẻ đã xếp hàng.",
+       "kind": "red",
+       "start": 119.219,
+       "end": 121.819
+      },
+      {
+       "t": "Đứa thứ hai mươi chín ngươi chưa gặp bao giờ. Nó bảo nó là cháu của chồng của em họ của dì ngươi.",
+       "kind": "gold",
+       "start": 122.159,
+       "end": 127.051
+      },
+      {
+       "t": "Mười phút. Một năm tiền thưởng. Tan thành giấy đỏ.",
+       "kind": "red",
+       "start": 127.391,
+       "end": 129.606
+      },
+      {
+       "t": "Ngày xưa ngươi nhận. Hôm nay ngươi trả. Đó gọi là… nhân quả.",
+       "kind": "jade",
+       "start": 129.946,
+       "end": 133.54
+      }
+     ]
+    }
+   ],
+   "start": 109.319,
+   "end": 134.17
+  },
+  {
+   "name": "KET",
+   "header": "KẾT",
+   "pages": [
+    {
+     "start": 134.21,
+     "lines": [
+      {
+       "t": "Năm chiêu. Bần đạo đã chỉ đủ cả năm.",
+       "kind": "narr",
+       "start": 134.21,
+       "end": 135.777
+      },
+      {
+       "t": "Hạ phẩm trốn trong bếp rửa bát. Trung phẩm bịa ra một người yêu. Thượng phẩm hỏi ngược: \"Thế bác dạo này lương bao nhiêu?\"",
+       "kind": "narr",
+       "start": 136.117,
+       "end": 142.363
+      },
+      {
+       "t": "Còn cực phẩm… cười, gắp thêm miếng giò: \"Dạ. Năm sau ạ.\"",
+       "kind": "jade",
+       "start": 142.703,
+       "end": 146.167
+      }
+     ]
+    },
+    {
+     "start": 146.627,
+     "lines": [
+      {
+       "t": "Bởi họ hàng một năm gặp ngươi đúng một lần. Họ không biết hỏi gì khác.",
+       "kind": "amber",
+       "start": 146.627,
+       "end": 149.809
+      },
+      {
+       "t": "Họ không cần đáp án. Họ chỉ cần ngươi về.",
+       "kind": "jade",
+       "start": 150.149,
+       "end": 152.519
+      }
+     ]
+    }
+   ],
+   "start": 134.17,
+   "end": 153.149
+  },
+  {
+   "name": "CTA",
+   "header": "THEO DÕI",
+   "pages": [
+    {
+     "start": 153.189,
+     "lines": [
+      {
+       "t": "Comment câu họ hàng hay hỏi ngươi nhất. Hoặc tag đứa năm nay chắc chắn dính chiêu thứ nhất 👇",
+       "kind": "cta",
+       "start": 153.189,
+       "end": 157.435
+      },
+      {
+       "t": "Follow bần đạo, Tết này đỡ được chiêu nào hay chiêu đó.",
+       "kind": "cta",
+       "start": 157.775,
+       "end": 160.515
+      },
+      {
+       "t": "Còn bây giờ… bác cả đang hỏi kìa: \"Cháu năm nay bao nhiêu tuổi rồi nhỉ?\"",
+       "kind": "gold",
+       "start": 160.855,
+       "end": 164.445
+      }
+     ]
+    }
+   ],
+   "start": 153.149,
+   "end": 165.075
+  }
+ ]
+}
