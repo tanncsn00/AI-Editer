@@ -1,0 +1,37 @@
+- generic [active] [ref=f5e1]:
+  - generic [ref=f5e2]:
+    - button [ref=f5e3] [cursor=pointer]
+    - group "Đổi ngôn ngữ" [ref=f5e10]:
+      - link "🇻🇳 VI" [ref=f5e11] [cursor=pointer]:
+        - /url: /login
+      - link "🇬🇧 EN" [ref=f5e12] [cursor=pointer]:
+        - /url: /en/login
+  - generic [ref=f5e13]:
+    - link [ref=f5e14] [cursor=pointer]:
+      - /url: /
+      - img "everai logo" [ref=f5e15]
+    - generic [ref=f5e20]:
+      - generic [ref=f5e21]: Đăng nhập
+      - paragraph [ref=f5e23]: Chào mừng bạn đến với EverAI
+      - generic [ref=f5e24]:
+        - generic [ref=f5e25]:
+          - generic [ref=f5e26]: Email*
+          - textbox "Email*" [ref=f5e28]:
+            - /placeholder: Địa chỉ email
+        - generic [ref=f5e29]:
+          - generic [ref=f5e30]:
+            - generic [ref=f5e31]: Mật khẩu*
+            - link "Quên mật khẩu?" [ref=f5e32] [cursor=pointer]:
+              - /url: /accounts/password/reset/
+          - textbox "Mật khẩu*" [ref=f5e34]:
+            - /placeholder: Mật khẩu
+        - generic [ref=f5e36]:
+          - checkbox "Giữ đăng nhập" [checked] [ref=f5e37]
+          - generic [ref=f5e38]: Giữ đăng nhập
+        - button "Đăng nhập" [ref=f5e40]
+        - generic [ref=f5e42]:
+          - generic [ref=f5e43]: Chưa có tài khoản?
+          - link "Đăng ký ngay" [ref=f5e44] [cursor=pointer]:
+            - /url: /sign-up
+      - generic [ref=f5e45]: Hoặc
+      - button "Đăng nhập với Google" [ref=f5e51]

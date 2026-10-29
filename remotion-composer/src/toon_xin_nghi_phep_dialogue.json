@@ -1,0 +1,2048 @@
+{
+ "title": "Xin nghỉ phép",
+ "total": 54.523,
+ "items": [
+  {
+   "kind": "pause",
+   "start": 0.25,
+   "end": 0.65
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Bà ngoại em ốm… Không. Bà nội em ốm… Không, bà nội ốm rồi.",
+   "start": 0.69,
+   "end": 4.76,
+   "mouth": [
+    {
+     "start": 0.65,
+     "end": 0.66,
+     "value": "X"
+    },
+    {
+     "start": 0.66,
+     "end": 0.7,
+     "value": "B"
+    },
+    {
+     "start": 0.7,
+     "end": 0.81,
+     "value": "C"
+    },
+    {
+     "start": 0.81,
+     "end": 0.88,
+     "value": "E"
+    },
+    {
+     "start": 0.88,
+     "end": 0.95,
+     "value": "C"
+    },
+    {
+     "start": 0.95,
+     "end": 1.02,
+     "value": "B"
+    },
+    {
+     "start": 1.02,
+     "end": 1.09,
+     "value": "C"
+    },
+    {
+     "start": 1.09,
+     "end": 1.17,
+     "value": "A"
+    },
+    {
+     "start": 1.17,
+     "end": 1.34,
+     "value": "E"
+    },
+    {
+     "start": 1.34,
+     "end": 1.6,
+     "value": "A"
+    },
+    {
+     "start": 1.6,
+     "end": 1.79,
+     "value": "E"
+    },
+    {
+     "start": 1.79,
+     "end": 2.0,
+     "value": "F"
+    },
+    {
+     "start": 2.0,
+     "end": 2.21,
+     "value": "X"
+    },
+    {
+     "start": 2.21,
+     "end": 2.28,
+     "value": "B"
+    },
+    {
+     "start": 2.28,
+     "end": 2.35,
+     "value": "C"
+    },
+    {
+     "start": 2.35,
+     "end": 2.43,
+     "value": "A"
+    },
+    {
+     "start": 2.43,
+     "end": 2.54,
+     "value": "E"
+    },
+    {
+     "start": 2.54,
+     "end": 2.68,
+     "value": "C"
+    },
+    {
+     "start": 2.68,
+     "end": 2.76,
+     "value": "A"
+    },
+    {
+     "start": 2.76,
+     "end": 2.92,
+     "value": "E"
+    },
+    {
+     "start": 2.92,
+     "end": 3.37,
+     "value": "A"
+    },
+    {
+     "start": 3.37,
+     "end": 3.57,
+     "value": "E"
+    },
+    {
+     "start": 3.57,
+     "end": 3.85,
+     "value": "F"
+    },
+    {
+     "start": 3.85,
+     "end": 3.93,
+     "value": "A"
+    },
+    {
+     "start": 3.93,
+     "end": 4.03,
+     "value": "C"
+    },
+    {
+     "start": 4.03,
+     "end": 4.11,
+     "value": "A"
+    },
+    {
+     "start": 4.11,
+     "end": 4.3,
+     "value": "E"
+    },
+    {
+     "start": 4.3,
+     "end": 4.37,
+     "value": "F"
+    },
+    {
+     "start": 4.37,
+     "end": 4.45,
+     "value": "A"
+    },
+    {
+     "start": 4.45,
+     "end": 4.52,
+     "value": "B"
+    },
+    {
+     "start": 4.52,
+     "end": 4.66,
+     "value": "E"
+    },
+    {
+     "start": 4.66,
+     "end": 4.8,
+     "value": "B"
+    },
+    {
+     "start": 4.8,
+     "end": 4.84,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Bà ngoại. Chốt.",
+   "start": 5.13,
+   "end": 5.744,
+   "mouth": [
+    {
+     "start": 5.09,
+     "end": 5.1,
+     "value": "X"
+    },
+    {
+     "start": 5.1,
+     "end": 5.14,
+     "value": "B"
+    },
+    {
+     "start": 5.14,
+     "end": 5.15,
+     "value": "X"
+    },
+    {
+     "start": 5.15,
+     "end": 5.19,
+     "value": "A"
+    },
+    {
+     "start": 5.19,
+     "end": 5.29,
+     "value": "C"
+    },
+    {
+     "start": 5.29,
+     "end": 5.36,
+     "value": "F"
+    },
+    {
+     "start": 5.36,
+     "end": 5.43,
+     "value": "C"
+    },
+    {
+     "start": 5.43,
+     "end": 5.5,
+     "value": "B"
+    },
+    {
+     "start": 5.5,
+     "end": 5.64,
+     "value": "E"
+    },
+    {
+     "start": 5.64,
+     "end": 5.71,
+     "value": "F"
+    },
+    {
+     "start": 5.71,
+     "end": 5.78,
+     "value": "B"
+    },
+    {
+     "start": 5.78,
+     "end": 5.82,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 5.824,
+   "end": 6.424
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Anh ơi, mai em xin nghỉ một hôm. Bà ngoại em ốm.",
+   "start": 6.464,
+   "end": 9.339,
+   "mouth": [
+    {
+     "start": 6.424,
+     "end": 6.434,
+     "value": "X"
+    },
+    {
+     "start": 6.434,
+     "end": 6.524,
+     "value": "B"
+    },
+    {
+     "start": 6.524,
+     "end": 6.734,
+     "value": "E"
+    },
+    {
+     "start": 6.734,
+     "end": 7.044,
+     "value": "B"
+    },
+    {
+     "start": 7.044,
+     "end": 7.144,
+     "value": "A"
+    },
+    {
+     "start": 7.144,
+     "end": 7.244,
+     "value": "C"
+    },
+    {
+     "start": 7.244,
+     "end": 7.314,
+     "value": "B"
+    },
+    {
+     "start": 7.314,
+     "end": 7.384,
+     "value": "C"
+    },
+    {
+     "start": 7.384,
+     "end": 7.464,
+     "value": "A"
+    },
+    {
+     "start": 7.464,
+     "end": 7.764,
+     "value": "B"
+    },
+    {
+     "start": 7.764,
+     "end": 7.824,
+     "value": "A"
+    },
+    {
+     "start": 7.824,
+     "end": 7.884,
+     "value": "F"
+    },
+    {
+     "start": 7.884,
+     "end": 7.944,
+     "value": "A"
+    },
+    {
+     "start": 7.944,
+     "end": 8.114,
+     "value": "E"
+    },
+    {
+     "start": 8.114,
+     "end": 8.184,
+     "value": "F"
+    },
+    {
+     "start": 8.184,
+     "end": 8.294,
+     "value": "A"
+    },
+    {
+     "start": 8.294,
+     "end": 8.394,
+     "value": "B"
+    },
+    {
+     "start": 8.394,
+     "end": 8.484,
+     "value": "A"
+    },
+    {
+     "start": 8.484,
+     "end": 8.624,
+     "value": "C"
+    },
+    {
+     "start": 8.624,
+     "end": 8.764,
+     "value": "E"
+    },
+    {
+     "start": 8.764,
+     "end": 8.834,
+     "value": "B"
+    },
+    {
+     "start": 8.834,
+     "end": 8.974,
+     "value": "C"
+    },
+    {
+     "start": 8.974,
+     "end": 9.054,
+     "value": "A"
+    },
+    {
+     "start": 9.054,
+     "end": 9.144,
+     "value": "E"
+    },
+    {
+     "start": 9.144,
+     "end": 9.214,
+     "value": "F"
+    },
+    {
+     "start": 9.214,
+     "end": 9.294,
+     "value": "A"
+    },
+    {
+     "start": 9.294,
+     "end": 9.374,
+     "value": "B"
+    },
+    {
+     "start": 9.374,
+     "end": 9.414,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Ừ. Bà ngoại nào?",
+   "start": 9.709,
+   "end": 10.821,
+   "mouth": [
+    {
+     "start": 9.669,
+     "end": 9.679,
+     "value": "X"
+    },
+    {
+     "start": 9.679,
+     "end": 9.729,
+     "value": "B"
+    },
+    {
+     "start": 9.729,
+     "end": 9.909,
+     "value": "C"
+    },
+    {
+     "start": 9.909,
+     "end": 10.119,
+     "value": "B"
+    },
+    {
+     "start": 10.119,
+     "end": 10.199,
+     "value": "A"
+    },
+    {
+     "start": 10.199,
+     "end": 10.349,
+     "value": "C"
+    },
+    {
+     "start": 10.349,
+     "end": 10.429,
+     "value": "A"
+    },
+    {
+     "start": 10.429,
+     "end": 10.469,
+     "value": "C"
+    },
+    {
+     "start": 10.469,
+     "end": 10.509,
+     "value": "B"
+    },
+    {
+     "start": 10.509,
+     "end": 10.649,
+     "value": "C"
+    },
+    {
+     "start": 10.649,
+     "end": 10.789,
+     "value": "E"
+    },
+    {
+     "start": 10.789,
+     "end": 10.859,
+     "value": "B"
+    },
+    {
+     "start": 10.859,
+     "end": 10.899,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Dạ… bà ngoại em ạ.",
+   "start": 11.191,
+   "end": 12.441,
+   "mouth": [
+    {
+     "start": 11.151,
+     "end": 11.161,
+     "value": "X"
+    },
+    {
+     "start": 11.161,
+     "end": 11.291,
+     "value": "B"
+    },
+    {
+     "start": 11.291,
+     "end": 11.431,
+     "value": "C"
+    },
+    {
+     "start": 11.431,
+     "end": 11.571,
+     "value": "B"
+    },
+    {
+     "start": 11.571,
+     "end": 11.691,
+     "value": "A"
+    },
+    {
+     "start": 11.691,
+     "end": 11.811,
+     "value": "C"
+    },
+    {
+     "start": 11.811,
+     "end": 11.951,
+     "value": "E"
+    },
+    {
+     "start": 11.951,
+     "end": 12.021,
+     "value": "F"
+    },
+    {
+     "start": 12.021,
+     "end": 12.091,
+     "value": "C"
+    },
+    {
+     "start": 12.091,
+     "end": 12.231,
+     "value": "B"
+    },
+    {
+     "start": 12.231,
+     "end": 12.331,
+     "value": "A"
+    },
+    {
+     "start": 12.331,
+     "end": 12.411,
+     "value": "C"
+    },
+    {
+     "start": 12.411,
+     "end": 12.481,
+     "value": "B"
+    },
+    {
+     "start": 12.481,
+     "end": 12.521,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Để anh xem.",
+   "start": 12.811,
+   "end": 13.465,
+   "mouth": [
+    {
+     "start": 12.771,
+     "end": 12.781,
+     "value": "X"
+    },
+    {
+     "start": 12.781,
+     "end": 12.821,
+     "value": "B"
+    },
+    {
+     "start": 12.821,
+     "end": 12.861,
+     "value": "H"
+    },
+    {
+     "start": 12.861,
+     "end": 13.071,
+     "value": "C"
+    },
+    {
+     "start": 13.071,
+     "end": 13.211,
+     "value": "B"
+    },
+    {
+     "start": 13.211,
+     "end": 13.351,
+     "value": "C"
+    },
+    {
+     "start": 13.351,
+     "end": 13.511,
+     "value": "A"
+    },
+    {
+     "start": 13.511,
+     "end": 13.541,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 13.545,
+   "end": 14.045
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Tháng ba. Bà ngoại ốm.",
+   "start": 14.085,
+   "end": 15.514,
+   "mouth": [
+    {
+     "start": 14.045,
+     "end": 14.055,
+     "value": "X"
+    },
+    {
+     "start": 14.055,
+     "end": 14.145,
+     "value": "B"
+    },
+    {
+     "start": 14.145,
+     "end": 14.215,
+     "value": "C"
+    },
+    {
+     "start": 14.215,
+     "end": 14.295,
+     "value": "A"
+    },
+    {
+     "start": 14.295,
+     "end": 14.575,
+     "value": "C"
+    },
+    {
+     "start": 14.575,
+     "end": 14.745,
+     "value": "B"
+    },
+    {
+     "start": 14.745,
+     "end": 14.825,
+     "value": "A"
+    },
+    {
+     "start": 14.825,
+     "end": 14.885,
+     "value": "C"
+    },
+    {
+     "start": 14.885,
+     "end": 14.935,
+     "value": "E"
+    },
+    {
+     "start": 14.935,
+     "end": 15.005,
+     "value": "C"
+    },
+    {
+     "start": 15.005,
+     "end": 15.075,
+     "value": "F"
+    },
+    {
+     "start": 15.075,
+     "end": 15.215,
+     "value": "C"
+    },
+    {
+     "start": 15.215,
+     "end": 15.355,
+     "value": "H"
+    },
+    {
+     "start": 15.355,
+     "end": 15.545,
+     "value": "A"
+    },
+    {
+     "start": 15.545,
+     "end": 15.585,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Tháng sáu. Bà ngoại nhập viện.",
+   "start": 15.884,
+   "end": 17.532,
+   "mouth": [
+    {
+     "start": 15.844,
+     "end": 15.854,
+     "value": "X"
+    },
+    {
+     "start": 15.854,
+     "end": 15.904,
+     "value": "B"
+    },
+    {
+     "start": 15.904,
+     "end": 15.944,
+     "value": "C"
+    },
+    {
+     "start": 15.944,
+     "end": 16.154,
+     "value": "B"
+    },
+    {
+     "start": 16.154,
+     "end": 16.224,
+     "value": "C"
+    },
+    {
+     "start": 16.224,
+     "end": 16.364,
+     "value": "E"
+    },
+    {
+     "start": 16.364,
+     "end": 16.504,
+     "value": "B"
+    },
+    {
+     "start": 16.504,
+     "end": 16.644,
+     "value": "X"
+    },
+    {
+     "start": 16.644,
+     "end": 16.724,
+     "value": "B"
+    },
+    {
+     "start": 16.724,
+     "end": 16.794,
+     "value": "A"
+    },
+    {
+     "start": 16.794,
+     "end": 16.864,
+     "value": "C"
+    },
+    {
+     "start": 16.864,
+     "end": 16.934,
+     "value": "E"
+    },
+    {
+     "start": 16.934,
+     "end": 17.004,
+     "value": "F"
+    },
+    {
+     "start": 17.004,
+     "end": 17.074,
+     "value": "C"
+    },
+    {
+     "start": 17.074,
+     "end": 17.214,
+     "value": "B"
+    },
+    {
+     "start": 17.214,
+     "end": 17.294,
+     "value": "A"
+    },
+    {
+     "start": 17.294,
+     "end": 17.494,
+     "value": "B"
+    },
+    {
+     "start": 17.494,
+     "end": 17.564,
+     "value": "C"
+    },
+    {
+     "start": 17.564,
+     "end": 17.604,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Tháng tám. Đám tang bà ngoại.",
+   "start": 17.902,
+   "end": 19.579,
+   "mouth": [
+    {
+     "start": 17.862,
+     "end": 17.932,
+     "value": "B"
+    },
+    {
+     "start": 17.932,
+     "end": 18.002,
+     "value": "C"
+    },
+    {
+     "start": 18.002,
+     "end": 18.082,
+     "value": "A"
+    },
+    {
+     "start": 18.082,
+     "end": 18.292,
+     "value": "C"
+    },
+    {
+     "start": 18.292,
+     "end": 18.382,
+     "value": "A"
+    },
+    {
+     "start": 18.382,
+     "end": 18.462,
+     "value": "B"
+    },
+    {
+     "start": 18.462,
+     "end": 18.592,
+     "value": "X"
+    },
+    {
+     "start": 18.592,
+     "end": 18.672,
+     "value": "B"
+    },
+    {
+     "start": 18.672,
+     "end": 18.752,
+     "value": "A"
+    },
+    {
+     "start": 18.752,
+     "end": 18.822,
+     "value": "C"
+    },
+    {
+     "start": 18.822,
+     "end": 18.912,
+     "value": "A"
+    },
+    {
+     "start": 18.912,
+     "end": 19.062,
+     "value": "C"
+    },
+    {
+     "start": 19.062,
+     "end": 19.142,
+     "value": "A"
+    },
+    {
+     "start": 19.142,
+     "end": 19.262,
+     "value": "C"
+    },
+    {
+     "start": 19.262,
+     "end": 19.332,
+     "value": "E"
+    },
+    {
+     "start": 19.332,
+     "end": 19.402,
+     "value": "F"
+    },
+    {
+     "start": 19.402,
+     "end": 19.472,
+     "value": "C"
+    },
+    {
+     "start": 19.472,
+     "end": 19.612,
+     "value": "B"
+    },
+    {
+     "start": 19.612,
+     "end": 19.652,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 19.659,
+   "end": 21.159
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Dạ… bà ngoại bên vợ ạ.",
+   "start": 21.199,
+   "end": 22.514,
+   "mouth": [
+    {
+     "start": 21.159,
+     "end": 21.169,
+     "value": "X"
+    },
+    {
+     "start": 21.169,
+     "end": 21.269,
+     "value": "B"
+    },
+    {
+     "start": 21.269,
+     "end": 21.409,
+     "value": "C"
+    },
+    {
+     "start": 21.409,
+     "end": 21.509,
+     "value": "A"
+    },
+    {
+     "start": 21.509,
+     "end": 21.829,
+     "value": "C"
+    },
+    {
+     "start": 21.829,
+     "end": 21.899,
+     "value": "F"
+    },
+    {
+     "start": 21.899,
+     "end": 21.979,
+     "value": "A"
+    },
+    {
+     "start": 21.979,
+     "end": 22.129,
+     "value": "B"
+    },
+    {
+     "start": 22.129,
+     "end": 22.199,
+     "value": "G"
+    },
+    {
+     "start": 22.199,
+     "end": 22.339,
+     "value": "F"
+    },
+    {
+     "start": 22.339,
+     "end": 22.479,
+     "value": "C"
+    },
+    {
+     "start": 22.479,
+     "end": 22.549,
+     "value": "B"
+    },
+    {
+     "start": 22.549,
+     "end": 22.589,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Em chưa có vợ.",
+   "start": 22.884,
+   "end": 23.719,
+   "mouth": [
+    {
+     "start": 22.844,
+     "end": 22.904,
+     "value": "B"
+    },
+    {
+     "start": 22.904,
+     "end": 22.954,
+     "value": "C"
+    },
+    {
+     "start": 22.954,
+     "end": 23.094,
+     "value": "F"
+    },
+    {
+     "start": 23.094,
+     "end": 23.304,
+     "value": "E"
+    },
+    {
+     "start": 23.304,
+     "end": 23.384,
+     "value": "A"
+    },
+    {
+     "start": 23.384,
+     "end": 23.464,
+     "value": "E"
+    },
+    {
+     "start": 23.464,
+     "end": 23.534,
+     "value": "F"
+    },
+    {
+     "start": 23.534,
+     "end": 23.604,
+     "value": "H"
+    },
+    {
+     "start": 23.604,
+     "end": 23.744,
+     "value": "C"
+    },
+    {
+     "start": 23.744,
+     "end": 23.794,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Thế nên em mới phải nghỉ… đi xem mắt ạ.",
+   "start": 24.089,
+   "end": 26.433,
+   "mouth": [
+    {
+     "start": 24.049,
+     "end": 24.059,
+     "value": "X"
+    },
+    {
+     "start": 24.059,
+     "end": 24.229,
+     "value": "B"
+    },
+    {
+     "start": 24.229,
+     "end": 24.299,
+     "value": "C"
+    },
+    {
+     "start": 24.299,
+     "end": 24.369,
+     "value": "B"
+    },
+    {
+     "start": 24.369,
+     "end": 24.579,
+     "value": "C"
+    },
+    {
+     "start": 24.579,
+     "end": 24.659,
+     "value": "A"
+    },
+    {
+     "start": 24.659,
+     "end": 24.709,
+     "value": "E"
+    },
+    {
+     "start": 24.709,
+     "end": 24.759,
+     "value": "B"
+    },
+    {
+     "start": 24.759,
+     "end": 24.829,
+     "value": "G"
+    },
+    {
+     "start": 24.829,
+     "end": 24.899,
+     "value": "C"
+    },
+    {
+     "start": 24.899,
+     "end": 25.319,
+     "value": "B"
+    },
+    {
+     "start": 25.319,
+     "end": 25.699,
+     "value": "X"
+    },
+    {
+     "start": 25.699,
+     "end": 25.969,
+     "value": "B"
+    },
+    {
+     "start": 25.969,
+     "end": 26.069,
+     "value": "C"
+    },
+    {
+     "start": 26.069,
+     "end": 26.089,
+     "value": "A"
+    },
+    {
+     "start": 26.089,
+     "end": 26.169,
+     "value": "D"
+    },
+    {
+     "start": 26.169,
+     "end": 26.279,
+     "value": "A"
+    },
+    {
+     "start": 26.279,
+     "end": 26.469,
+     "value": "B"
+    },
+    {
+     "start": 26.469,
+     "end": 26.509,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Xem mắt ở đâu?",
+   "start": 26.803,
+   "end": 27.605,
+   "mouth": [
+    {
+     "start": 26.763,
+     "end": 26.933,
+     "value": "B"
+    },
+    {
+     "start": 26.933,
+     "end": 27.003,
+     "value": "C"
+    },
+    {
+     "start": 27.003,
+     "end": 27.193,
+     "value": "A"
+    },
+    {
+     "start": 27.193,
+     "end": 27.293,
+     "value": "C"
+    },
+    {
+     "start": 27.293,
+     "end": 27.363,
+     "value": "B"
+    },
+    {
+     "start": 27.363,
+     "end": 27.503,
+     "value": "E"
+    },
+    {
+     "start": 27.503,
+     "end": 27.573,
+     "value": "F"
+    },
+    {
+     "start": 27.573,
+     "end": 27.643,
+     "value": "B"
+    },
+    {
+     "start": 27.643,
+     "end": 27.683,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Dạ… ở Đà Lạt ạ.",
+   "start": 27.975,
+   "end": 28.979,
+   "mouth": [
+    {
+     "start": 27.935,
+     "end": 28.045,
+     "value": "B"
+    },
+    {
+     "start": 28.045,
+     "end": 28.185,
+     "value": "C"
+    },
+    {
+     "start": 28.185,
+     "end": 28.325,
+     "value": "B"
+    },
+    {
+     "start": 28.325,
+     "end": 28.395,
+     "value": "E"
+    },
+    {
+     "start": 28.395,
+     "end": 28.465,
+     "value": "B"
+    },
+    {
+     "start": 28.465,
+     "end": 28.605,
+     "value": "C"
+    },
+    {
+     "start": 28.605,
+     "end": 28.675,
+     "value": "H"
+    },
+    {
+     "start": 28.675,
+     "end": 28.755,
+     "value": "A"
+    },
+    {
+     "start": 28.755,
+     "end": 28.955,
+     "value": "C"
+    },
+    {
+     "start": 28.955,
+     "end": 29.025,
+     "value": "B"
+    },
+    {
+     "start": 29.025,
+     "end": 29.055,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 29.059,
+   "end": 29.559
+  },
+  {
+   "kind": "line",
+   "speaker": "HANH",
+   "t": "Anh ơi, Tuấn vừa đăng story. Vé máy bay đi Đà Lạt. Đặt từ tuần trước.",
+   "start": 29.599,
+   "end": 33.543,
+   "mouth": [
+    {
+     "start": 29.559,
+     "end": 29.569,
+     "value": "X"
+    },
+    {
+     "start": 29.569,
+     "end": 29.679,
+     "value": "B"
+    },
+    {
+     "start": 29.679,
+     "end": 29.889,
+     "value": "E"
+    },
+    {
+     "start": 29.889,
+     "end": 30.029,
+     "value": "B"
+    },
+    {
+     "start": 30.029,
+     "end": 30.249,
+     "value": "F"
+    },
+    {
+     "start": 30.249,
+     "end": 30.279,
+     "value": "A"
+    },
+    {
+     "start": 30.279,
+     "end": 30.359,
+     "value": "B"
+    },
+    {
+     "start": 30.359,
+     "end": 30.439,
+     "value": "A"
+    },
+    {
+     "start": 30.439,
+     "end": 30.549,
+     "value": "C"
+    },
+    {
+     "start": 30.549,
+     "end": 30.619,
+     "value": "B"
+    },
+    {
+     "start": 30.619,
+     "end": 30.699,
+     "value": "A"
+    },
+    {
+     "start": 30.699,
+     "end": 30.799,
+     "value": "D"
+    },
+    {
+     "start": 30.799,
+     "end": 31.229,
+     "value": "B"
+    },
+    {
+     "start": 31.229,
+     "end": 31.309,
+     "value": "A"
+    },
+    {
+     "start": 31.309,
+     "end": 31.449,
+     "value": "C"
+    },
+    {
+     "start": 31.449,
+     "end": 31.469,
+     "value": "A"
+    },
+    {
+     "start": 31.469,
+     "end": 31.539,
+     "value": "C"
+    },
+    {
+     "start": 31.539,
+     "end": 31.609,
+     "value": "A"
+    },
+    {
+     "start": 31.609,
+     "end": 31.819,
+     "value": "C"
+    },
+    {
+     "start": 31.819,
+     "end": 32.099,
+     "value": "B"
+    },
+    {
+     "start": 32.099,
+     "end": 32.169,
+     "value": "C"
+    },
+    {
+     "start": 32.169,
+     "end": 32.309,
+     "value": "H"
+    },
+    {
+     "start": 32.309,
+     "end": 32.379,
+     "value": "C"
+    },
+    {
+     "start": 32.379,
+     "end": 32.449,
+     "value": "B"
+    },
+    {
+     "start": 32.449,
+     "end": 32.629,
+     "value": "X"
+    },
+    {
+     "start": 32.629,
+     "end": 32.709,
+     "value": "B"
+    },
+    {
+     "start": 32.709,
+     "end": 32.779,
+     "value": "A"
+    },
+    {
+     "start": 32.779,
+     "end": 32.989,
+     "value": "B"
+    },
+    {
+     "start": 32.989,
+     "end": 33.069,
+     "value": "A"
+    },
+    {
+     "start": 33.069,
+     "end": 33.239,
+     "value": "F"
+    },
+    {
+     "start": 33.239,
+     "end": 33.309,
+     "value": "B"
+    },
+    {
+     "start": 33.309,
+     "end": 33.519,
+     "value": "F"
+    },
+    {
+     "start": 33.519,
+     "end": 33.589,
+     "value": "B"
+    },
+    {
+     "start": 33.589,
+     "end": 33.619,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 33.623,
+   "end": 34.823
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Chuyến mấy giờ?",
+   "start": 34.863,
+   "end": 35.609,
+   "mouth": [
+    {
+     "start": 34.823,
+     "end": 34.943,
+     "value": "F"
+    },
+    {
+     "start": 34.943,
+     "end": 35.083,
+     "value": "B"
+    },
+    {
+     "start": 35.083,
+     "end": 35.163,
+     "value": "A"
+    },
+    {
+     "start": 35.163,
+     "end": 35.233,
+     "value": "C"
+    },
+    {
+     "start": 35.233,
+     "end": 35.373,
+     "value": "B"
+    },
+    {
+     "start": 35.373,
+     "end": 35.513,
+     "value": "E"
+    },
+    {
+     "start": 35.513,
+     "end": 35.653,
+     "value": "F"
+    },
+    {
+     "start": 35.653,
+     "end": 35.683,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Dạ… bảy giờ sáng ạ. VietJet.",
+   "start": 35.979,
+   "end": 37.901,
+   "mouth": [
+    {
+     "start": 35.939,
+     "end": 35.949,
+     "value": "X"
+    },
+    {
+     "start": 35.949,
+     "end": 36.049,
+     "value": "B"
+    },
+    {
+     "start": 36.049,
+     "end": 36.189,
+     "value": "C"
+    },
+    {
+     "start": 36.189,
+     "end": 36.259,
+     "value": "B"
+    },
+    {
+     "start": 36.259,
+     "end": 36.399,
+     "value": "F"
+    },
+    {
+     "start": 36.399,
+     "end": 36.539,
+     "value": "C"
+    },
+    {
+     "start": 36.539,
+     "end": 36.679,
+     "value": "B"
+    },
+    {
+     "start": 36.679,
+     "end": 36.749,
+     "value": "E"
+    },
+    {
+     "start": 36.749,
+     "end": 36.819,
+     "value": "F"
+    },
+    {
+     "start": 36.819,
+     "end": 37.029,
+     "value": "B"
+    },
+    {
+     "start": 37.029,
+     "end": 37.309,
+     "value": "C"
+    },
+    {
+     "start": 37.309,
+     "end": 37.389,
+     "value": "A"
+    },
+    {
+     "start": 37.389,
+     "end": 37.739,
+     "value": "B"
+    },
+    {
+     "start": 37.739,
+     "end": 37.879,
+     "value": "C"
+    },
+    {
+     "start": 37.879,
+     "end": 37.949,
+     "value": "B"
+    },
+    {
+     "start": 37.949,
+     "end": 37.979,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 37.981,
+   "end": 39.181
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Anh cũng chuyến đấy.",
+   "start": 39.221,
+   "end": 40.093,
+   "mouth": [
+    {
+     "start": 39.181,
+     "end": 39.231,
+     "value": "B"
+    },
+    {
+     "start": 39.231,
+     "end": 39.281,
+     "value": "C"
+    },
+    {
+     "start": 39.281,
+     "end": 39.771,
+     "value": "B"
+    },
+    {
+     "start": 39.771,
+     "end": 39.911,
+     "value": "C"
+    },
+    {
+     "start": 39.911,
+     "end": 40.121,
+     "value": "B"
+    },
+    {
+     "start": 40.121,
+     "end": 40.171,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Hả?!",
+   "start": 40.463,
+   "end": 40.756,
+   "mouth": [
+    {
+     "start": 40.423,
+     "end": 40.473,
+     "value": "B"
+    },
+    {
+     "start": 40.473,
+     "end": 40.653,
+     "value": "C"
+    },
+    {
+     "start": 40.653,
+     "end": 40.793,
+     "value": "B"
+    },
+    {
+     "start": 40.793,
+     "end": 40.833,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Anh xin nghỉ giám đốc rồi. Lý do: bà ngoại ốm.",
+   "start": 41.126,
+   "end": 43.769,
+   "mouth": [
+    {
+     "start": 41.086,
+     "end": 41.096,
+     "value": "X"
+    },
+    {
+     "start": 41.096,
+     "end": 41.796,
+     "value": "B"
+    },
+    {
+     "start": 41.796,
+     "end": 41.886,
+     "value": "A"
+    },
+    {
+     "start": 41.886,
+     "end": 41.956,
+     "value": "E"
+    },
+    {
+     "start": 41.956,
+     "end": 42.016,
+     "value": "C"
+    },
+    {
+     "start": 42.016,
+     "end": 42.086,
+     "value": "B"
+    },
+    {
+     "start": 42.086,
+     "end": 42.156,
+     "value": "E"
+    },
+    {
+     "start": 42.156,
+     "end": 42.506,
+     "value": "B"
+    },
+    {
+     "start": 42.506,
+     "end": 42.716,
+     "value": "E"
+    },
+    {
+     "start": 42.716,
+     "end": 43.016,
+     "value": "B"
+    },
+    {
+     "start": 43.016,
+     "end": 43.096,
+     "value": "A"
+    },
+    {
+     "start": 43.096,
+     "end": 43.166,
+     "value": "C"
+    },
+    {
+     "start": 43.166,
+     "end": 43.306,
+     "value": "E"
+    },
+    {
+     "start": 43.306,
+     "end": 43.656,
+     "value": "B"
+    },
+    {
+     "start": 43.656,
+     "end": 43.806,
+     "value": "A"
+    },
+    {
+     "start": 43.806,
+     "end": 43.846,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 43.849,
+   "end": 44.249
+  },
+  {
+   "kind": "line",
+   "speaker": "HANH",
+   "t": "Thế… thứ sáu ai đi gặp khách hàng?",
+   "start": 44.289,
+   "end": 46.299,
+   "mouth": [
+    {
+     "start": 44.249,
+     "end": 44.259,
+     "value": "X"
+    },
+    {
+     "start": 44.259,
+     "end": 44.329,
+     "value": "B"
+    },
+    {
+     "start": 44.329,
+     "end": 44.459,
+     "value": "C"
+    },
+    {
+     "start": 44.459,
+     "end": 44.599,
+     "value": "B"
+    },
+    {
+     "start": 44.599,
+     "end": 44.739,
+     "value": "F"
+    },
+    {
+     "start": 44.739,
+     "end": 44.879,
+     "value": "B"
+    },
+    {
+     "start": 44.879,
+     "end": 44.949,
+     "value": "C"
+    },
+    {
+     "start": 44.949,
+     "end": 45.019,
+     "value": "E"
+    },
+    {
+     "start": 45.019,
+     "end": 45.159,
+     "value": "H"
+    },
+    {
+     "start": 45.159,
+     "end": 45.229,
+     "value": "C"
+    },
+    {
+     "start": 45.229,
+     "end": 45.419,
+     "value": "D"
+    },
+    {
+     "start": 45.419,
+     "end": 45.469,
+     "value": "C"
+    },
+    {
+     "start": 45.469,
+     "end": 45.859,
+     "value": "B"
+    },
+    {
+     "start": 45.859,
+     "end": 46.209,
+     "value": "C"
+    },
+    {
+     "start": 46.209,
+     "end": 46.349,
+     "value": "B"
+    },
+    {
+     "start": 46.349,
+     "end": 46.379,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 46.379,
+   "end": 47.979
+  },
+  {
+   "kind": "line",
+   "speaker": "HANH",
+   "t": "Bà ngoại em cũng ốm.",
+   "start": 48.019,
+   "end": 49.04,
+   "mouth": [
+    {
+     "start": 47.979,
+     "end": 48.019,
+     "value": "A"
+    },
+    {
+     "start": 48.019,
+     "end": 48.149,
+     "value": "C"
+    },
+    {
+     "start": 48.149,
+     "end": 48.219,
+     "value": "E"
+    },
+    {
+     "start": 48.219,
+     "end": 48.289,
+     "value": "F"
+    },
+    {
+     "start": 48.289,
+     "end": 48.429,
+     "value": "C"
+    },
+    {
+     "start": 48.429,
+     "end": 48.509,
+     "value": "A"
+    },
+    {
+     "start": 48.509,
+     "end": 48.649,
+     "value": "B"
+    },
+    {
+     "start": 48.649,
+     "end": 48.729,
+     "value": "A"
+    },
+    {
+     "start": 48.729,
+     "end": 48.829,
+     "value": "E"
+    },
+    {
+     "start": 48.829,
+     "end": 48.899,
+     "value": "F"
+    },
+    {
+     "start": 48.899,
+     "end": 49.069,
+     "value": "A"
+    },
+    {
+     "start": 49.069,
+     "end": 49.119,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 49.12,
+   "end": 51.52
+  },
+  {
+   "kind": "line",
+   "speaker": "TUAN",
+   "t": "Tag đứa có bà ngoại ốm nhiều nhất vào đây.",
+   "start": 51.56,
+   "end": 53.443,
+   "mouth": [
+    {
+     "start": 51.52,
+     "end": 51.53,
+     "value": "X"
+    },
+    {
+     "start": 51.53,
+     "end": 51.57,
+     "value": "B"
+    },
+    {
+     "start": 51.57,
+     "end": 51.61,
+     "value": "C"
+    },
+    {
+     "start": 51.61,
+     "end": 51.69,
+     "value": "A"
+    },
+    {
+     "start": 51.69,
+     "end": 51.91,
+     "value": "F"
+    },
+    {
+     "start": 51.91,
+     "end": 51.98,
+     "value": "B"
+    },
+    {
+     "start": 51.98,
+     "end": 52.06,
+     "value": "A"
+    },
+    {
+     "start": 52.06,
+     "end": 52.18,
+     "value": "C"
+    },
+    {
+     "start": 52.18,
+     "end": 52.25,
+     "value": "E"
+    },
+    {
+     "start": 52.25,
+     "end": 52.32,
+     "value": "H"
+    },
+    {
+     "start": 52.32,
+     "end": 52.39,
+     "value": "C"
+    },
+    {
+     "start": 52.39,
+     "end": 52.6,
+     "value": "B"
+    },
+    {
+     "start": 52.6,
+     "end": 52.7,
+     "value": "A"
+    },
+    {
+     "start": 52.7,
+     "end": 52.85,
+     "value": "F"
+    },
+    {
+     "start": 52.85,
+     "end": 52.99,
+     "value": "C"
+    },
+    {
+     "start": 52.99,
+     "end": 53.06,
+     "value": "B"
+    },
+    {
+     "start": 53.06,
+     "end": 53.13,
+     "value": "G"
+    },
+    {
+     "start": 53.13,
+     "end": 53.21,
+     "value": "A"
+    },
+    {
+     "start": 53.21,
+     "end": 53.34,
+     "value": "C"
+    },
+    {
+     "start": 53.34,
+     "end": 53.48,
+     "value": "B"
+    },
+    {
+     "start": 53.48,
+     "end": 53.52,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 53.523,
+   "end": 54.523
+  }
+ ]
+}

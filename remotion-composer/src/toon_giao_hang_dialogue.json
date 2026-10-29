@@ -1,0 +1,1134 @@
+{
+ "title": "Giao hàng kiểu gì thế!",
+ "total": 32.98,
+ "items": [
+  {
+   "kind": "pause",
+   "start": 0.25,
+   "end": 0.55
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Giao hàng kiểu gì mà trễ hai tiếng! Làm ăn thế à!",
+   "start": 0.59,
+   "end": 2.94,
+   "mouth": [
+    {
+     "start": 0.55,
+     "end": 0.56,
+     "value": "X"
+    },
+    {
+     "start": 0.56,
+     "end": 0.62,
+     "value": "B"
+    },
+    {
+     "start": 0.62,
+     "end": 0.67,
+     "value": "C"
+    },
+    {
+     "start": 0.67,
+     "end": 0.73,
+     "value": "A"
+    },
+    {
+     "start": 0.73,
+     "end": 0.79,
+     "value": "C"
+    },
+    {
+     "start": 0.79,
+     "end": 0.85,
+     "value": "A"
+    },
+    {
+     "start": 0.85,
+     "end": 1.0,
+     "value": "F"
+    },
+    {
+     "start": 1.0,
+     "end": 1.21,
+     "value": "B"
+    },
+    {
+     "start": 1.21,
+     "end": 1.35,
+     "value": "C"
+    },
+    {
+     "start": 1.35,
+     "end": 1.56,
+     "value": "B"
+    },
+    {
+     "start": 1.56,
+     "end": 1.69,
+     "value": "A"
+    },
+    {
+     "start": 1.69,
+     "end": 1.88,
+     "value": "B"
+    },
+    {
+     "start": 1.88,
+     "end": 2.38,
+     "value": "X"
+    },
+    {
+     "start": 2.38,
+     "end": 2.43,
+     "value": "B"
+    },
+    {
+     "start": 2.43,
+     "end": 2.48,
+     "value": "C"
+    },
+    {
+     "start": 2.48,
+     "end": 2.76,
+     "value": "E"
+    },
+    {
+     "start": 2.76,
+     "end": 2.97,
+     "value": "B"
+    },
+    {
+     "start": 2.97,
+     "end": 3.02,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SHIP",
+   "t": "Dạ… em xin lỗi anh. Em xin lỗi ạ.",
+   "start": 3.31,
+   "end": 5.208,
+   "mouth": [
+    {
+     "start": 3.27,
+     "end": 3.28,
+     "value": "X"
+    },
+    {
+     "start": 3.28,
+     "end": 3.33,
+     "value": "B"
+    },
+    {
+     "start": 3.33,
+     "end": 3.37,
+     "value": "F"
+    },
+    {
+     "start": 3.37,
+     "end": 3.58,
+     "value": "B"
+    },
+    {
+     "start": 3.58,
+     "end": 3.86,
+     "value": "X"
+    },
+    {
+     "start": 3.86,
+     "end": 4.55,
+     "value": "B"
+    },
+    {
+     "start": 4.55,
+     "end": 4.68,
+     "value": "X"
+    },
+    {
+     "start": 4.68,
+     "end": 5.24,
+     "value": "B"
+    },
+    {
+     "start": 5.24,
+     "end": 5.28,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 5.288,
+   "end": 6.688
+  },
+  {
+   "kind": "line",
+   "speaker": "SHIP",
+   "t": "Hàng của anh… em vẫn giữ khô ạ.",
+   "start": 6.728,
+   "end": 8.199,
+   "mouth": [
+    {
+     "start": 6.688,
+     "end": 7.068,
+     "value": "B"
+    },
+    {
+     "start": 7.068,
+     "end": 7.138,
+     "value": "C"
+    },
+    {
+     "start": 7.138,
+     "end": 7.208,
+     "value": "B"
+    },
+    {
+     "start": 7.208,
+     "end": 7.418,
+     "value": "X"
+    },
+    {
+     "start": 7.418,
+     "end": 7.528,
+     "value": "B"
+    },
+    {
+     "start": 7.528,
+     "end": 7.598,
+     "value": "E"
+    },
+    {
+     "start": 7.598,
+     "end": 7.668,
+     "value": "C"
+    },
+    {
+     "start": 7.668,
+     "end": 7.878,
+     "value": "B"
+    },
+    {
+     "start": 7.878,
+     "end": 8.018,
+     "value": "E"
+    },
+    {
+     "start": 8.018,
+     "end": 8.088,
+     "value": "F"
+    },
+    {
+     "start": 8.088,
+     "end": 8.228,
+     "value": "B"
+    },
+    {
+     "start": 8.228,
+     "end": 8.278,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Ôi mẹ ơi! Tôi thật đáng chết mà!",
+   "start": 8.569,
+   "end": 9.866,
+   "mouth": [
+    {
+     "start": 8.529,
+     "end": 8.539,
+     "value": "X"
+    },
+    {
+     "start": 8.539,
+     "end": 8.959,
+     "value": "B"
+    },
+    {
+     "start": 8.959,
+     "end": 9.129,
+     "value": "X"
+    },
+    {
+     "start": 9.129,
+     "end": 9.249,
+     "value": "B"
+    },
+    {
+     "start": 9.249,
+     "end": 9.269,
+     "value": "A"
+    },
+    {
+     "start": 9.269,
+     "end": 9.329,
+     "value": "B"
+    },
+    {
+     "start": 9.329,
+     "end": 9.379,
+     "value": "A"
+    },
+    {
+     "start": 9.379,
+     "end": 9.759,
+     "value": "C"
+    },
+    {
+     "start": 9.759,
+     "end": 9.829,
+     "value": "E"
+    },
+    {
+     "start": 9.829,
+     "end": 9.899,
+     "value": "B"
+    },
+    {
+     "start": 9.899,
+     "end": 9.939,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Tôi thật đáng chết mà!",
+   "start": 10.236,
+   "end": 10.902,
+   "mouth": [
+    {
+     "start": 10.196,
+     "end": 10.206,
+     "value": "X"
+    },
+    {
+     "start": 10.206,
+     "end": 10.256,
+     "value": "B"
+    },
+    {
+     "start": 10.256,
+     "end": 10.446,
+     "value": "D"
+    },
+    {
+     "start": 10.446,
+     "end": 10.516,
+     "value": "B"
+    },
+    {
+     "start": 10.516,
+     "end": 10.656,
+     "value": "C"
+    },
+    {
+     "start": 10.656,
+     "end": 10.866,
+     "value": "D"
+    },
+    {
+     "start": 10.866,
+     "end": 10.936,
+     "value": "B"
+    },
+    {
+     "start": 10.936,
+     "end": 10.976,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Tôi thật đáng chết mà!",
+   "start": 11.272,
+   "end": 11.938,
+   "mouth": [
+    {
+     "start": 11.232,
+     "end": 11.242,
+     "value": "X"
+    },
+    {
+     "start": 11.242,
+     "end": 11.292,
+     "value": "B"
+    },
+    {
+     "start": 11.292,
+     "end": 11.482,
+     "value": "D"
+    },
+    {
+     "start": 11.482,
+     "end": 11.552,
+     "value": "B"
+    },
+    {
+     "start": 11.552,
+     "end": 11.692,
+     "value": "C"
+    },
+    {
+     "start": 11.692,
+     "end": 11.902,
+     "value": "D"
+    },
+    {
+     "start": 11.902,
+     "end": 11.972,
+     "value": "B"
+    },
+    {
+     "start": 11.972,
+     "end": 12.012,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Tôi thật đáng chết mà!",
+   "start": 12.308,
+   "end": 12.974,
+   "mouth": [
+    {
+     "start": 12.268,
+     "end": 12.278,
+     "value": "X"
+    },
+    {
+     "start": 12.278,
+     "end": 12.328,
+     "value": "B"
+    },
+    {
+     "start": 12.328,
+     "end": 12.518,
+     "value": "D"
+    },
+    {
+     "start": 12.518,
+     "end": 12.588,
+     "value": "B"
+    },
+    {
+     "start": 12.588,
+     "end": 12.728,
+     "value": "C"
+    },
+    {
+     "start": 12.728,
+     "end": 12.938,
+     "value": "D"
+    },
+    {
+     "start": 12.938,
+     "end": 13.008,
+     "value": "B"
+    },
+    {
+     "start": 13.008,
+     "end": 13.048,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 13.054,
+   "end": 14.154
+  },
+  {
+   "kind": "line",
+   "speaker": "DV",
+   "t": "Được rồi, ông chết thật rồi!",
+   "start": 14.194,
+   "end": 15.417,
+   "mouth": [
+    {
+     "start": 14.154,
+     "end": 14.164,
+     "value": "X"
+    },
+    {
+     "start": 14.164,
+     "end": 14.234,
+     "value": "B"
+    },
+    {
+     "start": 14.234,
+     "end": 14.374,
+     "value": "C"
+    },
+    {
+     "start": 14.374,
+     "end": 14.794,
+     "value": "B"
+    },
+    {
+     "start": 14.794,
+     "end": 14.864,
+     "value": "C"
+    },
+    {
+     "start": 14.864,
+     "end": 14.934,
+     "value": "B"
+    },
+    {
+     "start": 14.934,
+     "end": 15.004,
+     "value": "C"
+    },
+    {
+     "start": 15.004,
+     "end": 15.084,
+     "value": "A"
+    },
+    {
+     "start": 15.084,
+     "end": 15.134,
+     "value": "B"
+    },
+    {
+     "start": 15.134,
+     "end": 15.314,
+     "value": "C"
+    },
+    {
+     "start": 15.314,
+     "end": 15.454,
+     "value": "B"
+    },
+    {
+     "start": 15.454,
+     "end": 15.494,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 15.497,
+   "end": 16.197
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Bưng bát canh kiểu gì mà lâu thế! Làm ăn thế à!",
+   "start": 16.237,
+   "end": 18.322,
+   "mouth": [
+    {
+     "start": 16.197,
+     "end": 16.207,
+     "value": "X"
+    },
+    {
+     "start": 16.207,
+     "end": 16.837,
+     "value": "B"
+    },
+    {
+     "start": 16.837,
+     "end": 16.977,
+     "value": "C"
+    },
+    {
+     "start": 16.977,
+     "end": 17.257,
+     "value": "E"
+    },
+    {
+     "start": 17.257,
+     "end": 17.467,
+     "value": "B"
+    },
+    {
+     "start": 17.467,
+     "end": 17.817,
+     "value": "X"
+    },
+    {
+     "start": 17.817,
+     "end": 17.877,
+     "value": "B"
+    },
+    {
+     "start": 17.877,
+     "end": 18.077,
+     "value": "C"
+    },
+    {
+     "start": 18.077,
+     "end": 18.147,
+     "value": "E"
+    },
+    {
+     "start": 18.147,
+     "end": 18.217,
+     "value": "F"
+    },
+    {
+     "start": 18.217,
+     "end": 18.357,
+     "value": "B"
+    },
+    {
+     "start": 18.357,
+     "end": 18.397,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SHIP",
+   "t": "Dạ… em xin lỗi ạ.",
+   "start": 18.692,
+   "end": 19.538,
+   "mouth": [
+    {
+     "start": 18.652,
+     "end": 18.662,
+     "value": "X"
+    },
+    {
+     "start": 18.662,
+     "end": 18.702,
+     "value": "B"
+    },
+    {
+     "start": 18.702,
+     "end": 18.812,
+     "value": "C"
+    },
+    {
+     "start": 18.812,
+     "end": 18.882,
+     "value": "B"
+    },
+    {
+     "start": 18.882,
+     "end": 19.092,
+     "value": "X"
+    },
+    {
+     "start": 19.092,
+     "end": 19.162,
+     "value": "B"
+    },
+    {
+     "start": 19.162,
+     "end": 19.222,
+     "value": "C"
+    },
+    {
+     "start": 19.222,
+     "end": 19.432,
+     "value": "E"
+    },
+    {
+     "start": 19.432,
+     "end": 19.502,
+     "value": "C"
+    },
+    {
+     "start": 19.502,
+     "end": 19.572,
+     "value": "B"
+    },
+    {
+     "start": 19.572,
+     "end": 19.612,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 19.618,
+   "end": 20.818
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Tôi thật đáng chết mà!",
+   "start": 20.858,
+   "end": 21.524,
+   "mouth": [
+    {
+     "start": 20.818,
+     "end": 20.828,
+     "value": "X"
+    },
+    {
+     "start": 20.828,
+     "end": 20.878,
+     "value": "B"
+    },
+    {
+     "start": 20.878,
+     "end": 21.068,
+     "value": "D"
+    },
+    {
+     "start": 21.068,
+     "end": 21.138,
+     "value": "B"
+    },
+    {
+     "start": 21.138,
+     "end": 21.278,
+     "value": "C"
+    },
+    {
+     "start": 21.278,
+     "end": 21.488,
+     "value": "D"
+    },
+    {
+     "start": 21.488,
+     "end": 21.558,
+     "value": "B"
+    },
+    {
+     "start": 21.558,
+     "end": 21.598,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "DV",
+   "t": "Ông chết rồi mà!",
+   "start": 21.894,
+   "end": 22.431,
+   "mouth": [
+    {
+     "start": 21.854,
+     "end": 21.864,
+     "value": "X"
+    },
+    {
+     "start": 21.864,
+     "end": 21.904,
+     "value": "B"
+    },
+    {
+     "start": 21.904,
+     "end": 21.944,
+     "value": "C"
+    },
+    {
+     "start": 21.944,
+     "end": 22.014,
+     "value": "B"
+    },
+    {
+     "start": 22.014,
+     "end": 22.094,
+     "value": "A"
+    },
+    {
+     "start": 22.094,
+     "end": 22.394,
+     "value": "C"
+    },
+    {
+     "start": 22.394,
+     "end": 22.464,
+     "value": "B"
+    },
+    {
+     "start": 22.464,
+     "end": 22.504,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "DV",
+   "t": "Phạt kiếp sau… đi làm shipper!",
+   "start": 22.801,
+   "end": 23.772,
+   "mouth": [
+    {
+     "start": 22.761,
+     "end": 22.771,
+     "value": "X"
+    },
+    {
+     "start": 22.771,
+     "end": 23.001,
+     "value": "C"
+    },
+    {
+     "start": 23.001,
+     "end": 23.071,
+     "value": "G"
+    },
+    {
+     "start": 23.071,
+     "end": 23.141,
+     "value": "B"
+    },
+    {
+     "start": 23.141,
+     "end": 23.221,
+     "value": "A"
+    },
+    {
+     "start": 23.221,
+     "end": 23.361,
+     "value": "C"
+    },
+    {
+     "start": 23.361,
+     "end": 23.431,
+     "value": "F"
+    },
+    {
+     "start": 23.431,
+     "end": 23.511,
+     "value": "A"
+    },
+    {
+     "start": 23.511,
+     "end": 23.671,
+     "value": "C"
+    },
+    {
+     "start": 23.671,
+     "end": 23.811,
+     "value": "B"
+    },
+    {
+     "start": 23.811,
+     "end": 23.851,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 23.852,
+   "end": 26.052
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Dạ… em xin lỗi anh…",
+   "start": 26.092,
+   "end": 27.283,
+   "mouth": [
+    {
+     "start": 26.052,
+     "end": 26.072,
+     "value": "X"
+    },
+    {
+     "start": 26.072,
+     "end": 26.122,
+     "value": "B"
+    },
+    {
+     "start": 26.122,
+     "end": 26.172,
+     "value": "F"
+    },
+    {
+     "start": 26.172,
+     "end": 26.452,
+     "value": "B"
+    },
+    {
+     "start": 26.452,
+     "end": 26.672,
+     "value": "X"
+    },
+    {
+     "start": 26.672,
+     "end": 26.712,
+     "value": "B"
+    },
+    {
+     "start": 26.712,
+     "end": 26.752,
+     "value": "C"
+    },
+    {
+     "start": 26.752,
+     "end": 26.892,
+     "value": "B"
+    },
+    {
+     "start": 26.892,
+     "end": 27.032,
+     "value": "E"
+    },
+    {
+     "start": 27.032,
+     "end": 27.172,
+     "value": "C"
+    },
+    {
+     "start": 27.172,
+     "end": 27.312,
+     "value": "B"
+    },
+    {
+     "start": 27.312,
+     "end": 27.362,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SHIP",
+   "t": "Không sao đâu, anh cứ từ từ.",
+   "start": 27.653,
+   "end": 28.871,
+   "mouth": [
+    {
+     "start": 27.613,
+     "end": 27.623,
+     "value": "X"
+    },
+    {
+     "start": 27.623,
+     "end": 27.663,
+     "value": "B"
+    },
+    {
+     "start": 27.663,
+     "end": 27.703,
+     "value": "C"
+    },
+    {
+     "start": 27.703,
+     "end": 27.843,
+     "value": "D"
+    },
+    {
+     "start": 27.843,
+     "end": 27.913,
+     "value": "B"
+    },
+    {
+     "start": 27.913,
+     "end": 27.983,
+     "value": "F"
+    },
+    {
+     "start": 27.983,
+     "end": 28.053,
+     "value": "B"
+    },
+    {
+     "start": 28.053,
+     "end": 28.253,
+     "value": "X"
+    },
+    {
+     "start": 28.253,
+     "end": 28.303,
+     "value": "B"
+    },
+    {
+     "start": 28.303,
+     "end": 28.353,
+     "value": "C"
+    },
+    {
+     "start": 28.353,
+     "end": 28.423,
+     "value": "B"
+    },
+    {
+     "start": 28.423,
+     "end": 28.483,
+     "value": "A"
+    },
+    {
+     "start": 28.483,
+     "end": 28.543,
+     "value": "C"
+    },
+    {
+     "start": 28.543,
+     "end": 28.623,
+     "value": "A"
+    },
+    {
+     "start": 28.623,
+     "end": 28.763,
+     "value": "C"
+    },
+    {
+     "start": 28.763,
+     "end": 28.833,
+     "value": "E"
+    },
+    {
+     "start": 28.833,
+     "end": 28.903,
+     "value": "B"
+    },
+    {
+     "start": 28.903,
+     "end": 28.943,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "KHACH",
+   "t": "Tôi thật đáng chết mà!",
+   "start": 29.241,
+   "end": 29.907,
+   "mouth": [
+    {
+     "start": 29.201,
+     "end": 29.211,
+     "value": "X"
+    },
+    {
+     "start": 29.211,
+     "end": 29.261,
+     "value": "B"
+    },
+    {
+     "start": 29.261,
+     "end": 29.451,
+     "value": "D"
+    },
+    {
+     "start": 29.451,
+     "end": 29.521,
+     "value": "B"
+    },
+    {
+     "start": 29.521,
+     "end": 29.661,
+     "value": "C"
+    },
+    {
+     "start": 29.661,
+     "end": 29.871,
+     "value": "D"
+    },
+    {
+     "start": 29.871,
+     "end": 29.941,
+     "value": "B"
+    },
+    {
+     "start": 29.941,
+     "end": 29.981,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 29.987,
+   "end": 30.887
+  },
+  {
+   "kind": "line",
+   "speaker": "SHIP",
+   "t": "Tag đứa hay chửi shipper vào đây.",
+   "start": 30.927,
+   "end": 32.1,
+   "mouth": [
+    {
+     "start": 30.887,
+     "end": 30.897,
+     "value": "X"
+    },
+    {
+     "start": 30.897,
+     "end": 30.937,
+     "value": "B"
+    },
+    {
+     "start": 30.937,
+     "end": 30.977,
+     "value": "A"
+    },
+    {
+     "start": 30.977,
+     "end": 31.187,
+     "value": "E"
+    },
+    {
+     "start": 31.187,
+     "end": 31.267,
+     "value": "A"
+    },
+    {
+     "start": 31.267,
+     "end": 31.437,
+     "value": "C"
+    },
+    {
+     "start": 31.437,
+     "end": 31.717,
+     "value": "B"
+    },
+    {
+     "start": 31.717,
+     "end": 31.787,
+     "value": "C"
+    },
+    {
+     "start": 31.787,
+     "end": 31.857,
+     "value": "B"
+    },
+    {
+     "start": 31.857,
+     "end": 31.997,
+     "value": "E"
+    },
+    {
+     "start": 31.997,
+     "end": 32.067,
+     "value": "F"
+    },
+    {
+     "start": 32.067,
+     "end": 32.137,
+     "value": "B"
+    },
+    {
+     "start": 32.137,
+     "end": 32.177,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 32.18,
+   "end": 32.98
+  }
+ ]
+}

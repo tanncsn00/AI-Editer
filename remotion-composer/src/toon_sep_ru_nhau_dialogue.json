@@ -1,0 +1,551 @@
+{
+ "title": "Sếp rủ nhậu",
+ "total": 19.675,
+ "items": [
+  {
+   "kind": "pause",
+   "start": 0.25,
+   "end": 1.85
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Em ơi… rảnh không?",
+   "start": 1.89,
+   "end": 3.204,
+   "mouth": [
+    {
+     "start": 1.85,
+     "end": 1.91,
+     "value": "B"
+    },
+    {
+     "start": 1.91,
+     "end": 1.97,
+     "value": "C"
+    },
+    {
+     "start": 1.97,
+     "end": 2.06,
+     "value": "A"
+    },
+    {
+     "start": 2.06,
+     "end": 2.17,
+     "value": "E"
+    },
+    {
+     "start": 2.17,
+     "end": 2.24,
+     "value": "F"
+    },
+    {
+     "start": 2.24,
+     "end": 2.31,
+     "value": "G"
+    },
+    {
+     "start": 2.31,
+     "end": 2.38,
+     "value": "B"
+    },
+    {
+     "start": 2.38,
+     "end": 2.52,
+     "value": "X"
+    },
+    {
+     "start": 2.52,
+     "end": 2.63,
+     "value": "B"
+    },
+    {
+     "start": 2.63,
+     "end": 2.77,
+     "value": "C"
+    },
+    {
+     "start": 2.77,
+     "end": 3.05,
+     "value": "E"
+    },
+    {
+     "start": 3.05,
+     "end": 3.26,
+     "value": "F"
+    },
+    {
+     "start": 3.26,
+     "end": 3.28,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "NV",
+   "t": "Dạ… em đang bận lắm anh ạaa!",
+   "start": 3.574,
+   "end": 4.991,
+   "mouth": [
+    {
+     "start": 3.534,
+     "end": 3.574,
+     "value": "B"
+    },
+    {
+     "start": 3.574,
+     "end": 3.964,
+     "value": "C"
+    },
+    {
+     "start": 3.964,
+     "end": 4.174,
+     "value": "B"
+    },
+    {
+     "start": 4.174,
+     "end": 4.314,
+     "value": "C"
+    },
+    {
+     "start": 4.314,
+     "end": 4.384,
+     "value": "H"
+    },
+    {
+     "start": 4.384,
+     "end": 4.594,
+     "value": "C"
+    },
+    {
+     "start": 4.594,
+     "end": 4.734,
+     "value": "A"
+    },
+    {
+     "start": 4.734,
+     "end": 5.024,
+     "value": "B"
+    },
+    {
+     "start": 5.024,
+     "end": 5.064,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Ừ… tiếc nhỉ… Anh định rủ cả phòng… đi nhậu. Anh bao!",
+   "start": 5.361,
+   "end": 9.506,
+   "mouth": [
+    {
+     "start": 5.321,
+     "end": 5.331,
+     "value": "X"
+    },
+    {
+     "start": 5.331,
+     "end": 5.541,
+     "value": "C"
+    },
+    {
+     "start": 5.541,
+     "end": 5.611,
+     "value": "G"
+    },
+    {
+     "start": 5.611,
+     "end": 5.681,
+     "value": "B"
+    },
+    {
+     "start": 5.681,
+     "end": 5.881,
+     "value": "X"
+    },
+    {
+     "start": 5.881,
+     "end": 6.821,
+     "value": "B"
+    },
+    {
+     "start": 6.821,
+     "end": 6.891,
+     "value": "C"
+    },
+    {
+     "start": 6.891,
+     "end": 7.031,
+     "value": "B"
+    },
+    {
+     "start": 7.031,
+     "end": 7.111,
+     "value": "A"
+    },
+    {
+     "start": 7.111,
+     "end": 7.361,
+     "value": "F"
+    },
+    {
+     "start": 7.361,
+     "end": 7.431,
+     "value": "B"
+    },
+    {
+     "start": 7.431,
+     "end": 7.571,
+     "value": "C"
+    },
+    {
+     "start": 7.571,
+     "end": 7.771,
+     "value": "D"
+    },
+    {
+     "start": 7.771,
+     "end": 7.851,
+     "value": "C"
+    },
+    {
+     "start": 7.851,
+     "end": 7.921,
+     "value": "G"
+    },
+    {
+     "start": 7.921,
+     "end": 7.991,
+     "value": "C"
+    },
+    {
+     "start": 7.991,
+     "end": 8.071,
+     "value": "A"
+    },
+    {
+     "start": 8.071,
+     "end": 8.321,
+     "value": "B"
+    },
+    {
+     "start": 8.321,
+     "end": 8.461,
+     "value": "E"
+    },
+    {
+     "start": 8.461,
+     "end": 8.531,
+     "value": "F"
+    },
+    {
+     "start": 8.531,
+     "end": 8.601,
+     "value": "B"
+    },
+    {
+     "start": 8.601,
+     "end": 8.981,
+     "value": "X"
+    },
+    {
+     "start": 8.981,
+     "end": 9.051,
+     "value": "B"
+    },
+    {
+     "start": 9.051,
+     "end": 9.111,
+     "value": "F"
+    },
+    {
+     "start": 9.111,
+     "end": 9.191,
+     "value": "A"
+    },
+    {
+     "start": 9.191,
+     "end": 9.341,
+     "value": "C"
+    },
+    {
+     "start": 9.341,
+     "end": 9.481,
+     "value": "E"
+    },
+    {
+     "start": 9.481,
+     "end": 9.551,
+     "value": "B"
+    },
+    {
+     "start": 9.551,
+     "end": 9.581,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 9.586,
+   "end": 9.936
+  },
+  {
+   "kind": "line",
+   "speaker": "NV",
+   "t": "Ơ! Em… em vừa xong việc rồi anh ạaa!",
+   "start": 9.976,
+   "end": 11.806,
+   "mouth": [
+    {
+     "start": 9.936,
+     "end": 9.946,
+     "value": "X"
+    },
+    {
+     "start": 9.946,
+     "end": 9.996,
+     "value": "B"
+    },
+    {
+     "start": 9.996,
+     "end": 10.116,
+     "value": "C"
+    },
+    {
+     "start": 10.116,
+     "end": 10.186,
+     "value": "B"
+    },
+    {
+     "start": 10.186,
+     "end": 10.326,
+     "value": "X"
+    },
+    {
+     "start": 10.326,
+     "end": 10.386,
+     "value": "B"
+    },
+    {
+     "start": 10.386,
+     "end": 10.506,
+     "value": "C"
+    },
+    {
+     "start": 10.506,
+     "end": 10.606,
+     "value": "A"
+    },
+    {
+     "start": 10.606,
+     "end": 10.676,
+     "value": "C"
+    },
+    {
+     "start": 10.676,
+     "end": 10.946,
+     "value": "B"
+    },
+    {
+     "start": 10.946,
+     "end": 11.016,
+     "value": "H"
+    },
+    {
+     "start": 11.016,
+     "end": 11.086,
+     "value": "C"
+    },
+    {
+     "start": 11.086,
+     "end": 11.156,
+     "value": "B"
+    },
+    {
+     "start": 11.156,
+     "end": 11.236,
+     "value": "A"
+    },
+    {
+     "start": 11.236,
+     "end": 11.416,
+     "value": "B"
+    },
+    {
+     "start": 11.416,
+     "end": 11.766,
+     "value": "C"
+    },
+    {
+     "start": 11.766,
+     "end": 11.836,
+     "value": "B"
+    },
+    {
+     "start": 11.836,
+     "end": 11.886,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 11.886,
+   "end": 12.186
+  },
+  {
+   "kind": "line",
+   "speaker": "SEP",
+   "t": "Tốt. Vậy làm nốt cái báo cáo này… rồi đi.",
+   "start": 12.226,
+   "end": 15.195,
+   "mouth": [
+    {
+     "start": 12.186,
+     "end": 12.196,
+     "value": "X"
+    },
+    {
+     "start": 12.196,
+     "end": 12.256,
+     "value": "B"
+    },
+    {
+     "start": 12.256,
+     "end": 12.386,
+     "value": "C"
+    },
+    {
+     "start": 12.386,
+     "end": 12.776,
+     "value": "B"
+    },
+    {
+     "start": 12.776,
+     "end": 12.856,
+     "value": "A"
+    },
+    {
+     "start": 12.856,
+     "end": 12.986,
+     "value": "E"
+    },
+    {
+     "start": 12.986,
+     "end": 13.056,
+     "value": "B"
+    },
+    {
+     "start": 13.056,
+     "end": 13.136,
+     "value": "A"
+    },
+    {
+     "start": 13.136,
+     "end": 13.216,
+     "value": "C"
+    },
+    {
+     "start": 13.216,
+     "end": 13.366,
+     "value": "A"
+    },
+    {
+     "start": 13.366,
+     "end": 13.416,
+     "value": "E"
+    },
+    {
+     "start": 13.416,
+     "end": 13.466,
+     "value": "F"
+    },
+    {
+     "start": 13.466,
+     "end": 13.536,
+     "value": "G"
+    },
+    {
+     "start": 13.536,
+     "end": 13.606,
+     "value": "B"
+    },
+    {
+     "start": 13.606,
+     "end": 13.686,
+     "value": "A"
+    },
+    {
+     "start": 13.686,
+     "end": 13.816,
+     "value": "C"
+    },
+    {
+     "start": 13.816,
+     "end": 13.896,
+     "value": "A"
+    },
+    {
+     "start": 13.896,
+     "end": 14.096,
+     "value": "C"
+    },
+    {
+     "start": 14.096,
+     "end": 14.166,
+     "value": "E"
+    },
+    {
+     "start": 14.166,
+     "end": 14.256,
+     "value": "A"
+    },
+    {
+     "start": 14.256,
+     "end": 14.326,
+     "value": "C"
+    },
+    {
+     "start": 14.326,
+     "end": 14.726,
+     "value": "B"
+    },
+    {
+     "start": 14.726,
+     "end": 14.796,
+     "value": "E"
+    },
+    {
+     "start": 14.796,
+     "end": 14.876,
+     "value": "A"
+    },
+    {
+     "start": 14.876,
+     "end": 15.226,
+     "value": "B"
+    },
+    {
+     "start": 15.226,
+     "end": 15.266,
+     "value": "X"
+    }
+   ]
+  },
+  {
+   "kind": "pause",
+   "start": 15.275,
+   "end": 17.075
+  },
+  {
+   "kind": "pause",
+   "start": 17.075,
+   "end": 19.675
+  }
+ ]
+}

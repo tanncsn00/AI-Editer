@@ -405,6 +405,18 @@ import { MatNgonMe, MAT_NGON_ME_FRAMES } from "./MatNgonMe";
 import { MatNgonMeThumbnail } from "./MatNgonMeThumbnail";
 import { LopWhiteboard, LOP_FRAMES } from "./LopWhiteboard";
 import { LopWhiteboardThumbnail } from "./LopWhiteboardThumbnail";
+import { ToonTest, TOON_TEST_FRAMES } from "./toon/ToonTest";
+import { ToonSepRuNhau, TOON_SEP_RU_NHAU_FRAMES } from "./ToonSepRuNhau";
+import { PeepsSheet } from "./toon/PeepsSheet";
+import { PeepsCast } from "./toon/PeepsCast";
+import { PeepsColorTest } from "./toon/PeepsColorTest";
+import { ToonXinNghiPhep, TOON_XIN_NGHI_PHEP_FRAMES } from "./ToonXinNghiPhep";
+import { ToonGiaoHang, TOON_GIAO_HANG_FRAMES } from "./ToonGiaoHang";
+import { LottieTest } from "./toon/LottieTest";
+import { ToonGiaoHangDog, TOON_GIAO_HANG_DOG_FRAMES } from "./ToonGiaoHangDog";
+import { ToonGiaoHangPainted, TOON_GIAO_HANG_PAINTED_FRAMES } from "./ToonGiaoHangPainted";
+import { ToonGiaoHangThumbnail } from "./ToonGiaoHangThumbnail";
+import { ToonGiaoHangFlow, TOON_GIAO_HANG_FLOW_FRAMES } from "./ToonGiaoHangFlow";
 import { HoHangWhiteboard, HOHANG_FRAMES } from "./HoHangWhiteboard";
 import { HoHangWhiteboardThumbnail } from "./HoHangWhiteboardThumbnail";
 import { ElonEdit, ELON_FRAMES } from "./ElonEdit";
@@ -4055,6 +4067,40 @@ export const Root: React.FC = () => {
         height={1920}
         defaultProps={{ bgm: false }}
       />
+      <Composition
+        id="ToonTest"
+        component={ToonTest}
+        durationInFrames={TOON_TEST_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ToonSepRuNhau"
+        component={ToonSepRuNhau}
+        durationInFrames={TOON_SEP_RU_NHAU_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PeepsSheet"
+        component={PeepsSheet}
+        durationInFrames={1}
+        fps={30}
+        width={1920}
+        height={1500}
+        defaultProps={{ sheet: "faces" as const }}
+      />
+      <Composition id="PeepsCast" component={PeepsCast} durationInFrames={1} fps={30} width={1920} height={920} />
+      <Composition id="PeepsColorTest" component={PeepsColorTest} durationInFrames={1} fps={30} width={1300} height={500} />
+      <Composition id="ToonXinNghiPhep" component={ToonXinNghiPhep} durationInFrames={TOON_XIN_NGHI_PHEP_FRAMES} fps={30} width={1080} height={1920} />
+      <Composition id="ToonGiaoHang" component={ToonGiaoHang} durationInFrames={TOON_GIAO_HANG_FRAMES} fps={30} width={1080} height={1920} />
+      <Composition id="LottieTest" component={LottieTest} durationInFrames={90} fps={30} width={1080} height={1920} />
+      <Composition id="ToonGiaoHangDog" component={ToonGiaoHangDog} durationInFrames={TOON_GIAO_HANG_DOG_FRAMES} fps={30} width={1080} height={1920} />
+      <Composition id="ToonGiaoHangPainted" component={ToonGiaoHangPainted} durationInFrames={TOON_GIAO_HANG_PAINTED_FRAMES} fps={30} width={1080} height={1920} />
+      <Composition id="ToonGiaoHangThumbnail" component={ToonGiaoHangThumbnail} durationInFrames={1} fps={30} width={1080} height={1920} />
+      <Composition id="ToonGiaoHangFlow" component={ToonGiaoHangFlow} durationInFrames={TOON_GIAO_HANG_FLOW_FRAMES} fps={30} width={1080} height={1920} />
     </>
   );
 };
