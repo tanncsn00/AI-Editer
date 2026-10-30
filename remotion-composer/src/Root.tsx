@@ -405,6 +405,8 @@ import { MatNgonMe, MAT_NGON_ME_FRAMES } from "./MatNgonMe";
 import { MatNgonMeThumbnail } from "./MatNgonMeThumbnail";
 import { LopWhiteboard, LOP_FRAMES } from "./LopWhiteboard";
 import { LopWhiteboardThumbnail } from "./LopWhiteboardThumbnail";
+import { GiaoVienWhiteboard, GIAOVIEN_FRAMES } from "./GiaoVienWhiteboard";
+import { GiaoVienWhiteboardThumbnail } from "./GiaoVienWhiteboardThumbnail";
 import { ToonTest, TOON_TEST_FRAMES } from "./toon/ToonTest";
 import { ToonSepRuNhau, TOON_SEP_RU_NHAU_FRAMES } from "./ToonSepRuNhau";
 import { PeepsSheet } from "./toon/PeepsSheet";
@@ -3984,6 +3986,32 @@ export const Root: React.FC = () => {
         id="MatNgonMeNoBgm"
         component={MatNgonMe}
         durationInFrames={MAT_NGON_ME_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="GiaoVienWhiteboardThumbnail"
+        component={GiaoVienWhiteboardThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="GiaoVienWhiteboard"
+        component={GiaoVienWhiteboard}
+        durationInFrames={GIAOVIEN_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="GiaoVienWhiteboardNoBgm"
+        component={GiaoVienWhiteboard}
+        durationInFrames={GIAOVIEN_FRAMES}
         fps={30}
         width={1080}
         height={1920}

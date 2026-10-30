@@ -1,0 +1,808 @@
+{
+ "title": "POV: Ta Là Một Giáo Viên",
+ "total": 243.868,
+ "beats": [
+  {
+   "name": "HOOK",
+   "header": "POV · GIÁO VIÊN",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Năm ấy.",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 0.789
+      },
+      {
+       "t": "Ta bước vào Sư Phạm Tông.",
+       "kind": "narr",
+       "start": 1.129,
+       "end": 2.385
+      },
+      {
+       "t": "Ai cũng bảo đây là nghề cao quý.",
+       "kind": "narr",
+       "start": 2.725,
+       "end": 4.363
+      },
+      {
+       "t": "Lương thì không ai bảo gì.",
+       "kind": "red",
+       "start": 4.703,
+       "end": 6.048
+      }
+     ]
+    },
+    {
+     "start": 6.508,
+     "lines": [
+      {
+       "t": "Ngày đầu đứng lớp. Bốn mươi lăm đôi mắt nhìn ta.",
+       "kind": "narr",
+       "start": 6.508,
+       "end": 8.998
+      },
+      {
+       "t": "Ta hắng giọng. \"Các em trật tự. Thầy nói lần cuối.\"",
+       "kind": "jade",
+       "start": 9.338,
+       "end": 12.163
+      },
+      {
+       "t": "Về sau mới biết.",
+       "kind": "red",
+       "start": 12.503,
+       "end": 13.301
+      },
+      {
+       "t": "Câu đó ta nói thêm mười năm nữa. Ngày nào cũng là lần cuối.",
+       "kind": "gold",
+       "start": 13.641,
+       "end": 16.678
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 17.308
+  },
+  {
+   "name": "VANTHANH",
+   "header": "VẠN THANH KIẾP",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 17.348,
+     "lines": [
+      {
+       "t": "Kiếp đầu tiên tên là Vạn Thanh.",
+       "kind": "red",
+       "start": 17.348,
+       "end": 18.87
+      },
+      {
+       "t": "Ta quay lên bảng viết một dòng. Sau lưng nổi lên một cái chợ.",
+       "kind": "narr",
+       "start": 19.21,
+       "end": 22.571
+      },
+      {
+       "t": "Ta quay xuống. Cả lớp im phăng phắc. Ai cũng đang chép bài.",
+       "kind": "narr",
+       "start": 22.911,
+       "end": 26.411
+      },
+      {
+       "t": "Ta quay lên. Chợ lại họp.",
+       "kind": "narr",
+       "start": 26.751,
+       "end": 28.151
+      }
+     ]
+    },
+    {
+     "start": 28.611,
+     "lines": [
+      {
+       "t": "Ta đứng giữa lớp hỏi: \"Đứa nào vừa nói chuyện?\"",
+       "kind": "jade",
+       "start": 28.611,
+       "end": 30.973
+      },
+      {
+       "t": "Bốn mươi lăm đứa cùng nhìn ra cửa sổ.",
+       "kind": "gold",
+       "start": 31.313,
+       "end": 33.139
+      },
+      {
+       "t": "Đạo tâm ta nứt một vết. Nhỏ thôi, nhưng nghe rõ tiếng rắc.",
+       "kind": "red",
+       "start": 33.479,
+       "end": 36.735
+      }
+     ]
+    },
+    {
+     "start": 37.195,
+     "lines": [
+      {
+       "t": "Từ đó ta luyện thành Phán Quan Bút.",
+       "kind": "narr",
+       "start": 37.195,
+       "end": 38.841
+      },
+      {
+       "t": "Không cần quát. Chỉ cần lật một cuốn sổ ra. Cả lớp tự khắc nín thở.",
+       "kind": "narr",
+       "start": 39.181,
+       "end": 43.046
+      },
+      {
+       "t": "Người đời gọi nó là.",
+       "kind": "cue",
+       "start": 43.386,
+       "end": 44.318
+      },
+      {
+       "t": "Sổ đầu bài.",
+       "kind": "term",
+       "start": 44.658,
+       "end": 45.313
+      }
+     ]
+    }
+   ],
+   "start": 17.308,
+   "end": 45.943
+  },
+  {
+   "name": "TAPVAN",
+   "header": "CHÂN NGÔN KIẾP",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 45.983,
+     "lines": [
+      {
+       "t": "Rồi ta giao bài văn về nhà.",
+       "kind": "narr",
+       "start": 45.983,
+       "end": 47.395
+      },
+      {
+       "t": "Ba mươi bài nộp lên. Ba mươi bài giống hệt nhau.",
+       "kind": "narr",
+       "start": 47.735,
+       "end": 50.333
+      },
+      {
+       "t": "Ta ra lệnh: từ nay viết tại lớp, điện thoại cất hết lên bàn thầy.",
+       "kind": "narr",
+       "start": 50.673,
+       "end": 53.987
+      },
+      {
+       "t": "Ta tưởng thế là thắng.",
+       "kind": "jade",
+       "start": 54.327,
+       "end": 55.4
+      },
+      {
+       "t": "Ta không biết mình vừa mở phong ấn thứ gì.",
+       "kind": "red",
+       "start": 55.74,
+       "end": 57.735
+      }
+     ]
+    },
+    {
+     "start": 58.195,
+     "lines": [
+      {
+       "t": "Đề bài: Tả một người thân trong gia đình.",
+       "kind": "narr",
+       "start": 58.195,
+       "end": 60.153
+      },
+      {
+       "t": "Bài đầu tiên ta cầm lên.",
+       "kind": "narr",
+       "start": 60.493,
+       "end": 61.674
+      },
+      {
+       "t": "\"Nhà em có nuôi một ông bố.\"",
+       "kind": "gold",
+       "start": 62.014,
+       "end": 63.258
+      }
+     ]
+    },
+    {
+     "start": 63.718,
+     "lines": [
+      {
+       "t": "Ta dụi mắt. Đọc tiếp.",
+       "kind": "narr",
+       "start": 63.718,
+       "end": 65.036
+      },
+      {
+       "t": "\"Hằng ngày bố chỉ đi làm về rồi nằm ườn ra đấy.\"",
+       "kind": "gold",
+       "start": 65.376,
+       "end": 67.608
+      },
+      {
+       "t": "\"Gọi ăn cơm thì bảo: đợi tao tí.\"",
+       "kind": "gold",
+       "start": 67.948,
+       "end": 69.827
+      },
+      {
+       "t": "\"Ăn xong cả nhà dọn, bố thì cầm điện thoại lên chơi game.\"",
+       "kind": "gold",
+       "start": 70.167,
+       "end": 73.072
+      },
+      {
+       "t": "Kết bài: \"Em rất yêu bố. Vừa vừa thôi. Không yêu lắm.\"",
+       "kind": "jade",
+       "start": 73.412,
+       "end": 76.809
+      }
+     ]
+    },
+    {
+     "start": 77.269,
+     "lines": [
+      {
+       "t": "Ta cầm bút đỏ, phê một dòng: \"Bài viết chưa phù hợp.\"",
+       "kind": "narr",
+       "start": 77.269,
+       "end": 79.831
+      }
+     ]
+    },
+    {
+     "start": 80.291,
+     "lines": [
+      {
+       "t": "Tuần sau họp phụ huynh. Mẹ em ấy đến.",
+       "kind": "narr",
+       "start": 80.291,
+       "end": 82.382
+      },
+      {
+       "t": "Đọc bài văn. Im lặng rất lâu.",
+       "kind": "narr",
+       "start": 82.722,
+       "end": 84.471
+      },
+      {
+       "t": "Rồi ngẩng lên nhìn ta.",
+       "kind": "jade",
+       "start": 84.811,
+       "end": 85.908
+      },
+      {
+       "t": "\"Thầy chấm sai rồi. Cháu viết đúng từng chữ.\"",
+       "kind": "gold",
+       "start": 86.248,
+       "end": 88.783
+      },
+      {
+       "t": "Ông bố ngồi bên cạnh. Không ngẩng lên. Vẫn đang chơi game.",
+       "kind": "red",
+       "start": 89.123,
+       "end": 91.99
+      }
+     ]
+    },
+    {
+     "start": 92.45,
+     "lines": [
+      {
+       "t": "Từ đó ta luyện thành Hỏa Nhãn Kim Tinh.",
+       "kind": "narr",
+       "start": 92.45,
+       "end": 94.287
+      },
+      {
+       "t": "Không cần gặp phụ huynh. Đọc bài văn tả người thân là biết cả nhà.",
+       "kind": "narr",
+       "start": 94.627,
+       "end": 98.129
+      },
+      {
+       "t": "Người đời gọi nó là.",
+       "kind": "cue",
+       "start": 98.469,
+       "end": 99.401
+      },
+      {
+       "t": "Tập làm văn.",
+       "kind": "term",
+       "start": 99.741,
+       "end": 100.398
+      }
+     ]
+    }
+   ],
+   "start": 45.943,
+   "end": 101.028
+  },
+  {
+   "name": "DAVAN",
+   "header": "DẠ VẤN KIẾP",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 101.068,
+     "lines": [
+      {
+       "t": "Nhưng kiếp nặng nhất không nằm trong lớp học.",
+       "kind": "narr",
+       "start": 101.068,
+       "end": 102.859
+      },
+      {
+       "t": "Nó nằm trong nhóm Zalo phụ huynh.",
+       "kind": "red",
+       "start": 103.199,
+       "end": 104.827
+      }
+     ]
+    },
+    {
+     "start": 105.287,
+     "lines": [
+      {
+       "t": "Thông báo nghỉ học, ta gửi ba lần, ghim lên đầu nhóm, in đậm.",
+       "kind": "narr",
+       "start": 105.287,
+       "end": 108.54
+      },
+      {
+       "t": "Mười một giờ đêm, có tin nhắn tới.",
+       "kind": "red",
+       "start": 108.88,
+       "end": 110.594
+      },
+      {
+       "t": "\"Thầy ơi mai cháu có đi học không ạ?\"",
+       "kind": "gold",
+       "start": 110.934,
+       "end": 112.649
+      }
+     ]
+    },
+    {
+     "start": 113.109,
+     "lines": [
+      {
+       "t": "Hôm sau thêm một tin nữa.",
+       "kind": "narr",
+       "start": 113.109,
+       "end": 114.311
+      },
+      {
+       "t": "\"Sao con tôi tám điểm mà bạn ngồi cạnh được chín?\"",
+       "kind": "red",
+       "start": 114.651,
+       "end": 117.027
+      },
+      {
+       "t": "Ta xem lại bài. Bạn ngồi cạnh làm đúng thêm một câu.",
+       "kind": "narr",
+       "start": 117.367,
+       "end": 120.113
+      },
+      {
+       "t": "Con của chị chép bài bạn đó. Chép sót đúng câu đó.",
+       "kind": "gold",
+       "start": 120.453,
+       "end": 123.227
+      }
+     ]
+    },
+    {
+     "start": 123.687,
+     "lines": [
+      {
+       "t": "Từ đó ta khắc lên tâm một đạo ấn.",
+       "kind": "narr",
+       "start": 123.687,
+       "end": 125.45
+      },
+      {
+       "t": "Người đời gọi nó là.",
+       "kind": "cue",
+       "start": 125.79,
+       "end": 126.722
+      },
+      {
+       "t": "Chỉ quản trị viên được nhắn tin.",
+       "kind": "term",
+       "start": 127.062,
+       "end": 128.69
+      }
+     ]
+    }
+   ],
+   "start": 101.028,
+   "end": 129.32
+  },
+  {
+   "name": "DUGIO",
+   "header": "DỰ GIỜ KIẾP",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 129.36,
+     "lines": [
+      {
+       "t": "Rồi tới ngày đoàn trên về dự giờ.",
+       "kind": "narr",
+       "start": 129.36,
+       "end": 131.067
+      },
+      {
+       "t": "Cả tuần trước đó ta tập dượt cho lớp.",
+       "kind": "narr",
+       "start": 131.407,
+       "end": 133.141
+      },
+      {
+       "t": "Biết thì giơ tay phải. Không biết thì giơ tay trái.",
+       "kind": "narr",
+       "start": 133.481,
+       "end": 136.146
+      },
+      {
+       "t": "Thầy chỉ gọi tay phải.",
+       "kind": "narr",
+       "start": 136.486,
+       "end": 137.625
+      }
+     ]
+    },
+    {
+     "start": 138.085,
+     "lines": [
+      {
+       "t": "Tiết học trôi như mơ. Câu nào hỏi ra, cả lớp cũng giơ tay rào rào.",
+       "kind": "jade",
+       "start": 138.085,
+       "end": 141.884
+      },
+      {
+       "t": "Tới khi trưởng đoàn đứng dậy, hỏi một câu không có trong kịch bản.",
+       "kind": "red",
+       "start": 142.224,
+       "end": 145.229
+      },
+      {
+       "t": "Bốn mươi lăm cánh tay giơ lên. Tay trái hết.",
+       "kind": "narr",
+       "start": 145.569,
+       "end": 147.806
+      }
+     ]
+    },
+    {
+     "start": 148.266,
+     "lines": [
+      {
+       "t": "Trưởng đoàn gật gù: \"Lớp này hăng hái quá. Để tôi gọi.\"",
+       "kind": "jade",
+       "start": 148.266,
+       "end": 151.328
+      },
+      {
+       "t": "Ông chỉ một em.",
+       "kind": "red",
+       "start": 151.668,
+       "end": 152.441
+      },
+      {
+       "t": "Em đứng dậy, rất thật thà: \"Dạ em không biết ạ. Em giơ tay trái mà.\"",
+       "kind": "gold",
+       "start": 152.781,
+       "end": 156.822
+      }
+     ]
+    },
+    {
+     "start": 157.282,
+     "lines": [
+      {
+       "t": "Thần thức ta rời khỏi xác, bay lên trần lớp, đứng nhìn xuống một lúc. Rồi cũng không muốn quay về.",
+       "kind": "red",
+       "start": 157.282,
+       "end": 162.519
+      }
+     ]
+    },
+    {
+     "start": 162.979,
+     "lines": [
+      {
+       "t": "Trưởng đoàn không nói gì. Chỉ cúi xuống ghi vào sổ một dòng.",
+       "kind": "narr",
+       "start": 162.979,
+       "end": 166.043
+      },
+      {
+       "t": "Sau này ta mới biết. Hồi còn đứng lớp, ông cũng dạy học trò giơ tay trái, tay phải y như vậy.",
+       "kind": "gold",
+       "start": 166.383,
+       "end": 171.437
+      }
+     ]
+    }
+   ],
+   "start": 129.32,
+   "end": 172.067
+  },
+  {
+   "name": "HAIMUOI",
+   "header": "NHỊ THẬP THÁNG MƯỜI MỘT",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 172.107,
+     "lines": [
+      {
+       "t": "Mỗi năm có một ngày cả Sư Phạm Tông được tôn vinh.",
+       "kind": "narr",
+       "start": 172.107,
+       "end": 174.559
+      },
+      {
+       "t": "Hai mươi tháng mười một.",
+       "kind": "narr",
+       "start": 174.899,
+       "end": 175.821
+      },
+      {
+       "t": "Ta nhận được mười bảy cái cốc.",
+       "kind": "jade",
+       "start": 176.161,
+       "end": 177.525
+      },
+      {
+       "t": "Nhà ta có ba người.",
+       "kind": "gold",
+       "start": 177.865,
+       "end": 178.9
+      }
+     ]
+    },
+    {
+     "start": 179.36,
+     "lines": [
+      {
+       "t": "Có một năm, học trò cũ tới thăm.",
+       "kind": "narr",
+       "start": 179.36,
+       "end": 181.13
+      },
+      {
+       "t": "Ôm ta: \"Thầy ơi, em nhớ thầy lắm.\"",
+       "kind": "narr",
+       "start": 181.47,
+       "end": 183.371
+      },
+      {
+       "t": "Rồi quay sang hỏi bạn đi cùng.",
+       "kind": "red",
+       "start": 183.711,
+       "end": 185.225
+      },
+      {
+       "t": "\"Ê, hồi đó thầy dạy môn gì ấy nhỉ?\"",
+       "kind": "gold",
+       "start": 185.565,
+       "end": 187.193
+      }
+     ]
+    }
+   ],
+   "start": 172.067,
+   "end": 187.823
+  },
+  {
+   "name": "CANHGIOI",
+   "header": "BẢNG CẢNH GIỚI",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 187.863,
+     "lines": [
+      {
+       "t": "Nhiều năm hành tẩu Sư Phạm Tông, ta mới ngộ ra.",
+       "kind": "narr",
+       "start": 187.863,
+       "end": 190.212
+      },
+      {
+       "t": "Hạ phẩm giáo viên: dạy được bài.",
+       "kind": "narr",
+       "start": 190.552,
+       "end": 192.333
+      },
+      {
+       "t": "Trung phẩm: dạy được bài mà lớp vẫn trật tự.",
+       "kind": "narr",
+       "start": 192.673,
+       "end": 194.933
+      },
+      {
+       "t": "Thượng phẩm: dạy được bài, lớp trật tự, phụ huynh không nhắn tin sau mười giờ đêm.",
+       "kind": "narr",
+       "start": 195.273,
+       "end": 199.748
+      }
+     ]
+    },
+    {
+     "start": 200.208,
+     "lines": [
+      {
+       "t": "Còn cực phẩm.",
+       "kind": "jade",
+       "start": 200.208,
+       "end": 200.952
+      },
+      {
+       "t": "Học trò ra trường hai mươi năm, gặp lại vẫn nhớ thầy dạy môn gì.",
+       "kind": "jade",
+       "start": 201.292,
+       "end": 204.266
+      },
+      {
+       "t": "Cảnh giới ấy đã thất truyền từ thời thượng cổ.",
+       "kind": "gold",
+       "start": 204.606,
+       "end": 206.677
+      }
+     ]
+    }
+   ],
+   "start": 187.823,
+   "end": 207.307
+  },
+  {
+   "name": "KET",
+   "header": "KẾT",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 207.347,
+     "lines": [
+      {
+       "t": "Cho nên, nếu có ai nói với ngươi \"Thầy nói lần cuối\"…",
+       "kind": "narr",
+       "start": 207.347,
+       "end": 210.037
+      },
+      {
+       "t": "Đừng cười.",
+       "kind": "narr",
+       "start": 210.377,
+       "end": 210.914
+      },
+      {
+       "t": "Đó là lời của một người đã nói câu ấy chín chín tám mốt lần mà vẫn chưa chịu xuống núi.",
+       "kind": "amber",
+       "start": 211.254,
+       "end": 215.431
+      }
+     ]
+    }
+   ],
+   "start": 207.307,
+   "end": 216.061
+  },
+  {
+   "name": "KIT",
+   "header": "BÍ KÍP TRUYỀN THỪA",
+   "speed": 1.2,
+   "pages": [
+    {
+     "start": 216.101,
+     "lines": [
+      {
+       "t": "Nhưng ngươi không cần đi lại chín chín tám mốt kiếp của ta.",
+       "kind": "narr",
+       "start": 216.101,
+       "end": 218.337
+      },
+      {
+       "t": "Ta đã chép lại một bộ bí kíp. Tên là: Giáo Viên Làm Chủ AI.",
+       "kind": "jade",
+       "start": 218.677,
+       "end": 221.54
+      }
+     ]
+    },
+    {
+     "start": 222.0,
+     "lines": [
+      {
+       "t": "Hai mươi câu lệnh soạn giáo án, học liệu, đề kiểm tra.",
+       "kind": "narr",
+       "start": 222.0,
+       "end": 224.492
+      },
+      {
+       "t": "Năm quy trình Gemini Notebook.",
+       "kind": "narr",
+       "start": 224.832,
+       "end": 226.014
+      },
+      {
+       "t": "Năm trò chơi khởi động. Lớp tự im, khỏi cần lật sổ đầu bài.",
+       "kind": "gold",
+       "start": 226.354,
+       "end": 229.11
+      },
+      {
+       "t": "Ba mẫu trước và sau khi dùng AI.",
+       "kind": "narr",
+       "start": 229.45,
+       "end": 230.995
+      },
+      {
+       "t": "Và một bảng kiểm chứng nội dung, bảo vệ dữ liệu học sinh.",
+       "kind": "narr",
+       "start": 231.335,
+       "end": 233.845
+      }
+     ]
+    },
+    {
+     "start": 234.305,
+     "lines": [
+      {
+       "t": "Soạn bài xong trước mười giờ tối. Còn kịp trả lời nhóm Zalo phụ huynh.",
+       "kind": "gold",
+       "start": 234.305,
+       "end": 237.519
+      },
+      {
+       "t": "Miễn phí.",
+       "kind": "jade",
+       "start": 237.859,
+       "end": 238.336
+      }
+     ]
+    },
+    {
+     "start": 238.796,
+     "lines": [
+      {
+       "t": "Bình luận \"AI TEACHER\". Ta gửi bí kíp tận tay.",
+       "kind": "cta",
+       "start": 238.796,
+       "end": 241.125
+      },
+      {
+       "t": "Theo dõi ta để nghe tiếp truyền kỳ các nghề.",
+       "kind": "cta",
+       "start": 241.465,
+       "end": 243.238
+      }
+     ]
+    }
+   ],
+   "start": 216.061,
+   "end": 243.868
+  }
+ ]
+}

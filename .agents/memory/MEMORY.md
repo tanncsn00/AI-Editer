@@ -70,6 +70,7 @@
 - [⭐ Roblox Studio pipeline](reference_roblox_studio_pipeline.md) — hướng làm video Roblox THẬT: Studio+MCP+Luau+OBS; Studio cài ở **E:\Roblox qua junction**; OBS websocket 4455 đã bật; ỉa đái phải pose bằng Luau để né kiểm duyệt
 
 ## 8. Reference khác
+- [⭐ Motion control trên Google Flow](reference_flow_motion_control.md) — nhân vật AI nhảy theo video mẫu: Omni 1.1 Flash, 3 người cùng lúc, 15 tín dụng/10s 720p; tách nền video mẫu trước; skill `flow-motion-control`
 
 - [Neon POV-nghề style](reference_neon_pov_style.md) — style ngoài blueprint (pov-ktv, pov-creator); dùng `/ui-ux-pro-max` derive design system mới khi user chê blueprint nhàm
 - [Claude 2026 specs](reference_claude_2026_specs.md) — verify lại trước khi quote số trong script
