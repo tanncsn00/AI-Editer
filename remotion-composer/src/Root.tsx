@@ -351,6 +351,10 @@ import { MatNgonDaoLuFullThumbnail } from "./MatNgonDaoLuFullThumbnail";
 import { GenZVsTheHeCu } from "./GenZVsTheHeCu";
 import { GenZVsTheHeCuThumbnail } from "./GenZVsTheHeCuThumbnail";
 import { XKiroGateway } from "./XKiroGateway";
+import { XKiroLimit, XKIRO_LIMIT_FRAMES } from "./XKiroLimit";
+import { XKiroLimitThumbnail } from "./XKiroLimitThumbnail";
+import { XKiroDrop, XKIRO_DROP_FRAMES } from "./XKiroDrop";
+import { XKiroDropThumbnail } from "./XKiroDropThumbnail";
 import { XKiroGatewayThumbnail } from "./XKiroGatewayThumbnail";
 import { AppFree60stech } from "./AppFree60stech";
 import { MatNgonGiaoVien } from "./MatNgonGiaoVien";
@@ -3164,6 +3168,58 @@ export const Root: React.FC = () => {
         id="AppFree60stechNoBgm"
         component={AppFree60stech}
         durationInFrames={5511}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="XKiroDropThumbnail"
+        component={XKiroDropThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="XKiroDrop"
+        component={XKiroDrop}
+        durationInFrames={XKIRO_DROP_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="XKiroDropNoBgm"
+        component={XKiroDrop}
+        durationInFrames={XKIRO_DROP_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="XKiroLimitThumbnail"
+        component={XKiroLimitThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="XKiroLimit"
+        component={XKiroLimit}
+        durationInFrames={XKIRO_LIMIT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="XKiroLimitNoBgm"
+        component={XKiroLimit}
+        durationInFrames={XKIRO_LIMIT_FRAMES}
         fps={30}
         width={1080}
         height={1920}

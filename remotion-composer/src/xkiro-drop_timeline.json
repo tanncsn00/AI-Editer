@@ -1,0 +1,224 @@
+{
+ "title": "Đạo Môn Phát Linh Thạch",
+ "total": 61.782,
+ "beats": [
+  {
+   "name": "HOOK",
+   "header": "Đạo môn phát linh thạch",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Có một đạo môn... đang ban phát năm mươi triệu token cho mỗi người.",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 3.648
+      },
+      {
+       "t": "Và điều đáng sợ là... túi nào cũng trúng.",
+       "kind": "red",
+       "start": 3.988,
+       "end": 6.319
+      },
+      {
+       "t": "Không có ô trượt. Thấp nhất năm mươi triệu, cao nhất một trăm triệu.",
+       "kind": "jade",
+       "start": 6.659,
+       "end": 10.041
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 10.671
+  },
+  {
+   "name": "REVEAL",
+   "header": "Tên đạo môn",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 10.711,
+     "lines": [
+      {
+       "t": "Người đời gọi nó là",
+       "kind": "cue",
+       "start": 10.711,
+       "end": 11.633
+      },
+      {
+       "t": "xKiro.",
+       "kind": "term",
+       "start": 11.973,
+       "end": 12.591
+      }
+     ]
+    }
+   ],
+   "start": 10.671,
+   "end": 13.221
+  },
+  {
+   "name": "MOTDAO",
+   "header": "Một đạo API",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 13.261,
+     "lines": [
+      {
+       "t": "Một đạo API, triệu hồi hơn trăm vị đại năng: Claude, GPT, Gemini, DeepSeek.",
+       "kind": "narr",
+       "start": 13.261,
+       "end": 18.41
+      },
+      {
+       "t": "Hơn bốn mươi vị mở cửa miễn phí mỗi ngày. Không cần thẻ.",
+       "kind": "jade",
+       "start": 18.75,
+       "end": 21.426
+      },
+      {
+       "t": "Vị nào tẩu hoả nhập ma, đạo môn tự tìm đường khác mà đi.",
+       "kind": "red",
+       "start": 21.766,
+       "end": 24.713
+      },
+      {
+       "t": "Đang tu OpenAI SDK? Chỉ cần đổi một dòng base URL.",
+       "kind": "narr",
+       "start": 25.053,
+       "end": 28.746
+      }
+     ]
+    }
+   ],
+   "start": 13.221,
+   "end": 29.376
+  },
+  {
+   "name": "NHAPMON",
+   "header": "Ba bước nhập môn",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 29.416,
+     "lines": [
+      {
+       "t": "Nhập môn chỉ ba bước.",
+       "kind": "narr",
+       "start": 29.416,
+       "end": 30.515
+      },
+      {
+       "t": "Tạo tài khoản. Xác nhận Telegram. Mở túi linh thạch.",
+       "kind": "jade",
+       "start": 30.855,
+       "end": 33.987
+      },
+      {
+       "t": "Xác nhận Telegram xong, linh lực mỗi ngày còn tăng gấp đôi.",
+       "kind": "gold",
+       "start": 34.327,
+       "end": 37.573
+      }
+     ]
+    }
+   ],
+   "start": 29.376,
+   "end": 38.203
+  },
+  {
+   "name": "NHANRA",
+   "header": "Bần đạo nhận ra",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 38.243,
+     "lines": [
+      {
+       "t": "Bần đạo lật bảng giá ra xem, mới hiểu.",
+       "kind": "narr",
+       "start": 38.243,
+       "end": 40.136
+      },
+      {
+       "t": "Nạp năm đô, dùng tới một trăm năm mươi đô.",
+       "kind": "red",
+       "start": 40.476,
+       "end": 42.584
+      },
+      {
+       "t": "Đạo môn này không bán đạo. Nó đang phát tài nguyên.",
+       "kind": "jade",
+       "start": 42.924,
+       "end": 45.523
+      }
+     ]
+    }
+   ],
+   "start": 38.203,
+   "end": 46.153
+  },
+  {
+   "name": "CANHBAO",
+   "header": "Cảnh báo",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 46.193,
+     "lines": [
+      {
+       "t": "Túi linh thạch chỉ phát tới hai mươi hai tháng mười một.",
+       "kind": "red",
+       "start": 46.193,
+       "end": 48.299
+      },
+      {
+       "t": "Đạo hữu nào còn nuôi từng con AI một gói...",
+       "kind": "gold",
+       "start": 48.639,
+       "end": 50.905
+      },
+      {
+       "t": "xin hãy coi chừng. Linh thạch chưa kịp phi thăng, đã bị thiên đạo trừ sạch.",
+       "kind": "red",
+       "start": 51.245,
+       "end": 55.348
+      }
+     ]
+    }
+   ],
+   "start": 46.153,
+   "end": 55.978
+  },
+  {
+   "name": "CTA",
+   "header": "Độ kiếp cùng giới IT",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 56.018,
+     "lines": [
+      {
+       "t": "Cổng nhập môn, bần đạo để ở comment ghim.",
+       "kind": "cta",
+       "start": 56.018,
+       "end": 58.091
+      },
+      {
+       "t": "Follow bần đạo, để mỗi ngày độ kiếp cùng giới IT.",
+       "kind": "cta",
+       "start": 58.431,
+       "end": 61.152
+      }
+     ]
+    }
+   ],
+   "start": 55.978,
+   "end": 61.782
+  }
+ ]
+}

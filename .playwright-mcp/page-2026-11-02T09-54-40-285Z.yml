@@ -1,0 +1,1946 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "xKiro home" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e6]: xKiro
+        - navigation "Main" [ref=e13]:
+          - link "Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+          - link "Models" [ref=e15] [cursor=pointer]:
+            - /url: /models
+          - link "Pricing" [ref=e16] [cursor=pointer]:
+            - /url: /#pricing
+          - link "Deals" [ref=e17] [cursor=pointer]:
+            - /url: /deals
+          - link "Docs" [ref=e18] [cursor=pointer]:
+            - /url: https://docs.xkiro.com
+            - text: Docs↗
+          - link "Status" [ref=e19] [cursor=pointer]:
+            - /url: /status
+          - link "Contact" [ref=e20] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e21]:
+          - link "Sign in" [ref=e22] [cursor=pointer]:
+            - /url: /login
+          - button "Language" [ref=e23] [cursor=pointer]:
+            - generic [ref=e25]: EN
+          - button "Toggle theme" [ref=e28] [cursor=pointer]
+          - link "Start free" [ref=e32] [cursor=pointer]:
+            - /url: /register
+    - main [ref=e33]:
+      - generic [ref=e34]:
+        - region [ref=e35]:
+          - generic [ref=e37]:
+            - generic [ref=e38]:
+              - paragraph [ref=e39]: Model catalog
+              - heading "103 AI models, one endpoint." [level=1] [ref=e40]:
+                - generic [ref=e41]: 103 AI models,
+                - generic [ref=e42]: one endpoint.
+              - paragraph [ref=e43]: GPT, Claude, Gemini, DeepSeek, Qwen and more from 14 providers. Compare context windows and per-token prices, then copy a model ID into the SDK you already use.
+              - generic [ref=e44]:
+                - link "Get your API key" [ref=e46] [cursor=pointer]:
+                  - /url: /register
+                  - text: Get your API key
+                  - generic [aria-hidden] [ref=e47]: →
+                - link "View plans" [ref=e48] [cursor=pointer]:
+                  - /url: /#pricing
+              - generic "The catalog in numbers" [ref=e49]:
+                - generic [ref=e50]:
+                  - term [ref=e51]: free to call, no card
+                  - definition [ref=e52]:
+                    - generic [aria-hidden] [ref=e53]:
+                      - generic [ref=e54]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e55]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e56]: "45"
+                - generic [ref=e57]:
+                  - term [ref=e58]: model providers
+                  - definition [ref=e59]:
+                    - generic [aria-hidden] [ref=e60]:
+                      - generic [ref=e61]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e62]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e63]: "14"
+                - generic [ref=e64]:
+                  - term [ref=e65]: tokens of context, max
+                  - definition [ref=e66]:
+                    - generic [aria-hidden] [ref=e67]:
+                      - generic [ref=e68]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e69]: .
+                      - generic [ref=e70]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e71]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e72]: M
+                    - generic [ref=e73]: 1.05M
+                - generic [ref=e74]:
+                  - term [ref=e75]: lowest input price per 1M tokens
+                  - definition [ref=e76]:
+                    - generic [aria-hidden] [ref=e77]:
+                      - generic [ref=e78]: $
+                      - generic [ref=e79]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e80]: .
+                      - generic [ref=e81]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                      - generic [ref=e82]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e83]: $0.05
+            - navigation "Providers in the catalog" [ref=e85]:
+              - generic [aria-hidden] [ref=e86]:
+                - generic [ref=e87]: Provider
+                - generic [ref=e88]: Models
+                - generic [ref=e89]: From / 1M
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - 'link "OpenAI: 8 models, from $0.1 per 1M input tokens" [ref=e92] [cursor=pointer]':
+                    - /url: "#p-openai"
+                    - img "OpenAI" [ref=e93]
+                    - generic [ref=e94]: OpenAI
+                    - generic [ref=e95]: "8"
+                    - generic [ref=e96]: $0.1
+                - listitem [ref=e97]:
+                  - 'link "Anthropic: 15 models, from $0.1 per 1M input tokens" [ref=e98] [cursor=pointer]':
+                    - /url: "#p-anthropic"
+                    - img "Anthropic" [ref=e99]
+                    - generic [ref=e100]: Anthropic
+                    - generic [ref=e101]: "15"
+                    - generic [ref=e102]: $0.1
+                - listitem [ref=e103]:
+                  - 'link "Google: 8 models, from $0.195 per 1M input tokens" [ref=e104] [cursor=pointer]':
+                    - /url: "#p-google"
+                    - img "Google" [ref=e105]
+                    - generic [ref=e106]: Google
+                    - generic [ref=e107]: "8"
+                    - generic [ref=e108]: $0.195
+                - listitem [ref=e109]:
+                  - 'link "DeepSeek: 3 models, from $0.075 per 1M input tokens" [ref=e110] [cursor=pointer]':
+                    - /url: "#p-deepseek"
+                    - img "DeepSeek" [ref=e111]
+                    - generic [ref=e112]: DeepSeek
+                    - generic [ref=e113]: "3"
+                    - generic [ref=e114]: $0.075
+                - listitem [ref=e115]:
+                  - 'link "Qwen: 19 models, all free" [ref=e116] [cursor=pointer]':
+                    - /url: "#p-qwen"
+                    - img "Qwen" [ref=e117]
+                    - generic [ref=e118]: Qwen
+                    - generic [ref=e119]: "19"
+                    - generic [ref=e120]: Free
+                - listitem [ref=e121]:
+                  - 'link "Grok: 3 models, from $2 per 1M input tokens" [ref=e122] [cursor=pointer]':
+                    - /url: "#p-grok"
+                    - img "Grok" [ref=e123]
+                    - generic [ref=e124]: Grok
+                    - generic [ref=e125]: "3"
+                    - generic [ref=e126]: $2
+                - listitem [ref=e127]:
+                  - 'link "Kimi: 2 models, from $1 per 1M input tokens" [ref=e128] [cursor=pointer]':
+                    - /url: "#p-kimi"
+                    - img "Kimi" [ref=e129]
+                    - generic [ref=e130]: Kimi
+                    - generic [ref=e131]: "2"
+                    - generic [ref=e132]: $1
+                - listitem [ref=e133]:
+                  - 'link "Mistral: 9 models, from $0.68 per 1M input tokens" [ref=e134] [cursor=pointer]':
+                    - /url: "#p-mistral"
+                    - img "Mistral" [ref=e135]
+                    - generic [ref=e136]: Mistral
+                    - generic [ref=e137]: "9"
+                    - generic [ref=e138]: $0.68
+                - listitem [ref=e139]:
+                  - 'link "MiniMax: 9 models, from $0.15 per 1M input tokens" [ref=e140] [cursor=pointer]':
+                    - /url: "#p-minimax"
+                    - img "MiniMax" [ref=e141]
+                    - generic [ref=e142]: MiniMax
+                    - generic [ref=e143]: "9"
+                    - generic [ref=e144]: $0.15
+                - listitem [ref=e145]:
+                  - 'link "MiMo: 3 models, from $0.14 per 1M input tokens" [ref=e146] [cursor=pointer]':
+                    - /url: "#p-mimo"
+                    - img "MiMo" [ref=e147]
+                    - generic [ref=e148]: MiMo
+                    - generic [ref=e149]: "3"
+                    - generic [ref=e150]: $0.14
+                - listitem [ref=e151]:
+                  - 'link "NVIDIA: 3 models, from $0.05 per 1M input tokens" [ref=e152] [cursor=pointer]':
+                    - /url: "#p-nvidia"
+                    - img "NVIDIA" [ref=e153]
+                    - generic [ref=e154]: NVIDIA
+                    - generic [ref=e155]: "3"
+                    - generic [ref=e156]: $0.05
+                - listitem [ref=e157]:
+                  - 'link "Tencent: 3 models, from $0.132 per 1M input tokens" [ref=e158] [cursor=pointer]':
+                    - /url: "#p-tencent"
+                    - img "Tencent" [ref=e159]
+                    - generic [ref=e160]: Tencent
+                    - generic [ref=e161]: "3"
+                    - generic [ref=e162]: $0.132
+                - listitem [ref=e163]:
+                  - 'link "Cohere: 16 models, all free" [ref=e164] [cursor=pointer]':
+                    - /url: "#p-cohere"
+                    - img "Cohere" [ref=e165]
+                    - generic [ref=e166]: Cohere
+                    - generic [ref=e167]: "16"
+                    - generic [ref=e168]: Free
+                - listitem [ref=e169]:
+                  - 'link "SenseNova: 1 model, all free" [ref=e170] [cursor=pointer]':
+                    - /url: "#p-sensenova"
+                    - img "SenseNova" [ref=e171]
+                    - generic [ref=e172]: SenseNova
+                    - generic [ref=e173]: "1"
+                    - generic [ref=e174]: Free
+                - listitem [ref=e175]:
+                  - 'link "Stealth: 1 anonymous model from an unannounced lab" [ref=e176] [cursor=pointer]':
+                    - /url: "#p-stealth"
+                    - img "Stealth" [ref=e177]
+                    - generic [ref=e178]: StealthAnonymous
+                    - generic [ref=e179]: "1"
+                    - generic [ref=e180]: Free
+              - paragraph [ref=e181]: "Stealth: models from a lab that hasn't been announced yet — not counted as a provider."
+        - region [ref=e186]:
+          - generic [ref=e187]:
+            - heading "Browse models" [level=2] [ref=e188]
+            - generic [ref=e190]:
+              - generic [ref=e192]:
+                - searchbox "Search models" [ref=e193]
+                - generic [ref=e194]: /
+              - generic [ref=e195]:
+                - paragraph [ref=e196]: 103 models
+                - group "Sort" [ref=e197]:
+                  - button "Provider" [pressed] [ref=e198] [cursor=pointer]
+                  - button "Price" [ref=e199] [cursor=pointer]
+                  - button "Context" [ref=e200] [cursor=pointer]
+            - generic [ref=e201]:
+              - group "Filter by capability" [ref=e202]:
+                - button "All 103" [pressed] [ref=e203] [cursor=pointer]:
+                  - text: All
+                  - generic [ref=e204]: "103"
+                - button "Free 45" [ref=e205] [cursor=pointer]:
+                  - text: Free
+                  - generic [ref=e206]: "45"
+                - button "Vision 55" [ref=e207] [cursor=pointer]:
+                  - text: Vision
+                  - generic [ref=e208]: "55"
+                - button "Reasoning 81" [ref=e209] [cursor=pointer]:
+                  - text: Reasoning
+                  - generic [ref=e210]: "81"
+                - button "Tool use 83" [ref=e211] [cursor=pointer]:
+                  - text: Tool use
+                  - generic [ref=e212]: "83"
+                - button "1M+ context 49" [ref=e213] [cursor=pointer]:
+                  - text: 1M+ context
+                  - generic [ref=e214]: "49"
+              - generic [ref=e215]:
+                - generic [ref=e216]: From these prices, when you use your whole allowance
+                - generic [ref=e217]:
+                  - radiogroup "Show prices" [ref=e218]:
+                    - radio "On a plan" [checked] [ref=e219] [cursor=pointer]
+                    - radio "Pay as you go" [ref=e220] [cursor=pointer]
+                  - button "How the plan price is worked out" [ref=e221] [cursor=pointer]
+            - generic [ref=e224]:
+              - region [ref=e225]:
+                - generic [ref=e226]:
+                  - heading [level=2] [ref=e227]:
+                    - img "OpenAI" [ref=e228]
+                    - text: OpenAI
+                  - paragraph [ref=e229]: 8 models · from $0.1
+                - table [ref=e231]:
+                  - caption [ref=e232]: OpenAI models, with prices per 1M tokens
+                  - rowgroup [ref=e233]:
+                    - row [ref=e234]:
+                      - columnheader "Model" [ref=e235]
+                      - columnheader "Context" [ref=e236]
+                      - columnheader "Input / 1M" [ref=e237]
+                      - columnheader "Output / 1M" [ref=e238]
+                      - columnheader "Cache read / 1M" [ref=e239]
+                  - rowgroup [ref=e240]:
+                    - row [ref=e241]:
+                      - rowheader "GPT-6.1 Sol Up to −96% Copy openai/gpt-6.1-sol Vision · Reasoning · Tool use" [ref=e242]:
+                        - link "GPT-6.1 Sol" [ref=e243] [cursor=pointer]:
+                          - /url: /models/openai/gpt-6.1-sol
+                        - generic [ref=e244]: Up to −96%
+                        - button "Copy openai/gpt-6.1-sol" [ref=e245] [cursor=pointer]: openai/gpt-6.1-sol
+                        - generic [ref=e246]: Vision · Reasoning · Tool use
+                      - cell "1.05M" [ref=e247]
+                      - cell "$0.067 $2" [ref=e248]:
+                        - text: $0.067
+                        - generic [ref=e249]: $2
+                      - cell "$0.34 $10" [ref=e250]:
+                        - text: $0.34
+                        - generic [ref=e251]: $10
+                      - cell "$0.0034" [ref=e252]
+                    - row [ref=e253]:
+                      - rowheader "GPT-6.1 Terra Up to −96% Copy openai/gpt-6.1-terra Vision · Reasoning · Tool use" [ref=e254]:
+                        - link "GPT-6.1 Terra" [ref=e255] [cursor=pointer]:
+                          - /url: /models/openai/gpt-6.1-terra
+                        - generic [ref=e256]: Up to −96%
+                        - button "Copy openai/gpt-6.1-terra" [ref=e257] [cursor=pointer]: openai/gpt-6.1-terra
+                        - generic [ref=e258]: Vision · Reasoning · Tool use
+                      - cell "1.05M" [ref=e259]
+                      - cell "$0.034 $1" [ref=e260]:
+                        - text: $0.034
+                        - generic [ref=e261]: $1
+                      - cell "$0.17 $5" [ref=e262]:
+                        - text: $0.17
+                        - generic [ref=e263]: $5
+                      - cell "$0.0017" [ref=e264]
+                    - row [ref=e265]:
+                      - rowheader "GPT-6 Astra Up to −96% Ultra and Power plans Copy openai/gpt-6-astra Vision · Reasoning · Tool use" [ref=e266]:
+                        - link "GPT-6 Astra" [ref=e267] [cursor=pointer]:
+                          - /url: /models/openai/gpt-6-astra
+                        - generic [ref=e268]: Up to −96%
+                        - generic [ref=e269]: Ultra and Power plans
+                        - button "Copy openai/gpt-6-astra" [ref=e270] [cursor=pointer]: openai/gpt-6-astra
+                        - generic [ref=e271]: Vision · Reasoning · Tool use
+                      - cell "1.05M" [ref=e272]
+                      - cell "$0.34 $10" [ref=e273]:
+                        - text: $0.34
+                        - generic [ref=e274]: $10
+                      - cell "$1.70 $50" [ref=e275]:
+                        - text: $1.70
+                        - generic [ref=e276]: $50
+                      - cell "$0.034" [ref=e277]
+                    - row [ref=e278]:
+                      - rowheader "GPT-6 Sol Up to −96% Copy openai/gpt-6-sol Vision · Reasoning · Tool use" [ref=e279]:
+                        - link "GPT-6 Sol" [ref=e280] [cursor=pointer]:
+                          - /url: /models/openai/gpt-6-sol
+                        - generic [ref=e281]: Up to −96%
+                        - button "Copy openai/gpt-6-sol" [ref=e282] [cursor=pointer]: openai/gpt-6-sol
+                        - generic [ref=e283]: Vision · Reasoning · Tool use
+                      - cell "1.05M" [ref=e284]
+                      - cell "$0.067 $2" [ref=e285]:
+                        - text: $0.067
+                        - generic [ref=e286]: $2
+                      - cell "$0.34 $10" [ref=e287]:
+                        - text: $0.34
+                        - generic [ref=e288]: $10
+                      - cell "$0.0067" [ref=e289]
+                    - row [ref=e290]:
+                      - rowheader "GPT-6 Luna Up to −96% Copy openai/gpt-6-luna Vision · Reasoning · Tool use" [ref=e291]:
+                        - link "GPT-6 Luna" [ref=e292] [cursor=pointer]:
+                          - /url: /models/openai/gpt-6-luna
+                        - generic [ref=e293]: Up to −96%
+                        - button "Copy openai/gpt-6-luna" [ref=e294] [cursor=pointer]: openai/gpt-6-luna
+                        - generic [ref=e295]: Vision · Reasoning · Tool use
+                      - cell "1.05M" [ref=e296]
+                      - cell "$0.0034 $0.1" [ref=e297]:
+                        - text: $0.0034
+                        - generic [ref=e298]: $0.1
+                      - cell "$0.017 $0.5" [ref=e299]:
+                        - text: $0.017
+                        - generic [ref=e300]: $0.5
+                      - cell "$0.0003" [ref=e301]
+                    - row [ref=e302]:
+                      - rowheader "GPT-5.6 Sol Up to −96% Copy openai/gpt-5.6-sol Vision · Reasoning · Tool use" [ref=e303]:
+                        - link "GPT-5.6 Sol" [ref=e304] [cursor=pointer]:
+                          - /url: /models/openai/gpt-5.6-sol
+                        - generic [ref=e305]: Up to −96%
+                        - button "Copy openai/gpt-5.6-sol" [ref=e306] [cursor=pointer]: openai/gpt-5.6-sol
+                        - generic [ref=e307]: Vision · Reasoning · Tool use
+                      - cell "1M" [ref=e308]
+                      - cell "$0.067 $2" [ref=e309]:
+                        - text: $0.067
+                        - generic [ref=e310]: $2
+                      - cell "$0.34 $10" [ref=e311]:
+                        - text: $0.34
+                        - generic [ref=e312]: $10
+                      - cell "$0.0067" [ref=e313]
+                    - row [ref=e314]:
+                      - rowheader "GPT-5.6 Terra Up to −96% Copy openai/gpt-5.6-terra Vision · Reasoning · Tool use" [ref=e315]:
+                        - link "GPT-5.6 Terra" [ref=e316] [cursor=pointer]:
+                          - /url: /models/openai/gpt-5.6-terra
+                        - generic [ref=e317]: Up to −96%
+                        - button "Copy openai/gpt-5.6-terra" [ref=e318] [cursor=pointer]: openai/gpt-5.6-terra
+                        - generic [ref=e319]: Vision · Reasoning · Tool use
+                      - cell "1M" [ref=e320]
+                      - cell "$0.034 $1" [ref=e321]:
+                        - text: $0.034
+                        - generic [ref=e322]: $1
+                      - cell "$0.2 $6" [ref=e323]:
+                        - text: $0.2
+                        - generic [ref=e324]: $6
+                      - cell "$0.0042" [ref=e325]
+                    - row [ref=e326]:
+                      - rowheader "GPT-5.6 Luna Up to −96% Copy openai/gpt-5.6-luna Vision · Reasoning · Tool use" [ref=e327]:
+                        - link "GPT-5.6 Luna" [ref=e328] [cursor=pointer]:
+                          - /url: /models/openai/gpt-5.6-luna
+                        - generic [ref=e329]: Up to −96%
+                        - button "Copy openai/gpt-5.6-luna" [ref=e330] [cursor=pointer]: openai/gpt-5.6-luna
+                        - generic [ref=e331]: Vision · Reasoning · Tool use
+                      - cell "1M" [ref=e332]
+                      - cell "$0.0034 $0.1" [ref=e333]:
+                        - text: $0.0034
+                        - generic [ref=e334]: $0.1
+                      - cell "$0.02 $0.6" [ref=e335]:
+                        - text: $0.02
+                        - generic [ref=e336]: $0.6
+                      - cell "$0.0017" [ref=e337]
+              - region [ref=e338]:
+                - generic [ref=e339]:
+                  - heading [level=2] [ref=e340]:
+                    - img "Anthropic" [ref=e341]
+                    - text: Anthropic
+                  - paragraph [ref=e342]: 15 models · from $0.1
+                - table [ref=e344]:
+                  - caption [ref=e345]: Anthropic models, with prices per 1M tokens
+                  - rowgroup [ref=e346]:
+                    - row [ref=e347]:
+                      - columnheader "Model" [ref=e348]
+                      - columnheader "Context" [ref=e349]
+                      - columnheader "Input / 1M" [ref=e350]
+                      - columnheader "Output / 1M" [ref=e351]
+                      - columnheader "Cache read / 1M" [ref=e352]
+                  - rowgroup [ref=e353]:
+                    - row [ref=e354]:
+                      - rowheader "Fable 5.1 Up to −96% Ultra and Power plans Copy anthropic/claude-fable-5-1 Reasoning" [ref=e355]:
+                        - link "Fable 5.1" [ref=e356] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-fable-5-1
+                        - generic [ref=e357]: Up to −96%
+                        - generic [ref=e358]: Ultra and Power plans
+                        - button "Copy anthropic/claude-fable-5-1" [ref=e359] [cursor=pointer]: anthropic/claude-fable-5-1
+                        - generic [ref=e360]: Reasoning
+                      - cell "1M" [ref=e361]
+                      - cell "$0.34 $10" [ref=e362]:
+                        - text: $0.34
+                        - generic [ref=e363]: $10
+                      - cell "$1.70 $50" [ref=e364]:
+                        - text: $1.70
+                        - generic [ref=e365]: $50
+                      - cell "$0.0084" [ref=e366]
+                    - row [ref=e367]:
+                      - rowheader "Fable 5 Up to −96% Copy anthropic/claude-fable-5 Reasoning" [ref=e368]:
+                        - link "Fable 5" [ref=e369] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-fable-5
+                        - generic [ref=e370]: Up to −96%
+                        - button "Copy anthropic/claude-fable-5" [ref=e371] [cursor=pointer]: anthropic/claude-fable-5
+                        - generic [ref=e372]: Reasoning
+                      - cell "1M" [ref=e373]
+                      - cell "$0.34 $10" [ref=e374]:
+                        - text: $0.34
+                        - generic [ref=e375]: $10
+                      - cell "$1.70 $50" [ref=e376]:
+                        - text: $1.70
+                        - generic [ref=e377]: $50
+                      - cell "$0.034" [ref=e378]
+                    - row [ref=e379]:
+                      - rowheader "Sonnet 5.5 Up to −96% New Copy anthropic/claude-sonnet-5.5 Reasoning" [ref=e380]:
+                        - link "Sonnet 5.5" [ref=e381] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-sonnet-5.5
+                        - generic [ref=e382]: Up to −96%
+                        - generic [ref=e383]: New
+                        - button "Copy anthropic/claude-sonnet-5.5" [ref=e384] [cursor=pointer]: anthropic/claude-sonnet-5.5
+                        - generic [ref=e385]: Reasoning
+                      - cell "1M" [ref=e386]
+                      - cell "$0.067 $2" [ref=e387]:
+                        - text: $0.067
+                        - generic [ref=e388]: $2
+                      - cell "$0.34 $10" [ref=e389]:
+                        - text: $0.34
+                        - generic [ref=e390]: $10
+                      - cell "$0.0034" [ref=e391]
+                    - row [ref=e392]:
+                      - rowheader "Opus 5.5 Up to −96% Copy anthropic/claude-opus-5.5 Reasoning" [ref=e393]:
+                        - link "Opus 5.5" [ref=e394] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-opus-5.5
+                        - generic [ref=e395]: Up to −96%
+                        - button "Copy anthropic/claude-opus-5.5" [ref=e396] [cursor=pointer]: anthropic/claude-opus-5.5
+                        - generic [ref=e397]: Reasoning
+                      - cell "1M" [ref=e398]
+                      - cell "$0.14 $4" [ref=e399]:
+                        - text: $0.14
+                        - generic [ref=e400]: $4
+                      - cell "$0.67 $20" [ref=e401]:
+                        - text: $0.67
+                        - generic [ref=e402]: $20
+                      - cell "$0.0067" [ref=e403]
+                    - row [ref=e404]:
+                      - rowheader "Opus 5 Up to −96% Copy anthropic/claude-opus-5 Reasoning" [ref=e405]:
+                        - link "Opus 5" [ref=e406] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-opus-5
+                        - generic [ref=e407]: Up to −96%
+                        - button "Copy anthropic/claude-opus-5" [ref=e408] [cursor=pointer]: anthropic/claude-opus-5
+                        - generic [ref=e409]: Reasoning
+                      - cell "1M" [ref=e410]
+                      - cell "$0.17 $5" [ref=e411]:
+                        - text: $0.17
+                        - generic [ref=e412]: $5
+                      - cell "$0.84 $25" [ref=e413]:
+                        - text: $0.84
+                        - generic [ref=e414]: $25
+                      - cell "$0.017" [ref=e415]
+                    - row [ref=e416]:
+                      - rowheader "Sonnet 4.5 Up to −96% Copy anthropic/claude-sonnet-4.5 Reasoning" [ref=e417]:
+                        - link "Sonnet 4.5" [ref=e418] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-sonnet-4.5
+                        - generic [ref=e419]: Up to −96%
+                        - button "Copy anthropic/claude-sonnet-4.5" [ref=e420] [cursor=pointer]: anthropic/claude-sonnet-4.5
+                        - generic [ref=e421]: Reasoning
+                      - cell "1M" [ref=e422]
+                      - cell "$0.1 $3" [ref=e423]:
+                        - text: $0.1
+                        - generic [ref=e424]: $3
+                      - cell "$0.5 $15" [ref=e425]:
+                        - text: $0.5
+                        - generic [ref=e426]: $15
+                      - cell "$0.01" [ref=e427]
+                    - row [ref=e428]:
+                      - rowheader "Opus 4.8 Up to −96% Copy anthropic/claude-opus-4.8 Reasoning" [ref=e429]:
+                        - link "Opus 4.8" [ref=e430] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-opus-4.8
+                        - generic [ref=e431]: Up to −96%
+                        - button "Copy anthropic/claude-opus-4.8" [ref=e432] [cursor=pointer]: anthropic/claude-opus-4.8
+                        - generic [ref=e433]: Reasoning
+                      - cell "1M" [ref=e434]
+                      - cell "$0.17 $5" [ref=e435]:
+                        - text: $0.17
+                        - generic [ref=e436]: $5
+                      - cell "$0.84 $25" [ref=e437]:
+                        - text: $0.84
+                        - generic [ref=e438]: $25
+                      - cell "$0.017" [ref=e439]
+                    - row [ref=e440]:
+                      - rowheader "Haiku 5.5 Up to −96% New Copy anthropic/claude-haiku-5.5 Reasoning" [ref=e441]:
+                        - link "Haiku 5.5" [ref=e442] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-haiku-5.5
+                        - generic [ref=e443]: Up to −96%
+                        - generic [ref=e444]: New
+                        - button "Copy anthropic/claude-haiku-5.5" [ref=e445] [cursor=pointer]: anthropic/claude-haiku-5.5
+                        - generic [ref=e446]: Reasoning
+                      - cell "1M" [ref=e447]
+                      - cell "$0.0034 $0.1" [ref=e448]:
+                        - text: $0.0034
+                        - generic [ref=e449]: $0.1
+                      - cell "$0.017 $0.5" [ref=e450]:
+                        - text: $0.017
+                        - generic [ref=e451]: $0.5
+                      - cell "$0.0003" [ref=e452]
+                    - row [ref=e453]:
+                      - rowheader "Sonnet 4 Up to −96% Copy anthropic/claude-sonnet-4 Reasoning" [ref=e454]:
+                        - link "Sonnet 4" [ref=e455] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-sonnet-4
+                        - generic [ref=e456]: Up to −96%
+                        - button "Copy anthropic/claude-sonnet-4" [ref=e457] [cursor=pointer]: anthropic/claude-sonnet-4
+                        - generic [ref=e458]: Reasoning
+                      - cell "1M" [ref=e459]
+                      - cell "$0.1 $3" [ref=e460]:
+                        - text: $0.1
+                        - generic [ref=e461]: $3
+                      - cell "$0.5 $15" [ref=e462]:
+                        - text: $0.5
+                        - generic [ref=e463]: $15
+                      - cell "$0.01" [ref=e464]
+                    - row [ref=e465]:
+                      - rowheader "Opus 4.7 Up to −96% Copy anthropic/claude-opus-4.7 Reasoning" [ref=e466]:
+                        - link "Opus 4.7" [ref=e467] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-opus-4.7
+                        - generic [ref=e468]: Up to −96%
+                        - button "Copy anthropic/claude-opus-4.7" [ref=e469] [cursor=pointer]: anthropic/claude-opus-4.7
+                        - generic [ref=e470]: Reasoning
+                      - cell "1M" [ref=e471]
+                      - cell "$0.17 $5" [ref=e472]:
+                        - text: $0.17
+                        - generic [ref=e473]: $5
+                      - cell "$0.84 $25" [ref=e474]:
+                        - text: $0.84
+                        - generic [ref=e475]: $25
+                      - cell "$0.017" [ref=e476]
+                    - row [ref=e477]:
+                      - rowheader "Opus 4.6 Up to −96% Copy anthropic/claude-opus-4.6 Reasoning" [ref=e478]:
+                        - link "Opus 4.6" [ref=e479] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-opus-4.6
+                        - generic [ref=e480]: Up to −96%
+                        - button "Copy anthropic/claude-opus-4.6" [ref=e481] [cursor=pointer]: anthropic/claude-opus-4.6
+                        - generic [ref=e482]: Reasoning
+                      - cell "1M" [ref=e483]
+                      - cell "$0.17 $5" [ref=e484]:
+                        - text: $0.17
+                        - generic [ref=e485]: $5
+                      - cell "$0.84 $25" [ref=e486]:
+                        - text: $0.84
+                        - generic [ref=e487]: $25
+                      - cell "$0.017" [ref=e488]
+                    - row [ref=e489]:
+                      - rowheader "Opus 4.5 Up to −96% Copy anthropic/claude-opus-4.5 Reasoning" [ref=e490]:
+                        - link "Opus 4.5" [ref=e491] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-opus-4.5
+                        - generic [ref=e492]: Up to −96%
+                        - button "Copy anthropic/claude-opus-4.5" [ref=e493] [cursor=pointer]: anthropic/claude-opus-4.5
+                        - generic [ref=e494]: Reasoning
+                      - cell "200K" [ref=e495]
+                      - cell "$0.17 $5" [ref=e496]:
+                        - text: $0.17
+                        - generic [ref=e497]: $5
+                      - cell "$0.84 $25" [ref=e498]:
+                        - text: $0.84
+                        - generic [ref=e499]: $25
+                      - cell "$0.017" [ref=e500]
+                    - row [ref=e501]:
+                      - rowheader "Sonnet 5 Up to −96% Copy anthropic/claude-sonnet-5 Reasoning" [ref=e502]:
+                        - link "Sonnet 5" [ref=e503] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-sonnet-5
+                        - generic [ref=e504]: Up to −96%
+                        - button "Copy anthropic/claude-sonnet-5" [ref=e505] [cursor=pointer]: anthropic/claude-sonnet-5
+                        - generic [ref=e506]: Reasoning
+                      - cell "1M" [ref=e507]
+                      - cell "$0.067 $2" [ref=e508]:
+                        - text: $0.067
+                        - generic [ref=e509]: $2
+                      - cell "$0.34 $10" [ref=e510]:
+                        - text: $0.34
+                        - generic [ref=e511]: $10
+                      - cell "$0.0067" [ref=e512]
+                    - row [ref=e513]:
+                      - rowheader "Sonnet 4.6 Up to −96% Copy anthropic/claude-sonnet-4.6 Reasoning" [ref=e514]:
+                        - link "Sonnet 4.6" [ref=e515] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-sonnet-4.6
+                        - generic [ref=e516]: Up to −96%
+                        - button "Copy anthropic/claude-sonnet-4.6" [ref=e517] [cursor=pointer]: anthropic/claude-sonnet-4.6
+                        - generic [ref=e518]: Reasoning
+                      - cell "1M" [ref=e519]
+                      - cell "$0.1 $3" [ref=e520]:
+                        - text: $0.1
+                        - generic [ref=e521]: $3
+                      - cell "$0.5 $15" [ref=e522]:
+                        - text: $0.5
+                        - generic [ref=e523]: $15
+                      - cell "$0.01" [ref=e524]
+                    - row [ref=e525]:
+                      - rowheader "Haiku 4.5 Up to −96% Copy anthropic/claude-haiku-4.5 Reasoning" [ref=e526]:
+                        - link "Haiku 4.5" [ref=e527] [cursor=pointer]:
+                          - /url: /models/anthropic/claude-haiku-4.5
+                        - generic [ref=e528]: Up to −96%
+                        - button "Copy anthropic/claude-haiku-4.5" [ref=e529] [cursor=pointer]: anthropic/claude-haiku-4.5
+                        - generic [ref=e530]: Reasoning
+                      - cell "200K" [ref=e531]
+                      - cell "$0.034 $1" [ref=e532]:
+                        - text: $0.034
+                        - generic [ref=e533]: $1
+                      - cell "$0.17 $5" [ref=e534]:
+                        - text: $0.17
+                        - generic [ref=e535]: $5
+                      - cell "$0.0034" [ref=e536]
+              - region [ref=e537]:
+                - generic:
+                  - heading [level=2] [ref=e538]:
+                    - img "Google" [ref=e539]
+                    - text: Google
+                  - paragraph [ref=e540]: 8 models · from $0.195
+                - table [ref=e542]:
+                  - caption [ref=e543]: Google models, with prices per 1M tokens
+                  - rowgroup [ref=e544]:
+                    - row [ref=e545]:
+                      - columnheader "Model" [ref=e546]
+                      - columnheader "Context" [ref=e547]
+                      - columnheader "Input / 1M" [ref=e548]
+                      - columnheader "Output / 1M" [ref=e549]
+                      - columnheader "Cache read / 1M" [ref=e550]
+                  - rowgroup [ref=e551]:
+                    - row [ref=e552]:
+                      - rowheader "Gemini 3.8 Flash −35% Pay as you go Copy google/gemini-3.8-flash Vision · Video input · Reasoning · Tool use" [ref=e553]:
+                        - link "Gemini 3.8 Flash" [ref=e554] [cursor=pointer]:
+                          - /url: /models/google/gemini-3.8-flash
+                        - generic [ref=e555]: −35%
+                        - generic [ref=e556]: Pay as you go
+                        - button "Copy google/gemini-3.8-flash" [ref=e557] [cursor=pointer]: google/gemini-3.8-flash
+                        - generic [ref=e558]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e559]
+                      - cell "$0.4875 $0.75" [ref=e560]:
+                        - text: $0.4875
+                        - generic [ref=e561]: $0.75
+                      - cell "$2.44 $3.75" [ref=e562]:
+                        - text: $2.44
+                        - generic [ref=e563]: $3.75
+                      - cell "$0.0488" [ref=e564]
+                    - row [ref=e565]:
+                      - rowheader "Gemini 3.7 Flash −35% Pay as you go Copy google/gemini-3.7-flash Vision · Video input · Reasoning · Tool use" [ref=e566]:
+                        - link "Gemini 3.7 Flash" [ref=e567] [cursor=pointer]:
+                          - /url: /models/google/gemini-3.7-flash
+                        - generic [ref=e568]: −35%
+                        - generic [ref=e569]: Pay as you go
+                        - button "Copy google/gemini-3.7-flash" [ref=e570] [cursor=pointer]: google/gemini-3.7-flash
+                        - generic [ref=e571]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e572]
+                      - cell "$0.4875 $0.75" [ref=e573]:
+                        - text: $0.4875
+                        - generic [ref=e574]: $0.75
+                      - cell "$2.44 $3.75" [ref=e575]:
+                        - text: $2.44
+                        - generic [ref=e576]: $3.75
+                      - cell "$0.0488" [ref=e577]
+                    - row [ref=e578]:
+                      - rowheader "Gemini 3.5 Flash −35% Pay as you go Copy google/gemini-3.5-flash Vision · Video input · Reasoning · Tool use" [ref=e579]:
+                        - link "Gemini 3.5 Flash" [ref=e580] [cursor=pointer]:
+                          - /url: /models/google/gemini-3.5-flash
+                        - generic [ref=e581]: −35%
+                        - generic [ref=e582]: Pay as you go
+                        - button "Copy google/gemini-3.5-flash" [ref=e583] [cursor=pointer]: google/gemini-3.5-flash
+                        - generic [ref=e584]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e585]
+                      - cell "$0.975 $1.50" [ref=e586]:
+                        - text: $0.975
+                        - generic [ref=e587]: $1.50
+                      - cell "$5.85 $9" [ref=e588]:
+                        - text: $5.85
+                        - generic [ref=e589]: $9
+                      - cell "$0.0975" [ref=e590]
+                    - row [ref=e591]:
+                      - rowheader "Gemini 3.6 Flash −35% Pay as you go Copy google/gemini-3.6-flash Vision · Video input · Reasoning · Tool use" [ref=e592]:
+                        - link "Gemini 3.6 Flash" [ref=e593] [cursor=pointer]:
+                          - /url: /models/google/gemini-3.6-flash
+                        - generic [ref=e594]: −35%
+                        - generic [ref=e595]: Pay as you go
+                        - button "Copy google/gemini-3.6-flash" [ref=e596] [cursor=pointer]: google/gemini-3.6-flash
+                        - generic [ref=e597]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e598]
+                      - cell "$0.4875 $0.75" [ref=e599]:
+                        - text: $0.4875
+                        - generic [ref=e600]: $0.75
+                      - cell "$2.44 $3.75" [ref=e601]:
+                        - text: $2.44
+                        - generic [ref=e602]: $3.75
+                      - cell "$0.0488" [ref=e603]
+                    - row [ref=e604]:
+                      - rowheader "Gemini 3.1 Pro −35% Pay as you go Copy google/gemini-3.1-pro Vision · Video input · Reasoning · Tool use" [ref=e605]:
+                        - link "Gemini 3.1 Pro" [ref=e606] [cursor=pointer]:
+                          - /url: /models/google/gemini-3.1-pro
+                        - generic [ref=e607]: −35%
+                        - generic [ref=e608]: Pay as you go
+                        - button "Copy google/gemini-3.1-pro" [ref=e609] [cursor=pointer]: google/gemini-3.1-pro
+                        - generic [ref=e610]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e611]
+                      - cell "$1.30 $2" [ref=e612]:
+                        - text: $1.30
+                        - generic [ref=e613]: $2
+                      - cell "$7.80 $12" [ref=e614]:
+                        - text: $7.80
+                        - generic [ref=e615]: $12
+                      - cell "$0.13" [ref=e616]
+                    - row [ref=e617]:
+                      - rowheader "Gemini 3 Flash −35% Pay as you go Copy google/gemini-3-flash Vision · Video input · Reasoning · Tool use" [ref=e618]:
+                        - link "Gemini 3 Flash" [ref=e619] [cursor=pointer]:
+                          - /url: /models/google/gemini-3-flash
+                        - generic [ref=e620]: −35%
+                        - generic [ref=e621]: Pay as you go
+                        - button "Copy google/gemini-3-flash" [ref=e622] [cursor=pointer]: google/gemini-3-flash
+                        - generic [ref=e623]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e624]
+                      - cell "$0.4875 $0.75" [ref=e625]:
+                        - text: $0.4875
+                        - generic [ref=e626]: $0.75
+                      - cell "$2.44 $3.75" [ref=e627]:
+                        - text: $2.44
+                        - generic [ref=e628]: $3.75
+                      - cell "$0.0488" [ref=e629]
+                    - row [ref=e630]:
+                      - rowheader "Gemini 2.5 Flash −35% Pay as you go Copy google/gemini-2.5-flash Vision · Video input · Reasoning · Tool use" [ref=e631]:
+                        - link "Gemini 2.5 Flash" [ref=e632] [cursor=pointer]:
+                          - /url: /models/google/gemini-2.5-flash
+                        - generic [ref=e633]: −35%
+                        - generic [ref=e634]: Pay as you go
+                        - button "Copy google/gemini-2.5-flash" [ref=e635] [cursor=pointer]: google/gemini-2.5-flash
+                        - generic [ref=e636]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e637]
+                      - cell "$0.195 $0.3" [ref=e638]:
+                        - text: $0.195
+                        - generic [ref=e639]: $0.3
+                      - cell "$1.63 $2.50" [ref=e640]:
+                        - text: $1.63
+                        - generic [ref=e641]: $2.50
+                      - cell "$0.0195" [ref=e642]
+                    - row [ref=e643]:
+                      - rowheader "Gemini 2.5 Pro −35% Pay as you go Copy google/gemini-2.5-pro Vision · Video input · Reasoning · Tool use" [ref=e644]:
+                        - link "Gemini 2.5 Pro" [ref=e645] [cursor=pointer]:
+                          - /url: /models/google/gemini-2.5-pro
+                        - generic [ref=e646]: −35%
+                        - generic [ref=e647]: Pay as you go
+                        - button "Copy google/gemini-2.5-pro" [ref=e648] [cursor=pointer]: google/gemini-2.5-pro
+                        - generic [ref=e649]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e650]
+                      - cell "$0.8125 $1.25" [ref=e651]:
+                        - text: $0.8125
+                        - generic [ref=e652]: $1.25
+                      - cell "$6.50 $10" [ref=e653]:
+                        - text: $6.50
+                        - generic [ref=e654]: $10
+                      - cell "$0.0813" [ref=e655]
+              - region [ref=e656]:
+                - generic:
+                  - heading [level=2] [ref=e657]:
+                    - img "DeepSeek" [ref=e658]
+                    - text: DeepSeek
+                  - paragraph [ref=e659]: 3 models · from $0.075
+                - table [ref=e661]:
+                  - caption [ref=e662]: DeepSeek models, with prices per 1M tokens
+                  - rowgroup [ref=e663]:
+                    - row [ref=e664]:
+                      - columnheader "Model" [ref=e665]
+                      - columnheader "Context" [ref=e666]
+                      - columnheader "Input / 1M" [ref=e667]
+                      - columnheader "Output / 1M" [ref=e668]
+                      - columnheader "Cache read / 1M" [ref=e669]
+                  - rowgroup [ref=e670]:
+                    - row [ref=e671]:
+                      - rowheader "DeepSeek V4.1 Flash −50% Pay as you go Copy deepseek/deepseek-v4.1-flash Vision · Reasoning · Tool use" [ref=e672]:
+                        - link "DeepSeek V4.1 Flash" [ref=e673] [cursor=pointer]:
+                          - /url: /models/deepseek/deepseek-v4.1-flash
+                        - generic [ref=e674]: −50%
+                        - generic [ref=e675]: Pay as you go
+                        - button "Copy deepseek/deepseek-v4.1-flash" [ref=e676] [cursor=pointer]: deepseek/deepseek-v4.1-flash
+                        - generic [ref=e677]: Vision · Reasoning · Tool use
+                      - cell "1.05M" [ref=e678]
+                      - cell "$0.075 $0.15" [ref=e679]:
+                        - text: $0.075
+                        - generic [ref=e680]: $0.15
+                      - cell "$0.3 $0.6" [ref=e681]:
+                        - text: $0.3
+                        - generic [ref=e682]: $0.6
+                      - cell "$0.0015" [ref=e683]
+                    - row [ref=e684]:
+                      - rowheader "DeepSeek V4 Pro 0813 −35% Pay as you go Copy deepseek/deepseek-v4-pro-0813 Reasoning · Tool use" [ref=e685]:
+                        - link "DeepSeek V4 Pro 0813" [ref=e686] [cursor=pointer]:
+                          - /url: /models/deepseek/deepseek-v4-pro-0813
+                        - generic [ref=e687]: −35%
+                        - generic [ref=e688]: Pay as you go
+                        - button "Copy deepseek/deepseek-v4-pro-0813" [ref=e689] [cursor=pointer]: deepseek/deepseek-v4-pro-0813
+                        - generic [ref=e690]: Reasoning · Tool use
+                      - cell "1.05M" [ref=e691]
+                      - cell "$0.2828 $0.435" [ref=e692]:
+                        - text: $0.2828
+                        - generic [ref=e693]: $0.435
+                      - cell "$0.5655 $0.87" [ref=e694]:
+                        - text: $0.5655
+                        - generic [ref=e695]: $0.87
+                      - cell "$0.0023" [ref=e696]
+                    - row [ref=e697]:
+                      - rowheader "DeepSeek V4 Flash 0731 −35% Pay as you go Copy deepseek/deepseek-v4-flash-0731 Reasoning · Tool use" [ref=e698]:
+                        - link "DeepSeek V4 Flash 0731" [ref=e699] [cursor=pointer]:
+                          - /url: /models/deepseek/deepseek-v4-flash-0731
+                        - generic [ref=e700]: −35%
+                        - generic [ref=e701]: Pay as you go
+                        - button "Copy deepseek/deepseek-v4-flash-0731" [ref=e702] [cursor=pointer]: deepseek/deepseek-v4-flash-0731
+                        - generic [ref=e703]: Reasoning · Tool use
+                      - cell "1.05M" [ref=e704]
+                      - cell "$0.091 $0.14" [ref=e705]:
+                        - text: $0.091
+                        - generic [ref=e706]: $0.14
+                      - cell "$0.182 $0.28" [ref=e707]:
+                        - text: $0.182
+                        - generic [ref=e708]: $0.28
+                      - cell "$0.0182" [ref=e709]
+              - region [ref=e710]:
+                - generic:
+                  - heading [level=2] [ref=e711]:
+                    - img "Qwen" [ref=e712]
+                    - text: Qwen
+                  - paragraph [ref=e713]: 19 models · all free
+                - table [ref=e715]:
+                  - caption [ref=e716]: Qwen models, with prices per 1M tokens
+                  - rowgroup [ref=e717]:
+                    - row [ref=e718]:
+                      - columnheader "Model" [ref=e719]
+                      - columnheader "Context" [ref=e720]
+                      - columnheader "Input / 1M" [ref=e721]
+                      - columnheader "Output / 1M" [ref=e722]
+                      - columnheader "Cache read / 1M" [ref=e723]
+                  - rowgroup [ref=e724]:
+                    - row [ref=e725]:
+                      - rowheader "Qwen3.8 Omni Flash (Free) Copy qwen/qwen3.8-omni-flash:free Vision · Video input · Reasoning · Tool use" [ref=e726]:
+                        - link "Qwen3.8 Omni Flash (Free)" [ref=e727] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.8-omni-flash:free
+                        - button "Copy qwen/qwen3.8-omni-flash:free" [ref=e728] [cursor=pointer]: qwen/qwen3.8-omni-flash:free
+                        - generic [ref=e729]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e730]
+                      - cell "Free" [ref=e731]
+                      - cell "—" [ref=e732]
+                    - row [ref=e733]:
+                      - rowheader "Qwen3.8 Max (Free) Copy qwen/qwen3.8-max:free Vision · Video input · Reasoning · Tool use" [ref=e734]:
+                        - link "Qwen3.8 Max (Free)" [ref=e735] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.8-max:free
+                        - button "Copy qwen/qwen3.8-max:free" [ref=e736] [cursor=pointer]: qwen/qwen3.8-max:free
+                        - generic [ref=e737]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e738]
+                      - cell "Free" [ref=e739]
+                      - cell "—" [ref=e740]
+                    - row [ref=e741]:
+                      - rowheader "Qwen3.7 Max (Free) Copy qwen/qwen3.7-max:free Reasoning · Tool use" [ref=e742]:
+                        - link "Qwen3.7 Max (Free)" [ref=e743] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.7-max:free
+                        - button "Copy qwen/qwen3.7-max:free" [ref=e744] [cursor=pointer]: qwen/qwen3.7-max:free
+                        - generic [ref=e745]: Reasoning · Tool use
+                      - cell "1M" [ref=e746]
+                      - cell "Free" [ref=e747]
+                      - cell "—" [ref=e748]
+                    - row [ref=e749]:
+                      - rowheader "Qwen3.7 Plus (Free) Copy qwen/qwen3.7-plus:free Vision · Video input · Reasoning · Tool use" [ref=e750]:
+                        - link "Qwen3.7 Plus (Free)" [ref=e751] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.7-plus:free
+                        - button "Copy qwen/qwen3.7-plus:free" [ref=e752] [cursor=pointer]: qwen/qwen3.7-plus:free
+                        - generic [ref=e753]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e754]
+                      - cell "Free" [ref=e755]
+                      - cell "—" [ref=e756]
+                    - row [ref=e757]:
+                      - rowheader "Qwen3.7 Flash (Free) Copy qwen/qwen3.7-flash:free Vision · Video input · Reasoning · Tool use" [ref=e758]:
+                        - link "Qwen3.7 Flash (Free)" [ref=e759] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.7-flash:free
+                        - button "Copy qwen/qwen3.7-flash:free" [ref=e760] [cursor=pointer]: qwen/qwen3.7-flash:free
+                        - generic [ref=e761]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e762]
+                      - cell "Free" [ref=e763]
+                      - cell "—" [ref=e764]
+                    - row [ref=e765]:
+                      - rowheader "Qwen3.6 Plus (Free) Copy qwen/qwen3.6-plus:free Vision · Video input · Reasoning · Tool use" [ref=e766]:
+                        - link "Qwen3.6 Plus (Free)" [ref=e767] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.6-plus:free
+                        - button "Copy qwen/qwen3.6-plus:free" [ref=e768] [cursor=pointer]: qwen/qwen3.6-plus:free
+                        - generic [ref=e769]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e770]
+                      - cell "Free" [ref=e771]
+                      - cell "—" [ref=e772]
+                    - row [ref=e773]:
+                      - rowheader "Qwen3.6 Max Preview (Free) Copy qwen/qwen3.6-max-preview:free Reasoning · Tool use" [ref=e774]:
+                        - link "Qwen3.6 Max Preview (Free)" [ref=e775] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.6-max-preview:free
+                        - button "Copy qwen/qwen3.6-max-preview:free" [ref=e776] [cursor=pointer]: qwen/qwen3.6-max-preview:free
+                        - generic [ref=e777]: Reasoning · Tool use
+                      - cell "262K" [ref=e778]
+                      - cell "Free" [ref=e779]
+                      - cell "—" [ref=e780]
+                    - row [ref=e781]:
+                      - rowheader "Qwen3.6 27B (Free) Copy qwen/qwen3.6-27b:free Vision · Video input · Reasoning · Tool use" [ref=e782]:
+                        - link "Qwen3.6 27B (Free)" [ref=e783] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.6-27b:free
+                        - button "Copy qwen/qwen3.6-27b:free" [ref=e784] [cursor=pointer]: qwen/qwen3.6-27b:free
+                        - generic [ref=e785]: Vision · Video input · Reasoning · Tool use
+                      - cell "262K" [ref=e786]
+                      - cell "Free" [ref=e787]
+                      - cell "—" [ref=e788]
+                    - row [ref=e789]:
+                      - rowheader "Qwen3.5 Plus (Free) Copy qwen/qwen3.5-plus:free Vision · Video input · Reasoning · Tool use" [ref=e790]:
+                        - link "Qwen3.5 Plus (Free)" [ref=e791] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.5-plus:free
+                        - button "Copy qwen/qwen3.5-plus:free" [ref=e792] [cursor=pointer]: qwen/qwen3.5-plus:free
+                        - generic [ref=e793]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e794]
+                      - cell "Free" [ref=e795]
+                      - cell "—" [ref=e796]
+                    - row [ref=e797]:
+                      - rowheader "Qwen3.5 Omni Plus (Free) Copy qwen/qwen3.5-omni-plus:free Vision · Video input · Tool use" [ref=e798]:
+                        - link "Qwen3.5 Omni Plus (Free)" [ref=e799] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.5-omni-plus:free
+                        - button "Copy qwen/qwen3.5-omni-plus:free" [ref=e800] [cursor=pointer]: qwen/qwen3.5-omni-plus:free
+                        - generic [ref=e801]: Vision · Video input · Tool use
+                      - cell "262K" [ref=e802]
+                      - cell "Free" [ref=e803]
+                      - cell "—" [ref=e804]
+                    - row [ref=e805]:
+                      - rowheader "Qwen3.6 35B A3B (Free) Copy qwen/qwen3.6-35b-a3b:free Vision · Video input · Reasoning · Tool use" [ref=e806]:
+                        - link "Qwen3.6 35B A3B (Free)" [ref=e807] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.6-35b-a3b:free
+                        - button "Copy qwen/qwen3.6-35b-a3b:free" [ref=e808] [cursor=pointer]: qwen/qwen3.6-35b-a3b:free
+                        - generic [ref=e809]: Vision · Video input · Reasoning · Tool use
+                      - cell "262K" [ref=e810]
+                      - cell "Free" [ref=e811]
+                      - cell "—" [ref=e812]
+                    - row [ref=e813]:
+                      - rowheader "Qwen3.5 Flash (Free) Copy qwen/qwen3.5-flash:free Vision · Video input · Reasoning · Tool use" [ref=e814]:
+                        - link "Qwen3.5 Flash (Free)" [ref=e815] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.5-flash:free
+                        - button "Copy qwen/qwen3.5-flash:free" [ref=e816] [cursor=pointer]: qwen/qwen3.5-flash:free
+                        - generic [ref=e817]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e818]
+                      - cell "Free" [ref=e819]
+                      - cell "—" [ref=e820]
+                    - row [ref=e821]:
+                      - rowheader "Qwen3.5 397B A17B (Free) Copy qwen/qwen3.5-397b-a17b:free Vision · Video input · Reasoning · Tool use" [ref=e822]:
+                        - link "Qwen3.5 397B A17B (Free)" [ref=e823] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.5-397b-a17b:free
+                        - button "Copy qwen/qwen3.5-397b-a17b:free" [ref=e824] [cursor=pointer]: qwen/qwen3.5-397b-a17b:free
+                        - generic [ref=e825]: Vision · Video input · Reasoning · Tool use
+                      - cell "262K" [ref=e826]
+                      - cell "Free" [ref=e827]
+                      - cell "—" [ref=e828]
+                    - row [ref=e829]:
+                      - rowheader "Qwen3.5 Omni Flash (Free) Copy qwen/qwen3.5-omni-flash:free Vision · Video input · Tool use" [ref=e830]:
+                        - link "Qwen3.5 Omni Flash (Free)" [ref=e831] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3.5-omni-flash:free
+                        - button "Copy qwen/qwen3.5-omni-flash:free" [ref=e832] [cursor=pointer]: qwen/qwen3.5-omni-flash:free
+                        - generic [ref=e833]: Vision · Video input · Tool use
+                      - cell "262K" [ref=e834]
+                      - cell "Free" [ref=e835]
+                      - cell "—" [ref=e836]
+                    - row [ref=e837]:
+                      - rowheader "Qwen3 Max (Free) Copy qwen/qwen3-max:free Vision · Video input · Reasoning · Tool use" [ref=e838]:
+                        - link "Qwen3 Max (Free)" [ref=e839] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3-max:free
+                        - button "Copy qwen/qwen3-max:free" [ref=e840] [cursor=pointer]: qwen/qwen3-max:free
+                        - generic [ref=e841]: Vision · Video input · Reasoning · Tool use
+                      - cell "262K" [ref=e842]
+                      - cell "Free" [ref=e843]
+                      - cell "—" [ref=e844]
+                    - row [ref=e845]:
+                      - rowheader "Qwen Plus 0728 (Free) Copy qwen/qwen-plus-2025-07-28:free Vision · Video input · Reasoning · Tool use" [ref=e846]:
+                        - link "Qwen Plus 0728 (Free)" [ref=e847] [cursor=pointer]:
+                          - /url: /models/qwen/qwen-plus-2025-07-28:free
+                        - button "Copy qwen/qwen-plus-2025-07-28:free" [ref=e848] [cursor=pointer]: qwen/qwen-plus-2025-07-28:free
+                        - generic [ref=e849]: Vision · Video input · Reasoning · Tool use
+                      - cell "131K" [ref=e850]
+                      - cell "Free" [ref=e851]
+                      - cell "—" [ref=e852]
+                    - row [ref=e853]:
+                      - rowheader "Qwen3 Coder Plus (Free) Copy qwen/qwen3-coder-plus:free Vision · Video input · Reasoning · Tool use" [ref=e854]:
+                        - link "Qwen3 Coder Plus (Free)" [ref=e855] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3-coder-plus:free
+                        - button "Copy qwen/qwen3-coder-plus:free" [ref=e856] [cursor=pointer]: qwen/qwen3-coder-plus:free
+                        - generic [ref=e857]: Vision · Video input · Reasoning · Tool use
+                      - cell "1.05M" [ref=e858]
+                      - cell "Free" [ref=e859]
+                      - cell "—" [ref=e860]
+                    - row [ref=e861]:
+                      - rowheader "Qwen3 VL Plus (Free) Copy qwen/qwen3-vl-plus:free Vision · Video input · Reasoning · Tool use" [ref=e862]:
+                        - link "Qwen3 VL Plus (Free)" [ref=e863] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3-vl-plus:free
+                        - button "Copy qwen/qwen3-vl-plus:free" [ref=e864] [cursor=pointer]: qwen/qwen3-vl-plus:free
+                        - generic [ref=e865]: Vision · Video input · Reasoning · Tool use
+                      - cell "262K" [ref=e866]
+                      - cell "Free" [ref=e867]
+                      - cell "—" [ref=e868]
+                    - row [ref=e869]:
+                      - rowheader "Qwen3 Omni Flash (Free) Copy qwen/qwen3-omni-flash:free Vision · Video input · Tool use" [ref=e870]:
+                        - link "Qwen3 Omni Flash (Free)" [ref=e871] [cursor=pointer]:
+                          - /url: /models/qwen/qwen3-omni-flash:free
+                        - button "Copy qwen/qwen3-omni-flash:free" [ref=e872] [cursor=pointer]: qwen/qwen3-omni-flash:free
+                        - generic [ref=e873]: Vision · Video input · Tool use
+                      - cell "262K" [ref=e874]
+                      - cell "Free" [ref=e875]
+                      - cell "—" [ref=e876]
+              - region [ref=e877]:
+                - generic:
+                  - heading [level=2] [ref=e878]:
+                    - img "Grok" [ref=e879]
+                    - text: Grok
+                  - paragraph [ref=e880]: 3 models · from $2
+                - table [ref=e882]:
+                  - caption [ref=e883]: Grok models, with prices per 1M tokens
+                  - rowgroup [ref=e884]:
+                    - row [ref=e885]:
+                      - columnheader "Model" [ref=e886]
+                      - columnheader "Context" [ref=e887]
+                      - columnheader "Input / 1M" [ref=e888]
+                      - columnheader "Output / 1M" [ref=e889]
+                      - columnheader "Cache read / 1M" [ref=e890]
+                  - rowgroup [ref=e891]:
+                    - row [ref=e892]:
+                      - rowheader "Grok 4.7 Up to −96% Copy x-ai/grok-4.7 Vision · Reasoning · Tool use" [ref=e893]:
+                        - link "Grok 4.7" [ref=e894] [cursor=pointer]:
+                          - /url: /models/x-ai/grok-4.7
+                        - generic [ref=e895]: Up to −96%
+                        - button "Copy x-ai/grok-4.7" [ref=e896] [cursor=pointer]: x-ai/grok-4.7
+                        - generic [ref=e897]: Vision · Reasoning · Tool use
+                      - cell "500K" [ref=e898]
+                      - cell "$0.067 $2" [ref=e899]:
+                        - text: $0.067
+                        - generic [ref=e900]: $2
+                      - cell "$0.2 $6" [ref=e901]:
+                        - text: $0.2
+                        - generic [ref=e902]: $6
+                      - cell "$0.017" [ref=e903]
+                    - row [ref=e904]:
+                      - rowheader "Grok 4.6 Up to −96% Paid accounts Copy x-ai/grok-4.6 Vision · Reasoning · Tool use" [ref=e905]:
+                        - link "Grok 4.6" [ref=e906] [cursor=pointer]:
+                          - /url: /models/x-ai/grok-4.6
+                        - generic [ref=e907]: Up to −96%
+                        - generic [ref=e908]: Paid accounts
+                        - button "Copy x-ai/grok-4.6" [ref=e909] [cursor=pointer]: x-ai/grok-4.6
+                        - generic [ref=e910]: Vision · Reasoning · Tool use
+                      - cell "500K" [ref=e911]
+                      - cell "$0.067 $2" [ref=e912]:
+                        - text: $0.067
+                        - generic [ref=e913]: $2
+                      - cell "$0.2 $6" [ref=e914]:
+                        - text: $0.2
+                        - generic [ref=e915]: $6
+                      - cell "$0.017" [ref=e916]
+                    - row [ref=e917]:
+                      - rowheader "Grok 4.5 Up to −96% Copy x-ai/grok-4.5 Vision · Reasoning · Tool use" [ref=e918]:
+                        - link "Grok 4.5" [ref=e919] [cursor=pointer]:
+                          - /url: /models/x-ai/grok-4.5
+                        - generic [ref=e920]: Up to −96%
+                        - button "Copy x-ai/grok-4.5" [ref=e921] [cursor=pointer]: x-ai/grok-4.5
+                        - generic [ref=e922]: Vision · Reasoning · Tool use
+                      - cell "500K" [ref=e923]
+                      - cell "$0.067 $2" [ref=e924]:
+                        - text: $0.067
+                        - generic [ref=e925]: $2
+                      - cell "$0.2 $6" [ref=e926]:
+                        - text: $0.2
+                        - generic [ref=e927]: $6
+                      - cell "$0.01" [ref=e928]
+              - region [ref=e929]:
+                - generic:
+                  - heading [level=2] [ref=e930]:
+                    - img "Kimi" [ref=e931]
+                    - text: Kimi
+                  - paragraph [ref=e932]: 2 models · from $1
+                - table [ref=e934]:
+                  - caption [ref=e935]: Kimi models, with prices per 1M tokens
+                  - rowgroup [ref=e936]:
+                    - row [ref=e937]:
+                      - columnheader "Model" [ref=e938]
+                      - columnheader "Context" [ref=e939]
+                      - columnheader "Input / 1M" [ref=e940]
+                      - columnheader "Output / 1M" [ref=e941]
+                      - columnheader "Cache read / 1M" [ref=e942]
+                  - rowgroup [ref=e943]:
+                    - row [ref=e944]:
+                      - rowheader "Kimi K3 Agent Up to −96% Paid accounts Copy moonshotai/kimi-k3-agent Vision · Reasoning · Tool use" [ref=e945]:
+                        - link "Kimi K3 Agent" [ref=e946] [cursor=pointer]:
+                          - /url: /models/moonshotai/kimi-k3-agent
+                        - generic [ref=e947]: Up to −96%
+                        - generic [ref=e948]: Paid accounts
+                        - button "Copy moonshotai/kimi-k3-agent" [ref=e949] [cursor=pointer]: moonshotai/kimi-k3-agent
+                        - generic [ref=e950]: Vision · Reasoning · Tool use
+                      - cell "262K" [ref=e951]
+                      - cell "$0.1 $3" [ref=e952]:
+                        - text: $0.1
+                        - generic [ref=e953]: $3
+                      - cell "$0.5 $15" [ref=e954]:
+                        - text: $0.5
+                        - generic [ref=e955]: $15
+                      - cell "$0.01" [ref=e956]
+                    - row [ref=e957]:
+                      - rowheader "Kimi K2.8 Preview Agent Up to −96% Paid accounts Copy moonshotai/kimi-k2.8-preview-agent Vision · Reasoning · Tool use" [ref=e958]:
+                        - link "Kimi K2.8 Preview Agent" [ref=e959] [cursor=pointer]:
+                          - /url: /models/moonshotai/kimi-k2.8-preview-agent
+                        - generic [ref=e960]: Up to −96%
+                        - generic [ref=e961]: Paid accounts
+                        - button "Copy moonshotai/kimi-k2.8-preview-agent" [ref=e962] [cursor=pointer]: moonshotai/kimi-k2.8-preview-agent
+                        - generic [ref=e963]: Vision · Reasoning · Tool use
+                      - cell "262K" [ref=e964]
+                      - cell "$0.034 $1" [ref=e965]:
+                        - text: $0.034
+                        - generic [ref=e966]: $1
+                      - cell "$0.14 $4" [ref=e967]:
+                        - text: $0.14
+                        - generic [ref=e968]: $4
+                      - cell "$0.0054" [ref=e969]
+              - region [ref=e970]:
+                - generic:
+                  - heading [level=2] [ref=e971]:
+                    - img "Mistral" [ref=e972]
+                    - text: Mistral
+                  - paragraph [ref=e973]: 9 models · from $0.68 · 8 free
+                - table [ref=e975]:
+                  - caption [ref=e976]: Mistral models, with prices per 1M tokens
+                  - rowgroup [ref=e977]:
+                    - row [ref=e978]:
+                      - columnheader "Model" [ref=e979]
+                      - columnheader "Context" [ref=e980]
+                      - columnheader "Input / 1M" [ref=e981]
+                      - columnheader "Output / 1M" [ref=e982]
+                      - columnheader "Cache read / 1M" [ref=e983]
+                  - rowgroup [ref=e984]:
+                    - row [ref=e985]:
+                      - rowheader "Mistral Large 4 Up to −96% Copy mistralai/mistral-large-4-0 Reasoning" [ref=e986]:
+                        - link "Mistral Large 4" [ref=e987] [cursor=pointer]:
+                          - /url: /models/mistralai/mistral-large-4-0
+                        - generic [ref=e988]: Up to −96%
+                        - button "Copy mistralai/mistral-large-4-0" [ref=e989] [cursor=pointer]: mistralai/mistral-large-4-0
+                        - generic [ref=e990]: Reasoning
+                      - cell "256K" [ref=e991]
+                      - cell "$0.023 $0.68" [ref=e992]:
+                        - text: $0.023
+                        - generic [ref=e993]: $0.68
+                      - cell "$0.07 $2.09" [ref=e994]:
+                        - text: $0.07
+                        - generic [ref=e995]: $2.09
+                      - cell "$0.0024" [ref=e996]
+                    - row [ref=e997]:
+                      - rowheader "Mistral Large 3 Copy mistralai/mistral-large-2512 Vision · Tool use" [ref=e998]:
+                        - link "Mistral Large 3" [ref=e999] [cursor=pointer]:
+                          - /url: /models/mistralai/mistral-large-2512
+                        - button "Copy mistralai/mistral-large-2512" [ref=e1000] [cursor=pointer]: mistralai/mistral-large-2512
+                        - generic [ref=e1001]: Vision · Tool use
+                      - cell "256K" [ref=e1002]
+                      - cell "Free" [ref=e1003]
+                      - cell "—" [ref=e1004]
+                    - row [ref=e1005]:
+                      - rowheader "Mistral Medium 3.5 Copy mistralai/mistral-medium-3.5 Vision · Reasoning · Tool use" [ref=e1006]:
+                        - link "Mistral Medium 3.5" [ref=e1007] [cursor=pointer]:
+                          - /url: /models/mistralai/mistral-medium-3.5
+                        - button "Copy mistralai/mistral-medium-3.5" [ref=e1008] [cursor=pointer]: mistralai/mistral-medium-3.5
+                        - generic [ref=e1009]: Vision · Reasoning · Tool use
+                      - cell "256K" [ref=e1010]
+                      - cell "Free" [ref=e1011]
+                      - cell "—" [ref=e1012]
+                    - row [ref=e1013]:
+                      - rowheader "Mistral Small 4 Copy mistralai/mistral-small-2603 Vision · Reasoning · Tool use" [ref=e1014]:
+                        - link "Mistral Small 4" [ref=e1015] [cursor=pointer]:
+                          - /url: /models/mistralai/mistral-small-2603
+                        - button "Copy mistralai/mistral-small-2603" [ref=e1016] [cursor=pointer]: mistralai/mistral-small-2603
+                        - generic [ref=e1017]: Vision · Reasoning · Tool use
+                      - cell "256K" [ref=e1018]
+                      - cell "Free" [ref=e1019]
+                      - cell "—" [ref=e1020]
+                    - row [ref=e1021]:
+                      - rowheader "Codestral Copy mistralai/codestral-2508 Tool use" [ref=e1022]:
+                        - link "Codestral" [ref=e1023] [cursor=pointer]:
+                          - /url: /models/mistralai/codestral-2508
+                        - button "Copy mistralai/codestral-2508" [ref=e1024] [cursor=pointer]: mistralai/codestral-2508
+                        - generic [ref=e1025]: Tool use
+                      - cell "256K" [ref=e1026]
+                      - cell "Free" [ref=e1027]
+                      - cell "—" [ref=e1028]
+                    - row [ref=e1029]:
+                      - rowheader "Devstral 2 Copy mistralai/devstral-medium Tool use" [ref=e1030]:
+                        - link "Devstral 2" [ref=e1031] [cursor=pointer]:
+                          - /url: /models/mistralai/devstral-medium
+                        - button "Copy mistralai/devstral-medium" [ref=e1032] [cursor=pointer]: mistralai/devstral-medium
+                        - generic [ref=e1033]: Tool use
+                      - cell "256K" [ref=e1034]
+                      - cell "Free" [ref=e1035]
+                      - cell "—" [ref=e1036]
+                    - row [ref=e1037]:
+                      - rowheader "Ministral 3 14B Copy mistralai/ministral-14b Vision · Tool use" [ref=e1038]:
+                        - link "Ministral 3 14B" [ref=e1039] [cursor=pointer]:
+                          - /url: /models/mistralai/ministral-14b
+                        - button "Copy mistralai/ministral-14b" [ref=e1040] [cursor=pointer]: mistralai/ministral-14b
+                        - generic [ref=e1041]: Vision · Tool use
+                      - cell "256K" [ref=e1042]
+                      - cell "Free" [ref=e1043]
+                      - cell "—" [ref=e1044]
+                    - row [ref=e1045]:
+                      - rowheader "Ministral 3 8B Copy mistralai/ministral-8b Vision · Tool use" [ref=e1046]:
+                        - link "Ministral 3 8B" [ref=e1047] [cursor=pointer]:
+                          - /url: /models/mistralai/ministral-8b
+                        - button "Copy mistralai/ministral-8b" [ref=e1048] [cursor=pointer]: mistralai/ministral-8b
+                        - generic [ref=e1049]: Vision · Tool use
+                      - cell "256K" [ref=e1050]
+                      - cell "Free" [ref=e1051]
+                      - cell "—" [ref=e1052]
+                    - row [ref=e1053]:
+                      - rowheader "Ministral 3 3B Copy mistralai/ministral-3b Vision · Tool use" [ref=e1054]:
+                        - link "Ministral 3 3B" [ref=e1055] [cursor=pointer]:
+                          - /url: /models/mistralai/ministral-3b
+                        - button "Copy mistralai/ministral-3b" [ref=e1056] [cursor=pointer]: mistralai/ministral-3b
+                        - generic [ref=e1057]: Vision · Tool use
+                      - cell "128K" [ref=e1058]
+                      - cell "Free" [ref=e1059]
+                      - cell "—" [ref=e1060]
+              - region [ref=e1061]:
+                - generic:
+                  - heading [level=2] [ref=e1062]:
+                    - img "MiniMax" [ref=e1063]
+                    - text: MiniMax
+                  - paragraph [ref=e1064]: 9 models · from $0.15
+                - table [ref=e1066]:
+                  - caption [ref=e1067]: MiniMax models, with prices per 1M tokens
+                  - rowgroup [ref=e1068]:
+                    - row [ref=e1069]:
+                      - columnheader "Model" [ref=e1070]
+                      - columnheader "Context" [ref=e1071]
+                      - columnheader "Input / 1M" [ref=e1072]
+                      - columnheader "Output / 1M" [ref=e1073]
+                      - columnheader "Cache read / 1M" [ref=e1074]
+                  - rowgroup [ref=e1075]:
+                    - row [ref=e1076]:
+                      - rowheader "MiniMax M3.1 Flash Up to −96% New Copy minimax/minimax-m3.1-flash Vision · Video input · Reasoning · Tool use" [ref=e1077]:
+                        - link "MiniMax M3.1 Flash" [ref=e1078] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m3.1-flash
+                        - generic [ref=e1079]: Up to −96%
+                        - generic [ref=e1080]: New
+                        - button "Copy minimax/minimax-m3.1-flash" [ref=e1081] [cursor=pointer]: minimax/minimax-m3.1-flash
+                        - generic [ref=e1082]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e1083]
+                      - cell "$0.005 $0.15" [ref=e1084]:
+                        - text: $0.005
+                        - generic [ref=e1085]: $0.15
+                      - cell "$0.02 $0.6" [ref=e1086]:
+                        - text: $0.02
+                        - generic [ref=e1087]: $0.6
+                      - cell "$0.0005" [ref=e1088]
+                    - row [ref=e1089]:
+                      - rowheader "MiniMax M3 Up to −96% Copy minimax/minimax-m3 Vision · Video input · Reasoning · Tool use" [ref=e1090]:
+                        - link "MiniMax M3" [ref=e1091] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m3
+                        - generic [ref=e1092]: Up to −96%
+                        - button "Copy minimax/minimax-m3" [ref=e1093] [cursor=pointer]: minimax/minimax-m3
+                        - generic [ref=e1094]: Vision · Video input · Reasoning · Tool use
+                      - cell "1M" [ref=e1095]
+                      - cell "$0.01 $0.3" [ref=e1096]:
+                        - text: $0.01
+                        - generic [ref=e1097]: $0.3
+                      - cell "$0.04 $1.20" [ref=e1098]:
+                        - text: $0.04
+                        - generic [ref=e1099]: $1.20
+                      - cell "$0.002" [ref=e1100]
+                    - row [ref=e1101]:
+                      - rowheader "MiniMax M2.7 Up to −96% Copy minimax/minimax-m2.7 Reasoning · Tool use" [ref=e1102]:
+                        - link "MiniMax M2.7" [ref=e1103] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2.7
+                        - generic [ref=e1104]: Up to −96%
+                        - button "Copy minimax/minimax-m2.7" [ref=e1105] [cursor=pointer]: minimax/minimax-m2.7
+                        - generic [ref=e1106]: Reasoning · Tool use
+                      - cell "205K" [ref=e1107]
+                      - cell "$0.01 $0.3" [ref=e1108]:
+                        - text: $0.01
+                        - generic [ref=e1109]: $0.3
+                      - cell "$0.04 $1.20" [ref=e1110]:
+                        - text: $0.04
+                        - generic [ref=e1111]: $1.20
+                      - cell "$0.002" [ref=e1112]
+                    - row [ref=e1113]:
+                      - rowheader "MiniMax M2.7 Highspeed Up to −96% Copy minimax/minimax-m2.7-highspeed Reasoning · Tool use" [ref=e1114]:
+                        - link "MiniMax M2.7 Highspeed" [ref=e1115] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2.7-highspeed
+                        - generic [ref=e1116]: Up to −96%
+                        - button "Copy minimax/minimax-m2.7-highspeed" [ref=e1117] [cursor=pointer]: minimax/minimax-m2.7-highspeed
+                        - generic [ref=e1118]: Reasoning · Tool use
+                      - cell "205K" [ref=e1119]
+                      - cell "$0.02 $0.6" [ref=e1120]:
+                        - text: $0.02
+                        - generic [ref=e1121]: $0.6
+                      - cell "$0.08 $2.40" [ref=e1122]:
+                        - text: $0.08
+                        - generic [ref=e1123]: $2.40
+                      - cell "$0.002" [ref=e1124]
+                    - row [ref=e1125]:
+                      - rowheader "MiniMax M2.5 Up to −96% Copy minimax/minimax-m2.5 Reasoning · Tool use" [ref=e1126]:
+                        - link "MiniMax M2.5" [ref=e1127] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2.5
+                        - generic [ref=e1128]: Up to −96%
+                        - button "Copy minimax/minimax-m2.5" [ref=e1129] [cursor=pointer]: minimax/minimax-m2.5
+                        - generic [ref=e1130]: Reasoning · Tool use
+                      - cell "205K" [ref=e1131]
+                      - cell "$0.01 $0.3" [ref=e1132]:
+                        - text: $0.01
+                        - generic [ref=e1133]: $0.3
+                      - cell "$0.04 $1.20" [ref=e1134]:
+                        - text: $0.04
+                        - generic [ref=e1135]: $1.20
+                      - cell "$0.001" [ref=e1136]
+                    - row [ref=e1137]:
+                      - rowheader "MiniMax M2.5 Highspeed Up to −96% Copy minimax/minimax-m2.5-highspeed Reasoning · Tool use" [ref=e1138]:
+                        - link "MiniMax M2.5 Highspeed" [ref=e1139] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2.5-highspeed
+                        - generic [ref=e1140]: Up to −96%
+                        - button "Copy minimax/minimax-m2.5-highspeed" [ref=e1141] [cursor=pointer]: minimax/minimax-m2.5-highspeed
+                        - generic [ref=e1142]: Reasoning · Tool use
+                      - cell "205K" [ref=e1143]
+                      - cell "$0.02 $0.6" [ref=e1144]:
+                        - text: $0.02
+                        - generic [ref=e1145]: $0.6
+                      - cell "$0.08 $2.40" [ref=e1146]:
+                        - text: $0.08
+                        - generic [ref=e1147]: $2.40
+                      - cell "$0.001" [ref=e1148]
+                    - row [ref=e1149]:
+                      - rowheader "MiniMax M2.1 Up to −96% Copy minimax/minimax-m2.1 Reasoning · Tool use" [ref=e1150]:
+                        - link "MiniMax M2.1" [ref=e1151] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2.1
+                        - generic [ref=e1152]: Up to −96%
+                        - button "Copy minimax/minimax-m2.1" [ref=e1153] [cursor=pointer]: minimax/minimax-m2.1
+                        - generic [ref=e1154]: Reasoning · Tool use
+                      - cell "205K" [ref=e1155]
+                      - cell "$0.01 $0.3" [ref=e1156]:
+                        - text: $0.01
+                        - generic [ref=e1157]: $0.3
+                      - cell "$0.04 $1.20" [ref=e1158]:
+                        - text: $0.04
+                        - generic [ref=e1159]: $1.20
+                      - cell "$0.001" [ref=e1160]
+                    - row [ref=e1161]:
+                      - rowheader "MiniMax M2.1 Highspeed Up to −96% Copy minimax/minimax-m2.1-highspeed Reasoning · Tool use" [ref=e1162]:
+                        - link "MiniMax M2.1 Highspeed" [ref=e1163] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2.1-highspeed
+                        - generic [ref=e1164]: Up to −96%
+                        - button "Copy minimax/minimax-m2.1-highspeed" [ref=e1165] [cursor=pointer]: minimax/minimax-m2.1-highspeed
+                        - generic [ref=e1166]: Reasoning · Tool use
+                      - cell "205K" [ref=e1167]
+                      - cell "$0.02 $0.6" [ref=e1168]:
+                        - text: $0.02
+                        - generic [ref=e1169]: $0.6
+                      - cell "$0.08 $2.40" [ref=e1170]:
+                        - text: $0.08
+                        - generic [ref=e1171]: $2.40
+                      - cell "$0.001" [ref=e1172]
+                    - row [ref=e1173]:
+                      - rowheader "MiniMax M2 Up to −96% Copy minimax/minimax-m2 Reasoning · Tool use" [ref=e1174]:
+                        - link "MiniMax M2" [ref=e1175] [cursor=pointer]:
+                          - /url: /models/minimax/minimax-m2
+                        - generic [ref=e1176]: Up to −96%
+                        - button "Copy minimax/minimax-m2" [ref=e1177] [cursor=pointer]: minimax/minimax-m2
+                        - generic [ref=e1178]: Reasoning · Tool use
+                      - cell "205K" [ref=e1179]
+                      - cell "$0.01 $0.3" [ref=e1180]:
+                        - text: $0.01
+                        - generic [ref=e1181]: $0.3
+                      - cell "$0.04 $1.20" [ref=e1182]:
+                        - text: $0.04
+                        - generic [ref=e1183]: $1.20
+                      - cell "$0.001" [ref=e1184]
+              - region [ref=e1185]:
+                - generic:
+                  - heading [level=2] [ref=e1186]:
+                    - img "MiMo" [ref=e1187]
+                    - text: MiMo
+                  - paragraph [ref=e1188]: 3 models · from $0.14
+                - table [ref=e1190]:
+                  - caption [ref=e1191]: MiMo models, with prices per 1M tokens
+                  - rowgroup [ref=e1192]:
+                    - row [ref=e1193]:
+                      - columnheader "Model" [ref=e1194]
+                      - columnheader "Context" [ref=e1195]
+                      - columnheader "Input / 1M" [ref=e1196]
+                      - columnheader "Output / 1M" [ref=e1197]
+                      - columnheader "Cache read / 1M" [ref=e1198]
+                  - rowgroup [ref=e1199]:
+                    - row [ref=e1200]:
+                      - rowheader "MiMo v2.6 Pro Up to −96% Copy xiaomi/mimo-v2.6-pro Vision · Video input · Reasoning · Tool use" [ref=e1201]:
+                        - link "MiMo v2.6 Pro" [ref=e1202] [cursor=pointer]:
+                          - /url: /models/xiaomi/mimo-v2.6-pro
+                        - generic [ref=e1203]: Up to −96%
+                        - button "Copy xiaomi/mimo-v2.6-pro" [ref=e1204] [cursor=pointer]: xiaomi/mimo-v2.6-pro
+                        - generic [ref=e1205]: Vision · Video input · Reasoning · Tool use
+                      - cell "1.05M" [ref=e1206]
+                      - cell "$0.015 $0.435" [ref=e1207]:
+                        - text: $0.015
+                        - generic [ref=e1208]: $0.435
+                      - cell "$0.029 $0.87" [ref=e1209]:
+                        - text: $0.029
+                        - generic [ref=e1210]: $0.87
+                      - cell "$0.0001" [ref=e1211]
+                    - row [ref=e1212]:
+                      - rowheader "MiMo v2.6 Flash Up to −96% Copy xiaomi/mimo-v2.6-flash Vision · Video input · Reasoning · Tool use" [ref=e1213]:
+                        - link "MiMo v2.6 Flash" [ref=e1214] [cursor=pointer]:
+                          - /url: /models/xiaomi/mimo-v2.6-flash
+                        - generic [ref=e1215]: Up to −96%
+                        - button "Copy xiaomi/mimo-v2.6-flash" [ref=e1216] [cursor=pointer]: xiaomi/mimo-v2.6-flash
+                        - generic [ref=e1217]: Vision · Video input · Reasoning · Tool use
+                      - cell "1.05M" [ref=e1218]
+                      - cell "$0.0047 $0.14" [ref=e1219]:
+                        - text: $0.0047
+                        - generic [ref=e1220]: $0.14
+                      - cell "$0.0094 $0.28" [ref=e1221]:
+                        - text: $0.0094
+                        - generic [ref=e1222]: $0.28
+                      - cell "$0.0001" [ref=e1223]
+                    - row [ref=e1224]:
+                      - rowheader "MiMo v2.5 Up to −96% Copy xiaomi/mimo-v2.5 Vision · Video input · Reasoning · Tool use" [ref=e1225]:
+                        - link "MiMo v2.5" [ref=e1226] [cursor=pointer]:
+                          - /url: /models/xiaomi/mimo-v2.5
+                        - generic [ref=e1227]: Up to −96%
+                        - button "Copy xiaomi/mimo-v2.5" [ref=e1228] [cursor=pointer]: xiaomi/mimo-v2.5
+                        - generic [ref=e1229]: Vision · Video input · Reasoning · Tool use
+                      - cell "1.05M" [ref=e1230]
+                      - cell "$0.0047 $0.14" [ref=e1231]:
+                        - text: $0.0047
+                        - generic [ref=e1232]: $0.14
+                      - cell "$0.0094 $0.28" [ref=e1233]:
+                        - text: $0.0094
+                        - generic [ref=e1234]: $0.28
+                      - cell "$0.0001" [ref=e1235]
+              - region [ref=e1236]:
+                - generic:
+                  - heading [level=2] [ref=e1237]:
+                    - img "NVIDIA" [ref=e1238]
+                    - text: NVIDIA
+                  - paragraph [ref=e1239]: 3 models · from $0.05
+                - table [ref=e1241]:
+                  - caption [ref=e1242]: NVIDIA models, with prices per 1M tokens
+                  - rowgroup [ref=e1243]:
+                    - row [ref=e1244]:
+                      - columnheader "Model" [ref=e1245]
+                      - columnheader "Context" [ref=e1246]
+                      - columnheader "Input / 1M" [ref=e1247]
+                      - columnheader "Output / 1M" [ref=e1248]
+                      - columnheader "Cache read / 1M" [ref=e1249]
+                  - rowgroup [ref=e1250]:
+                    - row [ref=e1251]:
+                      - rowheader "Nemotron 3.5 Super VL Up to −96% Copy nvidia/nemotron-3.5-super-vl Vision · Reasoning · Tool use" [ref=e1252]:
+                        - link "Nemotron 3.5 Super VL" [ref=e1253] [cursor=pointer]:
+                          - /url: /models/nvidia/nemotron-3.5-super-vl
+                        - generic [ref=e1254]: Up to −96%
+                        - button "Copy nvidia/nemotron-3.5-super-vl" [ref=e1255] [cursor=pointer]: nvidia/nemotron-3.5-super-vl
+                        - generic [ref=e1256]: Vision · Reasoning · Tool use
+                      - cell "1M" [ref=e1257]
+                      - cell "$0.005 $0.15" [ref=e1258]:
+                        - text: $0.005
+                        - generic [ref=e1259]: $0.15
+                      - cell "$0.017 $0.5" [ref=e1260]:
+                        - text: $0.017
+                        - generic [ref=e1261]: $0.5
+                      - cell "$0.0007" [ref=e1262]
+                    - row [ref=e1263]:
+                      - rowheader "Nemotron 3 Ultra Up to −96% Copy nvidia/nemotron-3-ultra Reasoning · Tool use" [ref=e1264]:
+                        - link "Nemotron 3 Ultra" [ref=e1265] [cursor=pointer]:
+                          - /url: /models/nvidia/nemotron-3-ultra
+                        - generic [ref=e1266]: Up to −96%
+                        - button "Copy nvidia/nemotron-3-ultra" [ref=e1267] [cursor=pointer]: nvidia/nemotron-3-ultra
+                        - generic [ref=e1268]: Reasoning · Tool use
+                      - cell "1M" [ref=e1269]
+                      - cell "$0.02 $0.6" [ref=e1270]:
+                        - text: $0.02
+                        - generic [ref=e1271]: $0.6
+                      - cell "$0.08 $2.40" [ref=e1272]:
+                        - text: $0.08
+                        - generic [ref=e1273]: $2.40
+                      - cell "$0.004" [ref=e1274]
+                    - row [ref=e1275]:
+                      - rowheader "Nemotron 3 Nano Omni Up to −96% Copy nvidia/nemotron-3-nano-omni Vision · Video input · Reasoning · Tool use" [ref=e1276]:
+                        - link "Nemotron 3 Nano Omni" [ref=e1277] [cursor=pointer]:
+                          - /url: /models/nvidia/nemotron-3-nano-omni
+                        - generic [ref=e1278]: Up to −96%
+                        - button "Copy nvidia/nemotron-3-nano-omni" [ref=e1279] [cursor=pointer]: nvidia/nemotron-3-nano-omni
+                        - generic [ref=e1280]: Vision · Video input · Reasoning · Tool use
+                      - cell "256K" [ref=e1281]
+                      - cell "$0.0017 $0.05" [ref=e1282]:
+                        - text: $0.0017
+                        - generic [ref=e1283]: $0.05
+                      - cell "$0.0067 $0.2" [ref=e1284]:
+                        - text: $0.0067
+                        - generic [ref=e1285]: $0.2
+                      - cell "$0.001" [ref=e1286]
+              - region [ref=e1287]:
+                - generic:
+                  - heading [level=2] [ref=e1288]:
+                    - img "Tencent" [ref=e1289]
+                    - text: Tencent
+                  - paragraph [ref=e1290]: 3 models · from $0.132
+                - table [ref=e1292]:
+                  - caption [ref=e1293]: Tencent models, with prices per 1M tokens
+                  - rowgroup [ref=e1294]:
+                    - row [ref=e1295]:
+                      - columnheader "Model" [ref=e1296]
+                      - columnheader "Context" [ref=e1297]
+                      - columnheader "Input / 1M" [ref=e1298]
+                      - columnheader "Output / 1M" [ref=e1299]
+                      - columnheader "Cache read / 1M" [ref=e1300]
+                  - rowgroup [ref=e1301]:
+                    - row [ref=e1302]:
+                      - rowheader "Hy4 Preview Up to −96% New Paid accounts Copy tencent/hy4-preview Reasoning · Tool use" [ref=e1303]:
+                        - link "Hy4 Preview" [ref=e1304] [cursor=pointer]:
+                          - /url: /models/tencent/hy4-preview
+                        - generic [ref=e1305]: Up to −96%
+                        - generic [ref=e1306]: New
+                        - generic [ref=e1307]: Paid accounts
+                        - button "Copy tencent/hy4-preview" [ref=e1308] [cursor=pointer]: tencent/hy4-preview
+                        - generic [ref=e1309]: Reasoning · Tool use
+                      - cell "1.05M" [ref=e1310]
+                      - cell "$0.028 $0.834" [ref=e1311]:
+                        - text: $0.028
+                        - generic [ref=e1312]: $0.834
+                      - cell "$0.084 $2.50" [ref=e1313]:
+                        - text: $0.084
+                        - generic [ref=e1314]: $2.50
+                      - cell "—" [ref=e1315]
+                    - row [ref=e1316]:
+                      - rowheader "Hy3 Up to −96% Paid accounts Copy tencent/hy3 Reasoning · Tool use" [ref=e1317]:
+                        - link "Hy3" [ref=e1318] [cursor=pointer]:
+                          - /url: /models/tencent/hy3
+                        - generic [ref=e1319]: Up to −96%
+                        - generic [ref=e1320]: Paid accounts
+                        - button "Copy tencent/hy3" [ref=e1321] [cursor=pointer]: tencent/hy3
+                        - generic [ref=e1322]: Reasoning · Tool use
+                      - cell "192K" [ref=e1323]
+                      - cell "$0.0044 $0.132" [ref=e1324]:
+                        - text: $0.0044
+                        - generic [ref=e1325]: $0.132
+                      - cell "$0.018 $0.528" [ref=e1326]:
+                        - text: $0.018
+                        - generic [ref=e1327]: $0.528
+                      - cell "$0.0011" [ref=e1328]
+                    - row [ref=e1329]:
+                      - rowheader "Hy3 Preview Up to −96% Paid accounts Copy tencent/hy3-preview Reasoning · Tool use" [ref=e1330]:
+                        - link "Hy3 Preview" [ref=e1331] [cursor=pointer]:
+                          - /url: /models/tencent/hy3-preview
+                        - generic [ref=e1332]: Up to −96%
+                        - generic [ref=e1333]: Paid accounts
+                        - button "Copy tencent/hy3-preview" [ref=e1334] [cursor=pointer]: tencent/hy3-preview
+                        - generic [ref=e1335]: Reasoning · Tool use
+                      - cell "192K" [ref=e1336]
+                      - cell "$0.006 $0.18" [ref=e1337]:
+                        - text: $0.006
+                        - generic [ref=e1338]: $0.18
+                      - cell "$0.02 $0.6" [ref=e1339]:
+                        - text: $0.02
+                        - generic [ref=e1340]: $0.6
+                      - cell "$0.002" [ref=e1341]
+              - region [ref=e1342]:
+                - generic:
+                  - heading [level=2] [ref=e1343]:
+                    - img "Cohere" [ref=e1344]
+                    - text: Cohere
+                  - paragraph [ref=e1345]: 16 models · all free
+                - table [ref=e1347]:
+                  - caption [ref=e1348]: Cohere models, with prices per 1M tokens
+                  - rowgroup [ref=e1349]:
+                    - row [ref=e1350]:
+                      - columnheader "Model" [ref=e1351]
+                      - columnheader "Context" [ref=e1352]
+                      - columnheader "Input / 1M" [ref=e1353]
+                      - columnheader "Output / 1M" [ref=e1354]
+                      - columnheader "Cache read / 1M" [ref=e1355]
+                  - rowgroup [ref=e1356]:
+                    - row [ref=e1357]:
+                      - rowheader "Command A+ Copy cohere/command-a-plus Vision · Reasoning · Tool use" [ref=e1358]:
+                        - link "Command A+" [ref=e1359] [cursor=pointer]:
+                          - /url: /models/cohere/command-a-plus
+                        - button "Copy cohere/command-a-plus" [ref=e1360] [cursor=pointer]: cohere/command-a-plus
+                        - generic [ref=e1361]: Vision · Reasoning · Tool use
+                      - cell "436K" [ref=e1362]
+                      - cell "Free" [ref=e1363]
+                      - cell "—" [ref=e1364]
+                    - row [ref=e1365]:
+                      - rowheader "North Mini Code Copy cohere/north-mini-code Reasoning · Tool use" [ref=e1366]:
+                        - link "North Mini Code" [ref=e1367] [cursor=pointer]:
+                          - /url: /models/cohere/north-mini-code
+                        - button "Copy cohere/north-mini-code" [ref=e1368] [cursor=pointer]: cohere/north-mini-code
+                        - generic [ref=e1369]: Reasoning · Tool use
+                      - cell "256K" [ref=e1370]
+                      - cell "Free" [ref=e1371]
+                      - cell "—" [ref=e1372]
+                    - row [ref=e1373]:
+                      - rowheader "Command A Reasoning Copy cohere/command-a-reasoning Reasoning · Tool use" [ref=e1374]:
+                        - link "Command A Reasoning" [ref=e1375] [cursor=pointer]:
+                          - /url: /models/cohere/command-a-reasoning
+                        - button "Copy cohere/command-a-reasoning" [ref=e1376] [cursor=pointer]: cohere/command-a-reasoning
+                        - generic [ref=e1377]: Reasoning · Tool use
+                      - cell "289K" [ref=e1378]
+                      - cell "Free" [ref=e1379]
+                      - cell "—" [ref=e1380]
+                    - row [ref=e1381]:
+                      - rowheader "Command A Vision Copy cohere/command-a-vision Vision" [ref=e1382]:
+                        - link "Command A Vision" [ref=e1383] [cursor=pointer]:
+                          - /url: /models/cohere/command-a-vision
+                        - button "Copy cohere/command-a-vision" [ref=e1384] [cursor=pointer]: cohere/command-a-vision
+                        - generic [ref=e1385]: Vision
+                      - cell "128K" [ref=e1386]
+                      - cell "Free" [ref=e1387]
+                      - cell "—" [ref=e1388]
+                    - row [ref=e1389]:
+                      - rowheader "Command A Copy cohere/command-a Tool use" [ref=e1390]:
+                        - link "Command A" [ref=e1391] [cursor=pointer]:
+                          - /url: /models/cohere/command-a
+                        - button "Copy cohere/command-a" [ref=e1392] [cursor=pointer]: cohere/command-a
+                        - generic [ref=e1393]: Tool use
+                      - cell "288K" [ref=e1394]
+                      - cell "Free" [ref=e1395]
+                      - cell "—" [ref=e1396]
+                    - row [ref=e1397]:
+                      - rowheader "Command A Translate Copy cohere/command-a-translate Tool use" [ref=e1398]:
+                        - link "Command A Translate" [ref=e1399] [cursor=pointer]:
+                          - /url: /models/cohere/command-a-translate
+                        - button "Copy cohere/command-a-translate" [ref=e1400] [cursor=pointer]: cohere/command-a-translate
+                        - generic [ref=e1401]: Tool use
+                      - cell "9K" [ref=e1402]
+                      - cell "Free" [ref=e1403]
+                      - cell "—" [ref=e1404]
+                    - row [ref=e1405]:
+                      - rowheader [ref=e1406]:
+                        - link "North Small Translate" [ref=e1407] [cursor=pointer]:
+                          - /url: /models/cohere/north-small-translate
+                        - button "Copy cohere/north-small-translate" [ref=e1408] [cursor=pointer]: cohere/north-small-translate
+                      - cell "33K" [ref=e1409]
+                      - cell "Free" [ref=e1410]
+                      - cell "—" [ref=e1411]
+                    - row [ref=e1412]:
+                      - rowheader "Command R+ (08-2024) Copy cohere/command-r-plus-08-2024 Tool use" [ref=e1413]:
+                        - link "Command R+ (08-2024)" [ref=e1414] [cursor=pointer]:
+                          - /url: /models/cohere/command-r-plus-08-2024
+                        - button "Copy cohere/command-r-plus-08-2024" [ref=e1415] [cursor=pointer]: cohere/command-r-plus-08-2024
+                        - generic [ref=e1416]: Tool use
+                      - cell "128K" [ref=e1417]
+                      - cell "Free" [ref=e1418]
+                      - cell "—" [ref=e1419]
+                    - row [ref=e1420]:
+                      - rowheader "Command R (08-2024) Copy cohere/command-r-08-2024 Tool use" [ref=e1421]:
+                        - link "Command R (08-2024)" [ref=e1422] [cursor=pointer]:
+                          - /url: /models/cohere/command-r-08-2024
+                        - button "Copy cohere/command-r-08-2024" [ref=e1423] [cursor=pointer]: cohere/command-r-08-2024
+                        - generic [ref=e1424]: Tool use
+                      - cell "128K" [ref=e1425]
+                      - cell "Free" [ref=e1426]
+                      - cell "—" [ref=e1427]
+                    - row [ref=e1428]:
+                      - rowheader "Command R7B (12-2024) Copy cohere/command-r7b-12-2024 Tool use" [ref=e1429]:
+                        - link "Command R7B (12-2024)" [ref=e1430] [cursor=pointer]:
+                          - /url: /models/cohere/command-r7b-12-2024
+                        - button "Copy cohere/command-r7b-12-2024" [ref=e1431] [cursor=pointer]: cohere/command-r7b-12-2024
+                        - generic [ref=e1432]: Tool use
+                      - cell "132K" [ref=e1433]
+                      - cell "Free" [ref=e1434]
+                      - cell "—" [ref=e1435]
+                    - row [ref=e1436]:
+                      - rowheader [ref=e1437]:
+                        - link "Aya Expanse 32B" [ref=e1438] [cursor=pointer]:
+                          - /url: /models/cohere/aya-expanse-32b
+                        - button "Copy cohere/aya-expanse-32b" [ref=e1439] [cursor=pointer]: cohere/aya-expanse-32b
+                      - cell "128K" [ref=e1440]
+                      - cell "Free" [ref=e1441]
+                      - cell "—" [ref=e1442]
+                    - row [ref=e1443]:
+                      - rowheader [ref=e1444]:
+                        - link "Aya Vision 32B" [ref=e1445] [cursor=pointer]:
+                          - /url: /models/cohere/aya-vision-32b
+                        - button "Copy cohere/aya-vision-32b" [ref=e1446] [cursor=pointer]: cohere/aya-vision-32b
+                      - cell "16K" [ref=e1447]
+                      - cell "Free" [ref=e1448]
+                      - cell "—" [ref=e1449]
+                    - row [ref=e1450]:
+                      - rowheader "Tiny Aya Global Copy cohere/tiny-aya-global Tool use" [ref=e1451]:
+                        - link "Tiny Aya Global" [ref=e1452] [cursor=pointer]:
+                          - /url: /models/cohere/tiny-aya-global
+                        - button "Copy cohere/tiny-aya-global" [ref=e1453] [cursor=pointer]: cohere/tiny-aya-global
+                        - generic [ref=e1454]: Tool use
+                      - cell "8K" [ref=e1455]
+                      - cell "Free" [ref=e1456]
+                      - cell "—" [ref=e1457]
+                    - row [ref=e1458]:
+                      - rowheader "Tiny Aya Earth Copy cohere/tiny-aya-earth Tool use" [ref=e1459]:
+                        - link "Tiny Aya Earth" [ref=e1460] [cursor=pointer]:
+                          - /url: /models/cohere/tiny-aya-earth
+                        - button "Copy cohere/tiny-aya-earth" [ref=e1461] [cursor=pointer]: cohere/tiny-aya-earth
+                        - generic [ref=e1462]: Tool use
+                      - cell "8K" [ref=e1463]
+                      - cell "Free" [ref=e1464]
+                      - cell "—" [ref=e1465]
+                    - row [ref=e1466]:
+                      - rowheader "Tiny Aya Fire Copy cohere/tiny-aya-fire Tool use" [ref=e1467]:
+                        - link "Tiny Aya Fire" [ref=e1468] [cursor=pointer]:
+                          - /url: /models/cohere/tiny-aya-fire
+                        - button "Copy cohere/tiny-aya-fire" [ref=e1469] [cursor=pointer]: cohere/tiny-aya-fire
+                        - generic [ref=e1470]: Tool use
+                      - cell "8K" [ref=e1471]
+                      - cell "Free" [ref=e1472]
+                      - cell "—" [ref=e1473]
+                    - row [ref=e1474]:
+                      - rowheader "Tiny Aya Water Copy cohere/tiny-aya-water Tool use" [ref=e1475]:
+                        - link "Tiny Aya Water" [ref=e1476] [cursor=pointer]:
+                          - /url: /models/cohere/tiny-aya-water
+                        - button "Copy cohere/tiny-aya-water" [ref=e1477] [cursor=pointer]: cohere/tiny-aya-water
+                        - generic [ref=e1478]: Tool use
+                      - cell "8K" [ref=e1479]
+                      - cell "Free" [ref=e1480]
+                      - cell "—" [ref=e1481]
+              - region [ref=e1482]:
+                - generic:
+                  - heading [level=2] [ref=e1483]:
+                    - img "SenseNova" [ref=e1484]
+                    - text: SenseNova
+                  - paragraph [ref=e1485]: 1 model · all free
+                - table [ref=e1487]:
+                  - caption [ref=e1488]: SenseNova models, with prices per 1M tokens
+                  - rowgroup [ref=e1489]:
+                    - row [ref=e1490]:
+                      - columnheader "Model" [ref=e1491]
+                      - columnheader "Context" [ref=e1492]
+                      - columnheader "Input / 1M" [ref=e1493]
+                      - columnheader "Output / 1M" [ref=e1494]
+                      - columnheader "Cache read / 1M" [ref=e1495]
+                  - rowgroup [ref=e1496]:
+                    - row [ref=e1497]:
+                      - rowheader "SenseNova 6.8 Flash-Lite Copy sensenova/sensenova-6.8-flash-lite Vision · Reasoning · Tool use" [ref=e1498]:
+                        - link "SenseNova 6.8 Flash-Lite" [ref=e1499] [cursor=pointer]:
+                          - /url: /models/sensenova/sensenova-6.8-flash-lite
+                        - button "Copy sensenova/sensenova-6.8-flash-lite" [ref=e1500] [cursor=pointer]: sensenova/sensenova-6.8-flash-lite
+                        - generic [ref=e1501]: Vision · Reasoning · Tool use
+                      - cell "262K" [ref=e1502]
+                      - cell "Free" [ref=e1503]
+                      - cell "—" [ref=e1504]
+              - region [ref=e1505]:
+                - generic:
+                  - heading [level=2] [ref=e1506]:
+                    - img "Stealth" [ref=e1507]
+                    - text: Stealth
+                  - paragraph [ref=e1508]: 1 model · all free · anonymous lab, not a provider
+                - table [ref=e1510]:
+                  - caption [ref=e1511]: Stealth models, with prices per 1M tokens
+                  - rowgroup [ref=e1512]:
+                    - row [ref=e1513]:
+                      - columnheader "Model" [ref=e1514]
+                      - columnheader "Context" [ref=e1515]
+                      - columnheader "Input / 1M" [ref=e1516]
+                      - columnheader "Output / 1M" [ref=e1517]
+                      - columnheader "Cache read / 1M" [ref=e1518]
+                  - rowgroup [ref=e1519]:
+                    - row [ref=e1520]:
+                      - rowheader "Big Pickle (Free) Copy stealth/big-pickle Reasoning · Tool use" [ref=e1521]:
+                        - link "Big Pickle (Free)" [ref=e1522] [cursor=pointer]:
+                          - /url: /models/stealth/big-pickle
+                        - button "Copy stealth/big-pickle" [ref=e1523] [cursor=pointer]: stealth/big-pickle
+                        - generic [ref=e1524]: Reasoning · Tool use
+                      - cell "200K" [ref=e1525]
+                      - cell "Free" [ref=e1526]
+                      - cell "—" [ref=e1527]
+        - region [ref=e1533]:
+          - generic:
+            - generic [ref=e1534]:
+              - generic [ref=e1535]:
+                - paragraph [ref=e1536]: One endpoint
+                - heading "Every model takes the same request." [level=2] [ref=e1537]
+              - generic [ref=e1538]:
+                - paragraph [ref=e1539]: Point your SDK at xKiro once, then switch models by changing the model ID — vendor prefix included. Nothing else in your code changes.
+                - link "Read the SDK guides" [ref=e1540] [cursor=pointer]:
+                  - /url: https://docs.xkiro.com/guides/sdk-openai/
+                  - text: Read the SDK guides ↗
+            - generic [ref=e1541]:
+              - generic [ref=e1542]:
+                - generic [ref=e1544]:
+                  - paragraph [ref=e1545]: OpenAI SDK · Base URL
+                  - generic [ref=e1546]:
+                    - code [ref=e1547]: https://api.xkiro.com/v1
+                    - button "Copy https://api.xkiro.com/v1" [ref=e1548] [cursor=pointer]
+                - generic [ref=e1553]:
+                  - paragraph [ref=e1554]: Anthropic SDK · Claude Code · Base URL
+                  - generic [ref=e1555]:
+                    - code [ref=e1556]: https://api.xkiro.com
+                    - button "Copy https://api.xkiro.com" [ref=e1557] [cursor=pointer]
+                - generic [ref=e1562]:
+                  - paragraph [ref=e1563]: Anatomy of a model ID
+                  - paragraph [ref=e1564]:
+                    - generic [ref=e1565]:
+                      - generic [ref=e1566]: openai
+                      - generic [ref=e1568]: vendor
+                    - generic [aria-hidden] [ref=e1569]: /
+                    - generic [ref=e1570]:
+                      - generic [ref=e1571]: gpt-6.1-sol
+                      - generic [ref=e1573]: model
+                  - paragraph [ref=e1574]: Send the whole ID. The bare model name, without the vendor prefix, does not resolve.
+              - generic [ref=e1576]:
+                - generic [ref=e1577]:
+                  - generic [ref=e1578]:
+                    - generic [ref=e1579]: Terminal
+                    - button "Copy" [ref=e1581] [cursor=pointer]
+                  - generic [ref=e1587]:
+                    - generic [aria-hidden] [ref=e1588]: $
+                    - text: curl -s https://api.xkiro.com/v1/models | jq '.data | length'
+                    - generic [ref=e1589]: curl -s https://api.xkiro.com/v1/models | jq '.data | length'
+                    - text: "103"
+                    - generic [ref=e1590]: "103"
+                    - generic [aria-hidden] [ref=e1591]: $
+                    - text: curl -s https://api.xkiro.com/v1/models | jq '.data[] | select(.id == "openai/gpt-6.1-sol") | .pricing'
+                    - generic [ref=e1592]: curl -s https://api.xkiro.com/v1/models | jq '.data[] | select(.id == "openai/gpt-6.1-sol") | .pricing'
+                    - text: "{ \"currency\": \"USD\", \"unit\": \"per_1m_tokens\", \"input\": 2, \"output\": 10, \"cache_read\": 0.1, \"cache_write\": 2.5 }"
+                    - generic [ref=e1593]: "{ \"currency\": \"USD\", \"unit\": \"per_1m_tokens\", \"input\": 2, \"output\": 10, \"cache_read\": 0.1, \"cache_write\": 2.5 }"
+                - paragraph [ref=e1594]: The catalog is public at GET /v1/models — no API key needed.
+        - generic [ref=e1598]:
+          - generic [ref=e1599]:
+            - generic [ref=e1600]: Base URL
+            - generic "https://api.xkiro.com/v1" [ref=e1601]
+            - button "Copy https://api.xkiro.com/v1" [ref=e1602] [cursor=pointer]
+          - heading "Pick a model. Ship it today." [level=2] [ref=e1606]
+          - paragraph [ref=e1607]: 45 models are free to call, no credit card. Paid models bill per token at the rates above.
+          - generic [ref=e1608]:
+            - link "Get your API key" [ref=e1610] [cursor=pointer]:
+              - /url: /register
+              - text: Get your API key
+              - generic [aria-hidden] [ref=e1611]: →
+            - link "Read the docs" [ref=e1612] [cursor=pointer]:
+              - /url: https://docs.xkiro.com
+              - text: Read the docs
+              - generic [aria-hidden] [ref=e1613]: ↗
+          - paragraph [ref=e1614]: No credit card · Cancel anytime · 45 free models, free forever
+    - contentinfo [ref=e1615]:
+      - generic [ref=e1616]:
+        - generic [ref=e1617]:
+          - generic [ref=e1618]:
+            - paragraph [ref=e1619]:
+              - text: Plans from $5/mo — up to 30× the value.
+              - link "See plans →" [ref=e1620] [cursor=pointer]:
+                - /url: /#pricing
+            - link "Questions? Chat with the team on Telegram" [ref=e1621] [cursor=pointer]:
+              - /url: https://t.me/xkiro_support_team
+              - text: Questions? Chat with the team on Telegram
+              - generic [aria-hidden] [ref=e1625]: ↗
+          - list "Buy with confidence" [ref=e1626]:
+            - listitem [ref=e1627]:
+              - generic [aria-hidden] [ref=e1628]: ✓
+              - text: No card for the Free plan
+            - listitem [ref=e1629]:
+              - generic [aria-hidden] [ref=e1630]: ✓
+              - text: Cancel anytime
+            - listitem [ref=e1631]: Pay by Bank transfer or QR (Vietnam) · Crypto (USDT, BTC)
+        - generic [ref=e1632]:
+          - generic [ref=e1633]:
+            - link "xKiro" [ref=e1634] [cursor=pointer]:
+              - /url: /
+            - paragraph [ref=e1642]: One API key for every model your agents use — OpenAI and Anthropic compatible.
+          - navigation "Footer" [ref=e1643]:
+            - generic [ref=e1644]:
+              - paragraph [ref=e1645]: Product
+              - list [ref=e1646]:
+                - listitem [ref=e1647]:
+                  - link "Models" [ref=e1648] [cursor=pointer]:
+                    - /url: /models
+                - listitem [ref=e1649]:
+                  - link "Pricing" [ref=e1650] [cursor=pointer]:
+                    - /url: /#pricing
+                - listitem [ref=e1651]:
+                  - link "Deals" [ref=e1652] [cursor=pointer]:
+                    - /url: /deals
+                - listitem [ref=e1653]:
+                  - link "Status" [ref=e1654] [cursor=pointer]:
+                    - /url: /status
+            - generic [ref=e1655]:
+              - paragraph [ref=e1656]: Developers
+              - list [ref=e1657]:
+                - listitem [ref=e1658]:
+                  - link "Docs" [ref=e1659] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com
+                    - text: Docs↗
+                - listitem [ref=e1660]:
+                  - link "API Reference" [ref=e1661] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/overview/
+                    - text: API Reference↗
+                - listitem [ref=e1662]:
+                  - link "Quickstart" [ref=e1663] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/quickstart/
+                    - text: Quickstart↗
+                - listitem [ref=e1664]:
+                  - link "Tool setup guides" [ref=e1665] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/
+                    - text: Tool setup guides↗
+            - generic [ref=e1666]:
+              - paragraph [ref=e1667]: Company
+              - list [ref=e1668]:
+                - listitem [ref=e1669]:
+                  - link "About" [ref=e1670] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=e1671]:
+                  - link "Contact" [ref=e1672] [cursor=pointer]:
+                    - /url: /contact
+                - listitem [ref=e1673]:
+                  - link "Terms" [ref=e1674] [cursor=pointer]:
+                    - /url: /terms
+                - listitem [ref=e1675]:
+                  - link "Privacy" [ref=e1676] [cursor=pointer]:
+                    - /url: /privacy
+                - listitem [ref=e1677]:
+                  - link "Refunds" [ref=e1678] [cursor=pointer]:
+                    - /url: /refund-policy
+            - generic [ref=e1679]:
+              - paragraph [ref=e1680]: Contact
+              - list [ref=e1681]:
+                - listitem [ref=e1682]:
+                  - link "Telegram @xkiro_support_team" [ref=e1683] [cursor=pointer]:
+                    - /url: https://t.me/xkiro_support_team
+                    - generic [ref=e1687]:
+                      - generic [ref=e1688]: Telegram
+                      - generic [ref=e1689]: "@xkiro_support_team"
+                - listitem [ref=e1690]:
+                  - link "Email hi@xkiro.com" [ref=e1691] [cursor=pointer]:
+                    - /url: mailto:hi@xkiro.com
+                    - generic [ref=e1696]:
+                      - generic [ref=e1697]: Email
+                      - generic [ref=e1698]: hi@xkiro.com
+                - listitem [ref=e1699]:
+                  - link "Facebook fb.com/xKiro.offical" [ref=e1700] [cursor=pointer]:
+                    - /url: https://facebook.com/xKiro.offical
+                    - generic [ref=e1704]:
+                      - generic [ref=e1705]: Facebook
+                      - generic [ref=e1706]: fb.com/xKiro.offical
+        - generic [ref=e1707]:
+          - paragraph [ref=e1708]: © 2026 xKiro. All rights reserved.
+          - generic [ref=e1709]:
+            - button "Language" [ref=e1710] [cursor=pointer]:
+              - generic [ref=e1712]: EN
+            - button "Toggle theme" [ref=e1715] [cursor=pointer]
+  - region "Notifications (F8)":
+    - list

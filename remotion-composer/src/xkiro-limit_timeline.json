@@ -1,0 +1,182 @@
+{
+ "title": "Hết Lượt Kiếp",
+ "total": 49.446,
+ "beats": [
+  {
+   "name": "HOOK",
+   "header": "Hết Lượt Kiếp",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Năm trăm hai mươi nghìn. Hỏi đúng hai câu.",
+       "kind": "red",
+       "start": 0.34,
+       "end": 2.704
+      },
+      {
+       "t": "Dịch cabin: hết linh lực, chín giờ năm mươi quay lại.",
+       "kind": "gold",
+       "start": 3.044,
+       "end": 5.868
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 6.498
+  },
+  {
+   "name": "PAIN",
+   "header": "Đạo tâm rạn",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 6.538,
+     "lines": [
+      {
+       "t": "Còn ba ngày nộp khoá luận. Chương ba: chưa có chữ nào.",
+       "kind": "red",
+       "start": 6.538,
+       "end": 9.599
+      },
+      {
+       "t": "Chạy sang ChatGPT phái. Bản free, cũng hết lượt.",
+       "kind": "gold",
+       "start": 9.939,
+       "end": 12.686
+      },
+      {
+       "t": "Đúng lúc đạo tâm sắp vỡ, sư muội cùng phòng ném sang một tấm lệnh bài.",
+       "kind": "narr",
+       "start": 13.026,
+       "end": 16.532
+      }
+     ]
+    }
+   ],
+   "start": 6.498,
+   "end": 17.162
+  },
+  {
+   "name": "FIX",
+   "header": "Lệnh bài",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 17.202,
+     "lines": [
+      {
+       "t": "\"Dán nó vào app chat, một lệnh bài gọi được GPT, Gemini, DeepSeek.\"",
+       "kind": "narr",
+       "start": 17.202,
+       "end": 21.28
+      },
+      {
+       "t": "\"Có tông còn phát linh thạch miễn phí mỗi ngày.\"",
+       "kind": "narr",
+       "start": 21.62,
+       "end": 23.68
+      },
+      {
+       "t": "Câu thứ ba, câu thứ mười, câu thứ ba mươi, ta vẫn đang hỏi.",
+       "kind": "jade",
+       "start": 24.02,
+       "end": 26.998
+      },
+      {
+       "t": "Người đời gọi nó là",
+       "kind": "cue",
+       "start": 27.338,
+       "end": 28.25
+      },
+      {
+       "t": "xKiro.",
+       "kind": "term",
+       "start": 28.59,
+       "end": 29.201
+      }
+     ]
+    },
+    {
+     "start": 29.661,
+     "lines": [
+      {
+       "t": "Chín giờ năm mươi, Claude mở cửa lại. Ta đã viết xong chương ba.",
+       "kind": "gold",
+       "start": 29.661,
+       "end": 33.087
+      }
+     ]
+    }
+   ],
+   "start": 17.162,
+   "end": 33.717
+  },
+  {
+   "name": "EVENT",
+   "header": "Cơ duyên",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 33.757,
+     "lines": [
+      {
+       "t": "Đang có cơ duyên: xác nhận Telegram, quay trúng ít nhất năm mươi triệu token, tới hai mươi hai tháng mười một.",
+       "kind": "jade",
+       "start": 33.757,
+       "end": 39.192
+      }
+     ]
+    }
+   ],
+   "start": 33.717,
+   "end": 39.822
+  },
+  {
+   "name": "OUTRO",
+   "header": "Nhân quả",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 39.862,
+     "lines": [
+      {
+       "t": "Kẻ yếu thờ một vị đại năng.",
+       "kind": "jade",
+       "start": 39.862,
+       "end": 41.138
+      },
+      {
+       "t": "Kẻ mạnh cầm lệnh bài, gọi cả thiên hạ.",
+       "kind": "jade",
+       "start": 41.478,
+       "end": 43.464
+      }
+     ]
+    },
+    {
+     "start": 43.924,
+     "lines": [
+      {
+       "t": "Lệnh bài bần đạo để ở comment ghim.",
+       "kind": "cta",
+       "start": 43.924,
+       "end": 45.725
+      },
+      {
+       "t": "Đạo hữu từng bị AI bỏ rơi lúc nào? Comment đi.",
+       "kind": "cta",
+       "start": 46.065,
+       "end": 48.816
+      }
+     ]
+    }
+   ],
+   "start": 39.822,
+   "end": 49.446
+  }
+ ]
+}

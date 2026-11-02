@@ -1,0 +1,1308 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "xKiro home" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e6]: xKiro
+        - navigation "Main" [ref=e13]:
+          - link "Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+          - link "Models" [ref=e15] [cursor=pointer]:
+            - /url: /models
+          - link "Pricing" [ref=e16] [cursor=pointer]:
+            - /url: /#pricing
+          - link "Deals" [ref=e17] [cursor=pointer]:
+            - /url: /deals
+          - link "Docs" [ref=e18] [cursor=pointer]:
+            - /url: https://docs.xkiro.com
+            - text: Docs↗
+          - link "Status" [ref=e19] [cursor=pointer]:
+            - /url: /status
+          - link "Contact" [ref=e20] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e21]:
+          - link "Sign in" [ref=e22] [cursor=pointer]:
+            - /url: /login
+          - button "Language" [ref=e23] [cursor=pointer]:
+            - generic [ref=e25]: EN
+          - button "Toggle theme" [ref=e28] [cursor=pointer]
+          - link "Start free" [ref=e32] [cursor=pointer]:
+            - /url: /register
+    - main [ref=e33]:
+      - generic [ref=e34]:
+        - region [ref=e35]:
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - link "Live 103 models from 14 providers" [ref=e39] [cursor=pointer]:
+                - /url: /models
+                - generic [ref=e40]: Live
+                - generic [ref=e44]:
+                  - generic [aria-hidden] [ref=e45]:
+                    - generic [ref=e46]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e47]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e48]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                  - generic [ref=e49]: "103"
+                  - text: models from
+                  - generic [aria-hidden] [ref=e50]:
+                    - generic [ref=e51]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e52]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                  - generic [ref=e53]: "14"
+                  - text: providers
+                - generic [aria-hidden] [ref=e54]: →
+              - heading "AI Tokens for Agents, at a Better Price." [level=1] [ref=e56]:
+                - generic [aria-hidden] [ref=e58]: AI Tokens for Agents,
+                - generic [ref=e60]: at a Better Price.
+              - link "30× Plans from $5 — up to 30× their price in usage" [ref=e61] [cursor=pointer]:
+                - /url: "#pricing"
+                - generic [ref=e62]: 30×
+                - generic [ref=e63]: Plans from $5 — up to 30× their price in usage
+                - generic [aria-hidden] [ref=e64]: ↓
+              - paragraph [ref=e65]: One key for GPT, Claude, Gemini, DeepSeek, Qwen and more — through the OpenAI and Anthropic SDKs your agents already speak, on plans worth up to 30× their price.
+              - generic [ref=e66]:
+                - link "Get your API key" [ref=e68] [cursor=pointer]:
+                  - /url: /register
+                  - text: Get your API key
+                  - generic [aria-hidden] [ref=e69]: →
+                - link "View pricing" [ref=e70] [cursor=pointer]:
+                  - /url: /#pricing
+                - paragraph [ref=e71]: No credit card · Cancel anytime · 45 free models, free forever
+              - generic [ref=e73]:
+                - generic [ref=e74]: Base URL
+                - generic [ref=e75]: https://api.xkiro.com/v1
+                - button "Copy" [ref=e76] [cursor=pointer]
+            - 'group "Example: the same code calls any model in the catalog through xKiro" [ref=e82]':
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - generic [ref=e86]: agent.ts
+                  - code [ref=e94]:
+                    - generic [ref=e95]:
+                      - generic [aria-hidden] [ref=e96]: "1"
+                      - generic [ref=e97]: import OpenAI from "openai";
+                    - generic [aria-hidden] [ref=e99]: "2"
+                    - generic [ref=e101]:
+                      - generic [aria-hidden] [ref=e102]: "3"
+                      - generic [ref=e103]: "const client = new OpenAI({"
+                    - generic [ref=e104]:
+                      - generic [aria-hidden] [ref=e105]: "4"
+                      - generic [ref=e106]: "baseURL: \"https://api.xkiro.com/v1\","
+                    - generic [ref=e107]:
+                      - generic [aria-hidden] [ref=e108]: "5"
+                      - generic [ref=e109]: "apiKey: process.env.XKIRO_API_KEY,"
+                    - generic [ref=e110]:
+                      - generic [aria-hidden] [ref=e111]: "6"
+                      - generic [ref=e112]: "});"
+                    - generic [aria-hidden] [ref=e114]: "7"
+                    - generic [ref=e116]:
+                      - generic [aria-hidden] [ref=e117]: "8"
+                      - generic [ref=e118]: "const res = await client.chat.completions.create({"
+                    - generic [ref=e119]:
+                      - generic [aria-hidden] [ref=e120]: "9"
+                      - generic [ref=e121]:
+                        - text: "model: \""
+                        - generic [ref=e122]:
+                          - text: anthropic/claude-opus-5.5
+                          - generic [ref=e123]: anthropic/claude-opus-5.5
+                        - text: "\","
+                    - generic [ref=e124]:
+                      - generic [aria-hidden] [ref=e125]: "10"
+                      - generic [ref=e126]: "messages: [{ role: \"user\", content: \"Hello!\" }],"
+                    - generic [ref=e127]:
+                      - generic [aria-hidden] [ref=e128]: "11"
+                      - generic [ref=e129]: "});"
+                    - generic [aria-hidden] [ref=e131]: "12"
+                    - generic [ref=e133]:
+                      - generic [aria-hidden] [ref=e134]: "13"
+                      - generic [ref=e135]: console.log(res.choices[0].message.content);
+                - generic [ref=e136]:
+                  - generic [ref=e137]:
+                    - generic [ref=e142]: Models
+                    - generic [ref=e143]: per 1M · on a plan, from
+                  - generic [ref=e144]:
+                    - list [ref=e145]:
+                      - listitem [ref=e146]:
+                        - button "Send the request to Opus 5.5" [pressed] [ref=e147] [cursor=pointer]:
+                          - img "Anthropic" [ref=e148]
+                          - generic [ref=e149]:
+                            - generic [ref=e150]:
+                              - generic [ref=e151]: Opus 5.5
+                              - generic [ref=e152]: Up to −96%
+                            - generic "anthropic/claude-opus-5.5" [ref=e153]
+                          - generic [ref=e154]:
+                            - text: $0.14 / $0.67
+                            - generic [ref=e155]: $4 / $20
+                      - listitem [ref=e156]:
+                        - button "Send the request to GPT-6.1 Sol" [ref=e157] [cursor=pointer]:
+                          - img "OpenAI" [ref=e158]
+                          - generic [ref=e159]:
+                            - generic [ref=e160]:
+                              - generic [ref=e161]: GPT-6.1 Sol
+                              - generic [ref=e162]: Up to −96%
+                            - generic "openai/gpt-6.1-sol" [ref=e163]
+                          - generic [ref=e164]:
+                            - text: $0.067 / $0.34
+                            - generic [ref=e165]: $2 / $10
+                      - listitem [ref=e166]:
+                        - button "Send the request to DeepSeek V4 Pro 0813" [ref=e167] [cursor=pointer]:
+                          - img "DeepSeek" [ref=e168]
+                          - generic [ref=e169]:
+                            - generic [ref=e170]:
+                              - generic [ref=e171]: DeepSeek V4 Pro 0813
+                              - generic [ref=e172]: −35%
+                            - generic "deepseek/deepseek-v4-pro-0813" [ref=e173]
+                          - generic [ref=e174]:
+                            - text: $0.2828 / $0.5655
+                            - generic [ref=e175]: $0.435 / $0.87
+                      - listitem [ref=e176]:
+                        - button "Send the request to Gemini 3.8 Flash" [ref=e177] [cursor=pointer]:
+                          - img "Google" [ref=e178]
+                          - generic [ref=e179]:
+                            - generic [ref=e180]:
+                              - generic [ref=e181]: Gemini 3.8 Flash
+                              - generic [ref=e182]: −35%
+                            - generic "google/gemini-3.8-flash" [ref=e183]
+                          - generic [ref=e184]:
+                            - text: $0.4875 / $2.44
+                            - generic [ref=e185]: $0.75 / $3.75
+                      - listitem [ref=e186]:
+                        - button "Send the request to Grok 4.7" [ref=e187] [cursor=pointer]:
+                          - img "Grok" [ref=e188]
+                          - generic [ref=e189]:
+                            - generic [ref=e190]:
+                              - generic [ref=e191]: Grok 4.7
+                              - generic [ref=e192]: Up to −96%
+                            - generic "x-ai/grok-4.7" [ref=e193]
+                          - generic [ref=e194]:
+                            - text: $0.067 / $0.2
+                            - generic [ref=e195]: $2 / $6
+                    - link "Browse all 103 models" [ref=e197] [cursor=pointer]:
+                      - /url: /models
+                      - text: Browse all 103 models
+                      - generic [aria-hidden] [ref=e198]: ↗
+                - generic [ref=e199]:
+                  - generic [ref=e200]:
+                    - generic [ref=e205]: Terminal
+                    - button "Copy" [ref=e207] [cursor=pointer]
+                  - code [ref=e213]:
+                    - text: "$ curl https://api.xkiro.com/v1/chat/completions \\ -H \"Authorization: Bearer $XKIRO_API_KEY\" \\ -d"
+                    - generic [ref=e214]:
+                      - text: "'{\"model\":\"anthropic/claude-opus-5.5"
+                      - generic [ref=e215]: anthropic/claude-opus-5.5
+                      - text: "\",…}'"
+                    - text: ✓ 200 OK
+                    - generic [ref=e216]: ✓ 200 OK
+                    - generic [ref=e217]: "\"model\":"
+                    - text: "\"anthropic/claude-opus-5.5\""
+                    - generic [ref=e218]: "\"anthropic/claude-opus-5.5\""
+        - region "xKiro at a glance" [ref=e220]:
+          - generic [ref=e225]:
+            - generic [ref=e226]:
+              - generic [ref=e227]:
+                - term [ref=e228]: models behind one API
+                - definition [ref=e229]:
+                  - generic [aria-hidden] [ref=e230]:
+                    - generic [ref=e231]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e232]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e233]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                  - generic [ref=e234]: "103"
+              - generic [ref=e235]:
+                - term [ref=e236]: free to call, no card
+                - definition [ref=e237]:
+                  - generic [aria-hidden] [ref=e238]:
+                    - generic [ref=e239]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e240]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                  - generic [ref=e241]: "45"
+              - generic [ref=e242]:
+                - term [ref=e243]: model providers
+                - definition [ref=e244]:
+                  - generic [aria-hidden] [ref=e245]:
+                    - generic [ref=e246]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e247]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                  - generic [ref=e248]: "14"
+              - generic [ref=e249]:
+                - term [ref=e250]: tokens of context, max
+                - definition [ref=e251]:
+                  - generic [aria-hidden] [ref=e252]:
+                    - generic [ref=e253]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e254]: .
+                    - generic [ref=e255]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e256]: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9
+                    - generic [ref=e257]: M
+                  - generic [ref=e258]: 1.05M
+            - paragraph [ref=e259]: Counted live from the model catalog · updated hourly
+          - generic [ref=e264]:
+            - paragraph [ref=e265]: Models from
+            - generic [ref=e267]:
+              - list [ref=e268]:
+                - listitem [ref=e269]:
+                  - img "OpenAI" [ref=e270]
+                  - generic [ref=e271]: OpenAI
+                - listitem [ref=e272]:
+                  - img "Anthropic" [ref=e273]
+                  - generic [ref=e274]: Anthropic
+                - listitem [ref=e275]:
+                  - img "Google" [ref=e276]
+                  - generic [ref=e277]: Google
+                - listitem [ref=e278]:
+                  - img "DeepSeek" [ref=e279]
+                  - generic [ref=e280]: DeepSeek
+                - listitem [ref=e281]:
+                  - img "Qwen" [ref=e282]
+                  - generic [ref=e283]: Qwen
+                - listitem [ref=e284]:
+                  - img "Grok" [ref=e285]
+                  - generic [ref=e286]: Grok
+                - listitem [ref=e287]:
+                  - img "Kimi" [ref=e288]
+                  - generic [ref=e289]: Kimi
+                - listitem [ref=e290]:
+                  - img "Mistral" [ref=e291]
+                  - generic [ref=e292]: Mistral
+                - listitem [ref=e293]:
+                  - img "MiniMax" [ref=e294]
+                  - generic [ref=e295]: MiniMax
+                - listitem [ref=e296]:
+                  - img "MiMo" [ref=e297]
+                  - generic [ref=e298]: MiMo
+                - listitem [ref=e299]:
+                  - img "NVIDIA" [ref=e300]
+                  - generic [ref=e301]: NVIDIA
+                - listitem [ref=e302]:
+                  - img "Tencent" [ref=e303]
+                  - generic [ref=e304]: Tencent
+                - listitem [ref=e305]:
+                  - img "Cohere" [ref=e306]
+                  - generic [ref=e307]: Cohere
+                - listitem [ref=e308]:
+                  - img "SenseNova" [ref=e309]
+                  - generic [ref=e310]: SenseNova
+              - list [aria-hidden] [ref=e311]:
+                - listitem [ref=e312]:
+                  - generic [ref=e314]: OpenAI
+                - listitem [ref=e315]:
+                  - generic [ref=e317]: Anthropic
+                - listitem [ref=e318]:
+                  - generic [ref=e320]: Google
+                - listitem [ref=e321]:
+                  - generic [ref=e323]: DeepSeek
+                - listitem [ref=e324]:
+                  - generic [ref=e326]: Qwen
+                - listitem [ref=e327]:
+                  - generic [ref=e329]: Grok
+                - listitem [ref=e330]:
+                  - generic [ref=e332]: Kimi
+                - listitem [ref=e333]:
+                  - generic [ref=e335]: Mistral
+                - listitem [ref=e336]:
+                  - generic [ref=e338]: MiniMax
+                - listitem [ref=e339]:
+                  - generic [ref=e341]: MiMo
+                - listitem [ref=e342]:
+                  - generic [ref=e344]: NVIDIA
+                - listitem [ref=e345]:
+                  - generic [ref=e347]: Tencent
+                - listitem [ref=e348]:
+                  - generic [ref=e350]: Cohere
+                - listitem [ref=e351]:
+                  - generic [ref=e353]: SenseNova
+        - region [ref=e358]:
+          - generic [ref=e359]:
+            - generic [ref=e360]:
+              - generic [ref=e361]:
+                - paragraph [ref=e362]: Benefits
+                - heading "Everything your agents need, for a fraction of the price." [level=2] [ref=e363]:
+                  - generic [ref=e364]: Everything
+                  - generic [ref=e365]: your
+                  - generic [ref=e366]: agents
+                  - generic [ref=e367]: need,
+                  - generic [ref=e368]: for
+                  - generic [ref=e369]: a
+                  - generic [ref=e370]: fraction
+                  - generic [ref=e371]: of
+                  - generic [ref=e372]: the
+                  - text: price.
+              - paragraph [ref=e373]: One account replaces a stack of provider accounts, invoices and retry code.
+            - list [ref=e374]:
+              - listitem [ref=e375]:
+                - generic [ref=e376]: Plans
+                - generic [ref=e377]: 30×
+                - paragraph [ref=e378]:
+                  - text: the usage for your money on a plan — Max is $20 a month for up to $600 at list price.
+                  - link "See the math" [ref=e379] [cursor=pointer]:
+                    - /url: "#value"
+                    - text: See the math ↓
+              - listitem [ref=e380]:
+                - generic [ref=e381]: Free tier
+                - generic [ref=e382]: "45"
+                - paragraph [ref=e383]: free models on every account, no credit card — 500K tokens a day, 1M after Telegram verification.
+              - listitem [ref=e384]:
+                - generic [ref=e385]: Catalog
+                - generic [ref=e386]: "103"
+                - paragraph [ref=e387]: models from 14 providers behind one key. Switch models by changing one string.
+              - listitem [ref=e388]:
+                - generic [ref=e389]: Reliability
+                - generic [ref=e390]: "0"
+                - paragraph [ref=e391]: "lines of retry code: when a model has more than one route, a failing upstream is retried on the next route automatically."
+              - listitem [ref=e392]:
+                - generic [ref=e393]: Fair billing
+                - generic [ref=e394]: $0
+                - paragraph [ref=e395]: for requests that fail with a 5xx error — and retrying an identical blocking request replays the first result instead of charging twice.
+              - listitem [ref=e396]:
+                - generic [ref=e397]: Your tools
+                - generic [ref=e398]: "5"
+                - paragraph [ref=e399]: agent tools with setup guides — Claude Code, Codex, Cline, Cursor, and OpenCode — plus anything that takes a custom base URL.
+        - region [ref=e404]:
+          - generic [ref=e405]:
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - paragraph [ref=e408]: Plan value
+                - heading "Pay $20. Use up to $600." [level=2] [ref=e409]
+              - paragraph [ref=e411]: Every paid plan includes up to 30× its price in usage, metered at list price. Max is $20 a month — about $0.67 a day.
+            - generic [ref=e412]:
+              - figure "Example · Max plan" [ref=e413]:
+                - generic [ref=e415]:
+                  - generic [ref=e416]:
+                    - paragraph [ref=e417]:
+                      - generic [ref=e418]: You pay
+                      - generic [ref=e419]: $20/ month
+                    - paragraph [ref=e422]: ≈ $0.67 a day
+                  - generic [ref=e423]:
+                    - paragraph [ref=e424]:
+                      - generic [ref=e425]: You can use, up to
+                      - generic [ref=e426]: $600/ month
+                    - paragraph [ref=e428]: Metered at catalog list prices
+                - list [ref=e429]:
+                  - listitem [ref=e430]:
+                    - generic [ref=e431]: Pro
+                    - generic [ref=e432]: $5 → $150
+                  - listitem [ref=e433]:
+                    - generic [ref=e434]: Pro+
+                    - generic [ref=e435]: $10 → $300
+                  - listitem [ref=e436]:
+                    - generic [ref=e437]: Max
+                    - generic [ref=e438]: $20 → $600
+                  - listitem [ref=e439]:
+                    - generic [ref=e440]: Ultra
+                    - generic [ref=e441]: $100 → $3,000
+                  - listitem [ref=e442]:
+                    - generic [ref=e443]: Power
+                    - generic [ref=e444]: $200 → $6,000
+                - paragraph [ref=e445]:
+                  - text: The same 30× on every plan, from $5 to $200 a month.
+                  - link "Compare plans" [ref=e446] [cursor=pointer]:
+                    - /url: "#pricing"
+                    - text: Compare plans ↓
+              - generic [ref=e447]:
+                - table "Popular models, on a plan How the plan price is worked out" [ref=e449]:
+                  - caption [ref=e450]:
+                    - generic [ref=e451]:
+                      - generic [ref=e452]: Popular models, on a plan
+                      - button "How the plan price is worked out" [ref=e453] [cursor=pointer]
+                  - rowgroup [ref=e456]:
+                    - row [ref=e457]:
+                      - columnheader "Model" [ref=e458]
+                      - columnheader "On a plan, from" [ref=e459]
+                  - rowgroup [ref=e460]:
+                    - row [ref=e461]:
+                      - cell "Anthropic Opus 5.5 Up to −96%" [ref=e462]:
+                        - generic [ref=e463]:
+                          - img "Anthropic" [ref=e464]
+                          - generic [ref=e466]:
+                            - link "Opus 5.5" [ref=e467] [cursor=pointer]:
+                              - /url: /models/anthropic/claude-opus-5.5
+                            - generic [ref=e468]: Up to −96%
+                      - cell "$0.14 / $0.67 $4 / $20" [ref=e469]:
+                        - text: $0.14 / $0.67
+                        - generic [ref=e470]: $4 / $20
+                    - row [ref=e471]:
+                      - cell "OpenAI GPT-6.1 Sol Up to −96%" [ref=e472]:
+                        - generic [ref=e473]:
+                          - img "OpenAI" [ref=e474]
+                          - generic [ref=e476]:
+                            - link "GPT-6.1 Sol" [ref=e477] [cursor=pointer]:
+                              - /url: /models/openai/gpt-6.1-sol
+                            - generic [ref=e478]: Up to −96%
+                      - cell "$0.067 / $0.34 $2 / $10" [ref=e479]:
+                        - text: $0.067 / $0.34
+                        - generic [ref=e480]: $2 / $10
+                    - row [ref=e481]:
+                      - cell "Grok Grok 4.7 Up to −96%" [ref=e482]:
+                        - generic [ref=e483]:
+                          - img "Grok" [ref=e484]
+                          - generic [ref=e486]:
+                            - link "Grok 4.7" [ref=e487] [cursor=pointer]:
+                              - /url: /models/x-ai/grok-4.7
+                            - generic [ref=e488]: Up to −96%
+                      - cell "$0.067 / $0.2 $2 / $6" [ref=e489]:
+                        - text: $0.067 / $0.2
+                        - generic [ref=e490]: $2 / $6
+                    - row [ref=e491]:
+                      - cell "MiniMax MiniMax M3.1 Flash Up to −96%" [ref=e492]:
+                        - generic [ref=e493]:
+                          - img "MiniMax" [ref=e494]
+                          - generic [ref=e496]:
+                            - link "MiniMax M3.1 Flash" [ref=e497] [cursor=pointer]:
+                              - /url: /models/minimax/minimax-m3.1-flash
+                            - generic [ref=e498]: Up to −96%
+                      - cell "$0.005 / $0.02 $0.15 / $0.6" [ref=e499]:
+                        - text: $0.005 / $0.02
+                        - generic [ref=e500]: $0.15 / $0.6
+                    - row [ref=e501]:
+                      - cell "Kimi Kimi K3 Agent Up to −96%" [ref=e502]:
+                        - generic [ref=e503]:
+                          - img "Kimi" [ref=e504]
+                          - generic [ref=e506]:
+                            - link "Kimi K3 Agent" [ref=e507] [cursor=pointer]:
+                              - /url: /models/moonshotai/kimi-k3-agent
+                            - generic [ref=e508]: Up to −96%
+                      - cell "$0.1 / $0.5 $3 / $15" [ref=e509]:
+                        - text: $0.1 / $0.5
+                        - generic [ref=e510]: $3 / $15
+                - paragraph [ref=e511]: "Per 1M tokens, input / output. Plan prices assume you use your whole allowance; it's split into 5-hour and 7-day windows (Max: $20 per 5 hours, $140 per 7 days) and unused allowance doesn't roll over."
+                - paragraph [ref=e512]: Pay-as-you-go prices match the official API prices of Anthropic, OpenAI, xAI, and MiniMax (checked Oct 21, 2026).
+            - generic [ref=e514]:
+              - generic [ref=e515]:
+                - heading "Your bill, on a plan" [level=3] [ref=e516]
+                - paragraph [ref=e517]: Slide to what you spend on AI APIs each month at list prices.
+                - generic [ref=e518]:
+                  - generic [ref=e519] [cursor=pointer]: Monthly API spend at list prices
+                  - generic [ref=e520]:
+                    - generic [aria-hidden] [ref=e521]: $
+                    - spinbutton "Monthly spend in US dollars" [ref=e522]: "600"
+                - slider "Monthly API spend at list prices" [ref=e523] [cursor=pointer]: "596"
+                - generic [aria-hidden] [ref=e524]:
+                  - generic [ref=e525]: $20
+                  - generic [ref=e526]: $6,000
+                - paragraph [ref=e527]: Estimate at list prices, assuming your usage fits the plan's 5-hour and 7-day windows. Wallet-billed models aren't covered by plans.
+              - generic [ref=e528]:
+                - paragraph [ref=e529]: Smallest plan that covers it
+                - paragraph [ref=e530]: Max — $20/month
+                - paragraph [ref=e531]: Covers up to $600 of usage a month
+                - paragraph [ref=e532]: Save up to $580 a month
+                - paragraph [ref=e533]: 96% less than paying $600 at list price
+                - link "Choose Max" [ref=e535] [cursor=pointer]:
+                  - /url: /register?plan=max
+                  - text: Choose Max
+                  - generic [aria-hidden] [ref=e536]: →
+        - region [ref=e541]:
+          - generic [ref=e542]:
+            - generic [ref=e543]:
+              - paragraph [ref=e544]: Quickstart
+              - heading "Change one line. Keep your code." [level=2] [ref=e545]
+              - paragraph [ref=e546]: No new SDK and no rewrites. Point the client you already use at xKiro — every model in the catalog is one model ID away.
+              - list [ref=e547]:
+                - listitem [ref=e548]:
+                  - generic [aria-hidden] [ref=e549]: "01"
+                  - generic [ref=e550]:
+                    - heading "Create a key" [level=3] [ref=e551]
+                    - paragraph [ref=e552]: Sign up and create an API key in the dashboard. Free models work right away — no card required.
+                - listitem [ref=e553]:
+                  - generic [aria-hidden] [ref=e554]: "02"
+                  - generic [ref=e555]:
+                    - heading "Change the base URL" [level=3] [ref=e556]
+                    - paragraph [ref=e557]: OpenAI SDKs use api.xkiro.com/v1. Anthropic SDKs and Claude Code use api.xkiro.com — the SDK adds /v1 itself.
+                - listitem [ref=e558]:
+                  - generic [aria-hidden] [ref=e559]: "03"
+                  - generic [ref=e560]:
+                    - heading "Call any model" [level=3] [ref=e561]
+                    - paragraph [ref=e562]: Model IDs carry the vendor prefix. Swap one string to move between GPT, Gemini, DeepSeek and the rest — Claude models run in Claude Code.
+              - link "Read the quickstart" [ref=e563] [cursor=pointer]:
+                - /url: https://docs.xkiro.com/guides/quickstart/
+                - text: Read the quickstart ↗
+            - generic [ref=e567]:
+              - generic [ref=e568]:
+                - tablist [ref=e570]:
+                  - tab "OpenAI SDK" [selected] [ref=e571] [cursor=pointer]
+                  - tab "Anthropic SDK" [ref=e572] [cursor=pointer]
+                  - tab "curl" [ref=e573] [cursor=pointer]
+                - generic [ref=e574]: agent.ts
+              - tabpanel "OpenAI SDK" [ref=e576]:
+                - code [ref=e578]:
+                  - generic [ref=e579]: import OpenAI from "openai";
+                  - generic [ref=e585]: "const client = new OpenAI({"
+                  - generic [ref=e588]:
+                    - generic [aria-hidden] [ref=e589]: −
+                    - generic [ref=e590]: "baseURL: \"https://api.openai.com/v1\","
+                  - generic [ref=e591]:
+                    - generic [aria-hidden] [ref=e592]: +
+                    - generic [ref=e593]:
+                      - text: "baseURL: \""
+                      - generic: https://api.xkiro.com/v1
+                      - text: "\","
+                  - generic [ref=e595]: "apiKey: process.env.XKIRO_API_KEY,"
+                  - generic [ref=e598]: "});"
+                  - generic [ref=e604]: "const res = await client.chat.completions.create({"
+                  - generic [ref=e609]:
+                    - text: "model: \""
+                    - generic: openai/gpt-6.1-sol
+                    - text: "\","
+                  - generic [ref=e611]: "messages: [{ role: \"user\", content: \"Hello!\" }],"
+                  - generic [ref=e614]: "});"
+        - region [ref=e621]:
+          - generic:
+            - generic [ref=e622]:
+              - generic [ref=e623]:
+                - paragraph [ref=e624]: Your tools
+                - heading "Already in your editor." [level=2] [ref=e625]
+              - paragraph [ref=e627]: Claude Code, Codex, Cline — and anything that accepts a custom base URL and API key. The config below is copied from our setup guides.
+            - generic [ref=e629]:
+              - tablist "Choose a tool" [ref=e630]:
+                - tab "Claude Code" [selected] [ref=e631] [cursor=pointer]
+                - tab "Codex" [ref=e632] [cursor=pointer]
+                - tab "Cline" [ref=e633] [cursor=pointer]
+              - tabpanel "Claude Code" [ref=e635]:
+                - generic [ref=e636]:
+                  - generic [ref=e637]:
+                    - generic [ref=e638]: ~/.claude/settings.json
+                    - link "Full guide" [ref=e640] [cursor=pointer]:
+                      - /url: https://docs.xkiro.com/guides/tools/claude-code/
+                      - text: Full guide ↗
+                  - generic [ref=e644]:
+                    - generic [ref=e645]: "{"
+                    - generic [ref=e647]: "\"env\": {"
+                    - generic [ref=e649]: "\"ANTHROPIC_BASE_URL\": \"https://api.xkiro.com\","
+                    - generic [ref=e651]: "\"ANTHROPIC_AUTH_TOKEN\": \"sk-xt-...\","
+                    - generic [ref=e653]: "\"ANTHROPIC_MODEL\": \"anthropic/claude-opus-5\""
+                    - generic [ref=e655]: "}"
+                    - generic [ref=e657]: "}"
+            - generic [ref=e659]:
+              - paragraph [ref=e660]: "Also set up in minutes:"
+              - list [ref=e661]:
+                - listitem [ref=e662]:
+                  - link "Cursor" [ref=e663] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/cursor/
+                - listitem [ref=e664]:
+                  - link "OpenCode" [ref=e665] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/opencode/
+                - listitem [ref=e666]:
+                  - link "VS Code" [ref=e667] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/vscode/
+                - listitem [ref=e668]:
+                  - link "JetBrains" [ref=e669] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/jetbrains/
+                - listitem [ref=e670]:
+                  - link "All setup guides" [ref=e671] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/
+                    - text: All setup guides
+                    - generic [aria-hidden] [ref=e672]: ↗
+        - region [ref=e677]:
+          - generic:
+            - generic [ref=e678]:
+              - generic [ref=e679]:
+                - paragraph [ref=e680]: Catalog
+                - heading "Every model — from about 1/30 of the list price on a plan." [level=2] [ref=e681]
+              - paragraph [ref=e683]: Live per-million-token prices from the catalog. On a plan, usage comes out of your allowance, so the same tokens cost from about 1/30 of the list price.
+            - generic [ref=e684]:
+              - generic [ref=e685]:
+                - tablist "Filter the catalog" [ref=e686]:
+                  - tab "Featured" [selected] [ref=e687] [cursor=pointer]
+                  - tab "Free" [ref=e688] [cursor=pointer]
+                  - tab "1M+ context" [ref=e689] [cursor=pointer]
+                  - tab "Vision" [ref=e690] [cursor=pointer]
+                  - tab "Reasoning" [ref=e691] [cursor=pointer]
+                - generic [ref=e692]:
+                  - generic [ref=e693]: From these prices, when you use your whole allowance
+                  - generic [ref=e694]:
+                    - radiogroup "Show prices" [ref=e695]:
+                      - radio "On a plan" [checked] [ref=e696] [cursor=pointer]
+                      - radio "Pay as you go" [ref=e697] [cursor=pointer]
+                    - button "How the plan price is worked out" [ref=e698] [cursor=pointer]
+              - tabpanel "Featured" [ref=e701]:
+                - table [ref=e703]:
+                  - rowgroup [ref=e704]:
+                    - row [ref=e705]:
+                      - columnheader "Model" [ref=e706]
+                      - columnheader "Context" [ref=e707]
+                      - columnheader "Input / 1M" [ref=e708]
+                      - columnheader "Output / 1M" [ref=e709]
+                  - rowgroup [ref=e710]:
+                    - row [ref=e711]:
+                      - cell "OpenAI GPT-6 Astra Up to −96% openai/gpt-6-astra Ultra and Power plans" [ref=e712]:
+                        - generic [ref=e713]:
+                          - img "OpenAI" [ref=e714]
+                          - generic [ref=e715]:
+                            - generic [ref=e716]:
+                              - link "GPT-6 Astra" [ref=e717] [cursor=pointer]:
+                                - /url: /models/openai/gpt-6-astra
+                              - generic [ref=e718]: Up to −96%
+                            - generic "openai/gpt-6-astra" [ref=e719]
+                            - generic [ref=e720]: Ultra and Power plans
+                      - cell "1.05M" [ref=e721]
+                      - cell "$0.34 $10" [ref=e722]:
+                        - text: $0.34
+                        - generic [ref=e723]: $10
+                      - cell "$1.70 $50" [ref=e724]:
+                        - text: $1.70
+                        - generic [ref=e725]: $50
+                    - row [ref=e726]:
+                      - cell "Anthropic Opus 5.5 Up to −96% anthropic/claude-opus-5.5" [ref=e727]:
+                        - generic [ref=e728]:
+                          - img "Anthropic" [ref=e729]
+                          - generic [ref=e730]:
+                            - generic [ref=e731]:
+                              - link "Opus 5.5" [ref=e732] [cursor=pointer]:
+                                - /url: /models/anthropic/claude-opus-5.5
+                              - generic [ref=e733]: Up to −96%
+                            - generic "anthropic/claude-opus-5.5" [ref=e734]
+                      - cell "1M" [ref=e735]
+                      - cell "$0.14 $4" [ref=e736]:
+                        - text: $0.14
+                        - generic [ref=e737]: $4
+                      - cell "$0.67 $20" [ref=e738]:
+                        - text: $0.67
+                        - generic [ref=e739]: $20
+                    - row [ref=e740]:
+                      - cell "DeepSeek DeepSeek V4 Pro 0813 −35% deepseek/deepseek-v4-pro-0813" [ref=e741]:
+                        - generic [ref=e742]:
+                          - img "DeepSeek" [ref=e743]
+                          - generic [ref=e744]:
+                            - generic [ref=e745]:
+                              - link "DeepSeek V4 Pro 0813" [ref=e746] [cursor=pointer]:
+                                - /url: /models/deepseek/deepseek-v4-pro-0813
+                              - generic [ref=e747]: −35%
+                            - generic "deepseek/deepseek-v4-pro-0813" [ref=e748]
+                      - cell "1.05M" [ref=e749]
+                      - cell "$0.2828 $0.435" [ref=e750]:
+                        - text: $0.2828
+                        - generic [ref=e751]: $0.435
+                      - cell "$0.5655 $0.87" [ref=e752]:
+                        - text: $0.5655
+                        - generic [ref=e753]: $0.87
+                    - row [ref=e754]:
+                      - cell "Google Gemini 3.8 Flash −35% google/gemini-3.8-flash" [ref=e755]:
+                        - generic [ref=e756]:
+                          - img "Google" [ref=e757]
+                          - generic [ref=e758]:
+                            - generic [ref=e759]:
+                              - link "Gemini 3.8 Flash" [ref=e760] [cursor=pointer]:
+                                - /url: /models/google/gemini-3.8-flash
+                              - generic [ref=e761]: −35%
+                            - generic "google/gemini-3.8-flash" [ref=e762]
+                      - cell "1M" [ref=e763]
+                      - cell "$0.4875 $0.75" [ref=e764]:
+                        - text: $0.4875
+                        - generic [ref=e765]: $0.75
+                      - cell "$2.44 $3.75" [ref=e766]:
+                        - text: $2.44
+                        - generic [ref=e767]: $3.75
+                    - row [ref=e768]:
+                      - cell "Grok Grok 4.7 Up to −96% x-ai/grok-4.7" [ref=e769]:
+                        - generic [ref=e770]:
+                          - img "Grok" [ref=e771]
+                          - generic [ref=e772]:
+                            - generic [ref=e773]:
+                              - link "Grok 4.7" [ref=e774] [cursor=pointer]:
+                                - /url: /models/x-ai/grok-4.7
+                              - generic [ref=e775]: Up to −96%
+                            - generic "x-ai/grok-4.7" [ref=e776]
+                      - cell "500K" [ref=e777]
+                      - cell "$0.067 $2" [ref=e778]:
+                        - text: $0.067
+                        - generic [ref=e779]: $2
+                      - cell "$0.2 $6" [ref=e780]:
+                        - text: $0.2
+                        - generic [ref=e781]: $6
+                    - row [ref=e782]:
+                      - cell "Kimi Kimi K3 Agent Up to −96% moonshotai/kimi-k3-agent" [ref=e783]:
+                        - generic [ref=e784]:
+                          - img "Kimi" [ref=e785]
+                          - generic [ref=e786]:
+                            - generic [ref=e787]:
+                              - link "Kimi K3 Agent" [ref=e788] [cursor=pointer]:
+                                - /url: /models/moonshotai/kimi-k3-agent
+                              - generic [ref=e789]: Up to −96%
+                            - generic "moonshotai/kimi-k3-agent" [ref=e790]
+                      - cell "262K" [ref=e791]
+                      - cell "$0.1 $3" [ref=e792]:
+                        - text: $0.1
+                        - generic [ref=e793]: $3
+                      - cell "$0.5 $15" [ref=e794]:
+                        - text: $0.5
+                        - generic [ref=e795]: $15
+                    - row [ref=e796]:
+                      - cell "Qwen Qwen3.8 Max (Free) Free qwen/qwen3.8-max:free" [ref=e797]:
+                        - generic [ref=e798]:
+                          - img "Qwen" [ref=e799]
+                          - generic [ref=e800]:
+                            - generic [ref=e801]:
+                              - link "Qwen3.8 Max (Free)" [ref=e802] [cursor=pointer]:
+                                - /url: /models/qwen/qwen3.8-max:free
+                              - generic [ref=e803]: Free
+                            - generic "qwen/qwen3.8-max:free" [ref=e804]
+                      - cell "1M" [ref=e805]
+                      - cell "Free" [ref=e806]
+                      - cell "Free" [ref=e807]
+                    - row [ref=e808]:
+                      - cell "MiniMax MiniMax M3.1 Flash Up to −96% minimax/minimax-m3.1-flash" [ref=e809]:
+                        - generic [ref=e810]:
+                          - img "MiniMax" [ref=e811]
+                          - generic [ref=e812]:
+                            - generic [ref=e813]:
+                              - link "MiniMax M3.1 Flash" [ref=e814] [cursor=pointer]:
+                                - /url: /models/minimax/minimax-m3.1-flash
+                              - generic [ref=e815]: Up to −96%
+                            - generic "minimax/minimax-m3.1-flash" [ref=e816]
+                      - cell "1M" [ref=e817]
+                      - cell "$0.005 $0.15" [ref=e818]:
+                        - text: $0.005
+                        - generic [ref=e819]: $0.15
+                      - cell "$0.02 $0.6" [ref=e820]:
+                        - text: $0.02
+                        - generic [ref=e821]: $0.6
+            - generic [ref=e822]:
+              - paragraph [ref=e823]: Counted live from the model catalog · updated hourly
+              - link "Browse all 103 models" [ref=e824] [cursor=pointer]:
+                - /url: /models
+                - text: Browse all 103 models →
+        - region [ref=e829]:
+          - generic:
+            - generic [ref=e830]:
+              - generic [ref=e831]:
+                - paragraph [ref=e832]: Under the hood
+                - heading "Built for agents that run all day." [level=2] [ref=e833]
+              - paragraph [ref=e835]: Follow one request through xKiro. Failover, streaming, fair billing, budgets and logs are part of the path — not add-ons.
+            - list [ref=e836]:
+              - listitem [ref=e839]:
+                - generic [ref=e840]: "01"
+                - generic [ref=e842]:
+                  - heading "Routed — with a fallback" [level=3] [ref=e843]
+                  - paragraph [ref=e844]: When a model has more than one route, a failing upstream is retried on the next route automatically — no retry code on your side.
+                - generic [ref=e846]:
+                  - generic [ref=e847]:
+                    - generic [ref=e848]: POST
+                    - generic [ref=e849]: /v1/chat/completions
+                    - generic [ref=e850]: openai/gpt-6.1-sol
+                  - generic [ref=e851]:
+                    - generic [ref=e852]:
+                      - generic [ref=e853]: route 1
+                      - generic [ref=e855]: 503 upstream busy
+                    - generic [ref=e856]:
+                      - generic [ref=e857]: route 2
+                      - generic [ref=e859]: 200 OK · streaming
+                    - generic [ref=e860]: ↳ same model, next route
+              - listitem [ref=e861]:
+                - generic [ref=e862]: "02"
+                - generic [ref=e864]:
+                  - heading "Streamed token by token" [level=3] [ref=e865]
+                  - paragraph [ref=e866]: Answers arrive as they are generated, in the OpenAI or Anthropic streaming format your client already parses.
+                - generic [ref=e868]:
+                  - generic [ref=e870]:
+                    - generic [ref=e871]: "data: {\"choices\":[{\"delta\":{\"content\":\"Cache\"}}]}"
+                    - generic [ref=e872]: "data: {\"choices\":[{\"delta\":{\"content\":\" hits\"}}]}"
+                    - generic [ref=e873]: "data: {\"choices\":[{\"delta\":{\"content\":\" skip\"}}]}"
+                    - generic [ref=e874]: "data: {\"choices\":[{\"delta\":{},\"finish_reason\":\"stop\"}]}"
+                    - generic [ref=e875]: "data: [DONE]"
+                  - generic [ref=e876]:
+                    - text: Cancel at any point — you pay only for the tokens generated.
+                    - generic [ref=e877]: · Example
+              - listitem [ref=e878]:
+                - generic [ref=e879]: "03"
+                - generic [ref=e881]:
+                  - heading "Billed fairly" [level=3] [ref=e882]
+                  - paragraph [ref=e883]: "Metered at catalog rates. The rules are simple and written down:"
+                - list [ref=e885]:
+                  - listitem [ref=e886]:
+                    - generic [aria-hidden] [ref=e887]: ✓
+                    - generic [ref=e888]: Requests that fail with a 5xx error are never billed
+                  - listitem [ref=e889]:
+                    - generic [aria-hidden] [ref=e890]: ✓
+                    - generic [ref=e891]: Retrying an identical blocking request replays the first result — no double charge
+                  - listitem [ref=e892]:
+                    - generic [aria-hidden] [ref=e893]: ✓
+                    - generic [ref=e894]: Cancel a stream and pay only for the tokens generated
+              - listitem [ref=e895]:
+                - generic [ref=e896]: "04"
+                - generic [ref=e898]:
+                  - heading "Spent against budgets you can see" [level=3] [ref=e899]
+                  - paragraph [ref=e900]: Plans spend from a 5-hour and a 7-day allowance at catalog rates — watch both fill up in real time.
+                - generic [ref=e902]:
+                  - generic [ref=e904]:
+                    - generic [ref=e905]: 5-hour window
+                    - generic [ref=e906]: 62% · $20
+                  - generic [ref=e910]:
+                    - generic [ref=e911]: 7-day window
+                    - generic [ref=e912]: 38% · $140
+                  - text: Example · Max plan
+              - listitem [ref=e915]:
+                - generic [ref=e916]: "05"
+                - generic [ref=e918]:
+                  - heading "Logged, with a key per app" [level=3] [ref=e919]
+                  - paragraph [ref=e920]: Model, tokens, cost and status for every call in your dashboard — and as many API keys as you need, each revocable on its own.
+                - generic [ref=e922]:
+                  - generic [ref=e923]:
+                    - generic [ref=e924]:
+                      - generic [ref=e925]: Model
+                      - generic [ref=e926]: Tokens
+                      - generic [ref=e927]: Status
+                    - generic [ref=e928]:
+                      - generic "anthropic/claude-opus-5.5" [ref=e929]
+                      - generic [ref=e930]: 1,284
+                      - generic [ref=e931]: "200"
+                    - generic [ref=e932]:
+                      - generic "openai/gpt-6.1-sol" [ref=e933]
+                      - generic [ref=e934]: "902"
+                      - generic [ref=e935]: "200"
+                    - generic [ref=e936]:
+                      - generic "deepseek/deepseek-v4-pro-0813" [ref=e937]
+                      - generic [ref=e938]: 3,410
+                      - generic [ref=e939]: "200"
+                    - generic [ref=e940]: Example
+                  - generic [ref=e941]:
+                    - generic [ref=e942]:
+                      - generic [ref=e944]: production
+                      - generic [ref=e945]: sk-xt-••••4a1c
+                    - generic [ref=e946]:
+                      - generic [ref=e948]: ci-runner
+                      - generic [ref=e949]: sk-xt-••••90be
+                    - generic [ref=e950]:
+                      - generic [ref=e952]: old-laptop
+                      - generic [ref=e953]: sk-xt-••••17d2
+            - generic [ref=e956]:
+              - generic [ref=e957]:
+                - heading "More than chat" [level=3] [ref=e958]
+                - paragraph [ref=e959]: Images, speech and web search run on the same key and the same account.
+              - list [ref=e960]:
+                - listitem [ref=e961]:
+                  - link "POST /v1/chat/completions Chat, OpenAI format" [ref=e962] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/chat-completions/
+                    - generic [ref=e963]: POST
+                    - generic [ref=e964]:
+                      - generic [ref=e965]: /v1/chat/completions
+                      - generic [ref=e966]: Chat, OpenAI format
+                    - generic [aria-hidden] [ref=e967]: ↗
+                - listitem [ref=e968]:
+                  - link "POST /v1/messages Messages, Anthropic format" [ref=e969] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/messages/
+                    - generic [ref=e970]: POST
+                    - generic [ref=e971]:
+                      - generic [ref=e972]: /v1/messages
+                      - generic [ref=e973]: Messages, Anthropic format
+                    - generic [aria-hidden] [ref=e974]: ↗
+                - listitem [ref=e975]:
+                  - link "POST /v1/images/generations Image generation" [ref=e976] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/images/
+                    - generic [ref=e977]: POST
+                    - generic [ref=e978]:
+                      - generic [ref=e979]: /v1/images/generations
+                      - generic [ref=e980]: Image generation
+                    - generic [aria-hidden] [ref=e981]: ↗
+                - listitem [ref=e982]:
+                  - link "POST /v1/audio/speech Text to speech · 145 voices" [ref=e983] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/audio-speech/
+                    - generic [ref=e984]: POST
+                    - generic [ref=e985]:
+                      - generic [ref=e986]: /v1/audio/speech
+                      - generic [ref=e987]: Text to speech · 145 voices
+                    - generic [aria-hidden] [ref=e988]: ↗
+                - listitem [ref=e989]:
+                  - link "POST /v1/search Web search" [ref=e990] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/web-search/
+                    - generic [ref=e991]: POST
+                    - generic [ref=e992]:
+                      - generic [ref=e993]: /v1/search
+                      - generic [ref=e994]: Web search
+                    - generic [aria-hidden] [ref=e995]: ↗
+                - listitem [ref=e996]:
+                  - link "POST /mcp/web MCP server for agents" [ref=e997] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/mcp/
+                    - generic [ref=e998]: POST
+                    - generic [ref=e999]:
+                      - generic [ref=e1000]: /mcp/web
+                      - generic [ref=e1001]: MCP server for agents
+                    - generic [aria-hidden] [ref=e1002]: ↗
+        - region [ref=e1007]:
+          - generic:
+            - generic [ref=e1008]:
+              - paragraph [ref=e1009]: Pricing
+              - heading "Start free. Scale on a plan." [level=2] [ref=e1010]
+              - paragraph [ref=e1011]: Every paid plan includes usage worth up to 30× its price at catalog rates. Prefer no subscription? Pay as you go from your wallet.
+            - radiogroup "Billing period" [ref=e1013]:
+              - radio "Monthly" [checked] [ref=e1014] [cursor=pointer]
+              - radio "Quarterly -10%" [ref=e1015] [cursor=pointer]:
+                - text: Quarterly
+                - generic [ref=e1016]: "-10%"
+              - radio "Yearly -20%" [ref=e1017] [cursor=pointer]:
+                - text: Yearly
+                - generic [ref=e1018]: "-20%"
+            - generic [ref=e1020]:
+              - generic [ref=e1021]:
+                - article [ref=e1022]:
+                  - generic [ref=e1023]:
+                    - heading "Pro" [level=3] [ref=e1025]
+                    - paragraph [ref=e1026]: The starter plan for individuals getting started with AI routing.
+                  - generic [ref=e1028]:
+                    - paragraph [ref=e1029]:
+                      - generic [ref=e1030]: Usage worth up to
+                      - button "Worth up to / month" [ref=e1031] [cursor=pointer]
+                    - paragraph [ref=e1034]:
+                      - generic [ref=e1035]: $150/mo
+                      - generic [ref=e1036]: 30× what you pay
+                  - generic [ref=e1037]:
+                    - generic [ref=e1038]: $5
+                    - generic [ref=e1039]: /mo
+                    - generic [ref=e1040]: ≈ $0.17 a day
+                  - paragraph [ref=e1041]: Billed monthly
+                  - link "Choose Pro" [ref=e1043] [cursor=pointer]:
+                    - /url: /register?plan=pro
+                  - paragraph [ref=e1044]: Cancel anytime
+                  - generic [ref=e1045]:
+                    - paragraph [ref=e1046]: Usage budget
+                    - paragraph [ref=e1047]: $5 every 5 hours · $35 every 7 days
+                    - list [ref=e1048]:
+                      - listitem [ref=e1049]:
+                        - generic [aria-hidden] [ref=e1050]: ✓
+                        - generic [ref=e1051]: 45 paid models in your budget
+                      - listitem [ref=e1052]:
+                        - generic [aria-hidden] [ref=e1053]: ✓
+                        - generic [ref=e1054]: 8M free-model tokens a day
+                      - listitem [ref=e1055]:
+                        - generic [aria-hidden] [ref=e1056]: ✓
+                        - generic [ref=e1057]: "Concurrent requests: Standard"
+                      - listitem [ref=e1058]:
+                        - generic [aria-hidden] [ref=e1059]: ✓
+                        - generic [ref=e1060]: "Support: Email · 24h"
+                - article [ref=e1061]:
+                  - generic [ref=e1062]: Recommended
+                  - generic [ref=e1063]:
+                    - heading "Max" [level=3] [ref=e1065]
+                    - paragraph [ref=e1066]: For daily development — 4× the usage of Pro.
+                  - generic [ref=e1068]:
+                    - paragraph [ref=e1069]:
+                      - generic [ref=e1070]: Usage worth up to
+                      - button "Worth up to / month" [ref=e1071] [cursor=pointer]
+                    - paragraph [ref=e1074]:
+                      - generic [ref=e1075]: $600/mo
+                      - generic [ref=e1076]: 30× what you pay
+                  - generic [ref=e1077]:
+                    - generic [ref=e1078]: $20
+                    - generic [ref=e1079]: /mo
+                    - generic [ref=e1080]: ≈ $0.67 a day
+                  - paragraph [ref=e1081]: Billed monthly
+                  - link "Choose Max" [ref=e1083] [cursor=pointer]:
+                    - /url: /register?plan=max
+                  - paragraph [ref=e1084]: Cancel anytime
+                  - generic [ref=e1085]:
+                    - paragraph [ref=e1086]: Usage budget
+                    - paragraph [ref=e1087]: $20 every 5 hours · $140 every 7 days
+                    - list [ref=e1088]:
+                      - listitem [ref=e1089]:
+                        - generic [aria-hidden] [ref=e1090]: ✓
+                        - generic [ref=e1091]: 45 paid models in your budget
+                      - listitem [ref=e1092]:
+                        - generic [aria-hidden] [ref=e1093]: ✓
+                        - generic [ref=e1094]: 32M free-model tokens a day
+                      - listitem [ref=e1095]:
+                        - generic [aria-hidden] [ref=e1096]: ✓
+                        - generic [ref=e1097]: "Concurrent requests: Higher"
+                      - listitem [ref=e1098]:
+                        - generic [aria-hidden] [ref=e1099]: ✓
+                        - generic [ref=e1100]: "Support: Priority"
+                - article [ref=e1101]:
+                  - generic [ref=e1102]:
+                    - heading "Ultra" [level=3] [ref=e1104]
+                    - paragraph [ref=e1105]: For power users — 20× the usage of Pro.
+                  - generic [ref=e1107]:
+                    - paragraph [ref=e1108]:
+                      - generic [ref=e1109]: Usage worth up to
+                      - button "Worth up to / month" [ref=e1110] [cursor=pointer]
+                    - paragraph [ref=e1113]:
+                      - generic [ref=e1114]: $3,000/mo
+                      - generic [ref=e1115]: 30× what you pay
+                  - generic [ref=e1116]:
+                    - generic [ref=e1117]: $100
+                    - generic [ref=e1118]: /mo
+                    - generic [ref=e1119]: ≈ $3.34 a day
+                  - paragraph [ref=e1120]: Billed monthly
+                  - link "Choose Ultra" [ref=e1122] [cursor=pointer]:
+                    - /url: /register?plan=ultra
+                  - paragraph [ref=e1123]: Cancel anytime
+                  - generic [ref=e1124]:
+                    - paragraph [ref=e1125]: Usage budget
+                    - paragraph [ref=e1126]: $100 every 5 hours · $700 every 7 days
+                    - list [ref=e1127]:
+                      - listitem [ref=e1128]:
+                        - generic [aria-hidden] [ref=e1129]: ✓
+                        - generic [ref=e1130]: 47 paid models in your budget
+                      - listitem [ref=e1131]:
+                        - generic [aria-hidden] [ref=e1132]: ✓
+                        - generic [ref=e1133]: 160M free-model tokens a day
+                      - listitem [ref=e1134]:
+                        - generic [aria-hidden] [ref=e1135]: ✓
+                        - generic [ref=e1136]: "Concurrent requests: Very high"
+                      - listitem [ref=e1137]:
+                        - generic [aria-hidden] [ref=e1138]: ✓
+                        - generic [ref=e1139]: "Support: High priority"
+              - generic [ref=e1140]:
+                - paragraph [ref=e1141]: More plans
+                - generic [ref=e1142]:
+                  - generic [ref=e1143]:
+                    - generic [ref=e1144]:
+                      - generic [ref=e1145]:
+                        - heading "Pro+" [level=3] [ref=e1146]
+                        - generic [ref=e1147]: $10/mo≈ $0.34 a day
+                      - paragraph [ref=e1148]: For regular use — 2× the usage of Pro.
+                      - paragraph [ref=e1149]: Billed monthly
+                    - generic [ref=e1150]:
+                      - generic [ref=e1151]:
+                        - paragraph [ref=e1152]:
+                          - generic [ref=e1153]: Usage worth up to
+                          - button "Worth up to / month" [ref=e1154] [cursor=pointer]
+                        - paragraph [ref=e1157]:
+                          - generic [ref=e1158]: $300/mo
+                          - generic [ref=e1159]: 30× what you pay
+                      - link "Choose Pro+" [ref=e1160] [cursor=pointer]:
+                        - /url: /register?plan=pro-plus
+                  - generic [ref=e1161]:
+                    - generic [ref=e1162]:
+                      - generic [ref=e1163]:
+                        - heading "Power" [level=3] [ref=e1164]
+                        - generic [ref=e1165]: $200/mo≈ $6.67 a day
+                      - paragraph [ref=e1166]: For teams and large workloads — 40× the usage of Pro.
+                      - paragraph [ref=e1167]: Billed monthly
+                    - generic [ref=e1168]:
+                      - generic [ref=e1169]:
+                        - paragraph [ref=e1170]:
+                          - generic [ref=e1171]: Usage worth up to
+                          - button "Worth up to / month" [ref=e1172] [cursor=pointer]
+                        - paragraph [ref=e1175]:
+                          - generic [ref=e1176]: $6,000/mo
+                          - generic [ref=e1177]: 30× what you pay
+                      - link "Choose Power" [ref=e1178] [cursor=pointer]:
+                        - /url: /register?plan=power
+              - generic [ref=e1180]:
+                - paragraph [ref=e1181]: Free·$0 forever—45 free models · 500K tokens a day · no card
+                - link "Start free" [ref=e1182] [cursor=pointer]:
+                  - /url: /register?plan=free
+                  - text: Start free
+                  - generic [aria-hidden] [ref=e1183]: →
+            - group [ref=e1184]:
+              - generic "Compare all 6 plans" [ref=e1185] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e1187]: ↓
+            - list [ref=e1188]:
+              - listitem [ref=e1189]:
+                - generic [aria-hidden] [ref=e1190]: ·
+                - generic [ref=e1191]: 11 pay-as-you-go models bill from your wallet, outside plan budgets.
+              - listitem [ref=e1192]:
+                - generic [aria-hidden] [ref=e1193]: ·
+                - generic [ref=e1194]: Budgets are spent at catalog rates; unused budget does not carry over.
+              - listitem [ref=e1195]:
+                - generic [aria-hidden] [ref=e1196]: ·
+                - generic [ref=e1197]: Cancel anytime — you keep access until the end of the period.
+              - listitem [ref=e1198]:
+                - generic [aria-hidden] [ref=e1199]: ·
+                - generic [ref=e1200]: Tax may be added at checkout, depending on your country.
+            - generic [ref=e1201]:
+              - generic [ref=e1204]:
+                - heading "Pay as you go" [level=3] [ref=e1205]
+                - paragraph [ref=e1206]: No plan needed. Top up your wallet and pay per request at catalog rates — free models stay free.
+                - link "Top up in the dashboard →" [ref=e1207] [cursor=pointer]:
+                  - /url: /dashboard/billing
+              - generic [ref=e1210]:
+                - heading "Need more than Power?" [level=3] [ref=e1211]
+                - paragraph [ref=e1212]: Higher limits for a team or a production workload — tell us what you need.
+                - link "Contact us →" [ref=e1213] [cursor=pointer]:
+                  - /url: /contact
+        - region [ref=e1218]:
+          - generic [ref=e1219]:
+            - generic [ref=e1220]:
+              - paragraph [ref=e1221]: Free plan
+              - heading "Start free. Upgrade only when you need more." [level=2] [ref=e1222]
+              - paragraph [ref=e1223]: No card and no trial clock — the free models stay free every day. Move to a plan when you want usage worth up to 30× what you pay.
+              - list [ref=e1224]:
+                - listitem [ref=e1225]:
+                  - generic [ref=e1226]: "45"
+                  - generic [ref=e1227]: free models, free forever
+                - listitem [ref=e1228]:
+                  - generic [ref=e1229]: 500K
+                  - generic [ref=e1230]: tokens a day — 1M after you verify Telegram
+                - listitem [ref=e1231]:
+                  - generic [ref=e1232]: $0
+                  - generic [ref=e1233]: no credit card, no trial clock
+              - generic [ref=e1234]:
+                - link "Create a free account" [ref=e1235] [cursor=pointer]:
+                  - /url: /register?plan=free
+                  - text: Create a free account
+                  - generic [aria-hidden] [ref=e1236]: →
+                - paragraph [ref=e1237]: No credit card · 45 free models, free forever
+            - article [ref=e1239]:
+              - paragraph [ref=e1240]: Live event
+              - heading "Welcome Drop 50M–100M MiniMax tokens" [level=3] [ref=e1244]:
+                - generic [ref=e1245]: Welcome Drop
+                - generic [ref=e1246]:
+                  - generic [ref=e1247]: 50M–100M
+                  - generic [ref=e1248]: MiniMax tokens
+              - paragraph [ref=e1249]: Verify Telegram while the event runs to get one Welcome Drop box. It always pays out between 50M and 100M tokens.
+              - paragraph [ref=e1250]: How to get it
+              - list [ref=e1251]:
+                - listitem [ref=e1252]:
+                  - generic [aria-hidden] [ref=e1253]: "1"
+                  - text: Create a free account
+                - listitem [ref=e1254]:
+                  - generic [aria-hidden] [ref=e1255]: "2"
+                  - text: Verify Telegram in your dashboard
+                - listitem [ref=e1256]:
+                  - generic [aria-hidden] [ref=e1257]: "3"
+                  - text: Open your Welcome Drop
+              - generic [ref=e1258]:
+                - paragraph [ref=e1259]: Ends in
+                - generic [ref=e1260]:
+                  - generic [aria-hidden] [ref=e1261]:
+                    - generic [ref=e1262]: "19"
+                    - generic [ref=e1263]: days
+                  - generic [aria-hidden] [ref=e1264]:
+                    - generic [ref=e1265]: "09"
+                    - generic [ref=e1266]: hours
+                  - generic [aria-hidden] [ref=e1267]:
+                    - generic [ref=e1268]: "38"
+                    - generic [ref=e1269]: min
+                - paragraph [ref=e1270]: Ends Nov 22, 2026, 00:00 GMT+7
+              - paragraph [ref=e1271]: Tokens work on MiniMax models and expire 14 days after you receive them. One per email and Telegram account, after an anti-fraud check.
+              - link "Already a member? Open the event →" [ref=e1272] [cursor=pointer]:
+                - /url: /dashboard/events
+        - region [ref=e1277]:
+          - generic [ref=e1278]:
+            - generic [ref=e1280]:
+              - paragraph [ref=e1281]: FAQ
+              - heading "Questions, answered" [level=2] [ref=e1282]
+              - paragraph [ref=e1283]: How plans, free models and billing actually work.
+              - link "Still have a question? Contact us →" [ref=e1284] [cursor=pointer]:
+                - /url: /contact
+            - generic [ref=e1285]:
+              - group [ref=e1286]:
+                - generic "Is there really a free tier?" [ref=e1287] [cursor=pointer]
+              - group [ref=e1291]:
+                - generic "Which SDKs and tools work with xKiro?" [ref=e1292] [cursor=pointer]
+              - group [ref=e1296]:
+                - generic "How do plan budgets work?" [ref=e1297] [cursor=pointer]
+              - group [ref=e1301]:
+                - generic "What is the difference between a plan and pay-as-you-go?" [ref=e1302] [cursor=pointer]
+              - group [ref=e1306]:
+                - generic "Am I charged for failed requests?" [ref=e1307] [cursor=pointer]
+              - group [ref=e1311]:
+                - generic "What happens when a model is down?" [ref=e1312] [cursor=pointer]
+              - group [ref=e1316]:
+                - generic "Can I cancel or upgrade my plan?" [ref=e1317] [cursor=pointer]
+              - group [ref=e1321]:
+                - generic "Can I use xKiro for commercial projects?" [ref=e1322] [cursor=pointer]
+        - generic [ref=e1330]:
+          - generic [ref=e1331]:
+            - generic [aria-hidden] [ref=e1332]: $
+            - generic [ref=e1333]: export XKIRO_API_KEY="sk-xt-..."
+          - heading "Your agents. Any model. One key." [level=2] [ref=e1334]
+          - paragraph [ref=e1335]: Create an API key and start with 45 free models — move to a plan when you want usage worth up to 30× what you pay.
+          - generic [ref=e1336]:
+            - link "Get your API key" [ref=e1338] [cursor=pointer]:
+              - /url: /register
+              - text: Get your API key
+              - generic [aria-hidden] [ref=e1339]: →
+            - link "Read the docs" [ref=e1340] [cursor=pointer]:
+              - /url: https://docs.xkiro.com
+          - paragraph [ref=e1341]: No credit card · Cancel anytime · 45 free models, free forever
+    - contentinfo [ref=e1342]:
+      - generic [ref=e1343]:
+        - generic [ref=e1344]:
+          - generic [ref=e1345]:
+            - paragraph [ref=e1346]:
+              - text: Plans from $5/mo — up to 30× the value.
+              - link "See plans →" [ref=e1347] [cursor=pointer]:
+                - /url: /#pricing
+            - link "Questions? Chat with the team on Telegram" [ref=e1348] [cursor=pointer]:
+              - /url: https://t.me/xkiro_support_team
+              - text: Questions? Chat with the team on Telegram
+              - generic [aria-hidden] [ref=e1352]: ↗
+          - list "Buy with confidence" [ref=e1353]:
+            - listitem [ref=e1354]:
+              - generic [aria-hidden] [ref=e1355]: ✓
+              - text: No card for the Free plan
+            - listitem [ref=e1356]:
+              - generic [aria-hidden] [ref=e1357]: ✓
+              - text: Cancel anytime
+            - listitem [ref=e1358]: Pay by Bank transfer or QR (Vietnam) · Crypto (USDT, BTC)
+        - generic [ref=e1359]:
+          - generic [ref=e1360]:
+            - link "xKiro" [ref=e1361] [cursor=pointer]:
+              - /url: /
+            - paragraph [ref=e1369]: One API key for every model your agents use — OpenAI and Anthropic compatible.
+          - navigation "Footer" [ref=e1370]:
+            - generic [ref=e1371]:
+              - paragraph [ref=e1372]: Product
+              - list [ref=e1373]:
+                - listitem [ref=e1374]:
+                  - link "Models" [ref=e1375] [cursor=pointer]:
+                    - /url: /models
+                - listitem [ref=e1376]:
+                  - link "Pricing" [ref=e1377] [cursor=pointer]:
+                    - /url: /#pricing
+                - listitem [ref=e1378]:
+                  - link "Deals" [ref=e1379] [cursor=pointer]:
+                    - /url: /deals
+                - listitem [ref=e1380]:
+                  - link "Status" [ref=e1381] [cursor=pointer]:
+                    - /url: /status
+            - generic [ref=e1382]:
+              - paragraph [ref=e1383]: Developers
+              - list [ref=e1384]:
+                - listitem [ref=e1385]:
+                  - link "Docs" [ref=e1386] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com
+                    - text: Docs↗
+                - listitem [ref=e1387]:
+                  - link "API Reference" [ref=e1388] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/api/overview/
+                    - text: API Reference↗
+                - listitem [ref=e1389]:
+                  - link "Quickstart" [ref=e1390] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/quickstart/
+                    - text: Quickstart↗
+                - listitem [ref=e1391]:
+                  - link "Tool setup guides" [ref=e1392] [cursor=pointer]:
+                    - /url: https://docs.xkiro.com/guides/tools/
+                    - text: Tool setup guides↗
+            - generic [ref=e1393]:
+              - paragraph [ref=e1394]: Company
+              - list [ref=e1395]:
+                - listitem [ref=e1396]:
+                  - link "About" [ref=e1397] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=e1398]:
+                  - link "Contact" [ref=e1399] [cursor=pointer]:
+                    - /url: /contact
+                - listitem [ref=e1400]:
+                  - link "Terms" [ref=e1401] [cursor=pointer]:
+                    - /url: /terms
+                - listitem [ref=e1402]:
+                  - link "Privacy" [ref=e1403] [cursor=pointer]:
+                    - /url: /privacy
+                - listitem [ref=e1404]:
+                  - link "Refunds" [ref=e1405] [cursor=pointer]:
+                    - /url: /refund-policy
+            - generic [ref=e1406]:
+              - paragraph [ref=e1407]: Contact
+              - list [ref=e1408]:
+                - listitem [ref=e1409]:
+                  - link "Telegram @xkiro_support_team" [ref=e1410] [cursor=pointer]:
+                    - /url: https://t.me/xkiro_support_team
+                    - generic [ref=e1414]:
+                      - generic [ref=e1415]: Telegram
+                      - generic [ref=e1416]: "@xkiro_support_team"
+                - listitem [ref=e1417]:
+                  - link "Email hi@xkiro.com" [ref=e1418] [cursor=pointer]:
+                    - /url: mailto:hi@xkiro.com
+                    - generic [ref=e1423]:
+                      - generic [ref=e1424]: Email
+                      - generic [ref=e1425]: hi@xkiro.com
+                - listitem [ref=e1426]:
+                  - link "Facebook fb.com/xKiro.offical" [ref=e1427] [cursor=pointer]:
+                    - /url: https://facebook.com/xKiro.offical
+                    - generic [ref=e1431]:
+                      - generic [ref=e1432]: Facebook
+                      - generic [ref=e1433]: fb.com/xKiro.offical
+        - generic [ref=e1434]:
+          - paragraph [ref=e1435]: © 2026 xKiro. All rights reserved.
+          - generic [ref=e1436]:
+            - button "Language" [ref=e1437] [cursor=pointer]:
+              - generic [ref=e1439]: EN
+            - button "Toggle theme" [ref=e1442] [cursor=pointer]
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=e1446]
