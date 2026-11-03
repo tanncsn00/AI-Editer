@@ -37,6 +37,9 @@ export type Timeline = { title: string; total: number; beats: Beat[] };
 type DoodlePart = { fill: string; rule: string; subs: string[] };
 export type Doodles = Record<string, { w: number; h: number; parts: DoodlePart[] }>;
 export type Sfx = { line: string; offset?: number; src: string; vol: number };
+export type Keys = Record<string, string>;
+
+const KEY_SCALE = 1.6;
 
 export const whiteboardFrames = (tl: Timeline) => Math.ceil((tl.total + TAIL) * FPS);
 
@@ -98,10 +101,10 @@ const wrap = (text: string, size: number, measure: Measure) => {
   return rows;
 };
 
-const layoutRows = (lines: Line[], measure: Measure) => {
+const layoutRows = (lines: Line[], measure: Measure, scale = 1) => {
   const perLine = lines.map((ln) => {
     const look = LOOK[ln.kind];
-    let size = ln.kind === "scroll" && ln.t.includes('"') ? 92 : look.size;
+    let size = Math.round((ln.kind === "scroll" && ln.t.includes('"') ? 92 : look.size) * scale);
     const text = curlyQuotes(ln.t);
     let rows = wrap(text, size, measure);
     if (ln.kind === "term" || ln.kind === "scroll") {
@@ -188,8 +191,27 @@ const frameBox = (rows: Row[], kind: "box" | "banner"): Sh[] => {
   );
 };
 
-const buildPlan = (tl: Timeline, scenes: Scenes, doodles: Doodles): Plan => {
+const lineId = (beat: string, page: number, line: number) => `${beat}:${page}:${line}`;
+
+const checkKeys = (tl: Timeline, keys: Keys) => {
+  const ids = new Set(tl.beats.flatMap((b) => b.pages.flatMap((p, pi) => p.lines.map((_, li) => lineId(b.name, pi, li)))));
+  const stray = Object.keys(keys).filter((id) => !ids.has(id));
+  if (stray.length) throw new Error(`whiteboard: keys anchors not in the timeline: ${stray.join(", ")}`);
+};
+
+const pageRows = (lines: Line[], shown: (string | undefined)[], measure: Measure, scale: number): (Row[] | undefined)[] => {
+  const visible = lines.map((ln, i) => ({ ln, i, t: shown[i] })).filter((v): v is { ln: Line; i: number; t: string } => v.t !== undefined);
+  const laid = layoutRows(visible.map((v) => ({ ...v.ln, t: v.t })), measure, scale);
+  const out: (Row[] | undefined)[] = lines.map(() => undefined);
+  visible.forEach((v, k) => {
+    out[v.i] = laid[k];
+  });
+  return out;
+};
+
+const buildPlan = (tl: Timeline, scenes: Scenes, doodles: Doodles, keys?: Keys): Plan => {
   const measure = makeMeasure();
+  if (keys) checkKeys(tl, keys);
   const pages: PagePlan[] = [];
   const tasks: Task[] = [];
   const flat = tl.beats.flatMap((b) => b.pages.map((p, pi) => ({ b, p, pi })));
@@ -198,19 +220,22 @@ const buildPlan = (tl: Timeline, scenes: Scenes, doodles: Doodles): Plan => {
     const from = Math.max(0, fr(p.start - PAGE_LEAD) - LEAD);
     const to = gi + 1 < flat.length ? Math.max(0, fr(flat[gi + 1].p.start - PAGE_LEAD) - LEAD) : total;
     pages.push({ from, to, header: b.header });
-    const rows = layoutRows(p.lines, measure);
+    const shown = p.lines.map((ln, i) => (keys ? keys[lineId(b.name, pi, i)] : ln.t));
+    const rows = pageRows(p.lines, shown, measure, keys ? KEY_SCALE : 1);
     const scene = scenes[`${b.name}:${pi}`] ?? {};
     p.lines.forEach((ln, i) => {
       const textStart = fr(ln.start) - LEAD;
       const nextText = i + 1 < p.lines.length ? fr(p.lines[i + 1].start) - LEAD : to - PAGE_FADE - 2;
-      const textDur = clampN(Math.min(Math.round(ln.t.length * 0.5), nextText - textStart - 2), 4, 30);
-      tasks.push({ kind: "text", page: gi, start: textStart, end: textStart + textDur, rows: rows[i] });
+      const lineRows = rows[i];
+      const textDur = lineRows ? clampN(Math.min(Math.round(shown[i]!.length * 0.5), nextText - textStart - 2), 4, 30) : 0;
+      if (lineRows) tasks.push({ kind: "text", page: gi, start: textStart, end: textStart + textDur, rows: lineRows });
       const mark: Mark | undefined = scene[i];
       if (!mark) return;
-      const shapes = mark === "box" || mark === "banner" ? frameBox(rows[i], mark) : mark;
+      if ((mark === "box" || mark === "banner") && !lineRows) throw new Error(`whiteboard: "${mark}" on ${lineId(b.name, pi, i)} needs a key to frame`);
+      const shapes = mark === "box" || mark === "banner" ? frameBox(lineRows!, mark) : mark;
       const strokes = compile(shapes, gi * 1000 + i * 100, measure, doodles);
       const sum = strokes.reduce((s, st) => s + st.len, 0);
-      const drawStart = textStart + textDur + 1;
+      const drawStart = textStart + (lineRows ? textDur + 1 : 0);
       const natural = clampN(Math.round(sum / DRAW_SPEED), 8, 60);
       const dur = Math.max(4, Math.min(natural, nextText - 2 - drawStart));
       tasks.push({ kind: "draw", page: gi, start: drawStart, end: drawStart + dur, strokes, total: sum });
@@ -422,23 +447,23 @@ const Chrome: React.FC<{ header: string; footer: string; f: number; from: number
   </>
 );
 
-const usePlan = (tl: Timeline, scenes: Scenes, doodles: Doodles) => {
+const usePlan = (tl: Timeline, scenes: Scenes, doodles: Doodles, keys?: Keys) => {
   const [plan, setPlan] = useState<Plan | null>(null);
   const [handle] = useState(() => delayRender("whiteboard font + plan"));
   useEffect(() => {
     handFontReady()
       .then(() => {
-        setPlan(buildPlan(tl, scenes, doodles));
+        setPlan(buildPlan(tl, scenes, doodles, keys));
         continueRender(handle);
       })
       .catch((e) => cancelRender(e));
-  }, [handle, tl, scenes, doodles]);
+  }, [handle, tl, scenes, doodles, keys]);
   return plan;
 };
 
-export const WhiteboardVideo: React.FC<{ timeline: Timeline; scenes: Scenes; doodles: Doodles; sfx: Sfx[]; slug: string; footer: string; bgm: boolean }> = ({ timeline, scenes, doodles, sfx, slug, footer, bgm }) => {
+export const WhiteboardVideo: React.FC<{ timeline: Timeline; scenes: Scenes; doodles: Doodles; sfx: Sfx[]; slug: string; footer: string; bgm: boolean; keys?: Keys }> = ({ timeline, scenes, doodles, sfx, slug, footer, bgm, keys }) => {
   const f = useCurrentFrame();
-  const plan = usePlan(timeline, scenes, doodles);
+  const plan = usePlan(timeline, scenes, doodles, keys);
   const drawTasks = useMemo(() => (plan ? plan.tasks.filter((t) => t.kind === "draw") : []), [plan]);
   const sfxAt = useMemo(() => sfx.map((s) => ({ ...s, frame: fr(sfxSeconds(timeline, s)) })), [sfx, timeline]);
   return (

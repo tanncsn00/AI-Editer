@@ -83,7 +83,8 @@ python ../_shared/tts_lines.py <public_slug> --force   # gen lại tất cả
 
 - [ ] Bảng cảnh: mỗi page/dòng ghi rõ **hình gì** (đúng tình huống câu nói) + **SFX** nếu có. Dòng cue không vẽ, term → `"box"`, tên 📜 → `"banner"`.
 - [ ] Người / đồ vật / cảm xúc lấy từ thư viện open-source (`find_doodles.py` → `doodles.txt` → `build_doodles.py <slug>`). **Cấm** tự vẽ người que, **cấm** AI sinh ảnh.
-- [ ] Engine dùng chung `src/whiteboard/WhiteboardVideo.tsx` — component video chỉ chứa `SCENES` + `SFX` + helper đặc thù đề tài.
+- [ ] Engine dùng chung `src/whiteboard/WhiteboardVideo.tsx` — component video chỉ chứa `SCENES` + `KEYS` + `SFX` + helper đặc thù đề tài.
+- [ ] **Chữ trên hình chỉ là CHỮ KHOÁ** (`keys` prop, mẫu `PhongVanWhiteboard.tsx`) — CẤM ghi cả câu thoại lên hình (user 2026-11-03). Lời đọc vẫn verbatim; GATE 0 "chữ trên hình = chữ đọc" không còn áp dụng cho whiteboard.
 - [ ] SFX neo theo dòng `{ line: "BEAT:page:line", offset, src: "sfx/<nhóm>/<tên>.mp3" }` — **cấm** gõ giây tuyệt đối. Tiếng bút vẽ engine tự phát.
 - [ ] Nền tối kênh `#0B0A12`, font Pangolin. Soi **contact sheet frame cuối mỗi page** + 1 frame giữa lúc vẽ TRƯỚC khi render dài.
 - [ ] `--public-dir` tạm phải chứa cả `<slug>/` lẫn `sfx/`.

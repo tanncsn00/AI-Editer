@@ -1,0 +1,473 @@
+{
+ "title": "Ngày Đầu Nhập Môn",
+ "total": 131.77,
+ "beats": [
+  {
+   "name": "HOOK",
+   "header": "7 giờ 45 phút",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Bảy giờ bốn mươi lăm phút sáng.",
+       "kind": "red",
+       "start": 0.34,
+       "end": 1.746
+      },
+      {
+       "t": "Ngày đầu tiên ta nhập môn Công Sở Giới.",
+       "kind": "red",
+       "start": 2.086,
+       "end": 3.964
+      },
+      {
+       "t": "Áo sơ mi ủi phẳng như ngọc phù.",
+       "kind": "narr",
+       "start": 4.304,
+       "end": 5.95
+      }
+     ]
+    },
+    {
+     "start": 6.41,
+     "lines": [
+      {
+       "t": "Cả tông môn… chưa có ai.",
+       "kind": "gold",
+       "start": 6.41,
+       "end": 7.925
+      },
+      {
+       "t": "Đèn cũng chưa.",
+       "kind": "gold",
+       "start": 8.265,
+       "end": 9.06
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 9.69
+  },
+  {
+   "name": "CHOMAY",
+   "header": "Chưa có máy",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 9.73,
+     "lines": [
+      {
+       "t": "Chín giờ ba mươi, các sư huynh lần lượt xuất hiện.",
+       "kind": "narr",
+       "start": 9.73,
+       "end": 12.246
+      },
+      {
+       "t": "Tay cầm trà sữa. Mắt còn nhắm.",
+       "kind": "narr",
+       "start": 12.586,
+       "end": 14.645
+      }
+     ]
+    },
+    {
+     "start": 15.105,
+     "lines": [
+      {
+       "t": "Trưởng lão nhìn ta: \"À, em mới à? Em ngồi tạm đây nhé.\"",
+       "kind": "narr",
+       "start": 15.105,
+       "end": 18.241
+      },
+      {
+       "t": "\"Tạm\" là chiếc ghế cạnh máy in.",
+       "kind": "narr",
+       "start": 18.581,
+       "end": 20.011
+      },
+      {
+       "t": "Máy tính của ta… \"chiều IT mang lên\".",
+       "kind": "gold",
+       "start": 20.351,
+       "end": 22.597
+      }
+     ]
+    },
+    {
+     "start": 23.057,
+     "lines": [
+      {
+       "t": "Ta ngồi đó. Không máy. Không việc. Không ai nói chuyện.",
+       "kind": "red",
+       "start": 23.057,
+       "end": 26.173
+      },
+      {
+       "t": "Chỉ có máy in… thỉnh thoảng nhả giấy, như an ủi.",
+       "kind": "red",
+       "start": 26.513,
+       "end": 29.366
+      }
+     ]
+    }
+   ],
+   "start": 9.69,
+   "end": 29.996
+  },
+  {
+   "name": "GIAVOBAN",
+   "header": "Giả vờ bận",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 30.036,
+     "lines": [
+      {
+       "t": "Trưởng lão đưa ta một tập tài liệu: \"Em đọc cho quen nhé.\"",
+       "kind": "narr",
+       "start": 30.036,
+       "end": 32.961
+      },
+      {
+       "t": "Ta đọc. Không hiểu.",
+       "kind": "narr",
+       "start": 33.301,
+       "end": 34.413
+      },
+      {
+       "t": "Đọc lại. Vẫn không hiểu.",
+       "kind": "narr",
+       "start": 34.753,
+       "end": 36.018
+      }
+     ]
+    },
+    {
+     "start": 36.478,
+     "lines": [
+      {
+       "t": "Ai đi ngang qua, ta lại lật trang thật nghiêm túc.",
+       "kind": "gold",
+       "start": 36.478,
+       "end": 38.735
+      },
+      {
+       "t": "Thật ra trang đó… ta đã đọc tới lần thứ bảy.",
+       "kind": "gold",
+       "start": 39.075,
+       "end": 41.215
+      },
+      {
+       "t": "Đạo tâm rạn một đường.",
+       "kind": "red",
+       "start": 41.555,
+       "end": 42.669
+      }
+     ]
+    }
+   ],
+   "start": 29.996,
+   "end": 43.299
+  },
+  {
+   "name": "BUATRUA",
+   "header": "Bữa trưa",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 43.339,
+     "lines": [
+      {
+       "t": "Mười một giờ năm mươi chín.",
+       "kind": "narr",
+       "start": 43.339,
+       "end": 44.495
+      },
+      {
+       "t": "Cả phòng đứng dậy cùng lúc, như có ai niệm chú.",
+       "kind": "narr",
+       "start": 44.835,
+       "end": 47.333
+      }
+     ]
+    },
+    {
+     "start": 47.793,
+     "lines": [
+      {
+       "t": "Một sư tỷ quay lại: \"Em đi ăn cùng không?\"",
+       "kind": "narr",
+       "start": 47.793,
+       "end": 50.228
+      },
+      {
+       "t": "Ta suýt rơi nước mắt.",
+       "kind": "jade",
+       "start": 50.568,
+       "end": 51.564
+      }
+     ]
+    },
+    {
+     "start": 52.024,
+     "lines": [
+      {
+       "t": "Cả bàn rôm rả kể chuyện về \"anh Tuấn bên kia\".",
+       "kind": "narr",
+       "start": 52.024,
+       "end": 54.156
+      },
+      {
+       "t": "Ta không biết anh Tuấn là ai.",
+       "kind": "gold",
+       "start": 54.496,
+       "end": 55.884
+      },
+      {
+       "t": "Nhưng mọi người cười… ta cũng cười.",
+       "kind": "gold",
+       "start": 56.224,
+       "end": 58.23
+      },
+      {
+       "t": "Cười to nhất bàn.",
+       "kind": "gold",
+       "start": 58.57,
+       "end": 59.45
+      }
+     ]
+    }
+   ],
+   "start": 43.299,
+   "end": 60.08
+  },
+  {
+   "name": "ZALO",
+   "header": "Nhóm Zalo",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 60.12,
+     "lines": [
+      {
+       "t": "Hai giờ chiều. Ta được thêm vào nhóm Zalo công ty. Ba trăm thành viên.",
+       "kind": "narr",
+       "start": 60.12,
+       "end": 63.883
+      },
+      {
+       "t": "Ta soạn lời chào. Xoá. Soạn lại. Xoá.",
+       "kind": "narr",
+       "start": 64.223,
+       "end": 66.843
+      }
+     ]
+    },
+    {
+     "start": 67.303,
+     "lines": [
+      {
+       "t": "Mười lăm phút sau: \"Dạ em chào mọi người ạ, em là nhân viên mới, mong mọi người giúp đỡ ạ.\"",
+       "kind": "narr",
+       "start": 67.303,
+       "end": 72.015
+      },
+      {
+       "t": "Kèm một sticker con mèo cúi chào.",
+       "kind": "narr",
+       "start": 72.355,
+       "end": 74.16
+      },
+      {
+       "t": "Ta bấm gửi.",
+       "kind": "red",
+       "start": 74.5,
+       "end": 75.169
+      }
+     ]
+    },
+    {
+     "start": 75.629,
+     "lines": [
+      {
+       "t": "Một phút. Năm phút. Mười phút.",
+       "kind": "red",
+       "start": 75.629,
+       "end": 77.44
+      },
+      {
+       "t": "Bốn mươi bảy người đã xem.",
+       "kind": "red",
+       "start": 77.78,
+       "end": 79.032
+      },
+      {
+       "t": "Không ai trả lời.",
+       "kind": "gold",
+       "start": 79.372,
+       "end": 80.201
+      }
+     ]
+    },
+    {
+     "start": 80.661,
+     "lines": [
+      {
+       "t": "Chỉ có chị nhân sự… thả một trái tim.",
+       "kind": "gold",
+       "start": 80.661,
+       "end": 82.848
+      },
+      {
+       "t": "Nguyên thần ta xuất khiếu, bay thẳng ra khỏi toà nhà.",
+       "kind": "red",
+       "start": 83.188,
+       "end": 85.698
+      }
+     ]
+    }
+   ],
+   "start": 60.08,
+   "end": 86.328
+  },
+  {
+   "name": "TANCA",
+   "header": "Giờ tan làm",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 86.368,
+     "lines": [
+      {
+       "t": "Sáu giờ chiều. Ta không dám về. Vì chưa ai về.",
+       "kind": "narr",
+       "start": 86.368,
+       "end": 89.373
+      },
+      {
+       "t": "Sáu giờ rưỡi. Vẫn chưa ai về.",
+       "kind": "narr",
+       "start": 89.713,
+       "end": 91.495
+      },
+      {
+       "t": "Bảy giờ. Ta đói tới mức nhìn con chuột máy tính thấy giống cái bánh bao.",
+       "kind": "narr",
+       "start": 91.835,
+       "end": 95.318
+      }
+     ]
+    },
+    {
+     "start": 95.778,
+     "lines": [
+      {
+       "t": "Ta liều hỏi sư huynh bên cạnh: \"Anh ơi, việc gấp lắm ạ?\"",
+       "kind": "gold",
+       "start": 95.778,
+       "end": 98.712
+      },
+      {
+       "t": "Sư huynh ngẩng lên: \"Đâu. Anh chờ hết tắc đường.\"",
+       "kind": "gold",
+       "start": 99.052,
+       "end": 101.652
+      },
+      {
+       "t": "Tu vi một ngày của ta… tan theo tiếng còi xe dưới phố.",
+       "kind": "red",
+       "start": 101.992,
+       "end": 104.959
+      }
+     ]
+    }
+   ],
+   "start": 86.328,
+   "end": 105.589
+  },
+  {
+   "name": "MOTNAMSAU",
+   "header": "Một năm sau",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 105.629,
+     "lines": [
+      {
+       "t": "Một năm sau.",
+       "kind": "narr",
+       "start": 105.629,
+       "end": 106.331
+      },
+      {
+       "t": "Chín giờ ba mươi. Ta bước vào, tay cầm trà sữa, mắt còn nhắm.",
+       "kind": "narr",
+       "start": 106.671,
+       "end": 110.537
+      },
+      {
+       "t": "Cạnh máy in, một tân đệ tử áo phẳng như ngọc phù… đã ngồi đó từ bảy giờ bốn mươi lăm.",
+       "kind": "narr",
+       "start": 110.877,
+       "end": 115.422
+      }
+     ]
+    },
+    {
+     "start": 115.882,
+     "lines": [
+      {
+       "t": "Ta nhìn hắn. Hắn nhìn ta.",
+       "kind": "narr",
+       "start": 115.882,
+       "end": 117.525
+      },
+      {
+       "t": "Ta mỉm cười. Và không nói gì.",
+       "kind": "gold",
+       "start": 117.865,
+       "end": 119.615
+      },
+      {
+       "t": "Ngày đầu, ngươi sợ tông môn. Một năm sau… ngươi chính là tông môn.",
+       "kind": "jade",
+       "start": 119.955,
+       "end": 123.899
+      }
+     ]
+    }
+   ],
+   "start": 105.589,
+   "end": 124.529
+  },
+  {
+   "name": "CTA",
+   "header": "Độ kiếp cùng chốn công sở",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 124.569,
+     "lines": [
+      {
+       "t": "Ngày đầu đi làm của ngươi… toang ở đoạn nào? Comment cho bần đạo nghe.",
+       "kind": "cta",
+       "start": 124.569,
+       "end": 128.014
+      },
+      {
+       "t": "Follow bần đạo, để mỗi ngày độ kiếp cùng chốn công sở.",
+       "kind": "cta",
+       "start": 128.354,
+       "end": 131.14
+      }
+     ]
+    }
+   ],
+   "start": 124.529,
+   "end": 131.77
+  }
+ ]
+}

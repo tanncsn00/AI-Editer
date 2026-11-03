@@ -1,0 +1,214 @@
+- generic [active] [ref=e1]:
+  - heading "sit down" [level=3] [ref=e2]
+  - generic [ref=e3]:
+    - figure "Sit down 5" [ref=e4]
+    - figure "Sit down 4" [ref=e7]
+    - figure "Sit down 3" [ref=e10]
+    - figure "Sit down 2" [ref=e13]
+    - figure "Sit down 1" [ref=e16]
+  - heading "sitting" [level=3] [ref=e19]
+  - figure "Sitting" [ref=e21]
+  - heading "standing" [level=3] [ref=e24]
+  - generic [ref=e25]:
+    - figure "Standing 2" [ref=e26]
+    - figure "Standing 1" [ref=e29]
+  - 'heading "team: working" [level=3] [ref=e32]'
+  - generic [ref=e33]:
+    - 'figure "Team: Working in group" [ref=e34]'
+    - 'figure "Team: Working in groupe 4" [ref=e37]'
+    - 'figure "Team: Working in group 3" [ref=e40]'
+    - 'figure "Team: Working in pairs 4" [ref=e43]'
+    - 'figure "Team: Working in pairs 3" [ref=e46]'
+    - 'figure "Team: Working alone 4" [ref=e49]'
+    - 'figure "Team: Working alone 3" [ref=e52]'
+    - 'figure "Team: Working in group 2" [ref=e55]'
+    - 'figure "Team: Working in pairs 2" [ref=e58]'
+    - 'figure "Team: Working alone 2" [ref=e61]'
+    - 'figure "Team: Working in group 1" [ref=e64]'
+    - 'figure "Team: Working in pairs 1" [ref=e67]'
+    - 'figure "Team: Working alone 1" [ref=e70]'
+  - heading "coworkers" [level=3] [ref=e73]
+  - figure "Coworkers" [ref=e75]
+  - heading "waiting" [level=3] [ref=e78]
+  - generic [ref=e79]:
+    - figure "Waiting 3" [ref=e80]
+    - figure "Waiting 2" [ref=e83]
+    - figure "Waiting 1" [ref=e86]
+    - figure "Waiting 7" [ref=e89]
+    - figure "Waiting 6" [ref=e92]
+    - figure "Waiting 5" [ref=e95]
+    - figure "Waiting 4" [ref=e98]
+  - heading "reading" [level=3] [ref=e101]
+  - generic [ref=e102]:
+    - figure "Reading in a desert island 3" [ref=e103]
+    - figure "Reading in a desert island 2" [ref=e106]
+    - figure "Reading in a desert island 1" [ref=e109]
+    - figure "Reading at the bus stop 7" [ref=e112]
+    - figure "Reading at the bus stop 6" [ref=e115]
+    - figure "Reading at the bus stop 5" [ref=e118]
+    - figure "Reading at the bus stop 4" [ref=e121]
+    - figure "Reading at the bus stop 3" [ref=e124]
+    - figure "Reading at the bus stop 2" [ref=e127]
+    - figure "Reading at the bus stop 1" [ref=e130]
+    - figure "Reading 6" [ref=e133]
+    - figure "Reading 5" [ref=e136]
+    - figure "Reading 4" [ref=e139]
+    - figure "Reading 2" [ref=e142]
+    - figure "Reading 3" [ref=e145]
+    - figure "Reading 1" [ref=e148]
+  - heading "laugh" [level=3] [ref=e151]
+  - generic [ref=e152]:
+    - figure "Laughing" [ref=e153]
+    - figure "Laugh" [ref=e156]
+  - heading "gossip" [level=3] [ref=e159]
+  - generic [ref=e160]:
+    - figure "Gossip 3" [ref=e161]
+    - figure "Gossip 2" [ref=e164]
+    - figure "Gossip 1" [ref=e167]
+  - heading "smartphone" [level=3] [ref=e170]
+  - generic [ref=e171]:
+    - figure "smartphone 2" [ref=e172]
+    - figure "smartphone 1" [ref=e175]
+    - figure "Smartphone notification 2" [ref=e178]
+    - figure "Smartphone notification 1" [ref=e181]
+    - figure "Smartphone notification 3" [ref=e184]
+    - figure "Smartphone 6" [ref=e187]
+    - figure "Smartphone 4" [ref=e190]
+    - figure "Smartphone 3" [ref=e193]
+    - figure "Smartphone 5" [ref=e196]
+    - figure "Smartphone 7" [ref=e199]
+  - heading "sleeping" [level=3] [ref=e202]
+  - generic [ref=e203]:
+    - figure "Sleeping cat" [ref=e204]
+    - figure "Sleeping 1" [ref=e207]
+    - figure "Sleeping 2" [ref=e210]
+    - figure "Sleeping 4" [ref=e213]
+    - figure "Sleeping 5" [ref=e216]
+    - figure "Sleeping 6" [ref=e219]
+    - figure "Sleeping 3" [ref=e222]
+  - heading "tired" [level=3] [ref=e225]
+  - generic [ref=e226]:
+    - figure "Tired 2" [ref=e227]
+    - figure "Tired 1" [ref=e230]
+    - figure "Tired face 1" [ref=e233]
+    - figure "Tired face 2" [ref=e236]
+  - heading "scared" [level=3] [ref=e239]
+  - generic [ref=e240]:
+    - figure "Scared face 2" [ref=e241]
+    - figure "Scared face 1" [ref=e244]
+  - heading "crying" [level=3] [ref=e247]
+  - generic [ref=e248]:
+    - figure "Crying face 1" [ref=e249]
+    - figure "Crying face 2" [ref=e252]
+  - heading "ghost" [level=3] [ref=e255]
+  - generic [ref=e256]:
+    - figure "Ghost costume 2" [ref=e257]
+    - figure "Ghost costume 1" [ref=e260]
+    - figure "Ghostbusters logo" [ref=e263]
+    - figure "Ghost" [ref=e266]
+    - figure "Ghostbusters trap 2" [ref=e269]
+    - figure "Ghostbusters trap 1" [ref=e272]
+  - heading "superhero flying" [level=3] [ref=e275]
+  - generic [ref=e276]:
+    - figure "Superhero flying 1" [ref=e277]
+    - figure "Superhero flying 4" [ref=e280]
+    - figure "Superhero flying 3" [ref=e283]
+    - figure "Superhero flying 2" [ref=e286]
+  - heading "motorbike" [level=3] [ref=e289]
+  - generic [ref=e290]:
+    - figure "Motorbike helmet 2" [ref=e291]
+    - figure "Motorbike helmet 1" [ref=e294]
+    - figure "Motorbike" [ref=e297]
+  - heading "computer" [level=3] [ref=e300]
+  - generic [ref=e301]:
+    - figure "Desktop computer" [ref=e302]
+    - figure "Computer 1" [ref=e305]
+    - figure "Computer 2" [ref=e308]
+  - heading "desktop" [level=3] [ref=e311]
+  - generic [ref=e312]:
+    - figure "Desktop mouse 4" [ref=e313]
+    - figure "Desktop mouse 3" [ref=e316]
+    - figure "Desktop mouse 2" [ref=e319]
+    - figure "Desktop mouse 1" [ref=e322]
+    - figure "Desktop computer" [ref=e325]
+  - heading "light bulb" [level=3] [ref=e328]
+  - generic [ref=e329]:
+    - figure "Light bulb on" [ref=e330]
+    - figure "Light bulb off" [ref=e333]
+  - heading "boss face" [level=3] [ref=e336]
+  - figure "Boss face" [ref=e338]
+  - heading "talk" [level=3] [ref=e341]
+  - generic [ref=e342]:
+    - figure "Talk 2" [ref=e343]
+    - figure "Earth talking" [ref=e346]
+    - figure "Talking on phone 1" [ref=e349]
+    - figure "Talk 1" [ref=e352]
+    - figure "Talking on phone 2" [ref=e355]
+    - figure "Speech talk 1" [ref=e358]
+    - figure "Speech talk 2" [ref=e361]
+  - heading "hello" [level=3] [ref=e364]
+  - generic [ref=e365]:
+    - figure "hello 14" [ref=e366]
+    - figure "Othello" [ref=e369]
+    - figure "Hello 13" [ref=e372]
+    - figure "Hello 12" [ref=e375]
+    - figure "Hello 9" [ref=e378]
+    - figure "Hello 11" [ref=e381]
+    - figure "Hello 10" [ref=e384]
+    - figure "Hello 8" [ref=e387]
+    - figure "Hello 7" [ref=e390]
+    - figure "Hello 6" [ref=e393]
+    - figure "Hello 5" [ref=e396]
+    - figure "Hello 4" [ref=e399]
+    - figure "Hello 3" [ref=e402]
+    - figure "Hello 2" [ref=e405]
+    - figure "Hello 1" [ref=e408]
+    - figure "Hello in chinese 2" [ref=e411]
+    - figure "Hello in chinese 1" [ref=e414]
+    - figure "Hello" [ref=e417]
+  - heading "rice bowl" [level=3] [ref=e420]
+  - figure "Rice bowl" [ref=e422]
+  - heading "drinking" [level=3] [ref=e425]
+  - generic [ref=e426]:
+    - figure "Drinking 1" [ref=e427]
+    - figure "Drinking 2" [ref=e430]
+  - heading "cat 1" [level=3] [ref=e433]
+  - generic [ref=e434]:
+    - figure "Cat 1" [ref=e435]
+    - figure "Black cat 1" [ref=e438]
+  - heading "cat 2" [level=3] [ref=e441]
+  - generic [ref=e442]:
+    - figure "Cat 2" [ref=e443]
+    - figure "Black cat 2" [ref=e446]
+  - heading "bread" [level=3] [ref=e449]
+  - generic [ref=e450]:
+    - figure "Gingerbread" [ref=e451]
+    - figure "Bread piece" [ref=e454]
+    - figure "Bread" [ref=e457]
+  - heading "clock" [level=3] [ref=e460]
+  - generic [ref=e461]:
+    - figure "Alarm clock 2" [ref=e462]
+    - figure "Clock" [ref=e465]
+    - figure "Alarm clock" [ref=e468]
+  - heading "collaborative" [level=3] [ref=e471]
+  - generic [ref=e472]:
+    - figure "Collaborative work 8" [ref=e473]
+    - figure "Collaborative work 7" [ref=e476]
+    - figure "Collaborative work 6" [ref=e479]
+    - figure "Collaborative work 5" [ref=e482]
+    - figure "Collaborative work 2" [ref=e485]
+    - figure "Collaborative work 3" [ref=e488]
+    - figure "Collaborative work 1" [ref=e491]
+    - figure "Collaborative work 4" [ref=e494]
+  - heading "time to be alone" [level=3] [ref=e497]
+  - generic [ref=e498]:
+    - figure "Time to be alone 2" [ref=e499]
+    - figure "Time to be alone 1" [ref=e502]
+  - heading "homework" [level=3] [ref=e505]
+  - generic [ref=e506]:
+    - figure "Homework 6" [ref=e507]
+    - figure "Homework 5" [ref=e510]
+    - figure "Homework 4" [ref=e513]
+    - figure "Homework 3" [ref=e516]
+    - figure "Homework 2" [ref=e519]
+    - figure "Homework 1" [ref=e522]

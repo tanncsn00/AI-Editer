@@ -1,0 +1,292 @@
+{
+ "title": "Phỏng Vấn 2026",
+ "total": 91.607,
+ "beats": [
+  {
+   "name": "HOOK",
+   "header": "Câu hỏi đầu tiên",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "\"Em cho anh biết… danh sách liên kết là gì?\"",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 2.714
+      },
+      {
+       "t": "\"Dạ… em không biết.\"",
+       "kind": "gold",
+       "start": 3.054,
+       "end": 4.068
+      },
+      {
+       "t": "Bút dạ trên tay trưởng lão khựng lại giữa không trung.",
+       "kind": "red",
+       "start": 4.408,
+       "end": 6.73
+      }
+     ]
+    },
+    {
+     "start": 7.19,
+     "lines": [
+      {
+       "t": "Năm 2026. Phòng phỏng vấn của một tông môn công nghệ.",
+       "kind": "narr",
+       "start": 7.19,
+       "end": 10.403
+      },
+      {
+       "t": "Trưởng lão mười lăm năm tu luyện. Và một ứng viên… rất tự tin.",
+       "kind": "narr",
+       "start": 10.743,
+       "end": 14.184
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 14.814
+  },
+  {
+   "name": "THUATTOAN",
+   "header": "Ải thuật toán",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 14.854,
+     "lines": [
+      {
+       "t": "Trưởng lão hít sâu. \"Không sao. Big O là gì?\"",
+       "kind": "narr",
+       "start": 14.854,
+       "end": 17.636
+      },
+      {
+       "t": "\"Dạ em không biết.\"",
+       "kind": "gold",
+       "start": 17.976,
+       "end": 18.71
+      },
+      {
+       "t": "\"Tìm kiếm nhị phân?\"",
+       "kind": "narr",
+       "start": 19.05,
+       "end": 20.047
+      },
+      {
+       "t": "\"Em không biết.\"",
+       "kind": "gold",
+       "start": 20.387,
+       "end": 20.862
+      }
+     ]
+    },
+    {
+     "start": 21.322,
+     "lines": [
+      {
+       "t": "\"Thế closure? Git rebase với merge khác gì nhau?\"",
+       "kind": "narr",
+       "start": 21.322,
+       "end": 24.266
+      },
+      {
+       "t": "\"Mấy cái đó… em để AI lo ạ.\"",
+       "kind": "gold",
+       "start": 24.606,
+       "end": 26.265
+      },
+      {
+       "t": "Đạo tâm trưởng lão rạn ba đường.",
+       "kind": "red",
+       "start": 26.605,
+       "end": 28.193
+      }
+     ]
+    }
+   ],
+   "start": 14.814,
+   "end": 28.823
+  },
+  {
+   "name": "AI",
+   "header": "Ải AI",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 28.863,
+     "lines": [
+      {
+       "t": "\"Vậy rốt cuộc… em biết cái gì?\"",
+       "kind": "narr",
+       "start": 28.863,
+       "end": 30.462
+      },
+      {
+       "t": "Mắt ứng viên bỗng sáng lên. \"Anh hỏi em về AI đi.\"",
+       "kind": "jade",
+       "start": 30.802,
+       "end": 33.577
+      },
+      {
+       "t": "Ứng viên chậm rãi đứng dậy.",
+       "kind": "narr",
+       "start": 33.917,
+       "end": 35.151
+      }
+     ]
+    },
+    {
+     "start": 35.611,
+     "lines": [
+      {
+       "t": "\"Context window em luôn giữ dưới một nửa. Quá một nửa là nó bắt đầu quên.\"",
+       "kind": "jade",
+       "start": 35.611,
+       "end": 39.635
+      },
+      {
+       "t": "\"Em không bao giờ prompt 'làm cho đẹp'. Em viết đặc tả, có tiêu chí test, AI làm sai là biết ngay.\"",
+       "kind": "jade",
+       "start": 39.975,
+       "end": 45.426
+      }
+     ]
+    },
+    {
+     "start": 45.886,
+     "lines": [
+      {
+       "t": "\"Một agent viết code. Một agent review. Ba nhánh chạy song song.\"",
+       "kind": "jade",
+       "start": 45.886,
+       "end": 49.5
+      },
+      {
+       "t": "\"Claude hết lượt, em chuyển Codex. Codex hết lượt, em chuyển Gemini. Em chưa từng phải ngồi chờ.\"",
+       "kind": "jade",
+       "start": 49.84,
+       "end": 55.39
+      },
+      {
+       "t": "Trưởng lão… lặng lẽ cất bút dạ vào túi.",
+       "kind": "red",
+       "start": 55.73,
+       "end": 57.865
+      }
+     ]
+    }
+   ],
+   "start": 28.823,
+   "end": 58.495
+  },
+  {
+   "name": "THUTHACH",
+   "header": "Thử thách",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 58.535,
+     "lines": [
+      {
+       "t": "Trưởng lão chỉ lên bảng trắng: \"Vậy em đảo ngược danh sách kia bằng AI xem.\"",
+       "kind": "narr",
+       "start": 58.535,
+       "end": 62.586
+      },
+      {
+       "t": "Ứng viên gõ đúng một dòng.",
+       "kind": "narr",
+       "start": 62.926,
+       "end": 64.125
+      },
+      {
+       "t": "Ba giây. Code ra. Test xanh. Kèm luôn giải thích độ phức tạp.",
+       "kind": "gold",
+       "start": 64.465,
+       "end": 68.183
+      }
+     ]
+    },
+    {
+     "start": 68.643,
+     "lines": [
+      {
+       "t": "Trưởng lão nhìn tấm bảng trắng mình vừa vẽ mất hai mươi phút.",
+       "kind": "red",
+       "start": 68.643,
+       "end": 71.204
+      },
+      {
+       "t": "Mười lăm năm tu vi… như vừa bị ai bấm Ctrl Z.",
+       "kind": "red",
+       "start": 71.544,
+       "end": 74.304
+      }
+     ]
+    },
+    {
+     "start": 74.764,
+     "lines": [
+      {
+       "t": "Ứng viên khẽ nói thêm: \"À, em có sẵn gói Claude Max một năm. Tự bỏ tiền mua ạ.\"",
+       "kind": "narr",
+       "start": 74.764,
+       "end": 79.234
+      },
+      {
+       "t": "Cả phòng im lặng.",
+       "kind": "red",
+       "start": 79.574,
+       "end": 80.435
+      },
+      {
+       "t": "\"Em được nhận. Nhận ngay.\"",
+       "kind": "jade",
+       "start": 80.775,
+       "end": 82.164
+      },
+      {
+       "t": "\"…Thỉnh thoảng cho anh dùng ké với nhé.\"",
+       "kind": "gold",
+       "start": 82.504,
+       "end": 84.027
+      }
+     ]
+    }
+   ],
+   "start": 58.495,
+   "end": 84.657
+  },
+  {
+   "name": "CTA",
+   "header": "Độ kiếp cùng giới IT",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 84.697,
+     "lines": [
+      {
+       "t": "Ngươi là phe thuật toán hay phe vibe code? Comment cho bần đạo biết.",
+       "kind": "cta",
+       "start": 84.697,
+       "end": 87.965
+      },
+      {
+       "t": "Follow bần đạo, để mỗi ngày độ kiếp cùng giới IT.",
+       "kind": "cta",
+       "start": 88.305,
+       "end": 90.977
+      }
+     ]
+    }
+   ],
+   "start": 84.657,
+   "end": 91.607
+  }
+ ]
+}

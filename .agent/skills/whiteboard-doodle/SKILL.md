@@ -30,6 +30,7 @@ Skill này là **bước dựng hình**, chạy SAU khi script đã duyệt và 
 - [ ] Liệt kê mọi page trong `timeline.json` (`BEAT:pageIndex`), mỗi dòng ghi: **hình gì** (tình huống cụ thể, hình hoá đúng câu nói) + có **SFX** không.
 - [ ] Dòng `cue` ("Người đời gọi nó là…") → không vẽ. Dòng `term` → `"box"` (dấu đỏ quanh chữ). Dòng 📜 tên có ngoặc kép → `"banner"`.
 - [ ] Mỗi page 1 bố cục: doodle nằm vùng **y 250–1040**, chữ tự xếp vùng **1080–1790** (engine lo). Bên trái/giữa/phải, không chồng.
+- [ ] **Chữ trên hình = CHỮ KHOÁ, không phải cả câu thoại** (user 2026-11-03: "đang bị ghi text nhiều quá vào video"). Lập bảng `KEYS` cùng bảng cảnh: chỉ dòng có câu hỏi/cú chốt/số liệu/thuật ngữ mới có key, 2–6 chữ, ~1 key mỗi 2–3 dòng. Dòng không có key → không ghi chữ, tay vẽ hình ngay tại onset. Cú chốt ngắn và câu lĩnh ngộ quotable được để nguyên văn.
 
 ### B2 · Lấy hình đẹp — KHÔNG tự vẽ người bằng que
 - [ ] `python projects/_shared/find_doodles.py phone sleep cat ...` → mở trang `find.html` (serve `python -m http.server 8765 --bind 127.0.0.1 --directory projects/_shared/doodle_assets`) → chọn tên.
@@ -39,7 +40,8 @@ Skill này là **bước dựng hình**, chạy SAU khi script đã duyệt và 
 - [ ] **CẤM dùng AI sinh ảnh** cho bước này (user: "vẽ bằng code mà?").
 
 ### B3 · Viết component
-- [ ] Copy `LopWhiteboard.tsx` → `src/<Name>Whiteboard.tsx`; đổi import `<slug>_timeline.json` + `<slug>_doodles.json`, `slug`, `footer`; viết lại `SCENES` + `SFX`, giữ helper đặc thù đề tài trong file này.
+- [ ] Copy `PhongVanWhiteboard.tsx` (mẫu chữ-khoá) → `src/<Name>Whiteboard.tsx`; đổi import `<slug>_timeline.json` + `<slug>_doodles.json`, `slug`, `footer`; viết lại `SCENES` + `KEYS` + `SFX`, giữ helper đặc thù đề tài trong file này.
+- [ ] `KEYS: Keys = { "BEAT:page:line": "chữ khoá" }` truyền vào `<WhiteboardVideo keys={KEYS} />` — chữ khoá to gấp 1.6 lần. Anchor sai → render chết ngay. `"box"`/`"banner"` chỉ đặt trên dòng có key. Không truyền `keys` = chế độ cũ ghi cả câu (chỉ còn cho video cũ như `LopWhiteboard`).
 - [ ] `A(name, x, y, h, col?)` — `h` = chiều cao hiển thị (px), `col` = màu mực (mặc định INK). Tên sai → render **chết ngay** với thông báo rõ (không im lặng).
 - [ ] Đăng ký Root: `<Name>Whiteboard` (bgm) · `<Name>WhiteboardNoBgm` · thumbnail; `durationInFrames = whiteboardFrames(timeline)`.
 

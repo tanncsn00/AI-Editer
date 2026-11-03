@@ -425,6 +425,10 @@ import { ToonGiaoHangThumbnail } from "./ToonGiaoHangThumbnail";
 import { ToonGiaoHangFlow, TOON_GIAO_HANG_FLOW_FRAMES } from "./ToonGiaoHangFlow";
 import { HoHangWhiteboard, HOHANG_FRAMES } from "./HoHangWhiteboard";
 import { HoHangWhiteboardThumbnail } from "./HoHangWhiteboardThumbnail";
+import { NgayDauWhiteboard, NGAYDAU_FRAMES } from "./NgayDauWhiteboard";
+import { NgayDauWhiteboardThumbnail } from "./NgayDauWhiteboardThumbnail";
+import { PhongVanWhiteboard, PHONGVAN_FRAMES } from "./PhongVanWhiteboard";
+import { PhongVanWhiteboardThumbnail } from "./PhongVanWhiteboardThumbnail";
 import { ElonEdit, ELON_FRAMES } from "./ElonEdit";
 import { ElonEditThumbnail } from "./ElonEditThumbnail";
 
@@ -4094,6 +4098,58 @@ export const Root: React.FC = () => {
         id="LopWhiteboardNoBgm"
         component={LopWhiteboard}
         durationInFrames={LOP_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="PhongVanWhiteboardThumbnail"
+        component={PhongVanWhiteboardThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="PhongVanWhiteboard"
+        component={PhongVanWhiteboard}
+        durationInFrames={PHONGVAN_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="PhongVanWhiteboardNoBgm"
+        component={PhongVanWhiteboard}
+        durationInFrames={PHONGVAN_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="NgayDauWhiteboardThumbnail"
+        component={NgayDauWhiteboardThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="NgayDauWhiteboard"
+        component={NgayDauWhiteboard}
+        durationInFrames={NGAYDAU_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="NgayDauWhiteboardNoBgm"
+        component={NgayDauWhiteboard}
+        durationInFrames={NGAYDAU_FRAMES}
         fps={30}
         width={1080}
         height={1920}
