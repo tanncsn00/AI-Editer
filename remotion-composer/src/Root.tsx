@@ -355,6 +355,7 @@ import { XKiroLimit, XKIRO_LIMIT_FRAMES } from "./XKiroLimit";
 import { XKiroLimitThumbnail } from "./XKiroLimitThumbnail";
 import { XKiroDrop, XKIRO_DROP_FRAMES } from "./XKiroDrop";
 import { DaiChienInbox, DaiChienInboxThumbnail, DAI_CHIEN_INBOX_FRAMES } from "./DaiChienInbox";
+import { AZbotEndCard, AZBOT_END_CARD_FRAMES } from "./azbot/AZbotEndCard";
 import { XKiroDropThumbnail } from "./XKiroDropThumbnail";
 import { XKiroClaudeCode, XKIRO_CLAUDE_CODE_FRAMES } from "./XKiroClaudeCode";
 import { XKiroClaudeCodeThumbnail } from "./XKiroClaudeCodeThumbnail";
@@ -450,6 +451,24 @@ const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
 export const Root: React.FC = () => {
   return (
     <>
+      <Composition
+        id="AZbotEndCard"
+        component={AZbotEndCard}
+        durationInFrames={AZBOT_END_CARD_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ cta: "Gặp khách khó? Có AZ lo", sting: true }}
+      />
+      <Composition
+        id="AZbotEndCardDaiChien"
+        component={AZbotEndCard}
+        durationInFrames={AZBOT_END_CARD_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ cta: "Shop bạn đã gặp 'vị khách' này chưa?", keyword: "ĐẠI CHIẾN", sting: true }}
+      />
       <Composition
         id="DaiChienInboxThumbnail"
         component={DaiChienInboxThumbnail}

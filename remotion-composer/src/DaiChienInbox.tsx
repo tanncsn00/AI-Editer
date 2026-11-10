@@ -75,9 +75,7 @@ const Title: React.FC<{ f: number; at: number; text: string; size?: number; colo
   return (
     <div style={{ fontFamily: TITLE_FONT, fontSize: size, color, lineHeight: 1.12, textAlign: "center", letterSpacing: 1, WebkitTextStroke: `${size * 0.11}px ${STROKE}`, paintOrder: "stroke fill", textTransform: "uppercase", whiteSpace: "nowrap" }}>
       <span>{text.slice(0, n)}</span>
-      <span style={{ position: "relative", display: "inline-block", width: 0 }}>
-        {cursorOn && f - at < text.length / cps + 24 ? <span style={{ position: "absolute", left: 4, top: size * 0.12, width: size * 0.06, height: size * 0.9, background: "#fff", boxShadow: `0 0 0 2px ${STROKE}` }} /> : null}
-      </span>
+      <span style={{ display: "inline-block", width: size * 0.06, height: size * 0.82, marginLeft: size * 0.04, marginRight: -size * 0.1, verticalAlign: "-0.06em", background: "#fff", boxShadow: `0 0 0 2px ${STROKE}`, opacity: cursorOn && f - at < text.length / cps + 24 ? 1 : 0 }} />
       <span style={{ opacity: 0 }}>{text.slice(n)}</span>
     </div>
   );

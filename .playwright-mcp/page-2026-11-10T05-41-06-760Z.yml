@@ -1,0 +1,84 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "AZbot - AI trực page bán hàng online" [ref=e8]
+          - navigation "Main navigation" [ref=e9]:
+            - button "Navigate to Giới thiệu" [ref=e10] [cursor=pointer]: Giới thiệu
+            - button "Navigate to Dịch vụ" [ref=e11] [cursor=pointer]: Dịch vụ
+            - button "Navigate to Giải pháp" [ref=e12] [cursor=pointer]: Giải pháp
+            - button "Navigate to Bảng giá" [ref=e13] [cursor=pointer]: Bảng giá
+            - link "Navigate to Thông tin" [ref=e14] [cursor=pointer]:
+              - /url: /thong-tin
+              - text: Thông tin
+            - link "Navigate to Hướng dẫn" [ref=e15] [cursor=pointer]:
+              - /url: /faq
+              - text: Hướng dẫn
+        - generic [ref=e16]:
+          - button "Nhận tư vấn" [ref=e18] [cursor=pointer]
+          - link "Đăng ký" [ref=e19] [cursor=pointer]:
+            - /url: https://azbot-dashboard.aibus.dev/register
+          - button [ref=e20] [cursor=pointer]
+    - main [ref=e34]:
+      - generic [ref=e36]:
+        - generic [ref=e38]:
+          - button "Quay lại danh sách" [ref=e40] [cursor=pointer]
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - img "avatar" [ref=e46]
+              - generic [ref=e47]:
+                - heading "THỜI TRANG" [level=3] [ref=e48]
+                - generic [ref=e49]:
+                  - paragraph [ref=e50]: "Trợ lý tư vấn thời trang: gợi ý size theo chiều cao cân nặng, tư vấn màu sắc, kiểu dáng, chất liệu và nhận diện sản phẩm qua hình ảnh khách gửi."
+                  - button "Xem thêm" [ref=e51] [cursor=pointer]
+            - generic [ref=e54]:
+              - paragraph [ref=e55]: Tin nhắn gợi ý
+              - generic [ref=e56]:
+                - button [ref=e57] [cursor=pointer]:
+                  - paragraph [ref=e59]: Mình cao 1m60, nặng 50kg thì mặc size nào?
+                - button [ref=e63] [cursor=pointer]:
+                  - paragraph [ref=e65]: Shop có mẫu giống ảnh này không?
+                - button [ref=e70] [cursor=pointer]:
+                  - paragraph [ref=e72]: Mẫu này còn màu nào khác không shop?
+                - button [ref=e76] [cursor=pointer]:
+                  - paragraph [ref=e78]: Chất vải này có bị nhăn, xù lông không?
+                - button [ref=e83] [cursor=pointer]:
+                  - paragraph [ref=e85]: Mặc không vừa thì đổi size được không?
+            - generic [ref=e89]:
+              - paragraph [ref=e90]: Hình ảnh gợi ý
+              - generic [ref=e91]:
+                - button "Chọn ảnh test để gửi" [ref=e92] [cursor=pointer]
+                - button "Chọn ảnh test để gửi" [ref=e93] [cursor=pointer]
+                - button "Chọn ảnh test để gửi" [ref=e94] [cursor=pointer]
+                - button "Chọn ảnh test để gửi" [ref=e95] [cursor=pointer]
+                - button "Chọn ảnh test để gửi" [ref=e96] [cursor=pointer]
+          - generic [ref=e97]:
+            - button "Gửi Follow up" [ref=e98] [cursor=pointer]
+            - button "Reset trò chuyện" [ref=e99] [cursor=pointer]
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - img "avatar" [ref=e104]
+            - generic [ref=e106]:
+              - heading "THỜI TRANG" [level=2] [ref=e107]
+              - paragraph [ref=e108]: Thời trang
+          - generic [ref=e109]:
+            - generic [ref=e137]: Gửi tin nhắn thất bại. Vui lòng thử lại.
+            - generic [ref=e139]: Mình cao 1m60, nặng 50kg thì mặc size nào?
+          - generic [ref=e115]:
+            - generic [ref=e118]:
+              - textbox "Nhắn tin..." [ref=e119]
+              - group [aria-hidden]
+            - button "Gửi tin nhắn" [active] [ref=e120] [cursor=pointer]
+    - generic [ref=e123]:
+      - generic [ref=e124] [cursor=pointer]: Đặt lịch tư vấn
+      - generic [ref=e129] [cursor=pointer]:
+        - img "Messenger" [ref=e130]
+        - generic: Tư vấn qua Fanpage
+      - generic [ref=e131] [cursor=pointer]:
+        - img "Zalo" [ref=e132]
+        - generic: Tư vấn qua Zalo
+  - region "Notifications Alt+T"
+  - alert [ref=e133]
