@@ -70,7 +70,8 @@ HOOK ≤3s có chữ  →  TÌNH HUỐNG chủ shop nào cũng gặp  →  GÓC 
 (nỗi đau / nghịch lý)                                                                   mascot + logo + tagline + 'ting'
                                                                                          + câu gợi nhắn tin + chữ khoá
 ```
-- Series kể chuyện (Đại chiến Inbox, Khách nói – Shop hiểu): người dẫn **đọc tagline làm câu chốt câu chuyện** ("…nhưng không ai bán hàng một mình."). Tin nóng / Hậu trường: chỉ chữ ở khung kết.
+- Series kể chuyện (Đại chiến Inbox, Khách nói – Shop hiểu): người dẫn **đọc tagline làm câu chốt câu chuyện** ("…nhưng không ai bán hàng một mình."). Tin nóng / Hậu trường: tagline chỉ chữ ở khung kết.
+- **Câu CTA LUÔN được đọc thành lời ở MỌI series** (dòng 🔔 cuối script.md), đúng câu gợi nhắn tin của series + chữ khoá. Vd Đại chiến Inbox: `🔔 Shop bạn đã gặp "vị khách" này chưa? Nhắn chữ Đại Chiến, kể mình nghe nhé!`
 - Video vòng ngoài (thuế, luật) vẫn phải kết bằng một câu kéo về inbox / đơn hàng.
 
 ### Quy tắc nguồn — series Tin nóng
@@ -82,30 +83,79 @@ HOOK ≤3s có chữ  →  TÌNH HUỐNG chủ shop nào cũng gặp  →  GÓC 
 
 Component `remotion-composer/src/azbot/AZbotEndCard.tsx` (3 giây, 90 frame @30fps), composition `AZbotEndCard` (mặc định) và `AZbotEndCardDaiChien`.
 
-Props: `cta` (câu gợi nhắn tin **không kèm 👇** — component tự vẽ mũi tên), `keyword?` (chữ khoá series → dòng "Nhắn KEYWORD cho mình"), `sting` (tiếng "ting" nhận diện; hiện tạm dùng `sfx/ui/iphone-ding.mp3`).
+Props: `cta` (câu gợi nhắn tin **không kèm 👇** — component tự vẽ mũi tên), `keyword?` (chữ khoá series → dòng "Nhắn KEYWORD cho mình"), `sting` (tiếng "ting" nhận diện; hiện tạm dùng `sfx/ui/iphone-ding.mp3`), `taglineAt?` (frame trong khung kết bắt đầu hiện tagline, mặc định 18), `ctaAt?` (frame hiện nút CTA, mặc định 46).
+
+**Đồng bộ với lời đọc (bắt buộc khi tagline/CTA được đọc):** khung kết bắt đầu tại `entry(dòng tagline) − END_CARD_TAGLINE_AT` để chữ tagline lên đúng lúc người dẫn đọc; `ctaAt = entry(dòng CTA) − điểm bắt đầu khung kết`; Sequence kéo dài tới hết câu CTA + 1s. Series không đọc tagline: khung kết bắt đầu ~1.5s trước dòng CTA. Mẫu: `OUTRO_START` / `END_CARD_CTA_FRAME` trong `DaiChienInbox.tsx`.
 
 Thứ tự hiện: robot ăn mừng nảy vào → logo quét ra → tagline từng chữ ("MỘT MÌNH." tô cam) → pill câu mời → chữ khoá → mũi tên 👇. Vùng dưới ~400px để trống cho UI TikTok/Facebook.
 
 Dùng trong video mới: ghép `<AZbotEndCard cta=… keyword=… sting />` vào 90 frame cuối (Sequence), `--public-dir` tạm phải chứa `azbot-brand/` và `sfx/`.
 
-## 6. Đăng & caption
+## 6. Thumbnail
+
+Component `remotion-composer/src/azbot/AZbotThumbnail.tsx` — mọi video dùng cùng công thức:
+
+```
+┌─────────── 1080×1920 (vùng chính 3:4: y 240–1680) ───────────┐
+│              [ PILL ĐỎ: TÊN SERIES ]                          │
+│          HOOK DÒNG 1 (kem, Anton viền nâu)                   │
+│          HOOK DÒNG 2 (cam, to hơn)                            │
+│        [ hình bằng chứng: ô chat / số liệu / màn hình ]       │
+│  ┌ Gặp khách khó? ┐                    🤖 mascot to          │
+│  └ Có AZ lo!      ┘◀                   (cờ lê / ăn mừng)     │
+│  AZBOT (logo nhỏ)                                             │
+└───────────────────────────────────────────────────────────────┘
+```
+
+- Props: `series`, `hookTop`, `hookBottom`, `mascot` (`doi_dich_vu_co_le` | `an_mung`), `bubble?` (mặc định "Gặp khách khó?\nCó AZ lo!"), `children` = hình bằng chứng.
+- Hook thumbnail = **nỗi đau bằng chữ người ta tự gõ tìm** (vd "Khách hỏi giá / rồi biến mất"), ≤ 2 dòng, không ghi số tập.
+- Mọi thứ quan trọng nằm trong vùng 3:4 (lưới profile TikTok cắt theo tỉ lệ này). Thiết kế riêng, KHÔNG cắt frame từ video.
+- Mẫu: `DaiChienInboxThumbnail` trong `DaiChienInbox.tsx`.
+
+## 7. Đăng & caption (SEO)
 
 - Cùng 1 file 9:16 lên **TikTok + Facebook**, **20:30**, upload file gốc lên từng nền tảng (không dùng file tải từ TikTok có watermark). Luôn bản **không nhạc nền bản quyền**, giữ SFX.
-- Caption TikTok: ngắn, có chữ khoá, hashtag, dòng cuối #KhongAiBanHangMotMinh. Caption Facebook: dài hơn được, CTA "nhắn Messenger".
+
+### Công thức caption TikTok (5 dòng)
+```
+L1  <cụm từ khoá người ta gõ tìm> — <hook>            (≤ 70 ký tự, feed chỉ hiện ~60–70)
+L2  1 câu kể tiếp tình huống / con số trong video
+L3  Câu gợi nhắn tin của series + "Nhắn <CHỮ KHOÁ>" 👇
+L4  Dòng từ khoá tự nhiên: "Chuyện thật nghề bán online · <từ khoá 1> · <từ khoá 2>"
+L5  8 hashtag theo công thức bên dưới
+```
+TikTok Search đọc caption + chữ trên hình + lời đọc → cụm từ khoá chính (vd "chủ shop", "khách hỏi giá") phải có ở L1, trên hình và trong lời đọc 3 giây đầu.
+
+### Bộ hashtag (8 cái, đúng thứ tự)
+| Tầng | Số lượng | Chọn từ |
+|---|---|---|
+| Thương hiệu | 2 · luôn có | **#azbot #KhongAiBanHangMotMinh** |
+| Danh mục | 2 | #chatbotbanhang #aitrucpage #chatbot #AIbanhang #traloitinnhantudong |
+| Khán giả | 2 | #chushop #banhangonline #kinhdoanhonline #chushoponline |
+| Series | 1 | #daichieninbox · #khachnoishophieu · #tinnongchushop · #hautruongdonghanh |
+| Chủ đề tập | 1 | theo nội dung tập (vd #khachhoigia #phiship #thuekhoan) |
+
+Không dùng #fyp #xuhuong #viral. Không hashtag có chữ "miễn phí", "free", "sale".
+
+### Caption Facebook
+L1 giống TikTok · 1 đoạn kể dài hơn · CTA "Nhắn Messenger chữ <CHỮ KHOÁ>" · dòng tagline "Không ai bán hàng một mình." · 4 hashtag: #azbot #KhongAiBanHangMotMinh + series + 1 khán giả.
+
+Mẫu đầy đủ: `projects/dai-chien-inbox-1/caption.md`.
 - Profile: bio ở mục 1 · 3 video ghim (hay nhất · "AZbot là ai" · bằng chứng bot chạy thật) · ẩn (không xoá) video có giá.
 - Fanpage: ảnh cover = mascot + tagline + "Gặp khách khó? Có AZ lo"; câu đầu phần giới thiệu = tagline.
 
-## 7. Phân vai
+## 8. Phân vai
 
 Marketing lo video → profile → **người xem bấm nhắn tin**. **Đội sale trả lời tin nhắn**, lọc khách, ghi nguồn (chữ khoá / "biết AZbot qua đâu"). KPI marketing dừng ở **số người thật sự gửi tin**.
 
-## 8. Checklist trước khi giao một video AZbot
+## 9. Checklist trước khi giao một video AZbot
 
 - [ ] Hook ≤3 giây có chữ; độ dài 1:00–1:30
 - [ ] Không giá / miễn phí / dùng thử / khuyến mãi
 - [ ] Đúng giọng "mình – anh chị chủ shop"; số liệu có nguồn
 - [ ] Che tên, SĐT, địa chỉ khách (video hậu trường / demo)
 - [ ] Tin nóng: có số hiệu văn bản + câu "thông tin tham khảo"
-- [ ] Khung kết đủ: mascot + logo + tagline + câu gợi nhắn tin đúng series + chữ khoá
+- [ ] Khung kết đủ: mascot + logo + tagline + câu gợi nhắn tin đúng series + chữ khoá; **câu CTA được đọc** và nút CTA hiện đúng lúc đọc (verify cặp frame)
+- [ ] Thumbnail dùng `AZbotThumbnail` (có mascot), caption theo công thức SEO 5 dòng + 8 hashtag
 - [ ] Bản không nhạc bản quyền; caption có #KhongAiBanHangMotMinh
 - [ ] Đi đủ `video-production-gate` (TTS per-line, sync timeline, verify cặp frame, deliverables)

@@ -4,6 +4,8 @@ import { loadFont as loadAnton } from "@remotion/google-fonts/Anton";
 import { loadFont as loadOswald } from "@remotion/google-fonts/Oswald";
 import { loadFont as loadBeVietnam } from "@remotion/google-fonts/BeVietnamPro";
 import tl from "./dai-chien-inbox-1_timeline.json";
+import { AZbotEndCard, AZBOT_END_CARD_FRAMES, END_CARD_TAGLINE_AT } from "./azbot/AZbotEndCard";
+import { AZbotThumbnail } from "./azbot/AZbotThumbnail";
 
 loadAnton("normal", { weights: ["400"], subsets: ["vietnamese", "latin"] });
 loadOswald("normal", { weights: ["600", "700"], subsets: ["vietnamese", "latin"] });
@@ -12,7 +14,7 @@ loadBeVietnam("normal", { weights: ["500", "600", "700"], subsets: ["vietnamese"
 const FPS = 30;
 const SLUG = "dai-chien-inbox-1";
 const LEAD = 4;
-const OUTRO_SEC = 2.8;
+const END_TAIL_SEC = 1.0;
 
 const ORANGE = "#FF8A00";
 const PILL = "#FF9A0A";
@@ -33,8 +35,6 @@ const TL = tl as Timeline;
 const LINES: Line[] = TL.beats.flatMap((b) => b.pages.flatMap((p) => p.lines));
 const PAGES = TL.beats.flatMap((b) => b.pages.map((p, i) => ({ beat: b.name, first: i === 0, lines: p.lines })));
 
-export const DAI_CHIEN_INBOX_FRAMES = Math.ceil((TL.total + OUTRO_SEC) * FPS);
-const OUTRO_START = Math.round(TL.total * FPS);
 
 const lineIndex = (prefix: string) => {
   const i = LINES.findIndex((l) => l.t.startsWith(prefix));
@@ -43,6 +43,15 @@ const lineIndex = (prefix: string) => {
 };
 const entry = (i: number) => Math.max(0, Math.round(LINES[i].start * FPS) - LEAD);
 const entryOf = (prefix: string) => entry(lineIndex(prefix));
+
+const TAGLINE_PREFIX = "không ai bán hàng";
+const CTA_PREFIX = "Shop bạn đã gặp";
+const OUTRO_START = entryOf(TAGLINE_PREFIX) - END_CARD_TAGLINE_AT;
+const END_CARD_CTA_FRAME = entryOf(CTA_PREFIX) - OUTRO_START;
+export const DAI_CHIEN_INBOX_FRAMES = Math.max(
+  OUTRO_START + AZBOT_END_CARD_FRAMES,
+  Math.ceil((LINES[lineIndex(CTA_PREFIX)].end + END_TAIL_SEC) * FPS),
+);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };
 const lerp = (v: number, a: number, b: number) => a + (b - a) * v;
 const POP = { damping: 11, stiffness: 210, mass: 0.6 };
@@ -281,48 +290,39 @@ const Col: React.FC<{ children: React.ReactNode; top?: number; gap?: number; zoo
 const Row: React.FC<{ children: React.ReactNode; gap?: number }> = ({ children, gap = 40 }) => <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap }}>{children}</div>;
 const fadeOutAt = (f: number, at: number) => interpolate(f, [at - 6, at], [1, 0], clamp);
 
+const END_CARD_CTA = "Shop bạn đã gặp 'vị khách' này chưa?";
+const END_CARD_KEYWORD = "ĐẠI CHIẾN";
+const HOOK_TEXT = "Chủ shop nào cũng từng gặp";
+
 const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
-  "MO_DAU:0": ({ f, at, atLine }) => (
-    <Col gap={44}>
+  "MO_DAU:0": ({ f, at }) => (
+    <Col gap={40}>
+      <Pill f={f} at={0} text={HOOK_TEXT} size={58} color={RED} />
       <Title f={f} at={at("Lịch sử thế giới")} text="Lịch sử thế giới" size={100} />
       <Row gap={30}>
-        <Sticker f={f} at={at("Lịch sử thế giới") + 4} icon="swords" size={170} tilt={-8} />
-        <Sticker f={f} at={at("Lịch sử thế giới")} icon="globe" size={320} />
-        <Sticker f={f} at={at("Lịch sử thế giới") + 8} icon="bomb" size={170} tilt={10} />
+        <Sticker f={f} at={at("Lịch sử thế giới") + 4} icon="swords" size={160} tilt={-8} />
+        <Sticker f={f} at={at("Lịch sử thế giới")} icon="globe" size={290} />
+        <Sticker f={f} at={at("Lịch sử thế giới") + 8} icon="bomb" size={160} tilt={10} />
       </Row>
-      <Pill f={f} at={at("hai cuộc đại chiến")} text="Thế chiến I" size={64} icon="helmet" />
-      <Pill f={f} at={at("hai cuộc đại chiến") + 8} text="Thế chiến II" size={64} icon="collision" />
+      <Pill f={f} at={at("hai cuộc đại chiến")} text="Thế chiến I" size={60} icon="helmet" />
+      <Pill f={f} at={at("hai cuộc đại chiến") + 8} text="Thế chiến II" size={60} icon="collision" />
     </Col>
   ),
-  "MO_DAU:1": ({ f, at, atLine }) => (
-    <Col gap={70}>
-      <IconRow f={f} at={at("Hàng triệu người")} icon="helmet" text="Hàng triệu người" />
-      <IconRow f={f} at={at("Vô số thành phố")} icon="house" text="Thành phố tàn phá" />
-      <IconRow f={f} at={at("Và những vết thương")} icon="bandage" text="Vết thương nhiều thế hệ" size={62} />
-    </Col>
-  ),
-  "MO_DAU:2": ({ f, at, atLine }) => (
-    <Col gap={50}>
+  "MO_DAU:1": ({ f, at }) => (
+    <Col gap={34}>
       <Title f={f} at={at("Nhưng có một sự thật")} text="Sự thật ít ai biết" size={110} />
       <Row gap={10}>
-        <Sticker f={f} at={at("Nhưng có một sự thật") + 2} icon="eyes" size={330} wipe />
-        <Sticker f={f} at={at("Nhưng có một sự thật") + 12} icon="thinking" size={200} />
+        <Sticker f={f} at={at("Nhưng có một sự thật") + 2} icon="eyes" size={240} wipe />
+        <Sticker f={f} at={at("Nhưng có một sự thật") + 12} icon="thinking" size={160} />
       </Row>
-    </Col>
-  ),
-  "MO_DAU:3": ({ f, at, atLine }) => (
-    <Col gap={36}>
-      <Sticker f={f} at={at("Trong khi thế giới")} icon="dove" size={260} />
-      <Title f={f} at={at("Trong khi thế giới")} text="Thế giới: hòa bình" size={86} />
-      <div style={{ height: 40 }} />
       <Row gap={10}>
-        <Sticker f={f} at={at("hàng triệu chủ shop")} icon="phone" size={240} />
-        <Sticker f={f} at={at("hàng triệu chủ shop") + 6} icon="collision" size={200} />
+        <Sticker f={f} at={at("hàng triệu chủ shop")} icon="phone" size={220} />
+        <Sticker f={f} at={at("hàng triệu chủ shop") + 6} icon="collision" size={180} />
       </Row>
       <Pill f={f} at={at("hàng triệu chủ shop") + 4} text="Chủ shop: một cuộc chiến khác" size={54} />
     </Col>
   ),
-  "MO_DAU:4": ({ f, at, atLine }) => (
+  "MO_DAU:2": ({ f, at }) => (
     <Col gap={56}>
       <IconRow f={f} at={at("Không tiếng súng")} icon="collision" text="Tiếng súng" strikeAt={at("Không tiếng súng") + 8} size={84} />
       <IconRow f={f} at={at("Không bom đạn")} icon="bomb" text="Bom đạn" strikeAt={at("Không bom đạn") + 6} size={84} />
@@ -330,7 +330,7 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
       <Title f={f} at={at("Chỉ có… một ô tin nhắn")} text="Một ô tin nhắn" size={110} />
     </Col>
   ),
-  "MO_DAU:5": ({ f, at, atLine }) => (
+  "MO_DAU:3": ({ f, at }) => (
     <Col gap={40}>
       <Sticker f={f} at={at("ĐẠI CHIẾN INBOX")} icon="swords" size={260} />
       <Title f={f} at={at("ĐẠI CHIẾN INBOX")} text="Đại chiến Inbox" size={150} cps={2} />
@@ -346,7 +346,6 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
             <Sticker f={f} at={at("Ngày hôm ấy")} icon="clock" size={300} />
             <Title f={f} at={at("Ngày hôm ấy")} text="9:17 sáng" size={150} />
           </Col>
-          <Notification f={f} at={at("Một thông báo xuất hiện")} title="Messenger" body="Bạn có 1 tin nhắn mới" icon="bell" />
         </AbsoluteFill>
         <Col zoom={1}>
           {f >= phoneIn ? <Phone f={f} atLine={atLine} upTo={lineIndex("CHỦ SHOP: Dạ mẫu này")} enter={phoneIn} /> : null}
@@ -354,27 +353,23 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
       </>
     );
   },
-  "HOI_1:1": ({ f, at, atLine }) => (
-    <Col gap={34}>
+  "HOI_1:1": ({ f, at }) => (
+    <Col gap={40}>
       <Title f={f} at={at("Chủ shop lập tức")} text="Trạng thái chiến đấu" size={96} />
       <Row gap={20}>
-        <Sticker f={f} at={at("Chủ shop lập tức") + 2} icon="helmet" size={210} />
-        <Sticker f={f} at={at("Chủ shop lập tức") + 8} icon="shield" size={190} />
+        <Sticker f={f} at={at("Chủ shop lập tức") + 2} icon="helmet" size={220} />
+        <Sticker f={f} at={at("Chủ shop lập tức") + 8} icon="shield" size={200} />
       </Row>
-      <Row gap={20}>
-        <Sticker f={f} at={at("Một câu hỏi tưởng chừng")} icon="relieved" size={150} />
-        <Pill f={f} at={at("Một câu hỏi tưởng chừng")} text="Vô hại?" size={62} />
-      </Row>
-      <Sticker f={f} at={at("Nhưng không ai biết")} icon="collision" size={280} />
+      <Sticker f={f} at={at("Nhưng không ai biết")} icon="collision" size={290} />
       <Title f={f} at={at("Nhưng không ai biết")} text="Phát súng đầu tiên" size={100} color={RED} />
     </Col>
   ),
-  "HOI_1:2": ({ f, at, atLine }) => (
+  "HOI_1:2": ({ f, atLine }) => (
     <Col zoom={1}>
       <Phone f={f} atLine={atLine} upTo={lineIndex("CHỦ SHOP: Dạ chị cho em")} enter={-1} />
     </Col>
   ),
-  "HOI_2:0": ({ f, at, atLine }) => (
+  "HOI_2:0": ({ f, at }) => (
     <Col gap={40}>
       <Sticker f={f} at={at("15 phút trôi qua")} icon="hourglass" size={250} />
       <Title f={f} at={at("15 phút trôi qua")} text="15 phút trôi qua" size={110} />
@@ -384,17 +379,16 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
       <Pill f={f} at={at("và 2 lần kiểm tra")} text="2 lần kiểm tra tồn kho" icon="package" size={62} />
     </Col>
   ),
-  "HOI_2:1": ({ f, at, atLine }) => (
-    <Col gap={70}>
+  "HOI_2:1": ({ f, at }) => (
+    <Col gap={80}>
       <Meter f={f} at={at("Đạn dược gần cạn")} icon="lowbattery" label="ĐẠN DƯỢC" to={0.1} />
-      <Meter f={f} at={at("Tinh thần bắt đầu")} icon="chart" label="TINH THẦN" to={0.28} />
       <Row gap={20}>
-        <Sticker f={f} at={at("Nhưng đối phương vẫn chưa")} icon="thinking" size={220} />
+        <Sticker f={f} at={at("Nhưng đối phương vẫn chưa")} icon="thinking" size={240} />
         <Pill f={f} at={at("Nhưng đối phương vẫn chưa") + 4} text="Chưa quyết định" size={62} />
       </Row>
     </Col>
   ),
-  "HOI_2:2": ({ f, at, atLine }) => (
+  "HOI_2:2": ({ f, atLine }) => (
     <Col zoom={1}>
       <Phone f={f} atLine={atLine} upTo={lineIndex("CHỦ SHOP: Dạ vâng ạ")} enter={-1} />
     </Col>
@@ -424,9 +418,8 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
     const phoneIn = at("Chỉ để lại một dòng");
     return (
       <>
-        <Col top={210} gap={34}>
-          <IconRow f={f} at={at("Không một lời tuyên bố")} icon="whiteflag" text="Đầu hàng" strikeAt={at("Không một lời tuyên bố") + 8} size={76} />
-          <IconRow f={f} at={at("Không một lời giải thích")} icon="speech" text="Giải thích" strikeAt={at("Không một lời giải thích") + 6} size={76} />
+        <Col top={260} gap={34}>
+          <IconRow f={f} at={at("Không một lời tuyên bố")} icon="whiteflag" text="Đầu hàng" strikeAt={at("Không một lời tuyên bố") + 8} size={84} />
         </Col>
         <Col top={700}>{f >= phoneIn ? <Phone f={f} atLine={atLine} upTo={lineIndex("CHỦ SHOP: Dạ vâng ạ")} enter={phoneIn} seenAt={at("ĐÃ XEM")} scale={0.92} /> : null}</Col>
         <AbsoluteFill style={{ display: "flex", alignItems: "center", justifyContent: "center", paddingTop: 260 }}>
@@ -438,24 +431,23 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
       </>
     );
   },
-  "HOI_3:0": ({ f, at, atLine }) => (
-    <Col gap={44}>
+  "HOI_3:0": ({ f, at }) => (
+    <Col gap={50}>
       <Row gap={20}>
         <Sticker f={f} at={at("Chủ shop tưởng rằng")} icon="dove" size={200} />
         <Title f={f} at={at("Chủ shop tưởng rằng")} text="Kết thúc?" size={130} />
       </Row>
-      <Pill f={f} at={at("Sau hàng loạt giờ")} text="Hàng loạt giờ tư vấn" icon="hourglass" size={60} />
       <Row gap={80}>
-        <Sticker f={f} at={at("Shop thở phào")} icon="relieved" size={260} />
-        <Sticker f={f} at={at("tuy có hơi hụt hẫng")} icon="pensive" size={260} />
+        <Sticker f={f} at={at("Shop thở phào")} icon="relieved" size={280} />
+        <Sticker f={f} at={at("tuy có hơi hụt hẫng")} icon="pensive" size={280} />
       </Row>
       <Row gap={130}>
-        <Title f={f} at={at("Shop thở phào")} text="Nhẹ nhõm" size={70} />
-        <Title f={f} at={at("tuy có hơi hụt hẫng")} text="Hụt hẫng" size={70} />
+        <Title f={f} at={at("Shop thở phào")} text="Nhẹ nhõm" size={74} />
+        <Title f={f} at={at("tuy có hơi hụt hẫng")} text="Hụt hẫng" size={74} />
       </Row>
     </Col>
   ),
-  "HOI_3:1": ({ f, at, atLine }) => {
+  "HOI_3:1": ({ f, at }) => {
     const panelIn = at("BÌNH LUẬN:") - 10;
     return (
       <>
@@ -472,90 +464,59 @@ const RENDERS: Record<string, (c: Ctx) => React.ReactNode> = {
       </>
     );
   },
-  "HOI_3:2": ({ f, at, atLine }) => {
+  "HOI_3:2": ({ f, at }) => {
     const hit = at("CHÍNH LÀ HẮN");
-    const shrink = f >= at("Đối phương không những") ? sp(f, at("Đối phương không những")) : 0;
-    return (
-      <>
-        <Col top={lerp(shrink, 560, 1180)}>
-          <CommentPanel f={f} enter={-1} commentAt={-1} ringAt={hit} text={chatText("BÌNH LUẬN:")} scale={lerp(shrink, 1, 0.78)} />
-        </Col>
-        <Col top={200} gap={30}>
-          <Row gap={10}>
-            <Sticker f={f} at={hit} icon="detective" size={190} />
-            <Title f={f} at={hit} text="Chính là hắn!" size={120} color={RED} cps={2} />
-          </Row>
-          <Pill f={f} at={at("Đối phương không những")} text="Không rút lui" icon="whiteflag" size={58} />
-          <Row gap={14}>
-            <Sticker f={f} at={at("Mà còn mở thêm")} icon="swords" size={170} />
-            <Title f={f} at={at("Mà còn mở thêm")} text="Mặt trận mới!" size={104} />
-            <Sticker f={f} at={at("Mà còn mở thêm") + 6} icon="fire" size={150} />
-          </Row>
-        </Col>
-      </>
-    );
-  },
-  "HOI_3:3": ({ f, at, atLine }) => {
+    const blow = at("Một đòn đánh");
     const ko = at("ĐÒN KO");
     const fall = at("Chủ shop chính thức");
     const tip = f >= fall ? sp(f, fall + 6, { damping: 12, stiffness: 120, mass: 0.9 }) : 0;
     return (
-      <Col gap={40}>
-        <Row gap={20}>
-          <div style={{ transform: `translateX(${f >= at("Một đòn đánh") ? lerp(sp(f, at("Một đòn đánh"), POP), -500, 0) : -500}px)` }}>
-            <Sticker f={f} at={at("Một đòn đánh")} icon="glove" size={200} tilt={-20} />
-          </div>
-          <Title f={f} at={at("Một đòn đánh")} text="Đòn chí mạng" size={86} />
-        </Row>
-        <Stamp f={f} at={ko} text="K.O!" size={300} />
-        <Row gap={30}>
-          <div style={{ transform: `rotate(${lerp(tip, 0, 90)}deg) translateY(${lerp(tip, 0, -30)}px)` }}>
-            <Sticker f={f} at={fall} icon="dizzyface" size={250} />
-          </div>
-          <Pill f={f} at={fall} text="Gục ngã" size={68} color={RED} />
-        </Row>
-      </Col>
+      <>
+        <AbsoluteFill style={{ opacity: fadeOutAt(f, blow) }}>
+          <Col top={620}>
+            <CommentPanel f={f} enter={-1} commentAt={-1} ringAt={hit} text={chatText("BÌNH LUẬN:")} />
+          </Col>
+          <Col top={300}>
+            <Row gap={10}>
+              <Sticker f={f} at={hit} icon="detective" size={200} />
+              <Title f={f} at={hit} text="Chính là hắn!" size={120} color={RED} cps={2} />
+            </Row>
+          </Col>
+        </AbsoluteFill>
+        {f >= blow - 6 ? (
+          <Col gap={40}>
+            <Row gap={20}>
+              <div style={{ transform: `translateX(${lerp(sp(f, blow, POP), -500, 0)}px)` }}>
+                <Sticker f={f} at={blow} icon="glove" size={200} tilt={-20} />
+              </div>
+              <Title f={f} at={blow} text="Đòn chí mạng" size={86} />
+            </Row>
+            <Stamp f={f} at={ko} text="K.O!" size={300} />
+            <Row gap={30}>
+              <div style={{ transform: `rotate(${lerp(tip, 0, 90)}deg) translateY(${lerp(tip, 0, -30)}px)` }}>
+                <Sticker f={f} at={fall} icon="dizzyface" size={250} />
+              </div>
+              <Pill f={f} at={fall} text="Gục ngã" size={68} color={RED} />
+            </Row>
+          </Col>
+        ) : null}
+      </>
     );
   },
-  "KET:0": ({ f, at, atLine }) => (
-    <Col gap={50}>
-      <Sticker f={f} at={at("Và đó là Thế chiến")} icon="swords" size={220} />
-      <Title f={f} at={at("Và đó là Thế chiến")} text="Thế chiến Inbox I" size={116} />
-      <Pill f={f} at={at("Khách hỏi giá rồi")} text="Hỏi giá → biến mất" icon="ghost" size={60} />
-      <Pill f={f} at={at("nhưng vẫn kịp để lại")} text="Chiến tích khắp mọi nơi" icon="medal" size={60} />
+  "HOI_3:3": ({ f, at }) => (
+    <Col gap={44}>
+      <Sticker f={f} at={at("Cuộc chiến tiếp theo")} icon="swords" size={240} />
+      <Title f={f} at={at("Cuộc chiến tiếp theo")} text="Cuộc chiến tiếp theo:" size={80} cps={2.5} />
+      <Pill f={f} at={at("Cuộc chiến tiếp theo") + 6} text="Trận chiến mặc cả 10 nghìn đồng" size={50} icon="money" />
     </Col>
   ),
-  "KET:1": ({ f, at, atLine }) => {
-    const ask = at("Hãy để lại một dấu chấm");
-    const dot = f >= ask + 14;
-    return (
-      <Col gap={46}>
-        <Row gap={14}>
-          <Sticker f={f} at={at("Anh em chủ shop")} icon="eyes" size={170} />
-          <Title f={f} at={at("Anh em chủ shop")} text="Từng gặp chưa?" size={88} />
-        </Row>
-        {f >= ask ? (
-          <div style={{ display: "flex", alignItems: "center", gap: 20, width: 780, padding: "24px 30px", background: "#fff", borderRadius: 40, boxShadow: "0 18px 40px #5a3a1a33", transform: `scale(${lerp(sp(f, ask, POP), 0.6, 1)})` }}>
-            <Avatar size={70} />
-            <div style={{ flex: 1, fontFamily: UI_FONT, fontSize: 40, color: dot ? INK : "#8A8D91", fontWeight: dot ? 700 : 500 }}>{dot ? "." : "Viết bình luận…"}</div>
-            <div style={{ fontFamily: UI_FONT, fontWeight: 700, fontSize: 32, color: MSG_BLUE }}>Gửi</div>
-          </div>
-        ) : null}
-        <Sticker f={f} at={ask + 6} icon="pointdown" size={170} />
-        <Pill f={f} at={ask + 10} text="Đã sống sót qua trận chiến" icon="medal" size={56} />
-      </Col>
-    );
-  },
-  "KET:2": ({ f, at, atLine }) => (
-    <Col gap={46}>
-      <Sticker f={f} at={at("ĐẠI CHIẾN INBOX")} icon="swords" size={240} />
-      <Title f={f} at={at("ĐẠI CHIẾN INBOX")} text="Đại chiến Inbox" size={150} cps={2} />
-      {f >= at("Cuộc chiến tiếp theo") ? (
-        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 20 }}>
-          <Title f={f} at={at("Cuộc chiến tiếp theo")} text="Cuộc chiến tiếp theo:" size={60} cps={2.5} />
-          <Pill f={f} at={at("Cuộc chiến tiếp theo") + 6} text="Trận chiến mặc cả 10 nghìn đồng" size={46} icon="money" />
-        </div>
-      ) : null}
+  "KET:0": ({ f, at }) => (
+    <Col gap={50}>
+      <Row gap={30}>
+        <Sticker f={f} at={at("Nhưng anh em chủ shop")} icon="dizzyface" size={220} tilt={-12} />
+        <Sticker f={f} at={at("Nhưng anh em chủ shop") + 8} icon="people" size={280} />
+      </Row>
+      <Title f={f} at={at("Nhưng anh em chủ shop")} text="Anh em nhớ cho" size={110} />
     </Col>
   ),
 };
@@ -621,19 +582,6 @@ const Sweep: React.FC<{ at: number }> = ({ at }) => {
   );
 };
 
-const Outro: React.FC = () => {
-  const frame = useCurrentFrame();
-  if (frame < OUTRO_START) return null;
-  const f = frame - OUTRO_START;
-  const reveal = interpolate(f, [4, 16], [100, 0], clamp);
-  return (
-    <AbsoluteFill style={{ display: "flex", alignItems: "center", justifyContent: "center", flexDirection: "column", gap: 50 }}>
-      <Img src={staticFile(`${SLUG}/azbot_logo.png`)} style={{ width: 760, clipPath: `inset(0 ${reveal}% 0 0)` }} />
-      <Sticker f={f} at={12} icon="speech" size={220} />
-    </AbsoluteFill>
-  );
-};
-
 const ShotLayer: React.FC<{ index: number }> = ({ index }) => {
   const frame = useCurrentFrame();
   const d = SHOT_DEFS[index];
@@ -658,7 +606,6 @@ const SFX: Sfx[] = [
   { prefix: "hai cuộc đại chiến", offset: 0.05, src: "sfx/ui/whoosh.mp3", vol: 0.35 },
   { prefix: "Chỉ có… một ô tin nhắn", offset: 0.6, src: "sfx/ui/iphone-ding.mp3", vol: 0.4 },
   { prefix: "ĐẠI CHIẾN INBOX", offset: 0, src: "sfx/punch/vine-boom.mp3", vol: 0.32 },
-  { prefix: "Một thông báo xuất hiện", offset: 0, src: "sfx/ui/iphone-ding.mp3", vol: 0.45 },
   ...CHATS.map((c) => ({ prefix: LINES[c.line].t, offset: CHAT_PING_LEAD_SEC, src: c.who === "kh" ? "sfx/ui/iphone-ding.mp3" : "sfx/ui/discord-ping.mp3", vol: c.who === "kh" ? 0.24 : 0.16 })),
   { prefix: "Nhưng không ai biết", offset: 0.2, src: "sfx/punch/vine-boom.mp3", vol: 0.3 },
   { prefix: "Chủ shop đã gửi 8", offset: 0, src: "sfx/ui/whoosh.mp3", vol: 0.3 },
@@ -671,7 +618,7 @@ const SFX: Sfx[] = [
   { prefix: "CHÍNH LÀ HẮN", offset: 0, src: "sfx/punch/vine-boom.mp3", vol: 0.45 },
   { prefix: "ĐÒN KO", offset: 0, src: "sfx/punch/metal-pipe.mp3", vol: 0.4 },
   { prefix: "Chủ shop chính thức", offset: 0.6, src: "sfx/punch/emotional-damage.mp3", vol: 0.45 },
-  { prefix: "Hãy để lại một dấu chấm", offset: 0.4, src: "sfx/ui/typing.mp3", vol: 0.3 },
+  { prefix: "không ai bán hàng", offset: 0, src: "sfx/win/angelic.mp3", vol: 0.25 },
   { prefix: "Cuộc chiến tiếp theo", offset: 0, src: "sfx/ui/whoosh.mp3", vol: 0.3 },
 ];
 
@@ -688,7 +635,6 @@ export const DaiChienInbox: React.FC<{ bgm: boolean }> = ({ bgm }) => {
         {SHOT_DEFS.map((_, i) => (
           <ShotLayer key={i} index={i} />
         ))}
-        <Outro />
         {[...beatStarts, entryOf("ĐẠI CHIẾN INBOX"), OUTRO_START].map((s) => (
           <Sweep key={s} at={s} />
         ))}
@@ -701,8 +647,8 @@ export const DaiChienInbox: React.FC<{ bgm: boolean }> = ({ bgm }) => {
           <Audio src={staticFile(s.src)} volume={s.vol} />
         </Sequence>
       ))}
-      <Sequence from={OUTRO_START} layout="none">
-        <Audio src={staticFile("sfx/ui/whoosh.mp3")} volume={0.35} />
+      <Sequence from={OUTRO_START} durationInFrames={DAI_CHIEN_INBOX_FRAMES - OUTRO_START}>
+        <AZbotEndCard cta={END_CARD_CTA} keyword={END_CARD_KEYWORD} sting ctaAt={END_CARD_CTA_FRAME} />
       </Sequence>
     </AbsoluteFill>
   );
@@ -711,31 +657,19 @@ export const DaiChienInbox: React.FC<{ bgm: boolean }> = ({ bgm }) => {
 const THUMB_F = 1000;
 
 export const DaiChienInboxThumbnail: React.FC = () => (
-  <AbsoluteFill style={{ background: "#E4DDCC" }}>
-    <Img src={staticFile(`${SLUG}/paper.jpg`)} style={{ position: "absolute", width: "100%", height: "100%" }} />
-    <AbsoluteFill style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 34, paddingBottom: 60 }}>
-      <Row gap={10}>
-        <Sticker f={THUMB_F} at={0} icon="swords" size={170} />
-        <Sticker f={THUMB_F} at={0} icon="bomb" size={150} />
-      </Row>
-      <Title f={THUMB_F} at={0} text="Đại chiến Inbox" size={170} />
-      <Pill f={THUMB_F} at={0} text="Khách hỏi giá rồi… biến mất" size={60} icon="ghost" />
-      <div style={{ position: "relative", width: 860, marginTop: 20, padding: "36px 34px", background: "#fff", borderRadius: 48, border: `12px solid ${INK}`, boxShadow: "0 30px 60px #5a3a1a40", display: "flex", flexDirection: "column", gap: 22 }}>
-        <div style={{ display: "flex", alignItems: "flex-end", gap: 14 }}>
-          <Avatar size={64} />
-          <div style={{ padding: "20px 28px", borderRadius: 36, background: MSG_GRAY, fontFamily: UI_FONT, fontWeight: 600, fontSize: 42, color: INK }}>Shop ơi, giá bao nhiêu vậy ạ?</div>
-        </div>
-        <div style={{ alignSelf: "flex-end", maxWidth: 560, padding: "20px 28px", borderRadius: 36, background: MSG_BLUE, fontFamily: UI_FONT, fontWeight: 600, fontSize: 40, color: "#fff" }}>Dạ mẫu này 299K ạ. Hàng đẹp lắm, bên em đang có sẵn nhé.</div>
-        <div style={{ alignSelf: "flex-end", display: "flex", alignItems: "center", gap: 10, fontFamily: UI_FONT, fontWeight: 600, fontSize: 30, color: "#65676B" }}>
-          Đã xem <Avatar size={34} />
-        </div>
-        <div style={{ position: "absolute", left: 120, top: 130 }}>
-          <Stamp f={THUMB_F} at={0} text="ĐÃ XEM" size={190} />
-        </div>
+  <AZbotThumbnail series="Đại chiến Inbox" hookTop="Khách hỏi giá" hookBottom="rồi biến mất" mascot="doi_dich_vu_co_le">
+    <div style={{ width: 760, padding: "30px 30px 26px", background: "#fff", borderRadius: 44, border: `12px solid ${INK}`, boxShadow: "0 26px 50px #5a3a1a40", display: "flex", flexDirection: "column", gap: 18, transform: "rotate(-2deg)" }}>
+      <div style={{ display: "flex", alignItems: "flex-end", gap: 12 }}>
+        <Avatar size={58} />
+        <div style={{ padding: "18px 26px", borderRadius: 34, background: MSG_GRAY, fontFamily: UI_FONT, fontWeight: 600, fontSize: 40, color: INK }}>Shop ơi, giá bao nhiêu ạ?</div>
       </div>
-    </AbsoluteFill>
-    <div style={{ position: "absolute", right: 40, top: 1130 }}>
-      <Sticker f={THUMB_F} at={0} icon="sweat" size={210} tilt={10} />
+      <div style={{ alignSelf: "flex-end", padding: "18px 26px", borderRadius: 34, background: MSG_BLUE, fontFamily: UI_FONT, fontWeight: 600, fontSize: 38, color: "#fff" }}>Dạ mẫu này 299K ạ…</div>
+      <div style={{ alignSelf: "flex-end", display: "flex", alignItems: "center", gap: 10, fontFamily: UI_FONT, fontWeight: 600, fontSize: 28, color: "#65676B" }}>
+        Đã xem <Avatar size={30} />
+      </div>
+      <div style={{ position: "absolute", right: -40, bottom: -70 }}>
+        <Stamp f={THUMB_F} at={0} text="ĐÃ XEM" size={130} />
+      </div>
     </div>
-  </AbsoluteFill>
+  </AZbotThumbnail>
 );

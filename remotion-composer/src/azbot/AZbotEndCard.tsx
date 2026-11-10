@@ -19,18 +19,21 @@ const LONG_CTA_CHARS = 28;
 
 export const AZBOT_END_CARD_FRAMES = 90;
 
-export type EndCardProps = { cta: string; keyword?: string; sting: boolean };
+export const END_CARD_TAGLINE_AT = 18;
+export const END_CARD_CTA_AT = 46;
+
+export type EndCardProps = { cta: string; keyword?: string; sting: boolean; taglineAt?: number; ctaAt?: number };
 
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };
 const lerp = (v: number, a: number, b: number) => a + (b - a) * v;
 const pop = (f: number, at: number) => spring({ frame: f - at, fps: FPS, config: { damping: 11, stiffness: 200, mass: 0.6 } });
 
-export const AZbotEndCard: React.FC<EndCardProps> = ({ cta, keyword, sting }) => {
+export const AZbotEndCard: React.FC<EndCardProps> = ({ cta, keyword, sting, taglineAt = END_CARD_TAGLINE_AT, ctaAt = END_CARD_CTA_AT }) => {
   const f = useCurrentFrame();
   const mascot = pop(f, 0);
   const bob = Math.sin(f / 9) * 10;
   const logo = interpolate(f, [6, 16], [100, 0], clamp);
-  const pill = pop(f, 46);
+  const pill = pop(f, ctaAt);
   const arrow = Math.abs(Math.sin(f / 5)) * 18;
   return (
     <AbsoluteFill style={{ background: "#E4DDCC" }}>
@@ -44,7 +47,7 @@ export const AZbotEndCard: React.FC<EndCardProps> = ({ cta, keyword, sting }) =>
         <Img src={staticFile(`${DIR}/azbot_logo.png`)} style={{ width: 430, marginTop: 34, clipPath: `inset(0 ${logo}% 0 0)` }} />
         <div style={{ marginTop: 46, display: "flex", flexWrap: "wrap", justifyContent: "center", gap: "0 22px", maxWidth: 900 }}>
           {TAGLINE_WORDS.map((w, i) => {
-            const v = pop(f, 18 + i * 4);
+            const v = pop(f, taglineAt + i * 4);
             const hi = HIGHLIGHT.has(w);
             return (
               <span
