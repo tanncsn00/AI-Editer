@@ -1,0 +1,522 @@
+{
+ "title": "Đại Chiến Inbox — Thế chiến Inbox I",
+ "total": 119.686,
+ "beats": [
+  {
+   "name": "MO_DAU",
+   "header": "Lịch sử nhân loại",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Lịch sử thế giới từng ghi nhận",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 1.747
+      },
+      {
+       "t": "hai cuộc đại chiến khốc liệt.",
+       "kind": "narr",
+       "start": 2.087,
+       "end": 3.381
+      }
+     ]
+    },
+    {
+     "start": 3.841,
+     "lines": [
+      {
+       "t": "Hàng triệu người tham chiến.",
+       "kind": "narr",
+       "start": 3.841,
+       "end": 5.061
+      },
+      {
+       "t": "Vô số thành phố bị tàn phá.",
+       "kind": "narr",
+       "start": 5.401,
+       "end": 6.946
+      },
+      {
+       "t": "Và những vết thương kéo dài qua nhiều thế hệ.",
+       "kind": "narr",
+       "start": 7.286,
+       "end": 9.348
+      }
+     ]
+    },
+    {
+     "start": 9.808,
+     "lines": [
+      {
+       "t": "Nhưng có một sự thật ít ai biết…",
+       "kind": "narr",
+       "start": 9.808,
+       "end": 11.425
+      }
+     ]
+    },
+    {
+     "start": 11.885,
+     "lines": [
+      {
+       "t": "Trong khi thế giới đang tận hưởng hòa bình,",
+       "kind": "narr",
+       "start": 11.885,
+       "end": 13.832
+      },
+      {
+       "t": "hàng triệu chủ shop mỗi ngày vẫn phải đối mặt với một cuộc chiến khác.",
+       "kind": "narr",
+       "start": 14.172,
+       "end": 17.058
+      }
+     ]
+    },
+    {
+     "start": 17.518,
+     "lines": [
+      {
+       "t": "Không tiếng súng.",
+       "kind": "narr",
+       "start": 17.518,
+       "end": 18.339
+      },
+      {
+       "t": "Không bom đạn.",
+       "kind": "narr",
+       "start": 18.679,
+       "end": 19.24
+      },
+      {
+       "t": "Chỉ có… một ô tin nhắn.",
+       "kind": "narr",
+       "start": 19.58,
+       "end": 21.204
+      }
+     ]
+    },
+    {
+     "start": 21.624,
+     "lines": [
+      {
+       "t": "ĐẠI CHIẾN INBOX",
+       "kind": "screen",
+       "start": 21.624,
+       "end": 22.424
+      },
+      {
+       "t": "THẾ CHIẾN INBOX I",
+       "kind": "screen",
+       "start": 22.644,
+       "end": 23.444
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 23.994
+  },
+  {
+   "name": "HOI_1",
+   "header": "Phát súng đầu tiên",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 24.034,
+     "lines": [
+      {
+       "t": "Ngày hôm ấy, vào lúc 9 giờ 17 phút sáng…",
+       "kind": "narr",
+       "start": 24.034,
+       "end": 26.288
+      },
+      {
+       "t": "Một thông báo xuất hiện.",
+       "kind": "narr",
+       "start": 26.628,
+       "end": 27.71
+      },
+      {
+       "t": "KHÁCH HÀNG: Shop ơi, giá bao nhiêu vậy ạ?",
+       "kind": "chat",
+       "start": 28.05,
+       "end": 29.646
+      },
+      {
+       "t": "CHỦ SHOP: Dạ mẫu này 299K ạ. Hàng đẹp lắm, bên em đang có sẵn nhé.",
+       "kind": "chat",
+       "start": 29.986,
+       "end": 34.149
+      }
+     ]
+    },
+    {
+     "start": 34.609,
+     "lines": [
+      {
+       "t": "Chủ shop lập tức tiến vào trạng thái chiến đấu.",
+       "kind": "narr",
+       "start": 34.609,
+       "end": 36.785
+      },
+      {
+       "t": "Một câu hỏi tưởng chừng vô hại.",
+       "kind": "narr",
+       "start": 37.125,
+       "end": 38.529
+      },
+      {
+       "t": "Nhưng không ai biết rằng… đây mới chỉ là phát súng đầu tiên.",
+       "kind": "narr",
+       "start": 38.869,
+       "end": 41.656
+      }
+     ]
+    },
+    {
+     "start": 42.116,
+     "lines": [
+      {
+       "t": "KHÁCH HÀNG: Có ảnh thật không shop?",
+       "kind": "chat",
+       "start": 42.116,
+       "end": 43.141
+      },
+      {
+       "t": "CHỦ SHOP: Dạ có ạ. Em gửi chị xem nhé.",
+       "kind": "chat",
+       "start": 43.481,
+       "end": 45.184
+      },
+      {
+       "t": "KHÁCH HÀNG: Có màu khác không ạ?",
+       "kind": "chat",
+       "start": 45.524,
+       "end": 46.511
+      },
+      {
+       "t": "CHỦ SHOP: Dạ có màu đen, trắng với be ạ.",
+       "kind": "chat",
+       "start": 46.851,
+       "end": 48.473
+      },
+      {
+       "t": "KHÁCH HÀNG: Phí ship bao nhiêu shop?",
+       "kind": "chat",
+       "start": 48.813,
+       "end": 49.9
+      },
+      {
+       "t": "CHỦ SHOP: Dạ chị cho em xin khu vực, em kiểm tra phí ship cho mình nhé.",
+       "kind": "chat",
+       "start": 50.24,
+       "end": 53.139
+      }
+     ]
+    }
+   ],
+   "start": 23.994,
+   "end": 53.769
+  },
+  {
+   "name": "HOI_2",
+   "header": "Cuộc chiến tiêu hao",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 53.809,
+     "lines": [
+      {
+       "t": "15 phút trôi qua.",
+       "kind": "narr",
+       "start": 53.809,
+       "end": 54.746
+      },
+      {
+       "t": "Chủ shop đã gửi 8 bức ảnh,",
+       "kind": "narr",
+       "start": 55.086,
+       "end": 56.659
+      },
+      {
+       "t": "3 đoạn tư vấn",
+       "kind": "narr",
+       "start": 56.999,
+       "end": 57.867
+      },
+      {
+       "t": "và 2 lần kiểm tra tồn kho.",
+       "kind": "narr",
+       "start": 58.207,
+       "end": 59.689
+      }
+     ]
+    },
+    {
+     "start": 60.149,
+     "lines": [
+      {
+       "t": "Đạn dược gần cạn.",
+       "kind": "narr",
+       "start": 60.149,
+       "end": 61.155
+      },
+      {
+       "t": "Tinh thần bắt đầu suy giảm.",
+       "kind": "narr",
+       "start": 61.495,
+       "end": 62.839
+      },
+      {
+       "t": "Nhưng đối phương vẫn chưa đưa ra quyết định cuối cùng.",
+       "kind": "narr",
+       "start": 63.179,
+       "end": 65.596
+      }
+     ]
+    },
+    {
+     "start": 66.056,
+     "lines": [
+      {
+       "t": "KHÁCH HÀNG: Để em suy nghĩ thêm ạ.",
+       "kind": "chat",
+       "start": 66.056,
+       "end": 67.166
+      },
+      {
+       "t": "CHỦ SHOP: Dạ vâng ạ, chị cứ tham khảo nhé. Khi nào cần cứ nhắn em ạ.",
+       "kind": "chat",
+       "start": 67.506,
+       "end": 70.862
+      }
+     ]
+    },
+    {
+     "start": 71.322,
+     "lines": [
+      {
+       "t": "Và rồi…",
+       "kind": "narr",
+       "start": 71.322,
+       "end": 71.781
+      },
+      {
+       "t": "Đối phương biến mất.",
+       "kind": "narr",
+       "start": 72.121,
+       "end": 72.934
+      }
+     ]
+    },
+    {
+     "start": 73.394,
+     "lines": [
+      {
+       "t": "Không một lời tuyên bố đầu hàng.",
+       "kind": "narr",
+       "start": 73.394,
+       "end": 74.709
+      },
+      {
+       "t": "Không một lời giải thích.",
+       "kind": "narr",
+       "start": 75.049,
+       "end": 76.028
+      },
+      {
+       "t": "Chỉ để lại một dòng trạng thái lạnh lùng:",
+       "kind": "narr",
+       "start": 76.368,
+       "end": 78.188
+      },
+      {
+       "t": "ĐÃ XEM.",
+       "kind": "red",
+       "start": 78.528,
+       "end": 79.07
+      }
+     ]
+    }
+   ],
+   "start": 53.769,
+   "end": 79.7
+  },
+  {
+   "name": "HOI_3",
+   "header": "Đòn kết liễu",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 79.74,
+     "lines": [
+      {
+       "t": "Chủ shop tưởng rằng cuộc chiến đã kết thúc.",
+       "kind": "narr",
+       "start": 79.74,
+       "end": 81.436
+      },
+      {
+       "t": "Sau hàng loạt giờ tư vấn căng thẳng, cuối cùng đối phương cũng biến mất.",
+       "kind": "narr",
+       "start": 81.776,
+       "end": 84.858
+      },
+      {
+       "t": "Shop thở phào nhẹ nhõm…",
+       "kind": "narr",
+       "start": 85.198,
+       "end": 86.414
+      },
+      {
+       "t": "tuy có hơi hụt hẫng.",
+       "kind": "narr",
+       "start": 86.754,
+       "end": 87.644
+      }
+     ]
+    },
+    {
+     "start": 88.104,
+     "lines": [
+      {
+       "t": "Nhưng…",
+       "kind": "narr",
+       "start": 88.104,
+       "end": 88.47
+      },
+      {
+       "t": "Khi mở ô bình luận, một thông báo bất ngờ xuất hiện.",
+       "kind": "narr",
+       "start": 88.81,
+       "end": 91.244
+      },
+      {
+       "t": "BÌNH LUẬN: 299K nha anh em!",
+       "kind": "chat",
+       "start": 91.584,
+       "end": 93.256
+      }
+     ]
+    },
+    {
+     "start": 93.716,
+     "lines": [
+      {
+       "t": "CHÍNH LÀ HẮN!",
+       "kind": "jade",
+       "start": 93.716,
+       "end": 94.381
+      },
+      {
+       "t": "Đối phương không những không rút lui…",
+       "kind": "narr",
+       "start": 94.721,
+       "end": 96.203
+      },
+      {
+       "t": "Mà còn mở thêm một mặt trận mới!",
+       "kind": "jade",
+       "start": 96.543,
+       "end": 98.189
+      }
+     ]
+    },
+    {
+     "start": 98.649,
+     "lines": [
+      {
+       "t": "Một đòn đánh chí mạng vào tinh thần người bán.",
+       "kind": "narr",
+       "start": 98.649,
+       "end": 100.656
+      },
+      {
+       "t": "ĐÒN KO!",
+       "kind": "red",
+       "start": 100.996,
+       "end": 101.645
+      },
+      {
+       "t": "Chủ shop chính thức gục ngã.",
+       "kind": "gold",
+       "start": 101.985,
+       "end": 103.268
+      }
+     ]
+    }
+   ],
+   "start": 79.7,
+   "end": 103.898
+  },
+  {
+   "name": "KET",
+   "header": "Đại chiến Inbox",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 103.938,
+     "lines": [
+      {
+       "t": "Và đó là Thế chiến Inbox thứ nhất:",
+       "kind": "narr",
+       "start": 103.938,
+       "end": 105.528
+      },
+      {
+       "t": "Khách hỏi giá rồi biến mất…",
+       "kind": "narr",
+       "start": 105.868,
+       "end": 107.128
+      },
+      {
+       "t": "nhưng vẫn kịp để lại chiến tích ở khắp mọi nơi.",
+       "kind": "narr",
+       "start": 107.468,
+       "end": 109.733
+      }
+     ]
+    },
+    {
+     "start": 110.193,
+     "lines": [
+      {
+       "t": "Anh em chủ shop đã từng gặp vị khách này chưa?",
+       "kind": "cta",
+       "start": 110.193,
+       "end": 112.291
+      },
+      {
+       "t": "Hãy để lại một dấu chấm để xác nhận mình từng sống sót qua trận chiến!",
+       "kind": "cta",
+       "start": 112.631,
+       "end": 116.046
+      }
+     ]
+    },
+    {
+     "start": 116.466,
+     "lines": [
+      {
+       "t": "ĐẠI CHIẾN INBOX",
+       "kind": "screen",
+       "start": 116.466,
+       "end": 117.266
+      },
+      {
+       "t": "Cuộc chiến tiếp theo: Trận chiến mặc cả 10 nghìn đồng.",
+       "kind": "screen",
+       "start": 117.486,
+       "end": 119.136
+      }
+     ]
+    }
+   ],
+   "start": 103.898,
+   "end": 119.686
+  }
+ ]
+}

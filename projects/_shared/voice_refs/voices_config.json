@@ -1,0 +1,202 @@
+{
+  "voices": [
+    {
+      "name": "vn_m_news_anchor",
+      "source": "youtube_search",
+      "query": "Quang Minh VTV thời sự 19h dẫn chương trình",
+      "trim_start": 25.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "news_anchor",
+      "use_case": "Tin tức nghiêm, breaking news, review-vibe-future"
+    },
+    {
+      "name": "vn_m_podcast",
+      "source": "youtube_search",
+      "query": "Nguyễn Hữu Trí podcast chia sẻ cuộc đời",
+      "trim_start": 45.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "podcast_calm",
+      "use_case": "Knowledge share, finance, self-help, Format C explainer"
+    },
+    {
+      "name": "vn_m_tech_review",
+      "source": "youtube_search",
+      "query": "Schannel review điện thoại mới nhất 2025",
+      "trim_start": 30.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "tech_reviewer",
+      "use_case": "SaaS/AI review, tech explainer, Format A"
+    },
+    {
+      "name": "vn_m_audiobook",
+      "source": "youtube_search",
+      "query": "sách nói tuổi trẻ đáng giá bao nhiêu Rosie Nguyễn full",
+      "trim_start": 90.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "audiobook_narrator",
+      "use_case": "Audiobook narrator nam, knowledge share, Format C"
+    },
+    {
+      "name": "vn_f_news",
+      "source": "youtube_search",
+      "query": "VTV1 bản tin tài chính kinh tế nữ MC đọc tin",
+      "trim_start": 45.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "female",
+      "style": "news_anchor",
+      "use_case": "Tin tức nữ trang trọng"
+    },
+    {
+      "name": "vn_f_warm",
+      "source": "youtube_search",
+      "query": "sách nói nữ giọng ấm cà phê cùng tony",
+      "trim_start": 50.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "female",
+      "style": "warm_narrator",
+      "use_case": "Tịnh Đạo, triết lý chiêm nghiệm, storytelling"
+    },
+    {
+      "name": "vn_f_genz",
+      "source": "youtube_search",
+      "query": "vlog gen z nữ chia sẻ một ngày của mình cute",
+      "trim_start": 25.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "female",
+      "style": "genz_casual",
+      "use_case": "Comedy, lifestyle, Gen-Z review"
+    },
+    {
+      "name": "vn_m_old_wise",
+      "source": "youtube_search",
+      "query": "đọc truyện đêm khuya VOV3 nam giọng trầm full",
+      "trim_start": 180.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "old_wise",
+      "use_case": "Triết lý đồ vật, narration cổ điển, lời thú nhận"
+    },
+    {
+      "name": "en_f_narrator",
+      "source": "librivox",
+      "url": "https://www.archive.org/download/alice_in_wonderland_librivox/wonderland_ch_01.mp3",
+      "trim_start": 8.0,
+      "trim_duration": 12.0,
+      "lang": "en",
+      "gender": "female",
+      "style": "audiobook_narrator",
+      "use_case": "EN narrator, storytelling"
+    },
+    {
+      "name": "en_m_podcast",
+      "source": "youtube_search",
+      "query": "Lex Fridman podcast monologue clip introduction",
+      "trim_start": 12.0,
+      "trim_duration": 12.0,
+      "lang": "en",
+      "gender": "male",
+      "style": "podcast_serious",
+      "use_case": "EN serious narration, business explainer"
+    },
+    {
+      "name": "vn_m_motivational",
+      "source": "youtube_search",
+      "query": "Tony Buổi Sáng sách nói cà phê cùng tony full",
+      "trim_start": 120.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "motivational_speaker",
+      "use_case": "Motivational/self-help narrator, life coaching"
+    },
+    {
+      "name": "vn_m_documentary",
+      "source": "youtube_search",
+      "query": "phóng sự tài liệu VTV1 nam đọc lời bình hành trình",
+      "trim_start": 90.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "documentary_narrator",
+      "use_case": "Documentary narration, phóng sự, lịch sử"
+    },
+    {
+      "name": "vn_m_hieupc",
+      "source": "youtube_search",
+      "query": "Hiếu PC chia sẻ kiến thức bảo mật mạng",
+      "trim_start": 30.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "dev_youtuber",
+      "use_case": "Tech/security explainer, dev tutorial"
+    },
+    {
+      "name": "vn_m_drama",
+      "source": "youtube_search",
+      "query": "lồng tiếng phim Hollywood hành động Việt Nam",
+      "trim_start": 60.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "movie_dub",
+      "use_case": "Drama narrator, cinematic, phim hành động"
+    },
+    {
+      "name": "vn_f_streamer",
+      "source": "youtube_search",
+      "query": "MisThy vlog kể chuyện một ngày của mình hài",
+      "trim_start": 90.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "female",
+      "style": "streamer_energetic",
+      "use_case": "Gaming streamer, hyper energetic, Gen-Z"
+    },
+    {
+      "name": "vn_f_drama",
+      "source": "youtube_search",
+      "query": "lồng tiếng phim Hàn Quốc nữ cảm xúc tình cảm",
+      "trim_start": 90.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "female",
+      "style": "drama_dub",
+      "use_case": "Drama lồng tiếng, K-drama tình cảm"
+    },
+    {
+      "name": "vn_f_finance",
+      "source": "youtube_search",
+      "query": "Thái Vân Linh shark tank chia sẻ kinh doanh",
+      "trim_start": 90.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "female",
+      "style": "business_woman",
+      "use_case": "Business/finance female, executive tone"
+    },
+    {
+      "name": "vn_m_son_tung",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@q.baosky96/video/7479502705443097874",
+      "trim_start": 0.0,
+      "trim_duration": 10.0,
+      "lang": "vi",
+      "gender": "male",
+      "style": "celebrity_pop",
+      "use_case": "Sơn Tùng MTP — pop star casual, talkshow"
+    }
+  ]
+}

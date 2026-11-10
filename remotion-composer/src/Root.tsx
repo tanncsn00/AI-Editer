@@ -354,7 +354,10 @@ import { XKiroGateway } from "./XKiroGateway";
 import { XKiroLimit, XKIRO_LIMIT_FRAMES } from "./XKiroLimit";
 import { XKiroLimitThumbnail } from "./XKiroLimitThumbnail";
 import { XKiroDrop, XKIRO_DROP_FRAMES } from "./XKiroDrop";
+import { DaiChienInbox, DaiChienInboxThumbnail, DAI_CHIEN_INBOX_FRAMES } from "./DaiChienInbox";
 import { XKiroDropThumbnail } from "./XKiroDropThumbnail";
+import { XKiroClaudeCode, XKIRO_CLAUDE_CODE_FRAMES } from "./XKiroClaudeCode";
+import { XKiroClaudeCodeThumbnail } from "./XKiroClaudeCodeThumbnail";
 import { XKiroGatewayThumbnail } from "./XKiroGatewayThumbnail";
 import { AppFree60stech } from "./AppFree60stech";
 import { MatNgonGiaoVien } from "./MatNgonGiaoVien";
@@ -447,6 +450,32 @@ const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
 export const Root: React.FC = () => {
   return (
     <>
+      <Composition
+        id="DaiChienInboxThumbnail"
+        component={DaiChienInboxThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="DaiChienInbox"
+        component={DaiChienInbox}
+        durationInFrames={DAI_CHIEN_INBOX_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="DaiChienInboxNoBgm"
+        component={DaiChienInbox}
+        durationInFrames={DAI_CHIEN_INBOX_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
       <Composition
         id="Explainer"
         component={Explainer}
@@ -3172,6 +3201,32 @@ export const Root: React.FC = () => {
         id="AppFree60stechNoBgm"
         component={AppFree60stech}
         durationInFrames={5511}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: false }}
+      />
+      <Composition
+        id="XKiroClaudeCodeThumbnail"
+        component={XKiroClaudeCodeThumbnail}
+        durationInFrames={1}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="XKiroClaudeCode"
+        component={XKiroClaudeCode}
+        durationInFrames={XKIRO_CLAUDE_CODE_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{ bgm: true }}
+      />
+      <Composition
+        id="XKiroClaudeCodeNoBgm"
+        component={XKiroClaudeCode}
+        durationInFrames={XKIRO_CLAUDE_CODE_FRAMES}
         fps={30}
         width={1080}
         height={1920}

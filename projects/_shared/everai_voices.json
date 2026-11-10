@@ -1,0 +1,641 @@
+[
+ {
+  "voice_id": "vi_male_leduc_mb",
+  "name": "Lê Đức",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Kể chuyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_thuytrang_mb",
+  "name": "Thùy Trang",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Vlog",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_thuytien_mn",
+  "name": "Thùy Tiên",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Vlog",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_kimphuong_mb",
+  "name": "Kim Phượng",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Kể chuyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_lenghia_mb",
+  "name": "Lê Nghĩa",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Kể chuyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_minhtriet_mb",
+  "name": "Minh Triết",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Sách nói",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_lehoang_mb",
+  "name": "Lê Hoàng",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Phân tích",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_dangkhoa_mb",
+  "name": "Đăng Khoa",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Phân tích",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_vanduy_mb",
+  "name": "Văn Duy",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Phân tích",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_thuylinh_mb",
+  "name": "Thùy Linh",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_hoaithuong_mb",
+  "name": "Hoài Thương",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Nhân vật",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_hoaian_mb",
+  "name": "Hoài An",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_hongngan_mn",
+  "name": "Hồng Ngân",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_tramanh_mb",
+  "name": "Trâm Anh",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_ductrong_mb",
+  "name": "Đức Trọng",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Nhân vật",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_tridung_mn",
+  "name": "Trí Dũng",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Sách nói",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_thanhtrung_mn",
+  "name": "Thành Trung",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_giahuy_mb",
+  "name": "Gia Huy",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_minhquan_mb",
+  "name": "Minh Quân",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_honghanh_mn",
+  "name": "Hồng Hạnh",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_khanhhuyentvc_mb",
+  "name": "Khánh Huyền",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Quảng cáo",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_minhkhang_mb",
+  "name": "Minh Khang",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Mạng xã hội",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_khanhlinh_mb",
+  "name": "Khánh Linh",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Review",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_tuankiet_mn",
+  "name": "Tuấn Kiệt",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_trananh_mb",
+  "name": "Trần Ánh",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_echo_default",
+  "name": "Echo",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Mỹ",
+  "use_case": "Cảm hứng",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_nova_default",
+  "name": "Nova",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Mỹ",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_onyx_default",
+  "name": "Onyx",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Mỹ",
+  "use_case": "Sâu lắng",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_kieunhi_mn",
+  "name": "Kiều Nhi",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Đọc truyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_huyenanh_mb",
+  "name": "Huyền Anh",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_hacuc_mb",
+  "name": "Hạ Cúc",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Review phim",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_male_vanduc_mn",
+  "name": "Văn Đức",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Tự sự",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_thuhien_mb",
+  "name": "Thu Hiền",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Bắc",
+  "use_case": "Kể chuyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "vi_female_thuha_mn",
+  "name": "Thu Hà",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Podcast",
+  "source": "system"
+ },
+ {
+  "voice_id": "voice-5ea04bb0-8170-4e82",
+  "name": "Minh Trung",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Podcast",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-9a0cb158-05f5-43fe",
+  "name": "Vũ Thu Huệ",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Podcast",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-739e9501-c06f-4cbf",
+  "name": "Adam",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Vlog",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-97509013-51cd-4874",
+  "name": "Nữ Hong Kong",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-74bb4b22-98a7-41a4",
+  "name": "Nam Hong Kong",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Miền Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-22848dd8-d8b8-4342",
+  "name": "Chú Sáu",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Kể chuyện",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-a4cd333e-aa78-4b66",
+  "name": "Tào Tháo 2",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-3e5fafad-595b-46a0",
+  "name": "Bác Ngạn Kể Chuyện",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Kể chuyện",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-7fefdfa8-beb0-4614",
+  "name": "Tào Tháo 1",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-4b950958-29a4-4ee5",
+  "name": "Lão Bá Nghị",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-f11fb65a-2dc6-4112",
+  "name": "Tiểu Nhị",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-ab888766-b59f-402b",
+  "name": "Giảng Đạo Nhấn Nhá",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Podcast",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-085cc114-947b-4442",
+  "name": "Đức Kiên Nhấn Nhá",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Sách nói",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-0e62b161-5866-4e85",
+  "name": "Giảng Đạo",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Podcast",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-ae92cfd4-1531-4ace",
+  "name": "Đức Kiên",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Podcast",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-efff9285-aea8-45ba",
+  "name": "Nữ Podcast",
+  "gender": "Nữ",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Podcast",
+  "source": "community"
+ },
+ {
+  "voice_id": "voice-f9ae90f1-12e4-470d",
+  "name": "Nhân Vật Nam",
+  "gender": "Nam",
+  "language": "Việt Nam",
+  "region": "Việt Nam",
+  "use_case": "Nhân vật",
+  "source": "community"
+ },
+ {
+  "voice_id": "en_male_james_alexander",
+  "name": "William",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Kể chuyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_male_billy_joe",
+  "name": "Billy Joe",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Vlog",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_famle_christopher",
+  "name": "Christopher",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Kể chuyện",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_male_lucas_brown",
+  "name": "Lucas Brown",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Phân tích",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_male_echo_default",
+  "name": "Echo",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Mỹ",
+  "use_case": "Cảm hứng",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_male_eward_thomas",
+  "name": "Eward Thomas",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Sách nói",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_male_john_luke",
+  "name": "John Luke",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Phân tích",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_sophia",
+  "name": "Sophia",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_nova_default",
+  "name": "Nova",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Mỹ",
+  "use_case": "Tự sự",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_male_onyx_default",
+  "name": "Onyx",
+  "gender": "Nam",
+  "language": "English",
+  "region": "Mỹ",
+  "use_case": "Sâu lắng",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_emily_us",
+  "name": "Emily",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Mỹ",
+  "use_case": "Mạng xã hội",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_alice_default",
+  "name": "Alice",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Mỹ",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_jessica_au",
+  "name": "Jessica",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Úc",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_elara_br",
+  "name": "Elara",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Anh",
+  "use_case": "Nhân vật",
+  "source": "system"
+ },
+ {
+  "voice_id": "en_female_meera_indian",
+  "name": "Meera",
+  "gender": "Nữ",
+  "language": "English",
+  "region": "Ấn Độ",
+  "use_case": "Nhân vật",
+  "source": "system"
+ },
+ {
+  "voice_id": "zh_female_liu-ying_default",
+  "name": "Liu Ying",
+  "gender": "Nữ",
+  "language": "Chinese",
+  "region": "Trung",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "jp_female_yuki_default",
+  "name": "Yuki",
+  "gender": "Nữ",
+  "language": "Japanese",
+  "region": "Nhật",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "kr_female_seo-yeon_default",
+  "name": "Seo Yeon",
+  "gender": "Nữ",
+  "language": "Korean",
+  "region": "Hàn",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "fr_female_camille_default",
+  "name": "Camille",
+  "gender": "Nữ",
+  "language": "French",
+  "region": "Pháp",
+  "use_case": "Tin tức",
+  "source": "system"
+ },
+ {
+  "voice_id": "es_female_elana_default",
+  "name": "Elena",
+  "gender": "Nữ",
+  "language": "Spanish",
+  "region": "Tây Ban Nha",
+  "use_case": "Tin tức",
+  "source": "system"
+ }
+]

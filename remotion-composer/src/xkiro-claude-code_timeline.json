@@ -1,0 +1,274 @@
+{
+ "title": "Bần Đạo Nối Claude Code Vào xKiro",
+ "total": 88.721,
+ "beats": [
+  {
+   "name": "HOOK",
+   "header": "Một trận pháp, đổi một chỗ",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 0.34,
+     "lines": [
+      {
+       "t": "Claude Code của bần đạo vẫn là Claude Code.",
+       "kind": "narr",
+       "start": 0.34,
+       "end": 2.286
+      },
+      {
+       "t": "Bần đạo chỉ khắc lại đúng một chỗ trong trận pháp cấu hình.",
+       "kind": "narr",
+       "start": 2.626,
+       "end": 5.333
+      },
+      {
+       "t": "Từ đó, muốn triệu hồi vị đại năng nào, chỉ cần đổi một dòng.",
+       "kind": "jade",
+       "start": 5.673,
+       "end": 8.795
+      },
+      {
+       "t": "Hôm nay bần đạo cài lại từ đầu, đạo hữu xem cho kỹ.",
+       "kind": "narr",
+       "start": 9.135,
+       "end": 11.846
+      }
+     ]
+    }
+   ],
+   "start": 0.3,
+   "end": 12.476
+  },
+  {
+   "name": "B1",
+   "header": "Đăng danh nhập môn",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 12.516,
+     "lines": [
+      {
+       "t": "Bước một. Vào xKiro, cổng nhập môn bần đạo để ở comment.",
+       "kind": "narr",
+       "start": 12.516,
+       "end": 15.72
+      },
+      {
+       "t": "Đăng ký một tài khoản, đăng danh vào đạo môn.",
+       "kind": "narr",
+       "start": 16.06,
+       "end": 18.37
+      }
+     ]
+    }
+   ],
+   "start": 12.476,
+   "end": 19.0
+  },
+  {
+   "name": "B2",
+   "header": "Luyện lệnh bài",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 19.04,
+     "lines": [
+      {
+       "t": "Bước hai. Vào mục API Keys, luyện một lệnh bài mới.",
+       "kind": "narr",
+       "start": 19.04,
+       "end": 21.876
+      },
+      {
+       "t": "Lệnh bài chỉ hiện đúng một lần. Chép ngay, cất kỹ, đừng để người ngoài nhìn thấy.",
+       "kind": "red",
+       "start": 22.216,
+       "end": 26.353
+      }
+     ]
+    }
+   ],
+   "start": 19.0,
+   "end": 26.983
+  },
+  {
+   "name": "B3",
+   "header": "Khắc trận pháp",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 27.023,
+     "lines": [
+      {
+       "t": "Bước ba. Mở file settings.json trong thư mục .claude.",
+       "kind": "narr",
+       "start": 27.023,
+       "end": 30.161
+      },
+      {
+       "t": "Khắc thêm một khối env, gồm ba dòng.",
+       "kind": "narr",
+       "start": 30.501,
+       "end": 32.552
+      },
+      {
+       "t": "Dòng đầu là base URL của xKiro, bần đạo để ngay trên màn hình.",
+       "kind": "narr",
+       "start": 32.892,
+       "end": 36.538
+      },
+      {
+       "t": "Đừng thêm gạch v1 phía sau. Nhiều đạo hữu tẩu hoả nhập ma ở đúng chỗ này.",
+       "kind": "red",
+       "start": 36.878,
+       "end": 40.865
+      },
+      {
+       "t": "Dòng hai là auth token, dán lệnh bài vừa luyện vào.",
+       "kind": "narr",
+       "start": 41.205,
+       "end": 44.055
+      },
+      {
+       "t": "Dòng ba là model, tên vị đại năng đạo hữu muốn triệu hồi.",
+       "kind": "narr",
+       "start": 44.395,
+       "end": 47.392
+      }
+     ]
+    }
+   ],
+   "start": 26.983,
+   "end": 48.022
+  },
+  {
+   "name": "B4",
+   "header": "Thử trận",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 48.062,
+     "lines": [
+      {
+       "t": "Lưu file, mở lại Claude Code, gõ status.",
+       "kind": "narr",
+       "start": 48.062,
+       "end": 50.565
+      },
+      {
+       "t": "Thấy base URL là xKiro, trận pháp đã thông.",
+       "kind": "jade",
+       "start": 50.905,
+       "end": 53.609
+      },
+      {
+       "t": "Muốn đổi đại năng, chỉ cần sửa dòng model rồi mở lại.",
+       "kind": "narr",
+       "start": 53.949,
+       "end": 56.741
+      }
+     ]
+    }
+   ],
+   "start": 48.022,
+   "end": 57.371
+  },
+  {
+   "name": "TRAI_NGHIEM",
+   "header": "Bần đạo thử luyện",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 57.411,
+     "lines": [
+      {
+       "t": "Giờ bần đạo thử thật. Mở một project cũ, nhờ đại năng thêm nút chuyển chế độ tối cho trang web.",
+       "kind": "narr",
+       "start": 57.411,
+       "end": 62.475
+      },
+      {
+       "t": "Nó đọc file, sửa code, tự chạy test, y như Claude Code thường ngày.",
+       "kind": "narr",
+       "start": 62.815,
+       "end": 66.368
+      },
+      {
+       "t": "Bần đạo chỉ việc đọc lại thay đổi, gật đầu là xong.",
+       "kind": "jade",
+       "start": 66.708,
+       "end": 69.271
+      },
+      {
+       "t": "Mở dashboard xKiro, từng lượt gọi đều ghi rõ ràng.",
+       "kind": "narr",
+       "start": 69.611,
+       "end": 72.393
+      },
+      {
+       "t": "Chỉ có điều, mỗi lần đổi đại năng là phải mở lại Claude Code.",
+       "kind": "gold",
+       "start": 72.733,
+       "end": 75.776
+      }
+     ]
+    }
+   ],
+   "start": 57.371,
+   "end": 76.406
+  },
+  {
+   "name": "LUU_Y",
+   "header": "Lời dặn",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 76.446,
+     "lines": [
+      {
+       "t": "Bần đạo dặn một điều.",
+       "kind": "narr",
+       "start": 76.446,
+       "end": 77.546
+      },
+      {
+       "t": "xKiro là đạo môn bên ngoài, không phải Anthropic. Có trục trặc thì hỏi đội xKiro.",
+       "kind": "narr",
+       "start": 77.886,
+       "end": 82.627
+      }
+     ]
+    }
+   ],
+   "start": 76.406,
+   "end": 83.257
+  },
+  {
+   "name": "CTA",
+   "header": "Độ kiếp cùng giới IT",
+   "speed": 1.0,
+   "pages": [
+    {
+     "start": 83.297,
+     "lines": [
+      {
+       "t": "Cổng nhập môn, bần đạo để ở comment ghim.",
+       "kind": "cta",
+       "start": 83.297,
+       "end": 85.402
+      },
+      {
+       "t": "Follow bần đạo, để độ kiếp cùng giới IT.",
+       "kind": "cta",
+       "start": 85.742,
+       "end": 88.091
+      }
+     ]
+    }
+   ],
+   "start": 83.257,
+   "end": 88.721
+  }
+ ]
+}

@@ -22,7 +22,12 @@ pipeline/
 tests/qa/output/
 
 # Project workspaces (generated assets, renders — all regenerable)
-projects/
+projects/*
+!projects/_shared/
+projects/_shared/voice_refs/_cache/
+projects/_shared/doodle_assets/
+projects/_shared/tools/
+projects/_shared/docker/test_out/
 
 # User music library (personal royalty-free tracks — not part of repo)
 music_library/
@@ -61,6 +66,7 @@ remotion-composer/out/
 remotion-composer/public/*
 # But keep demo props (shipped with the project for zero-key demos)
 !remotion-composer/public/demo-props/
+!remotion-composer/public/sfx/
 # AgiConspiracy word timings are a static import in src/ - the bundle
 # fails without them, so this one file must ship
 !remotion-composer/public/agi-conspiracy/
